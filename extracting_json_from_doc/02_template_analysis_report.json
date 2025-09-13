@@ -1,0 +1,16 @@
+{
+  "file": "reference_template.docx",
+  "parts_scanned": [
+    "word/footer3.xml",
+    "word/footnotes.xml",
+    "word/header1.xml",
+    "word/header2.xml",
+    "word/endnotes.xml",
+    "word/footer1.xml",
+    "word/header3.xml",
+    "word/footer2.xml"
+  ],
+  "content_controls": [],
+  "tables": [],
+  "glyph_cells": []
+}

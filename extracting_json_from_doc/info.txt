@@ -1,0 +1,45 @@
+EPD = Yes
+ECR = No
+GEPC = No
+
+
+Manufacturing Site:
+AVL = Yes
+MAR = No
+LSB = No
+OHA = No
+SNG = Yes
+Other = Yes
+OEM = No
+CM = Yes
+
+
+General Purpose (GP)
+N America = Yes
+EMEA = Yes
+LATAM = No
+APAC = No
+
+Medical (MD)
+N America = Yes
+EMEA = Yes
+LATAM = No
+APAC = No
+
+In Vitro Diagnostics (IVD)
+N America = Yes
+EMEA = Yes
+LATAM = No
+APAC = No
+
+Gen Purpose + Cell Gene Therapy (GP + CGT)
+N America = Yes
+EMEA = Yes
+LATAM = No
+APAC = No
+
+Accessories in Scope
+N America = Yes
+EMEA = Yes
+LATAM = No
+APAC = No

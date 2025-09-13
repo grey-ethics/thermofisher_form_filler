@@ -1,0 +1,124 @@
+<!--
+templates/index.html
+-------------------------------------------------
+Main UI with two stacked blades:
+
+Blade 1: Interactive fill
+- Left: form controls (Project Level dropdown, device grid, Download buttons)
+- Right: PDF.js viewer with SVG overlay
+
+Blade 2: Batch processing
+- Upload CSV -> server fills per row -> render result cards with download links
+
+Structure emphasizes accessibility, clean semantics, and progressive enhancement.
+-->
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <title>ThermoFisher Form Filler</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <link rel="stylesheet" href="/static/css/app.css" />
+  <!-- PDF.js (CDN) -->
+  <script src="https://cdn.jsdelivr.net/npm/pdfjs-dist@3.11.174/build/pdf.min.js"></script>
+  <script>
+    // Wire worker (must be same version as above)
+    pdfjsLib.GlobalWorkerOptions.workerSrc = "https://cdn.jsdelivr.net/npm/pdfjs-dist@3.11.174/build/pdf.worker.min.js";
+  </script>
+</head>
+<body>
+  <header class="app-header">
+    <div class="container header-inner">
+      <h1>ThermoFisher Form Filler</h1>
+      <nav class="nav">
+        <a href="#" id="helpLink" aria-label="Help & Instructions">Help</a>
+      </nav>
+    </div>
+  </header>
+
+  <main class="container app-main">
+    <!-- Blade 1: Interactive Preview -->
+    <section class="card blade">
+      <header class="blade-header">
+        <h2>Interactive Preview</h2>
+        <p>Set the Project Level and Device grid, then download the filled PDF/DOCX.</p>
+      </header>
+
+      <div class="blade-body grid-2">
+        <!-- Left controls -->
+        <div class="left-pane">
+          <div class="form-group">
+            <label for="projectLevel">Project Level</label>
+            <select id="projectLevel" class="select">
+              <option value=""> &lt;Choose a Project Level.&gt; </option>
+              <option value="L1">L1</option>
+              <option value="L2L">L2L</option>
+              <option value="L2">L2</option>
+              <option value="L3L">L3L</option>
+            </select>
+          </div>
+
+          <div class="form-group">
+            <label>Device Type × Region</label>
+            <div id="deviceGrid" class="grid-table" role="grid" aria-label="Device Type by Region"></div>
+          </div>
+
+          <div class="actions">
+            <button id="btnDownloadPdf" class="btn btn-primary">Download PDF</button>
+            <button id="btnDownloadDocx" class="btn">Download DOCX</button>
+          </div>
+        </div>
+
+        <!-- Right viewer -->
+        <div class="right-pane">
+          <div id="pdfContainer" class="pdf-container">
+            <!-- PDF.js injects canvas here; we add an SVG overlay on top -->
+            <div class="pdf-page" id="pdfPage">
+              <canvas id="pdfCanvas" aria-label="PDF page"></canvas>
+              <svg id="overlaySvg" class="overlay" aria-hidden="true"></svg>
+            </div>
+          </div>
+          <div class="viewer-controls">
+            <button id="zoomOut" class="btn small">-</button>
+            <span id="zoomLabel">100%</span>
+            <button id="zoomIn" class="btn small">+</button>
+            <button id="fitWidth" class="btn small">Fit width</button>
+            <button id="fitPage" class="btn small">Fit page</button>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <!-- Blade 2: Batch CSV -->
+    <section class="card blade">
+      <header class="blade-header">
+        <h2>Batch Processing</h2>
+        <p>Upload a CSV to generate multiple filled documents. Required headers: <code>company_id,project_level_dropdown,device_r16_c2..device_r20_c5</code></p>
+      </header>
+
+      <div id="batchInitial" class="blade-body">
+        <form id="csvForm" class="upload-form">
+          <input type="file" id="csvFile" accept=".csv" />
+          <button id="btnProcessCsv" class="btn btn-primary" type="submit">Process CSV</button>
+        </form>
+      </div>
+
+      <div id="batchResults" class="blade-body hidden">
+        <div class="batch-summary">
+          <strong id="processedCount">Processed: 0</strong>
+          <a id="downloadAllZip" class="btn">Download All (ZIP)</a>
+        </div>
+        <div id="resultsList" class="results-list"></div>
+      </div>
+    </section>
+  </main>
+
+  <footer class="app-footer">
+    <div class="container">
+      <small>© 2025 ThermoFisher Automation Helper — built with Flask + PDF.js</small>
+    </div>
+  </footer>
+
+  <script type="module" src="/static/js/main.js"></script>
+</body>
+</html>

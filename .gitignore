@@ -1,0 +1,13 @@
+@"
+# Python / Flask
+__pycache__/
+.qodo/
+venv/
+*.py[cod]
+*.pyo
+*.pyd
+*.egg-info/
+*.log
+
+git config user.name "grey-ethics"
+git config user.email "grey_ethics@gmail.com"

@@ -1,0 +1,124 @@
+/* 
+static/css/app.css
+-----------------------------------------
+Global styles, layout, and components.
+
+Sections:
+- CSS variables
+- Base reset & typography
+- Layout: container, cards, grid
+- Form elements & buttons
+- PDF viewer & overlay
+- Batch results
+*/
+
+/* Variables */
+:root {
+  --bg: #0f1115;
+  --card: #171a21;
+  --text: #e6e8ee;
+  --muted: #aeb4c0;
+  --accent: #4f8cff;
+  --accent-2: #3b7bff;
+  --border: #242938;
+  --ok: #28a745;
+  --danger: #ef4444;
+  --shadow: rgba(0,0,0,0.35);
+}
+
+/* Base */
+* { box-sizing: border-box; }
+html, body { height: 100%; }
+body {
+  margin: 0;
+  font-family: Inter, system-ui, -apple-system, Segoe UI, Roboto, Helvetica, Arial, "Apple Color Emoji", "Segoe UI Emoji";
+  background: var(--bg);
+  color: var(--text);
+  line-height: 1.45;
+}
+
+h1, h2, h3 { margin: 0.2rem 0 0.6rem; font-weight: 650; }
+p { color: var(--muted); margin: 0.25rem 0 1rem; }
+
+.container { width: min(1180px, 95%); margin: 0 auto; }
+
+.app-header { border-bottom: 1px solid var(--border); }
+.header-inner { display: flex; align-items: center; justify-content: space-between; padding: 1rem 0; }
+.nav a { color: var(--muted); text-decoration: none; }
+.nav a:hover { color: var(--text); }
+
+.app-main { padding: 1.25rem 0 2.5rem; }
+
+.card {
+  background: var(--card);
+  border: 1px solid var(--border);
+  border-radius: 14px;
+  box-shadow: 0 8px 24px var(--shadow);
+  padding: 1rem 1.25rem;
+  margin-bottom: 1.25rem;
+}
+
+.blade-header { margin-bottom: 0.75rem; }
+.grid-2 { display: grid; grid-template-columns: 380px 1fr; gap: 1rem; }
+.left-pane { padding-right: 0.5rem; border-right: 1px dashed var(--border); }
+.right-pane { padding-left: 0.5rem; }
+
+.form-group { margin-bottom: 1rem; }
+label { display: block; font-size: 0.93rem; margin-bottom: 0.35rem; }
+
+.select, input[type="file"] {
+  width: 100%;
+  padding: 0.55rem 0.6rem;
+  background: #0d0f14;
+  color: var(--text);
+  border: 1px solid var(--border);
+  border-radius: 10px;
+  outline: none;
+}
+.select:focus { border-color: var(--accent); box-shadow: 0 0 0 3px rgba(79,140,255,0.15); }
+
+.grid-table {
+  display: grid;
+  grid-template-columns: repeat(5, minmax(0,1fr));
+  gap: 0.35rem 0.5rem;
+}
+.grid-table .cell {
+  display: flex; align-items: center; gap: 0.4rem;
+  padding: 0.35rem 0.45rem;
+  background: #0d0f14;
+  border: 1px solid var(--border);
+  border-radius: 10px;
+}
+.grid-table .cell label { color: var(--muted); font-size: 0.9rem; }
+.grid-table .head { font-weight: 600; background: #0f1218; }
+
+.actions { display: flex; gap: 0.6rem; margin-top: 0.75rem; }
+.btn {
+  display: inline-flex; align-items: center; justify-content: center;
+  padding: 0.55rem 0.9rem;
+  background: #0d0f14; color: var(--text);
+  border: 1px solid var(--border);
+  border-radius: 10px; cursor: pointer; text-decoration: none;
+}
+.btn:hover { border-color: var(--accent); color: white; }
+.btn:active { transform: translateY(1px); }
+.btn.small { padding: 0.35rem 0.6rem; font-size: 0.9rem; }
+.btn-primary { background: var(--accent); border-color: var(--accent-2); color: white; }
+.btn-primary:hover { background: var(--accent-2); }
+
+.pdf-container { position: relative; width: 100%; height: 72vh; overflow: auto; border: 1px solid var(--border); border-radius: 12px; background: #0b0d12; }
+.pdf-page { position: relative; margin: 0 auto; }
+#pdfCanvas { display: block; max-width: 100%; }
+.overlay { position: absolute; top: 0; left: 0; width: 100%; height: 100%; pointer-events: none; }
+.viewer-controls { display: flex; gap: 0.5rem; margin-top: 0.5rem; align-items: center; }
+
+.upload-form { display: flex; gap: 0.6rem; align-items: center; }
+.hidden { display: none; }
+
+.batch-summary { display: flex; align-items: center; gap: 1rem; margin-bottom: 0.6rem; }
+.results-list { display: grid; gap: 0.6rem; }
+.result-card { border-top: 1px dashed var(--border); padding-top: 0.6rem; display: grid; grid-template-columns: 80px 1fr auto; align-items: center; gap: 0.6rem; }
+.result-card .serial { color: var(--muted); font-variant-numeric: tabular-nums; }
+.result-card .actions { justify-content: flex-end; }
+
+.app-footer { border-top: 1px solid var(--border); padding: 0.9rem 0; color: var(--muted); }

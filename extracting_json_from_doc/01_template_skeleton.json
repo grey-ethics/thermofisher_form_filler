@@ -1,0 +1,40 @@
+{
+  "template": "refernce_template.docx",
+  "controls": [
+    {
+      "index": 1,
+      "tag": "",
+      "title": "",
+      "type": "unknown",
+      "placeholder_text": "☐"
+    },
+    {
+      "index": 2,
+      "tag": "",
+      "title": "",
+      "type": "unknown",
+      "placeholder_text": "<Choose a Project Level.>"
+    },
+    {
+      "index": 3,
+      "tag": "",
+      "title": "",
+      "type": "unknown",
+      "placeholder_text": "<Select one.>"
+    },
+    {
+      "index": 4,
+      "tag": "",
+      "title": "",
+      "type": "unknown",
+      "placeholder_text": "<Choose an item.>"
+    },
+    {
+      "index": 5,
+      "tag": "",
+      "title": "",
+      "type": "unknown",
+      "placeholder_text": "<Choose an item.>"
+    }
+  ]
+}
