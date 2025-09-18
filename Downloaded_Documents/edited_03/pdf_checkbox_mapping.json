@@ -1,0 +1,752 @@
+[
+  {
+    "index": 1,
+    "tag": "epd_ecr_gepc_chk",
+    "title": "chk",
+    "anchor": "EPD ECR GEPC",
+    "page": 3,
+    "text_rect": [
+      90.74000549316406,
+      129.43399047851562,
+      106.54000091552734,
+      141.6439971923828
+    ],
+    "box_rect": [
+      80.69,
+      130.37,
+      90.77,
+      140.45
+    ],
+    "box_center": [
+      85.73,
+      135.41
+    ],
+    "box_source": "text:search_for",
+    "distance": 12.910647626893088
+  },
+  {
+    "index": 2,
+    "tag": "epd_ecr_gepc_chk_2",
+    "title": "chk",
+    "anchor": "EPD ECR GEPC",
+    "page": 3,
+    "text_rect": [
+      90.74000549316406,
+      129.43399047851562,
+      106.54000091552734,
+      141.6439971923828
+    ],
+    "box_rect": [
+      80.69,
+      130.37,
+      90.77,
+      140.45
+    ],
+    "box_center": [
+      85.73,
+      135.41
+    ],
+    "box_source": "text:search_for",
+    "distance": 12.910647626893088
+  },
+  {
+    "index": 3,
+    "tag": "epd_ecr_gepc_chk_3",
+    "title": "chk",
+    "anchor": "EPD ECR GEPC",
+    "page": 3,
+    "text_rect": [
+      90.74000549316406,
+      129.43399047851562,
+      106.54000091552734,
+      141.6439971923828
+    ],
+    "box_rect": [
+      80.69,
+      130.37,
+      90.77,
+      140.45
+    ],
+    "box_center": [
+      85.73,
+      135.41
+    ],
+    "box_source": "text:search_for",
+    "distance": 12.910647626893088
+  },
+  {
+    "index": 37,
+    "tag": "risk_management_file_the_change_does_not_impact_the_chk",
+    "title": "chk",
+    "anchor": "The change does not impact the Risk",
+    "page": 4,
+    "text_rect": [
+      52.7660026550293,
+      133.9720001220703,
+      171.8380126953125,
+      143.739990234375
+    ],
+    "box_rect": [
+      59.45,
+      165.35,
+      67.37,
+      173.27
+    ],
+    "box_center": [
+      63.41,
+      169.31
+    ],
+    "box_source": "text:search_for",
+    "distance": 57.60099672916961
+  },
+  {
+    "index": 38,
+    "tag": "risk_management_file_the_product_family_does_not_have_chk",
+    "title": "chk",
+    "anchor": "The product family does not have a",
+    "page": 4,
+    "text_rect": [
+      69.59200286865234,
+      164.37901306152344,
+      184.25599670410156,
+      174.14700317382812
+    ],
+    "box_rect": [
+      59.45,
+      165.35,
+      67.37,
+      173.27
+    ],
+    "box_center": [
+      63.41,
+      169.31
+    ],
+    "box_source": "text:search_for",
+    "distance": 63.51401717023492
+  },
+  {
+    "index": 40,
+    "tag": "risk_management_file_the_change_affects_the_current_risk_chk",
+    "title": "chk",
+    "anchor": "The change affects the current risk probability",
+    "page": 4,
+    "text_rect": [
+      71.01600646972656,
+      194.89500427246094,
+      220.75198364257812,
+      204.66299438476562
+    ],
+    "box_rect": [
+      59.45,
+      195.98,
+      67.37,
+      203.9
+    ],
+    "box_center": [
+      63.41,
+      199.94
+    ],
+    "box_source": "text:search_for",
+    "distance": 82.47415220381734
+  },
+  {
+    "index": 41,
+    "tag": "risk_management_file_the_change_will_mean_that_the_chk",
+    "title": "chk",
+    "anchor": "The change will mean that the device",
+    "page": 4,
+    "text_rect": [
+      71.01600646972656,
+      205.27000427246094,
+      192.20799255371094,
+      215.03799438476562
+    ],
+    "box_rect": [
+      59.45,
+      206.42,
+      67.37,
+      214.34
+    ],
+    "box_center": [
+      63.41,
+      210.38
+    ],
+    "box_source": "text:search_for",
+    "distance": 68.20237395941547
+  },
+  {
+    "index": 42,
+    "tag": "risk_management_file_the_performance_evaluation_data_for_the_ch",
+    "title": "chk",
+    "anchor": "The performance evaluation data for the original",
+    "page": 4,
+    "text_rect": [
+      71.01600646972656,
+      215.64500427246094,
+      229.5679931640625,
+      225.41299438476562
+    ],
+    "box_rect": [
+      59.45,
+      216.5,
+      67.37,
+      224.42
+    ],
+    "box_center": [
+      63.41,
+      220.46
+    ],
+    "box_source": "text:search_for",
+    "distance": 86.88202721558821
+  },
+  {
+    "index": 45,
+    "tag": "risk_management_file_the_change_requires_a_process_validation_c",
+    "title": "chk",
+    "anchor": "The change requires a process validation",
+    "page": 4,
+    "text_rect": [
+      71.01600646972656,
+      256.5360107421875,
+      203.1680145263672,
+      266.30401611328125
+    ],
+    "box_rect": [
+      59.45,
+      257.56,
+      67.37,
+      265.48
+    ],
+    "box_center": [
+      63.41,
+      261.52
+    ],
+    "box_source": "text:search_for",
+    "distance": 73.68207833896193
+  },
+  {
+    "index": 47,
+    "tag": "risk_management_file_the_change_results_from_actions_taken_chk",
+    "title": "chk",
+    "anchor": "The change results from actions taken related",
+    "page": 4,
+    "text_rect": [
+      71.01600646972656,
+      287.052001953125,
+      219.8159942626953,
+      296.82000732421875
+    ],
+    "box_rect": [
+      59.45,
+      288.18,
+      67.37,
+      296.1
+    ],
+    "box_center": [
+      63.41,
+      292.14
+    ],
+    "box_source": "text:search_for",
+    "distance": 82.00625409180957
+  },
+  {
+    "index": 53,
+    "tag": "risk_management_file_capa_owner_notified_chk",
+    "title": "chk",
+    "anchor": "CAPA owner notified",
+    "page": 4,
+    "text_rect": [
+      67.4000015258789,
+      380.21099853515625,
+      134.9759979248047,
+      389.97900390625
+    ],
+    "box_rect": [
+      59.45,
+      381.47,
+      67.37,
+      389.39
+    ],
+    "box_center": [
+      63.41,
+      385.43
+    ],
+    "box_source": "text:search_for",
+    "distance": 37.77948500747536
+  },
+  {
+    "index": 54,
+    "tag": "performance_compliance_assessment_the_change_does_not_impact_th",
+    "title": "chk",
+    "anchor": "The change does not impact the performance",
+    "page": 4,
+    "text_rect": [
+      52.7660026550293,
+      417.2909851074219,
+      201.1020050048828,
+      427.0589904785156
+    ],
+    "box_rect": [
+      72.05,
+      458.54,
+      79.97,
+      466.46
+    ],
+    "box_center": [
+      76.01,
+      462.5
+    ],
+    "box_source": "text:search_for",
+    "distance": 64.95660686620414
+  },
+  {
+    "index": 57,
+    "tag": "performance_compliance_assessment_product_currently_has_outdate",
+    "title": "chk",
+    "anchor": "Product currently has outdated testing or missing",
+    "page": 5,
+    "text_rect": [
+      80.19999694824219,
+      210.50100708007812,
+      240.88002014160156,
+      220.2689971923828
+    ],
+    "box_rect": [
+      131.47,
+      238.84,
+      139.39,
+      246.76
+    ],
+    "box_center": [
+      135.43,
+      242.8
+    ],
+    "box_source": "text:search_for",
+    "distance": 37.176533418226846
+  },
+  {
+    "index": 58,
+    "tag": "performance_compliance_assessment_changes_affect_critical_compo",
+    "title": "chk",
+    "anchor": "Changes affect critical components in compliance files",
+    "page": 5,
+    "text_rect": [
+      80.0,
+      127.50100708007812,
+      255.70399475097656,
+      137.2689971923828
+    ],
+    "box_rect": [
+      72.05,
+      128.63,
+      79.97,
+      136.55
+    ],
+    "box_center": [
+      76.01,
+      132.59
+    ],
+    "box_source": "text:search_for",
+    "distance": 91.84222616010211
+  },
+  {
+    "index": 60,
+    "tag": "performance_compliance_assessment_changes_will_be_made_to_the_c",
+    "title": "chk",
+    "anchor": "Changes will be made to the product",
+    "page": 4,
+    "text_rect": [
+      80.0,
+      519.10498046875,
+      199.4879913330078,
+      528.8729858398438
+    ],
+    "box_rect": [
+      72.05,
+      520.12,
+      79.97,
+      528.04
+    ],
+    "box_center": [
+      76.01,
+      524.08
+    ],
+    "box_source": "text:search_for",
+    "distance": 63.73406065585449
+  },
+  {
+    "index": 63,
+    "tag": "performance_compliance_assessment_changes_to_the_software_affec",
+    "title": "chk",
+    "anchor": "Changes to the software affecting behavior or",
+    "page": 4,
+    "text_rect": [
+      80.0,
+      550.22998046875,
+      229.0320281982422,
+      559.9979858398438
+    ],
+    "box_rect": [
+      72.05,
+      551.46,
+      79.97,
+      559.38
+    ],
+    "box_center": [
+      76.01,
+      555.42
+    ],
+    "box_source": "text:search_for",
+    "distance": 78.50661052447273
+  },
+  {
+    "index": 64,
+    "tag": "performance_compliance_assessment_product_currently_has_outd_2",
+    "title": "chk",
+    "anchor": "Product currently has outdated testing or missing",
+    "page": 5,
+    "text_rect": [
+      80.19999694824219,
+      210.50100708007812,
+      240.88002014160156,
+      220.2689971923828
+    ],
+    "box_rect": [
+      131.47,
+      238.84,
+      139.39,
+      246.76
+    ],
+    "box_center": [
+      135.43,
+      242.8
+    ],
+    "box_source": "text:search_for",
+    "distance": 37.176533418226846
+  },
+  {
+    "index": 65,
+    "tag": "performance_compliance_assessment_changes_affect_the_cooling_ca",
+    "title": "chk",
+    "anchor": "Changes affect the cooling capacity to cool",
+    "page": 4,
+    "text_rect": [
+      82.19200134277344,
+      580.7459716796875,
+      220.8240203857422,
+      590.5139770507812
+    ],
+    "box_rect": [
+      72.05,
+      582.06,
+      79.97,
+      589.98
+    ],
+    "box_center": [
+      76.01,
+      586.02
+    ],
+    "box_source": "text:search_for",
+    "distance": 75.49901830126909
+  },
+  {
+    "index": 66,
+    "tag": "performance_compliance_assessment_changes_affect_the_functional",
+    "title": "chk",
+    "anchor": "Changes affect the functionality of the medium",
+    "page": 4,
+    "text_rect": [
+      81.80799865722656,
+      591.1209716796875,
+      235.16799926757812,
+      600.8889770507812
+    ],
+    "box_rect": [
+      72.05,
+      592.17,
+      79.97,
+      600.09
+    ],
+    "box_center": [
+      76.01,
+      596.13
+    ],
+    "box_source": "text:search_for",
+    "distance": 82.47809372343295
+  },
+  {
+    "index": 67,
+    "tag": "performance_compliance_assessment_changes_may_affect_the_power_",
+    "title": "chk",
+    "anchor": "Changes may affect the power input specifications",
+    "page": 4,
+    "text_rect": [
+      81.80799865722656,
+      601.4959716796875,
+      245.6320037841797,
+      611.2639770507812
+    ],
+    "box_rect": [
+      72.05,
+      602.61,
+      79.97,
+      610.53
+    ],
+    "box_center": [
+      76.01,
+      606.57
+    ],
+    "box_source": "text:search_for",
+    "distance": 87.71020706780718
+  },
+  {
+    "index": 68,
+    "tag": "performance_compliance_assessment_product_currently_has_outd_3",
+    "title": "chk",
+    "anchor": "Product currently has outdated testing or missing",
+    "page": 5,
+    "text_rect": [
+      80.19999694824219,
+      210.50100708007812,
+      240.88002014160156,
+      220.2689971923828
+    ],
+    "box_rect": [
+      131.47,
+      238.84,
+      139.39,
+      246.76
+    ],
+    "box_center": [
+      135.43,
+      242.8
+    ],
+    "box_source": "text:search_for",
+    "distance": 37.176533418226846
+  },
+  {
+    "index": 69,
+    "tag": "performance_compliance_assessment_changes_affect_critical_co_2",
+    "title": "chk",
+    "anchor": "Changes affect critical components in compliance files",
+    "page": 5,
+    "text_rect": [
+      80.0,
+      127.50100708007812,
+      255.70399475097656,
+      137.2689971923828
+    ],
+    "box_rect": [
+      72.05,
+      128.63,
+      79.97,
+      136.55
+    ],
+    "box_center": [
+      76.01,
+      132.59
+    ],
+    "box_source": "text:search_for",
+    "distance": 91.84222616010211
+  },
+  {
+    "index": 70,
+    "tag": "performance_compliance_assessment_product_currently_has_outd_4",
+    "title": "chk",
+    "anchor": "Product currently has outdated testing or missing",
+    "page": 5,
+    "text_rect": [
+      80.19999694824219,
+      210.50100708007812,
+      240.88002014160156,
+      220.2689971923828
+    ],
+    "box_rect": [
+      131.47,
+      238.84,
+      139.39,
+      246.76
+    ],
+    "box_center": [
+      135.43,
+      242.8
+    ],
+    "box_source": "text:search_for",
+    "distance": 37.176533418226846
+  },
+  {
+    "index": 71,
+    "tag": "performance_compliance_assessment_changes_affect_critical_co_3",
+    "title": "chk",
+    "anchor": "Changes affect critical components in compliance files",
+    "page": 5,
+    "text_rect": [
+      80.0,
+      127.50100708007812,
+      255.70399475097656,
+      137.2689971923828
+    ],
+    "box_rect": [
+      72.05,
+      128.63,
+      79.97,
+      136.55
+    ],
+    "box_center": [
+      76.01,
+      132.59
+    ],
+    "box_source": "text:search_for",
+    "distance": 91.84222616010211
+  },
+  {
+    "index": 72,
+    "tag": "performance_compliance_assessment_changes_to_the_materials_of_c",
+    "title": "chk",
+    "anchor": "Changes to the materials of construction or",
+    "page": 5,
+    "text_rect": [
+      81.80799865722656,
+      137.87600708007812,
+      222.70401000976562,
+      147.6439971923828
+    ],
+    "box_rect": [
+      72.05,
+      138.71,
+      79.97,
+      146.63
+    ],
+    "box_center": [
+      76.01,
+      142.67
+    ],
+    "box_source": "text:search_for",
+    "distance": 76.24605745353678
+  },
+  {
+    "index": 74,
+    "tag": "performance_compliance_assessment_changes_to_the_software_chk",
+    "title": "chk",
+    "anchor": "Changes to the software",
+    "page": 4,
+    "text_rect": [
+      80.0,
+      550.22998046875,
+      159.36000061035156,
+      559.9979858398438
+    ],
+    "box_rect": [
+      72.05,
+      551.46,
+      79.97,
+      559.38
+    ],
+    "box_center": [
+      76.01,
+      555.42
+    ],
+    "box_source": "text:search_for",
+    "distance": 43.67107249614905
+  },
+  {
+    "index": 77,
+    "tag": "performance_compliance_assessment_changes_impact_the_cabinet_pr",
+    "title": "chk",
+    "anchor": "Changes impact the cabinet pressure decay test",
+    "page": 5,
+    "text_rect": [
+      80.0,
+      189.75100708007812,
+      235.23196411132812,
+      199.5189971923828
+    ],
+    "box_rect": [
+      131.47,
+      238.84,
+      139.39,
+      246.76
+    ],
+    "box_center": [
+      135.43,
+      242.8
+    ],
+    "box_source": "text:search_for",
+    "distance": 53.02909408043072
+  },
+  {
+    "index": 79,
+    "tag": "performance_compliance_assessment_product_currently_has_outd_5",
+    "title": "chk",
+    "anchor": "Product currently has outdated testing or missing",
+    "page": 5,
+    "text_rect": [
+      80.19999694824219,
+      210.50100708007812,
+      240.88002014160156,
+      220.2689971923828
+    ],
+    "box_rect": [
+      131.47,
+      238.84,
+      139.39,
+      246.76
+    ],
+    "box_center": [
+      135.43,
+      242.8
+    ],
+    "box_source": "text:search_for",
+    "distance": 37.176533418226846
+  },
+  {
+    "index": 87,
+    "tag": "performance_compliance_assessment_south_korean_act_on_environme",
+    "title": "chk",
+    "anchor": "South Korean Act on Environmental testing and",
+    "page": 5,
+    "text_rect": [
+      441.8999938964844,
+      257.9150085449219,
+      478.2200012207031,
+      267.6830139160156
+    ],
+    "box_rect": [
+      441.98,
+      248.92,
+      449.9,
+      256.84
+    ],
+    "box_center": [
+      445.94,
+      252.88
+    ],
+    "box_source": "text:search_for",
+    "distance": 17.255755991693288
+  },
+  {
+    "index": 118,
+    "tag": "design_safety_emc_wireless_compliance_assessment_product_curren",
+    "title": "chk",
+    "anchor": "Product currently has outdated testing or missing",
+    "page": 5,
+    "text_rect": [
+      80.19999694824219,
+      210.50100708007812,
+      240.88002014160156,
+      220.2689971923828
+    ],
+    "box_rect": [
+      131.47,
+      238.84,
+      139.39,
+      246.76
+    ],
+    "box_center": [
+      135.43,
+      242.8
+    ],
+    "box_source": "text:search_for",
+    "distance": 37.176533418226846
+  }
+]

@@ -1,0 +1,3230 @@
+[
+  {
+    "index": 1,
+    "tag": "epd_ecr_gepc_chk",
+    "proposed_tag": "epd_ecr_gepc_chk",
+    "proposed_title": "chk - 001",
+    "type": "checkbox",
+    "heading_path": []
+  },
+  {
+    "index": 2,
+    "tag": "epd_ecr_gepc_chk_2",
+    "proposed_tag": "epd_ecr_gepc_chk_2",
+    "proposed_title": "chk - 002",
+    "type": "checkbox",
+    "heading_path": []
+  },
+  {
+    "index": 3,
+    "tag": "epd_ecr_gepc_chk_3",
+    "proposed_tag": "epd_ecr_gepc_chk_3",
+    "proposed_title": "chk - 003",
+    "type": "checkbox",
+    "heading_path": []
+  },
+  {
+    "index": 4,
+    "tag": "insert_other_chk",
+    "proposed_tag": "insert_other_chk",
+    "proposed_title": "chk - 004",
+    "type": "checkbox",
+    "heading_path": []
+  },
+  {
+    "index": 5,
+    "tag": "level_choose_a_project_level_dd",
+    "proposed_tag": "level_choose_a_project_level_dd",
+    "proposed_title": "dropdown - 001",
+    "type": "dropdown",
+    "heading_path": []
+  },
+  {
+    "index": 6,
+    "tag": "capa_associated_select_one_combo",
+    "proposed_tag": "capa_associated_select_one_combo",
+    "proposed_title": "combobox - 001",
+    "type": "combobox",
+    "heading_path": []
+  },
+  {
+    "index": 7,
+    "tag": "design_owner_choose_an_item_other_combo",
+    "proposed_tag": "design_owner_choose_an_item_other_combo",
+    "proposed_title": "combobox - 002",
+    "type": "combobox",
+    "heading_path": []
+  },
+  {
+    "index": 8,
+    "tag": "manufacturing_site_avl_mar_lsb_oha_chk",
+    "proposed_tag": "manufacturing_site_avl_mar_lsb_oha_chk",
+    "proposed_title": "chk - 005",
+    "type": "checkbox",
+    "heading_path": []
+  },
+  {
+    "index": 9,
+    "tag": "manufacturing_site_avl_mar_lsb_oha_chk_2",
+    "proposed_tag": "manufacturing_site_avl_mar_lsb_oha_chk_2",
+    "proposed_title": "chk - 006",
+    "type": "checkbox",
+    "heading_path": []
+  },
+  {
+    "index": 10,
+    "tag": "manufacturing_site_avl_mar_lsb_oha_chk_3",
+    "proposed_tag": "manufacturing_site_avl_mar_lsb_oha_chk_3",
+    "proposed_title": "chk - 007",
+    "type": "checkbox",
+    "heading_path": []
+  },
+  {
+    "index": 11,
+    "tag": "manufacturing_site_avl_mar_lsb_oha_chk_4",
+    "proposed_tag": "manufacturing_site_avl_mar_lsb_oha_chk_4",
+    "proposed_title": "chk - 008",
+    "type": "checkbox",
+    "heading_path": []
+  },
+  {
+    "index": 12,
+    "tag": "manufacturing_site_avl_mar_lsb_oha_chk_5",
+    "proposed_tag": "manufacturing_site_avl_mar_lsb_oha_chk_5",
+    "proposed_title": "chk - 009",
+    "type": "checkbox",
+    "heading_path": []
+  },
+  {
+    "index": 13,
+    "tag": "manufacturing_site_avl_mar_lsb_oha_chk_6",
+    "proposed_tag": "manufacturing_site_avl_mar_lsb_oha_chk_6",
+    "proposed_title": "chk - 010",
+    "type": "checkbox",
+    "heading_path": []
+  },
+  {
+    "index": 14,
+    "tag": "manufacturing_site_avl_mar_lsb_oha_chk_7",
+    "proposed_tag": "manufacturing_site_avl_mar_lsb_oha_chk_7",
+    "proposed_title": "chk - 011",
+    "type": "checkbox",
+    "heading_path": []
+  },
+  {
+    "index": 15,
+    "tag": "manufacturing_site_avl_mar_lsb_oha_chk_8",
+    "proposed_tag": "manufacturing_site_avl_mar_lsb_oha_chk_8",
+    "proposed_title": "chk - 012",
+    "type": "checkbox",
+    "heading_path": []
+  },
+  {
+    "index": 16,
+    "tag": "design_is_copy_exact_choose_an_combo",
+    "proposed_tag": "design_is_copy_exact_choose_an_combo",
+    "proposed_title": "combobox - 003",
+    "type": "combobox",
+    "heading_path": []
+  },
+  {
+    "index": 17,
+    "tag": "chk",
+    "proposed_tag": "chk",
+    "proposed_title": "chk - 013",
+    "type": "checkbox",
+    "heading_path": []
+  },
+  {
+    "index": 18,
+    "tag": "chk_2",
+    "proposed_tag": "chk_2",
+    "proposed_title": "chk - 014",
+    "type": "checkbox",
+    "heading_path": []
+  },
+  {
+    "index": 19,
+    "tag": "chk_3",
+    "proposed_tag": "chk_3",
+    "proposed_title": "chk - 015",
+    "type": "checkbox",
+    "heading_path": []
+  },
+  {
+    "index": 20,
+    "tag": "chk_4",
+    "proposed_tag": "chk_4",
+    "proposed_title": "chk - 016",
+    "type": "checkbox",
+    "heading_path": []
+  },
+  {
+    "index": 21,
+    "tag": "chk_5",
+    "proposed_tag": "chk_5",
+    "proposed_title": "chk - 017",
+    "type": "checkbox",
+    "heading_path": []
+  },
+  {
+    "index": 22,
+    "tag": "chk_6",
+    "proposed_tag": "chk_6",
+    "proposed_title": "chk - 018",
+    "type": "checkbox",
+    "heading_path": []
+  },
+  {
+    "index": 23,
+    "tag": "chk_7",
+    "proposed_tag": "chk_7",
+    "proposed_title": "chk - 019",
+    "type": "checkbox",
+    "heading_path": []
+  },
+  {
+    "index": 24,
+    "tag": "chk_8",
+    "proposed_tag": "chk_8",
+    "proposed_title": "chk - 020",
+    "type": "checkbox",
+    "heading_path": []
+  },
+  {
+    "index": 25,
+    "tag": "chk_9",
+    "proposed_tag": "chk_9",
+    "proposed_title": "chk - 021",
+    "type": "checkbox",
+    "heading_path": []
+  },
+  {
+    "index": 26,
+    "tag": "chk_10",
+    "proposed_tag": "chk_10",
+    "proposed_title": "chk - 022",
+    "type": "checkbox",
+    "heading_path": []
+  },
+  {
+    "index": 27,
+    "tag": "chk_11",
+    "proposed_tag": "chk_11",
+    "proposed_title": "chk - 023",
+    "type": "checkbox",
+    "heading_path": []
+  },
+  {
+    "index": 28,
+    "tag": "chk_12",
+    "proposed_tag": "chk_12",
+    "proposed_title": "chk - 024",
+    "type": "checkbox",
+    "heading_path": []
+  },
+  {
+    "index": 29,
+    "tag": "chk_13",
+    "proposed_tag": "chk_13",
+    "proposed_title": "chk - 025",
+    "type": "checkbox",
+    "heading_path": []
+  },
+  {
+    "index": 30,
+    "tag": "chk_14",
+    "proposed_tag": "chk_14",
+    "proposed_title": "chk - 026",
+    "type": "checkbox",
+    "heading_path": []
+  },
+  {
+    "index": 31,
+    "tag": "chk_15",
+    "proposed_tag": "chk_15",
+    "proposed_title": "chk - 027",
+    "type": "checkbox",
+    "heading_path": []
+  },
+  {
+    "index": 32,
+    "tag": "chk_16",
+    "proposed_tag": "chk_16",
+    "proposed_title": "chk - 028",
+    "type": "checkbox",
+    "heading_path": []
+  },
+  {
+    "index": 33,
+    "tag": "chk_17",
+    "proposed_tag": "chk_17",
+    "proposed_title": "chk - 029",
+    "type": "checkbox",
+    "heading_path": []
+  },
+  {
+    "index": 34,
+    "tag": "chk_18",
+    "proposed_tag": "chk_18",
+    "proposed_title": "chk - 030",
+    "type": "checkbox",
+    "heading_path": []
+  },
+  {
+    "index": 35,
+    "tag": "chk_19",
+    "proposed_tag": "chk_19",
+    "proposed_title": "chk - 031",
+    "type": "checkbox",
+    "heading_path": []
+  },
+  {
+    "index": 36,
+    "tag": "chk_20",
+    "proposed_tag": "chk_20",
+    "proposed_title": "chk - 032",
+    "type": "checkbox",
+    "heading_path": []
+  },
+  {
+    "index": 37,
+    "tag": "risk_management_file_the_change_does_not_impact_the_chk",
+    "proposed_tag": "risk_management_file_the_change_does_not_impact_the_chk",
+    "proposed_title": "chk - 033",
+    "type": "checkbox",
+    "heading_path": [
+      "RISK MANAGEMENT FILE"
+    ]
+  },
+  {
+    "index": 38,
+    "tag": "risk_management_file_the_product_family_does_not_have_chk",
+    "proposed_tag": "risk_management_file_the_product_family_does_not_have_chk",
+    "proposed_title": "chk - 034",
+    "type": "checkbox",
+    "heading_path": [
+      "RISK MANAGEMENT FILE"
+    ]
+  },
+  {
+    "index": 39,
+    "tag": "risk_management_file_the_change_introduces_new_usage_conditions",
+    "proposed_tag": "risk_management_file_the_change_introduces_new_usage_conditions",
+    "proposed_title": "chk - 035",
+    "type": "checkbox",
+    "heading_path": [
+      "RISK MANAGEMENT FILE"
+    ]
+  },
+  {
+    "index": 40,
+    "tag": "risk_management_file_the_change_affects_the_current_risk_chk",
+    "proposed_tag": "risk_management_file_the_change_affects_the_current_risk_chk",
+    "proposed_title": "chk - 036",
+    "type": "checkbox",
+    "heading_path": [
+      "RISK MANAGEMENT FILE"
+    ]
+  },
+  {
+    "index": 41,
+    "tag": "risk_management_file_the_change_will_mean_that_the_chk",
+    "proposed_tag": "risk_management_file_the_change_will_mean_that_the_chk",
+    "proposed_title": "chk - 037",
+    "type": "checkbox",
+    "heading_path": [
+      "RISK MANAGEMENT FILE"
+    ]
+  },
+  {
+    "index": 42,
+    "tag": "risk_management_file_the_performance_evaluation_data_for_the_ch",
+    "proposed_tag": "risk_management_file_the_performance_evaluation_data_for_the_ch",
+    "proposed_title": "chk - 038",
+    "type": "checkbox",
+    "heading_path": [
+      "RISK MANAGEMENT FILE"
+    ]
+  },
+  {
+    "index": 43,
+    "tag": "risk_management_file_the_change_involves_the_manufacturing_proc",
+    "proposed_tag": "risk_management_file_the_change_involves_the_manufacturing_proc",
+    "proposed_title": "chk - 039",
+    "type": "checkbox",
+    "heading_path": [
+      "RISK MANAGEMENT FILE"
+    ]
+  },
+  {
+    "index": 44,
+    "tag": "risk_management_file_the_change_impacts_end_of_line_chk",
+    "proposed_tag": "risk_management_file_the_change_impacts_end_of_line_chk",
+    "proposed_title": "chk - 040",
+    "type": "checkbox",
+    "heading_path": [
+      "RISK MANAGEMENT FILE"
+    ]
+  },
+  {
+    "index": 45,
+    "tag": "risk_management_file_the_change_requires_a_process_validation_c",
+    "proposed_tag": "risk_management_file_the_change_requires_a_process_validation_c",
+    "proposed_title": "chk - 041",
+    "type": "checkbox",
+    "heading_path": [
+      "RISK MANAGEMENT FILE"
+    ]
+  },
+  {
+    "index": 46,
+    "tag": "risk_management_file_the_change_affects_agreements_and_or_chk",
+    "proposed_tag": "risk_management_file_the_change_affects_agreements_and_or_chk",
+    "proposed_title": "chk - 042",
+    "type": "checkbox",
+    "heading_path": [
+      "RISK MANAGEMENT FILE"
+    ]
+  },
+  {
+    "index": 47,
+    "tag": "risk_management_file_the_change_results_from_actions_taken_chk",
+    "proposed_tag": "risk_management_file_the_change_results_from_actions_taken_chk",
+    "proposed_title": "chk - 043",
+    "type": "checkbox",
+    "heading_path": [
+      "RISK MANAGEMENT FILE"
+    ]
+  },
+  {
+    "index": 48,
+    "tag": "risk_management_file_the_change_impacts_quality_control_procedu",
+    "proposed_tag": "risk_management_file_the_change_impacts_quality_control_procedu",
+    "proposed_title": "chk - 044",
+    "type": "checkbox",
+    "heading_path": [
+      "RISK MANAGEMENT FILE"
+    ]
+  },
+  {
+    "index": 49,
+    "tag": "risk_management_file_medical_the_change_results_from_characteri",
+    "proposed_tag": "risk_management_file_medical_the_change_results_from_characteri",
+    "proposed_title": "chk - 045",
+    "type": "checkbox",
+    "heading_path": [
+      "RISK MANAGEMENT FILE"
+    ]
+  },
+  {
+    "index": 50,
+    "tag": "risk_management_file_medical_the_change_is_driven_by_chk",
+    "proposed_tag": "risk_management_file_medical_the_change_is_driven_by_chk",
+    "proposed_title": "chk - 046",
+    "type": "checkbox",
+    "heading_path": [
+      "RISK MANAGEMENT FILE"
+    ]
+  },
+  {
+    "index": 51,
+    "tag": "risk_management_file_other_if_other_is_selected_provide_chk",
+    "proposed_tag": "risk_management_file_other_if_other_is_selected_provide_chk",
+    "proposed_title": "chk - 047",
+    "type": "checkbox",
+    "heading_path": [
+      "RISK MANAGEMENT FILE"
+    ]
+  },
+  {
+    "index": 52,
+    "tag": "risk_management_file_next_steps_choose_the_project_action_combo",
+    "proposed_tag": "risk_management_file_next_steps_choose_the_project_action_combo",
+    "proposed_title": "combobox - 004",
+    "type": "combobox",
+    "heading_path": [
+      "RISK MANAGEMENT FILE"
+    ]
+  },
+  {
+    "index": 53,
+    "tag": "risk_management_file_capa_owner_notified_chk",
+    "proposed_tag": "risk_management_file_capa_owner_notified_chk",
+    "proposed_title": "chk - 048",
+    "type": "checkbox",
+    "heading_path": [
+      "RISK MANAGEMENT FILE"
+    ]
+  },
+  {
+    "index": 54,
+    "tag": "performance_compliance_assessment_the_change_does_not_impact_th",
+    "proposed_tag": "performance_compliance_assessment_the_change_does_not_impact_th",
+    "proposed_title": "chk - 049",
+    "type": "checkbox",
+    "heading_path": [
+      "PERFORMANCE COMPLIANCE ASSESSMENT"
+    ]
+  },
+  {
+    "index": 55,
+    "tag": "performance_compliance_assessment_changes_affect_degradable_mov",
+    "proposed_tag": "performance_compliance_assessment_changes_affect_degradable_mov",
+    "proposed_title": "chk - 050",
+    "type": "checkbox",
+    "heading_path": [
+      "PERFORMANCE COMPLIANCE ASSESSMENT"
+    ]
+  },
+  {
+    "index": 56,
+    "tag": "performance_compliance_assessment_changes_affect_the_airflow_in",
+    "proposed_tag": "performance_compliance_assessment_changes_affect_the_airflow_in",
+    "proposed_title": "chk - 051",
+    "type": "checkbox",
+    "heading_path": [
+      "PERFORMANCE COMPLIANCE ASSESSMENT"
+    ]
+  },
+  {
+    "index": 57,
+    "tag": "performance_compliance_assessment_product_currently_has_outdate",
+    "proposed_tag": "performance_compliance_assessment_product_currently_has_outdate",
+    "proposed_title": "chk - 052",
+    "type": "checkbox",
+    "heading_path": [
+      "PERFORMANCE COMPLIANCE ASSESSMENT"
+    ]
+  },
+  {
+    "index": 58,
+    "tag": "performance_compliance_assessment_changes_affect_critical_compo",
+    "proposed_tag": "performance_compliance_assessment_changes_affect_critical_compo",
+    "proposed_title": "chk - 053",
+    "type": "checkbox",
+    "heading_path": [
+      "PERFORMANCE COMPLIANCE ASSESSMENT"
+    ]
+  },
+  {
+    "index": 59,
+    "tag": "performance_compliance_assessment_changes_affect_the_product_pe",
+    "proposed_tag": "performance_compliance_assessment_changes_affect_the_product_pe",
+    "proposed_title": "chk - 054",
+    "type": "checkbox",
+    "heading_path": [
+      "PERFORMANCE COMPLIANCE ASSESSMENT"
+    ]
+  },
+  {
+    "index": 60,
+    "tag": "performance_compliance_assessment_changes_will_be_made_to_the_c",
+    "proposed_tag": "performance_compliance_assessment_changes_will_be_made_to_the_c",
+    "proposed_title": "chk - 055",
+    "type": "checkbox",
+    "heading_path": [
+      "PERFORMANCE COMPLIANCE ASSESSMENT"
+    ]
+  },
+  {
+    "index": 61,
+    "tag": "performance_compliance_assessment_changes_to_the_internal_cabin",
+    "proposed_tag": "performance_compliance_assessment_changes_to_the_internal_cabin",
+    "proposed_title": "chk - 056",
+    "type": "checkbox",
+    "heading_path": [
+      "PERFORMANCE COMPLIANCE ASSESSMENT"
+    ]
+  },
+  {
+    "index": 62,
+    "tag": "performance_compliance_assessment_change_to_defrosts_setpoint_r",
+    "proposed_tag": "performance_compliance_assessment_change_to_defrosts_setpoint_r",
+    "proposed_title": "chk - 057",
+    "type": "checkbox",
+    "heading_path": [
+      "PERFORMANCE COMPLIANCE ASSESSMENT"
+    ]
+  },
+  {
+    "index": 63,
+    "tag": "performance_compliance_assessment_changes_to_the_software_affec",
+    "proposed_tag": "performance_compliance_assessment_changes_to_the_software_affec",
+    "proposed_title": "chk - 058",
+    "type": "checkbox",
+    "heading_path": [
+      "PERFORMANCE COMPLIANCE ASSESSMENT"
+    ]
+  },
+  {
+    "index": 64,
+    "tag": "performance_compliance_assessment_product_currently_has_outd_2",
+    "proposed_tag": "performance_compliance_assessment_product_currently_has_outd_2",
+    "proposed_title": "chk - 059",
+    "type": "checkbox",
+    "heading_path": [
+      "PERFORMANCE COMPLIANCE ASSESSMENT"
+    ]
+  },
+  {
+    "index": 65,
+    "tag": "performance_compliance_assessment_changes_affect_the_cooling_ca",
+    "proposed_tag": "performance_compliance_assessment_changes_affect_the_cooling_ca",
+    "proposed_title": "chk - 060",
+    "type": "checkbox",
+    "heading_path": [
+      "PERFORMANCE COMPLIANCE ASSESSMENT"
+    ]
+  },
+  {
+    "index": 66,
+    "tag": "performance_compliance_assessment_changes_affect_the_functional",
+    "proposed_tag": "performance_compliance_assessment_changes_affect_the_functional",
+    "proposed_title": "chk - 061",
+    "type": "checkbox",
+    "heading_path": [
+      "PERFORMANCE COMPLIANCE ASSESSMENT"
+    ]
+  },
+  {
+    "index": 67,
+    "tag": "performance_compliance_assessment_changes_may_affect_the_power_",
+    "proposed_tag": "performance_compliance_assessment_changes_may_affect_the_power_",
+    "proposed_title": "chk - 062",
+    "type": "checkbox",
+    "heading_path": [
+      "PERFORMANCE COMPLIANCE ASSESSMENT"
+    ]
+  },
+  {
+    "index": 68,
+    "tag": "performance_compliance_assessment_product_currently_has_outd_3",
+    "proposed_tag": "performance_compliance_assessment_product_currently_has_outd_3",
+    "proposed_title": "chk - 063",
+    "type": "checkbox",
+    "heading_path": [
+      "PERFORMANCE COMPLIANCE ASSESSMENT"
+    ]
+  },
+  {
+    "index": 69,
+    "tag": "performance_compliance_assessment_changes_affect_critical_co_2",
+    "proposed_tag": "performance_compliance_assessment_changes_affect_critical_co_2",
+    "proposed_title": "chk - 064",
+    "type": "checkbox",
+    "heading_path": [
+      "PERFORMANCE COMPLIANCE ASSESSMENT"
+    ]
+  },
+  {
+    "index": 70,
+    "tag": "performance_compliance_assessment_product_currently_has_outd_4",
+    "proposed_tag": "performance_compliance_assessment_product_currently_has_outd_4",
+    "proposed_title": "chk - 065",
+    "type": "checkbox",
+    "heading_path": [
+      "PERFORMANCE COMPLIANCE ASSESSMENT"
+    ]
+  },
+  {
+    "index": 71,
+    "tag": "performance_compliance_assessment_changes_affect_critical_co_3",
+    "proposed_tag": "performance_compliance_assessment_changes_affect_critical_co_3",
+    "proposed_title": "chk - 066",
+    "type": "checkbox",
+    "heading_path": [
+      "PERFORMANCE COMPLIANCE ASSESSMENT"
+    ]
+  },
+  {
+    "index": 72,
+    "tag": "performance_compliance_assessment_changes_to_the_materials_of_c",
+    "proposed_tag": "performance_compliance_assessment_changes_to_the_materials_of_c",
+    "proposed_title": "chk - 067",
+    "type": "checkbox",
+    "heading_path": [
+      "PERFORMANCE COMPLIANCE ASSESSMENT"
+    ]
+  },
+  {
+    "index": 73,
+    "tag": "performance_compliance_assessment_changes_impact_air_flow_blowe",
+    "proposed_tag": "performance_compliance_assessment_changes_impact_air_flow_blowe",
+    "proposed_title": "chk - 068",
+    "type": "checkbox",
+    "heading_path": [
+      "PERFORMANCE COMPLIANCE ASSESSMENT"
+    ]
+  },
+  {
+    "index": 74,
+    "tag": "performance_compliance_assessment_changes_to_the_software_chk",
+    "proposed_tag": "performance_compliance_assessment_changes_to_the_software_chk",
+    "proposed_title": "chk - 069",
+    "type": "checkbox",
+    "heading_path": [
+      "PERFORMANCE COMPLIANCE ASSESSMENT"
+    ]
+  },
+  {
+    "index": 75,
+    "tag": "performance_compliance_assessment_changes_impacting_stability_c",
+    "proposed_tag": "performance_compliance_assessment_changes_impacting_stability_c",
+    "proposed_title": "chk - 070",
+    "type": "checkbox",
+    "heading_path": [
+      "PERFORMANCE COMPLIANCE ASSESSMENT"
+    ]
+  },
+  {
+    "index": 76,
+    "tag": "performance_compliance_assessment_changes_impact_cleanability_s",
+    "proposed_tag": "performance_compliance_assessment_changes_impact_cleanability_s",
+    "proposed_title": "chk - 071",
+    "type": "checkbox",
+    "heading_path": [
+      "PERFORMANCE COMPLIANCE ASSESSMENT"
+    ]
+  },
+  {
+    "index": 77,
+    "tag": "performance_compliance_assessment_changes_impact_the_cabinet_pr",
+    "proposed_tag": "performance_compliance_assessment_changes_impact_the_cabinet_pr",
+    "proposed_title": "chk - 072",
+    "type": "checkbox",
+    "heading_path": [
+      "PERFORMANCE COMPLIANCE ASSESSMENT"
+    ]
+  },
+  {
+    "index": 78,
+    "tag": "performance_compliance_assessment_changes_impact_labels_or_mark",
+    "proposed_tag": "performance_compliance_assessment_changes_impact_labels_or_mark",
+    "proposed_title": "chk - 073",
+    "type": "checkbox",
+    "heading_path": [
+      "PERFORMANCE COMPLIANCE ASSESSMENT"
+    ]
+  },
+  {
+    "index": 79,
+    "tag": "performance_compliance_assessment_product_currently_has_outd_5",
+    "proposed_tag": "performance_compliance_assessment_product_currently_has_outd_5",
+    "proposed_title": "chk - 074",
+    "type": "checkbox",
+    "heading_path": [
+      "PERFORMANCE COMPLIANCE ASSESSMENT"
+    ]
+  },
+  {
+    "index": 80,
+    "tag": "performance_compliance_assessment_energy_star_chk",
+    "proposed_tag": "performance_compliance_assessment_energy_star_chk",
+    "proposed_title": "chk - 075",
+    "type": "checkbox",
+    "heading_path": [
+      "PERFORMANCE COMPLIANCE ASSESSMENT"
+    ]
+  },
+  {
+    "index": 81,
+    "tag": "performance_compliance_assessment_nsf49_bsc_chk",
+    "proposed_tag": "performance_compliance_assessment_nsf49_bsc_chk",
+    "proposed_title": "chk - 076",
+    "type": "checkbox",
+    "heading_path": [
+      "PERFORMANCE COMPLIANCE ASSESSMENT"
+    ]
+  },
+  {
+    "index": 82,
+    "tag": "performance_compliance_assessment_nsf456_vaccine_chk",
+    "proposed_tag": "performance_compliance_assessment_nsf456_vaccine_chk",
+    "proposed_title": "chk - 077",
+    "type": "checkbox",
+    "heading_path": [
+      "PERFORMANCE COMPLIANCE ASSESSMENT"
+    ]
+  },
+  {
+    "index": 83,
+    "tag": "performance_compliance_assessment_clean_room_particulate_14644_",
+    "proposed_tag": "performance_compliance_assessment_clean_room_particulate_14644_",
+    "proposed_title": "chk - 078",
+    "type": "checkbox",
+    "heading_path": [
+      "PERFORMANCE COMPLIANCE ASSESSMENT"
+    ]
+  },
+  {
+    "index": 84,
+    "tag": "performance_compliance_assessment_clean_room_particulate_146_2",
+    "proposed_tag": "performance_compliance_assessment_clean_room_particulate_146_2",
+    "proposed_title": "chk - 079",
+    "type": "checkbox",
+    "heading_path": [
+      "PERFORMANCE COMPLIANCE ASSESSMENT"
+    ]
+  },
+  {
+    "index": 85,
+    "tag": "performance_compliance_assessment_erp_directive_chillers_only_c",
+    "proposed_tag": "performance_compliance_assessment_erp_directive_chillers_only_c",
+    "proposed_title": "chk - 080",
+    "type": "checkbox",
+    "heading_path": [
+      "PERFORMANCE COMPLIANCE ASSESSMENT"
+    ]
+  },
+  {
+    "index": 86,
+    "tag": "performance_compliance_assessment_clean_room_particulate_146_3",
+    "proposed_tag": "performance_compliance_assessment_clean_room_particulate_146_3",
+    "proposed_title": "chk - 081",
+    "type": "checkbox",
+    "heading_path": [
+      "PERFORMANCE COMPLIANCE ASSESSMENT"
+    ]
+  },
+  {
+    "index": 87,
+    "tag": "performance_compliance_assessment_south_korean_act_on_environme",
+    "proposed_tag": "performance_compliance_assessment_south_korean_act_on_environme",
+    "proposed_title": "chk - 082",
+    "type": "checkbox",
+    "heading_path": [
+      "PERFORMANCE COMPLIANCE ASSESSMENT"
+    ]
+  },
+  {
+    "index": 88,
+    "tag": "performance_compliance_assessment_other_if_applicable_select_ot",
+    "proposed_tag": "performance_compliance_assessment_other_if_applicable_select_ot",
+    "proposed_title": "chk - 083",
+    "type": "checkbox",
+    "heading_path": [
+      "PERFORMANCE COMPLIANCE ASSESSMENT"
+    ]
+  },
+  {
+    "index": 89,
+    "tag": "performance_compliance_assessment_energy_star_ce_self_declared_",
+    "proposed_tag": "performance_compliance_assessment_energy_star_ce_self_declared_",
+    "proposed_title": "chk - 084",
+    "type": "checkbox",
+    "heading_path": [
+      "PERFORMANCE COMPLIANCE ASSESSMENT"
+    ]
+  },
+  {
+    "index": 90,
+    "tag": "performance_compliance_assessment_energy_star_ce_self_declar_2",
+    "proposed_tag": "performance_compliance_assessment_energy_star_ce_self_declar_2",
+    "proposed_title": "chk - 085",
+    "type": "checkbox",
+    "heading_path": [
+      "PERFORMANCE COMPLIANCE ASSESSMENT"
+    ]
+  },
+  {
+    "index": 91,
+    "tag": "performance_compliance_assessment_energy_star_ce_self_declar_3",
+    "proposed_tag": "performance_compliance_assessment_energy_star_ce_self_declar_3",
+    "proposed_title": "chk - 086",
+    "type": "checkbox",
+    "heading_path": [
+      "PERFORMANCE COMPLIANCE ASSESSMENT"
+    ]
+  },
+  {
+    "index": 92,
+    "tag": "performance_compliance_assessment_marketing_claims_ce_doc_self_",
+    "proposed_tag": "performance_compliance_assessment_marketing_claims_ce_doc_self_",
+    "proposed_title": "chk - 087",
+    "type": "checkbox",
+    "heading_path": [
+      "PERFORMANCE COMPLIANCE ASSESSMENT"
+    ]
+  },
+  {
+    "index": 93,
+    "tag": "performance_compliance_assessment_marketing_claims_ce_doc_se_2",
+    "proposed_tag": "performance_compliance_assessment_marketing_claims_ce_doc_se_2",
+    "proposed_title": "chk - 088",
+    "type": "checkbox",
+    "heading_path": [
+      "PERFORMANCE COMPLIANCE ASSESSMENT"
+    ]
+  },
+  {
+    "index": 94,
+    "tag": "performance_compliance_assessment_marketing_claims_ce_doc_se_3",
+    "proposed_tag": "performance_compliance_assessment_marketing_claims_ce_doc_se_3",
+    "proposed_title": "chk - 089",
+    "type": "checkbox",
+    "heading_path": [
+      "PERFORMANCE COMPLIANCE ASSESSMENT"
+    ]
+  },
+  {
+    "index": 95,
+    "tag": "performance_compliance_assessment_testing_required_choose_an_it",
+    "proposed_tag": "performance_compliance_assessment_testing_required_choose_an_it",
+    "proposed_title": "combobox - 005",
+    "type": "combobox",
+    "heading_path": [
+      "PERFORMANCE COMPLIANCE ASSESSMENT"
+    ]
+  },
+  {
+    "index": 96,
+    "tag": "performance_compliance_assessment_agency_report_revision_revise",
+    "proposed_tag": "performance_compliance_assessment_agency_report_revision_revise",
+    "proposed_title": "chk - 090",
+    "type": "checkbox",
+    "heading_path": [
+      "PERFORMANCE COMPLIANCE ASSESSMENT"
+    ]
+  },
+  {
+    "index": 97,
+    "tag": "performance_compliance_assessment_agency_report_revision_rev_2",
+    "proposed_tag": "performance_compliance_assessment_agency_report_revision_rev_2",
+    "proposed_title": "chk - 091",
+    "type": "checkbox",
+    "heading_path": [
+      "PERFORMANCE COMPLIANCE ASSESSMENT"
+    ]
+  },
+  {
+    "index": 98,
+    "tag": "performance_compliance_assessment_agency_report_revision_rev_3",
+    "proposed_tag": "performance_compliance_assessment_agency_report_revision_rev_3",
+    "proposed_title": "chk - 092",
+    "type": "checkbox",
+    "heading_path": [
+      "PERFORMANCE COMPLIANCE ASSESSMENT"
+    ]
+  },
+  {
+    "index": 99,
+    "tag": "performance_compliance_assessment_marketing_claims_are_validate",
+    "proposed_tag": "performance_compliance_assessment_marketing_claims_are_validate",
+    "proposed_title": "chk - 093",
+    "type": "checkbox",
+    "heading_path": [
+      "PERFORMANCE COMPLIANCE ASSESSMENT"
+    ]
+  },
+  {
+    "index": 100,
+    "tag": "performance_compliance_assessment_marketing_claims_are_valid_2",
+    "proposed_tag": "performance_compliance_assessment_marketing_claims_are_valid_2",
+    "proposed_title": "chk - 094",
+    "type": "checkbox",
+    "heading_path": [
+      "PERFORMANCE COMPLIANCE ASSESSMENT"
+    ]
+  },
+  {
+    "index": 101,
+    "tag": "performance_compliance_assessment_change_impacts_product_scope_",
+    "proposed_tag": "performance_compliance_assessment_change_impacts_product_scope_",
+    "proposed_title": "chk - 095",
+    "type": "checkbox",
+    "heading_path": [
+      "PERFORMANCE COMPLIANCE ASSESSMENT"
+    ]
+  },
+  {
+    "index": 102,
+    "tag": "performance_compliance_assessment_other_if_applicable_if_other_",
+    "proposed_tag": "performance_compliance_assessment_other_if_applicable_if_other_",
+    "proposed_title": "chk - 096",
+    "type": "checkbox",
+    "heading_path": [
+      "PERFORMANCE COMPLIANCE ASSESSMENT"
+    ]
+  },
+  {
+    "index": 103,
+    "tag": "performance_compliance_assessment_cb_of_changes_energy_star_req",
+    "proposed_tag": "performance_compliance_assessment_cb_of_changes_energy_star_req",
+    "proposed_title": "chk - 097",
+    "type": "checkbox",
+    "heading_path": [
+      "PERFORMANCE COMPLIANCE ASSESSMENT"
+    ]
+  },
+  {
+    "index": 104,
+    "tag": "performance_compliance_assessment_cb_of_changes_energy_star__2",
+    "proposed_tag": "performance_compliance_assessment_cb_of_changes_energy_star__2",
+    "proposed_title": "chk - 098",
+    "type": "checkbox",
+    "heading_path": [
+      "PERFORMANCE COMPLIANCE ASSESSMENT"
+    ]
+  },
+  {
+    "index": 105,
+    "tag": "performance_compliance_assessment_ra_at_implementation_manufact",
+    "proposed_tag": "performance_compliance_assessment_ra_at_implementation_manufact",
+    "proposed_title": "chk - 099",
+    "type": "checkbox",
+    "heading_path": [
+      "PERFORMANCE COMPLIANCE ASSESSMENT"
+    ]
+  },
+  {
+    "index": 106,
+    "tag": "performance_compliance_assessment_ra_at_implementation_manuf_2",
+    "proposed_tag": "performance_compliance_assessment_ra_at_implementation_manuf_2",
+    "proposed_title": "chk - 100",
+    "type": "checkbox",
+    "heading_path": [
+      "PERFORMANCE COMPLIANCE ASSESSMENT"
+    ]
+  },
+  {
+    "index": 107,
+    "tag": "performance_compliance_assessment_authorities_of_product_change",
+    "proposed_tag": "performance_compliance_assessment_authorities_of_product_change",
+    "proposed_title": "chk - 101",
+    "type": "checkbox",
+    "heading_path": [
+      "PERFORMANCE COMPLIANCE ASSESSMENT"
+    ]
+  },
+  {
+    "index": 108,
+    "tag": "performance_compliance_assessment_authorities_of_product_cha_2",
+    "proposed_tag": "performance_compliance_assessment_authorities_of_product_cha_2",
+    "proposed_title": "chk - 102",
+    "type": "checkbox",
+    "heading_path": [
+      "PERFORMANCE COMPLIANCE ASSESSMENT"
+    ]
+  },
+  {
+    "index": 109,
+    "tag": "design_safety_emc_wireless_compliance_assessment_the_change_doe",
+    "proposed_tag": "design_safety_emc_wireless_compliance_assessment_the_change_doe",
+    "proposed_title": "chk - 103",
+    "type": "checkbox",
+    "heading_path": [
+      "DESIGN SAFETY, EMC, & WIRELESS COMPLIANCE ASSESSMENT"
+    ]
+  },
+  {
+    "index": 110,
+    "tag": "design_safety_emc_wireless_compliance_assessment_does_the_chang",
+    "proposed_tag": "design_safety_emc_wireless_compliance_assessment_does_the_chang",
+    "proposed_title": "chk - 104",
+    "type": "checkbox",
+    "heading_path": [
+      "DESIGN SAFETY, EMC, & WIRELESS COMPLIANCE ASSESSMENT"
+    ]
+  },
+  {
+    "index": 111,
+    "tag": "design_safety_emc_wireless_compliance_assessment_are_the_specs_",
+    "proposed_tag": "design_safety_emc_wireless_compliance_assessment_are_the_specs_",
+    "proposed_title": "chk - 105",
+    "type": "checkbox",
+    "heading_path": [
+      "DESIGN SAFETY, EMC, & WIRELESS COMPLIANCE ASSESSMENT"
+    ]
+  },
+  {
+    "index": 112,
+    "tag": "design_safety_emc_wireless_compliance_assessment_are_the_spe_2",
+    "proposed_tag": "design_safety_emc_wireless_compliance_assessment_are_the_spe_2",
+    "proposed_title": "chk - 106",
+    "type": "checkbox",
+    "heading_path": [
+      "DESIGN SAFETY, EMC, & WIRELESS COMPLIANCE ASSESSMENT"
+    ]
+  },
+  {
+    "index": 113,
+    "tag": "design_safety_emc_wireless_compliance_assessment_are_the_produc",
+    "proposed_tag": "design_safety_emc_wireless_compliance_assessment_are_the_produc",
+    "proposed_title": "chk - 107",
+    "type": "checkbox",
+    "heading_path": [
+      "DESIGN SAFETY, EMC, & WIRELESS COMPLIANCE ASSESSMENT"
+    ]
+  },
+  {
+    "index": 114,
+    "tag": "design_safety_emc_wireless_compliance_assessment_are_materials_",
+    "proposed_tag": "design_safety_emc_wireless_compliance_assessment_are_materials_",
+    "proposed_title": "chk - 108",
+    "type": "checkbox",
+    "heading_path": [
+      "DESIGN SAFETY, EMC, & WIRELESS COMPLIANCE ASSESSMENT"
+    ]
+  },
+  {
+    "index": 115,
+    "tag": "design_safety_emc_wireless_compliance_assessment_are_labels_ifu",
+    "proposed_tag": "design_safety_emc_wireless_compliance_assessment_are_labels_ifu",
+    "proposed_title": "chk - 109",
+    "type": "checkbox",
+    "heading_path": [
+      "DESIGN SAFETY, EMC, & WIRELESS COMPLIANCE ASSESSMENT"
+    ]
+  },
+  {
+    "index": 116,
+    "tag": "design_safety_emc_wireless_compliance_assessment_will_the_manuf",
+    "proposed_tag": "design_safety_emc_wireless_compliance_assessment_will_the_manuf",
+    "proposed_title": "chk - 110",
+    "type": "checkbox",
+    "heading_path": [
+      "DESIGN SAFETY, EMC, & WIRELESS COMPLIANCE ASSESSMENT"
+    ]
+  },
+  {
+    "index": 117,
+    "tag": "design_safety_emc_wireless_compliance_assessment_supplier_chang",
+    "proposed_tag": "design_safety_emc_wireless_compliance_assessment_supplier_chang",
+    "proposed_title": "chk - 111",
+    "type": "checkbox",
+    "heading_path": [
+      "DESIGN SAFETY, EMC, & WIRELESS COMPLIANCE ASSESSMENT"
+    ]
+  },
+  {
+    "index": 118,
+    "tag": "design_safety_emc_wireless_compliance_assessment_product_curren",
+    "proposed_tag": "design_safety_emc_wireless_compliance_assessment_product_curren",
+    "proposed_title": "chk - 112",
+    "type": "checkbox",
+    "heading_path": [
+      "DESIGN SAFETY, EMC, & WIRELESS COMPLIANCE ASSESSMENT"
+    ]
+  },
+  {
+    "index": 119,
+    "tag": "design_safety_emc_wireless_compliance_assessment_other_if_appli",
+    "proposed_tag": "design_safety_emc_wireless_compliance_assessment_other_if_appli",
+    "proposed_title": "chk - 113",
+    "type": "checkbox",
+    "heading_path": [
+      "DESIGN SAFETY, EMC, & WIRELESS COMPLIANCE ASSESSMENT"
+    ]
+  },
+  {
+    "index": 120,
+    "tag": "design_safety_emc_wireless_compliance_assessment_nrtl_listing_r",
+    "proposed_tag": "design_safety_emc_wireless_compliance_assessment_nrtl_listing_r",
+    "proposed_title": "chk - 114",
+    "type": "checkbox",
+    "heading_path": [
+      "DESIGN SAFETY, EMC, & WIRELESS COMPLIANCE ASSESSMENT"
+    ]
+  },
+  {
+    "index": 121,
+    "tag": "design_safety_emc_wireless_compliance_assessment_nrtl_listin_2",
+    "proposed_tag": "design_safety_emc_wireless_compliance_assessment_nrtl_listin_2",
+    "proposed_title": "chk - 115",
+    "type": "checkbox",
+    "heading_path": [
+      "DESIGN SAFETY, EMC, & WIRELESS COMPLIANCE ASSESSMENT"
+    ]
+  },
+  {
+    "index": 122,
+    "tag": "design_safety_emc_wireless_compliance_assessment_cb_safety_repo",
+    "proposed_tag": "design_safety_emc_wireless_compliance_assessment_cb_safety_repo",
+    "proposed_title": "chk - 116",
+    "type": "checkbox",
+    "heading_path": [
+      "DESIGN SAFETY, EMC, & WIRELESS COMPLIANCE ASSESSMENT"
+    ]
+  },
+  {
+    "index": 123,
+    "tag": "design_safety_emc_wireless_compliance_assessment_cb_safety_r_2",
+    "proposed_tag": "design_safety_emc_wireless_compliance_assessment_cb_safety_r_2",
+    "proposed_title": "chk - 117",
+    "type": "checkbox",
+    "heading_path": [
+      "DESIGN SAFETY, EMC, & WIRELESS COMPLIANCE ASSESSMENT"
+    ]
+  },
+  {
+    "index": 124,
+    "tag": "design_safety_emc_wireless_compliance_assessment_informative_sa",
+    "proposed_tag": "design_safety_emc_wireless_compliance_assessment_informative_sa",
+    "proposed_title": "chk - 118",
+    "type": "checkbox",
+    "heading_path": [
+      "DESIGN SAFETY, EMC, & WIRELESS COMPLIANCE ASSESSMENT"
+    ]
+  },
+  {
+    "index": 125,
+    "tag": "design_safety_emc_wireless_compliance_assessment_informative_2",
+    "proposed_tag": "design_safety_emc_wireless_compliance_assessment_informative_2",
+    "proposed_title": "chk - 119",
+    "type": "checkbox",
+    "heading_path": [
+      "DESIGN SAFETY, EMC, & WIRELESS COMPLIANCE ASSESSMENT"
+    ]
+  },
+  {
+    "index": 126,
+    "tag": "design_safety_emc_wireless_compliance_assessment_wireless_repor",
+    "proposed_tag": "design_safety_emc_wireless_compliance_assessment_wireless_repor",
+    "proposed_title": "chk - 120",
+    "type": "checkbox",
+    "heading_path": [
+      "DESIGN SAFETY, EMC, & WIRELESS COMPLIANCE ASSESSMENT"
+    ]
+  },
+  {
+    "index": 127,
+    "tag": "design_safety_emc_wireless_compliance_assessment_other_if_other",
+    "proposed_tag": "design_safety_emc_wireless_compliance_assessment_other_if_other",
+    "proposed_title": "chk - 121",
+    "type": "checkbox",
+    "heading_path": [
+      "DESIGN SAFETY, EMC, & WIRELESS COMPLIANCE ASSESSMENT"
+    ]
+  },
+  {
+    "index": 128,
+    "tag": "design_safety_emc_wireless_compliance_assessment_ul_csa_chk",
+    "proposed_tag": "design_safety_emc_wireless_compliance_assessment_ul_csa_chk",
+    "proposed_title": "chk - 122",
+    "type": "checkbox",
+    "heading_path": [
+      "DESIGN SAFETY, EMC, & WIRELESS COMPLIANCE ASSESSMENT"
+    ]
+  },
+  {
+    "index": 129,
+    "tag": "design_safety_emc_wireless_compliance_assessment_ul_csa_chk_2",
+    "proposed_tag": "design_safety_emc_wireless_compliance_assessment_ul_csa_chk_2",
+    "proposed_title": "chk - 123",
+    "type": "checkbox",
+    "heading_path": [
+      "DESIGN SAFETY, EMC, & WIRELESS COMPLIANCE ASSESSMENT"
+    ]
+  },
+  {
+    "index": 130,
+    "tag": "design_safety_emc_wireless_compliance_assessment_etl_tuv_chk",
+    "proposed_tag": "design_safety_emc_wireless_compliance_assessment_etl_tuv_chk",
+    "proposed_title": "chk - 124",
+    "type": "checkbox",
+    "heading_path": [
+      "DESIGN SAFETY, EMC, & WIRELESS COMPLIANCE ASSESSMENT"
+    ]
+  },
+  {
+    "index": 131,
+    "tag": "design_safety_emc_wireless_compliance_assessment_etl_tuv_chk_2",
+    "proposed_tag": "design_safety_emc_wireless_compliance_assessment_etl_tuv_chk_2",
+    "proposed_title": "chk - 125",
+    "type": "checkbox",
+    "heading_path": [
+      "DESIGN SAFETY, EMC, & WIRELESS COMPLIANCE ASSESSMENT"
+    ]
+  },
+  {
+    "index": 132,
+    "tag": "design_safety_emc_wireless_compliance_assessment_fcc_ices_nsf_c",
+    "proposed_tag": "design_safety_emc_wireless_compliance_assessment_fcc_ices_nsf_c",
+    "proposed_title": "chk - 126",
+    "type": "checkbox",
+    "heading_path": [
+      "DESIGN SAFETY, EMC, & WIRELESS COMPLIANCE ASSESSMENT"
+    ]
+  },
+  {
+    "index": 133,
+    "tag": "design_safety_emc_wireless_compliance_assessment_fcc_ices_ns_2",
+    "proposed_tag": "design_safety_emc_wireless_compliance_assessment_fcc_ices_ns_2",
+    "proposed_title": "chk - 127",
+    "type": "checkbox",
+    "heading_path": [
+      "DESIGN SAFETY, EMC, & WIRELESS COMPLIANCE ASSESSMENT"
+    ]
+  },
+  {
+    "index": 134,
+    "tag": "design_safety_emc_wireless_compliance_assessment_iram_s_chk",
+    "proposed_tag": "design_safety_emc_wireless_compliance_assessment_iram_s_chk",
+    "proposed_title": "chk - 128",
+    "type": "checkbox",
+    "heading_path": [
+      "DESIGN SAFETY, EMC, & WIRELESS COMPLIANCE ASSESSMENT"
+    ]
+  },
+  {
+    "index": 135,
+    "tag": "design_safety_emc_wireless_compliance_assessment_inmetro_chk",
+    "proposed_tag": "design_safety_emc_wireless_compliance_assessment_inmetro_chk",
+    "proposed_title": "chk - 129",
+    "type": "checkbox",
+    "heading_path": [
+      "DESIGN SAFETY, EMC, & WIRELESS COMPLIANCE ASSESSMENT"
+    ]
+  },
+  {
+    "index": 136,
+    "tag": "design_safety_emc_wireless_compliance_assessment_anatel_chk",
+    "proposed_tag": "design_safety_emc_wireless_compliance_assessment_anatel_chk",
+    "proposed_title": "chk - 130",
+    "type": "checkbox",
+    "heading_path": [
+      "DESIGN SAFETY, EMC, & WIRELESS COMPLIANCE ASSESSMENT"
+    ]
+  },
+  {
+    "index": 137,
+    "tag": "design_safety_emc_wireless_compliance_assessment_s_mark_chk",
+    "proposed_tag": "design_safety_emc_wireless_compliance_assessment_s_mark_chk",
+    "proposed_title": "chk - 131",
+    "type": "checkbox",
+    "heading_path": [
+      "DESIGN SAFETY, EMC, & WIRELESS COMPLIANCE ASSESSMENT"
+    ]
+  },
+  {
+    "index": 138,
+    "tag": "design_safety_emc_wireless_compliance_assessment_ce_doc_self_de",
+    "proposed_tag": "design_safety_emc_wireless_compliance_assessment_ce_doc_self_de",
+    "proposed_title": "chk - 132",
+    "type": "checkbox",
+    "heading_path": [
+      "DESIGN SAFETY, EMC, & WIRELESS COMPLIANCE ASSESSMENT"
+    ]
+  },
+  {
+    "index": 139,
+    "tag": "design_safety_emc_wireless_compliance_assessment_ce_doc_eu_nb_c",
+    "proposed_tag": "design_safety_emc_wireless_compliance_assessment_ce_doc_eu_nb_c",
+    "proposed_title": "chk - 133",
+    "type": "checkbox",
+    "heading_path": [
+      "DESIGN SAFETY, EMC, & WIRELESS COMPLIANCE ASSESSMENT"
+    ]
+  },
+  {
+    "index": 140,
+    "tag": "design_safety_emc_wireless_compliance_assessment_ukca_lne_chk",
+    "proposed_tag": "design_safety_emc_wireless_compliance_assessment_ukca_lne_chk",
+    "proposed_title": "chk - 134",
+    "type": "checkbox",
+    "heading_path": [
+      "DESIGN SAFETY, EMC, & WIRELESS COMPLIANCE ASSESSMENT"
+    ]
+  },
+  {
+    "index": 141,
+    "tag": "design_safety_emc_wireless_compliance_assessment_ukca_lne_chk_2",
+    "proposed_tag": "design_safety_emc_wireless_compliance_assessment_ukca_lne_chk_2",
+    "proposed_title": "chk - 135",
+    "type": "checkbox",
+    "heading_path": [
+      "DESIGN SAFETY, EMC, & WIRELESS COMPLIANCE ASSESSMENT"
+    ]
+  },
+  {
+    "index": 142,
+    "tag": "design_safety_emc_wireless_compliance_assessment_gs_weee_chk",
+    "proposed_tag": "design_safety_emc_wireless_compliance_assessment_gs_weee_chk",
+    "proposed_title": "chk - 136",
+    "type": "checkbox",
+    "heading_path": [
+      "DESIGN SAFETY, EMC, & WIRELESS COMPLIANCE ASSESSMENT"
+    ]
+  },
+  {
+    "index": 143,
+    "tag": "design_safety_emc_wireless_compliance_assessment_gs_weee_chk_2",
+    "proposed_tag": "design_safety_emc_wireless_compliance_assessment_gs_weee_chk_2",
+    "proposed_title": "chk - 137",
+    "type": "checkbox",
+    "heading_path": [
+      "DESIGN SAFETY, EMC, & WIRELESS COMPLIANCE ASSESSMENT"
+    ]
+  },
+  {
+    "index": 144,
+    "tag": "design_safety_emc_wireless_compliance_assessment_kc_mark_chk",
+    "proposed_tag": "design_safety_emc_wireless_compliance_assessment_kc_mark_chk",
+    "proposed_title": "chk - 138",
+    "type": "checkbox",
+    "heading_path": [
+      "DESIGN SAFETY, EMC, & WIRELESS COMPLIANCE ASSESSMENT"
+    ]
+  },
+  {
+    "index": 145,
+    "tag": "design_safety_emc_wireless_compliance_assessment_eac_chk",
+    "proposed_tag": "design_safety_emc_wireless_compliance_assessment_eac_chk",
+    "proposed_title": "chk - 139",
+    "type": "checkbox",
+    "heading_path": [
+      "DESIGN SAFETY, EMC, & WIRELESS COMPLIANCE ASSESSMENT"
+    ]
+  },
+  {
+    "index": 146,
+    "tag": "design_safety_emc_wireless_compliance_assessment_other_select_o",
+    "proposed_tag": "design_safety_emc_wireless_compliance_assessment_other_select_o",
+    "proposed_title": "chk - 140",
+    "type": "checkbox",
+    "heading_path": [
+      "DESIGN SAFETY, EMC, & WIRELESS COMPLIANCE ASSESSMENT"
+    ]
+  },
+  {
+    "index": 147,
+    "tag": "design_safety_emc_wireless_compliance_assessment_fcc_declaratio",
+    "proposed_tag": "design_safety_emc_wireless_compliance_assessment_fcc_declaratio",
+    "proposed_title": "chk - 141",
+    "type": "checkbox",
+    "heading_path": [
+      "DESIGN SAFETY, EMC, & WIRELESS COMPLIANCE ASSESSMENT"
+    ]
+  },
+  {
+    "index": 148,
+    "tag": "design_safety_emc_wireless_compliance_assessment_ce_doc_self_2",
+    "proposed_tag": "design_safety_emc_wireless_compliance_assessment_ce_doc_self_2",
+    "proposed_title": "chk - 142",
+    "type": "checkbox",
+    "heading_path": [
+      "DESIGN SAFETY, EMC, & WIRELESS COMPLIANCE ASSESSMENT"
+    ]
+  },
+  {
+    "index": 149,
+    "tag": "design_safety_emc_wireless_compliance_assessment_ce_doc_eu_n_2",
+    "proposed_tag": "design_safety_emc_wireless_compliance_assessment_ce_doc_eu_n_2",
+    "proposed_title": "chk - 143",
+    "type": "checkbox",
+    "heading_path": [
+      "DESIGN SAFETY, EMC, & WIRELESS COMPLIANCE ASSESSMENT"
+    ]
+  },
+  {
+    "index": 150,
+    "tag": "design_safety_emc_wireless_compliance_assessment_ukca_declarati",
+    "proposed_tag": "design_safety_emc_wireless_compliance_assessment_ukca_declarati",
+    "proposed_title": "chk - 144",
+    "type": "checkbox",
+    "heading_path": [
+      "DESIGN SAFETY, EMC, & WIRELESS COMPLIANCE ASSESSMENT"
+    ]
+  },
+  {
+    "index": 151,
+    "tag": "design_safety_emc_wireless_compliance_assessment_other_selec_2",
+    "proposed_tag": "design_safety_emc_wireless_compliance_assessment_other_selec_2",
+    "proposed_title": "chk - 145",
+    "type": "checkbox",
+    "heading_path": [
+      "DESIGN SAFETY, EMC, & WIRELESS COMPLIANCE ASSESSMENT"
+    ]
+  },
+  {
+    "index": 152,
+    "tag": "design_safety_emc_wireless_compliance_assessment_testing_requir",
+    "proposed_tag": "design_safety_emc_wireless_compliance_assessment_testing_requir",
+    "proposed_title": "combobox - 006",
+    "type": "combobox",
+    "heading_path": [
+      "DESIGN SAFETY, EMC, & WIRELESS COMPLIANCE ASSESSMENT"
+    ]
+  },
+  {
+    "index": 153,
+    "tag": "design_safety_emc_wireless_compliance_assessment_impacted_docum",
+    "proposed_tag": "design_safety_emc_wireless_compliance_assessment_impacted_docum",
+    "proposed_title": "chk - 146",
+    "type": "checkbox",
+    "heading_path": [
+      "DESIGN SAFETY, EMC, & WIRELESS COMPLIANCE ASSESSMENT"
+    ]
+  },
+  {
+    "index": 154,
+    "tag": "design_safety_emc_wireless_compliance_assessment_impacted_do_2",
+    "proposed_tag": "design_safety_emc_wireless_compliance_assessment_impacted_do_2",
+    "proposed_title": "chk - 147",
+    "type": "checkbox",
+    "heading_path": [
+      "DESIGN SAFETY, EMC, & WIRELESS COMPLIANCE ASSESSMENT"
+    ]
+  },
+  {
+    "index": 155,
+    "tag": "design_safety_emc_wireless_compliance_assessment_registration_w",
+    "proposed_tag": "design_safety_emc_wireless_compliance_assessment_registration_w",
+    "proposed_title": "chk - 148",
+    "type": "checkbox",
+    "heading_path": [
+      "DESIGN SAFETY, EMC, & WIRELESS COMPLIANCE ASSESSMENT"
+    ]
+  },
+  {
+    "index": 156,
+    "tag": "design_safety_emc_wireless_compliance_assessment_registratio_2",
+    "proposed_tag": "design_safety_emc_wireless_compliance_assessment_registratio_2",
+    "proposed_title": "chk - 149",
+    "type": "checkbox",
+    "heading_path": [
+      "DESIGN SAFETY, EMC, & WIRELESS COMPLIANCE ASSESSMENT"
+    ]
+  },
+  {
+    "index": 157,
+    "tag": "design_safety_emc_wireless_compliance_assessment_revise_regulat",
+    "proposed_tag": "design_safety_emc_wireless_compliance_assessment_revise_regulat",
+    "proposed_title": "chk - 150",
+    "type": "checkbox",
+    "heading_path": [
+      "DESIGN SAFETY, EMC, & WIRELESS COMPLIANCE ASSESSMENT"
+    ]
+  },
+  {
+    "index": 158,
+    "tag": "design_safety_emc_wireless_compliance_assessment_revise_regu_2",
+    "proposed_tag": "design_safety_emc_wireless_compliance_assessment_revise_regu_2",
+    "proposed_title": "chk - 151",
+    "type": "checkbox",
+    "heading_path": [
+      "DESIGN SAFETY, EMC, & WIRELESS COMPLIANCE ASSESSMENT"
+    ]
+  },
+  {
+    "index": 159,
+    "tag": "design_safety_emc_wireless_compliance_assessment_re_evaluate_pr",
+    "proposed_tag": "design_safety_emc_wireless_compliance_assessment_re_evaluate_pr",
+    "proposed_title": "chk - 152",
+    "type": "checkbox",
+    "heading_path": [
+      "DESIGN SAFETY, EMC, & WIRELESS COMPLIANCE ASSESSMENT"
+    ]
+  },
+  {
+    "index": 160,
+    "tag": "design_safety_emc_wireless_compliance_assessment_re_evaluate_2",
+    "proposed_tag": "design_safety_emc_wireless_compliance_assessment_re_evaluate_2",
+    "proposed_title": "chk - 153",
+    "type": "checkbox",
+    "heading_path": [
+      "DESIGN SAFETY, EMC, & WIRELESS COMPLIANCE ASSESSMENT"
+    ]
+  },
+  {
+    "index": 161,
+    "tag": "design_safety_emc_wireless_compliance_assessment_other_if_ot_2",
+    "proposed_tag": "design_safety_emc_wireless_compliance_assessment_other_if_ot_2",
+    "proposed_title": "chk - 154",
+    "type": "checkbox",
+    "heading_path": [
+      "DESIGN SAFETY, EMC, & WIRELESS COMPLIANCE ASSESSMENT"
+    ]
+  },
+  {
+    "index": 162,
+    "tag": "design_safety_emc_wireless_compliance_assessment_regional_leads",
+    "proposed_tag": "design_safety_emc_wireless_compliance_assessment_regional_leads",
+    "proposed_title": "chk - 155",
+    "type": "checkbox",
+    "heading_path": [
+      "DESIGN SAFETY, EMC, & WIRELESS COMPLIANCE ASSESSMENT"
+    ]
+  },
+  {
+    "index": 163,
+    "tag": "design_safety_emc_wireless_compliance_assessment_regional_le_2",
+    "proposed_tag": "design_safety_emc_wireless_compliance_assessment_regional_le_2",
+    "proposed_title": "chk - 156",
+    "type": "checkbox",
+    "heading_path": [
+      "DESIGN SAFETY, EMC, & WIRELESS COMPLIANCE ASSESSMENT"
+    ]
+  },
+  {
+    "index": 164,
+    "tag": "design_safety_emc_wireless_compliance_assessment_authorities_of",
+    "proposed_tag": "design_safety_emc_wireless_compliance_assessment_authorities_of",
+    "proposed_title": "chk - 157",
+    "type": "checkbox",
+    "heading_path": [
+      "DESIGN SAFETY, EMC, & WIRELESS COMPLIANCE ASSESSMENT"
+    ]
+  },
+  {
+    "index": 165,
+    "tag": "design_safety_emc_wireless_compliance_assessment_authorities_2",
+    "proposed_tag": "design_safety_emc_wireless_compliance_assessment_authorities_2",
+    "proposed_title": "chk - 158",
+    "type": "checkbox",
+    "heading_path": [
+      "DESIGN SAFETY, EMC, & WIRELESS COMPLIANCE ASSESSMENT"
+    ]
+  },
+  {
+    "index": 166,
+    "tag": "environmental_assessment_the_change_does_not_impact_the_chk",
+    "proposed_tag": "environmental_assessment_the_change_does_not_impact_the_chk",
+    "proposed_title": "chk - 159",
+    "type": "checkbox",
+    "heading_path": [
+      "ENVIRONMENTAL ASSESSMENT"
+    ]
+  },
+  {
+    "index": 167,
+    "tag": "environmental_assessment_change_adds_new_or_removes_any_chk",
+    "proposed_tag": "environmental_assessment_change_adds_new_or_removes_any_chk",
+    "proposed_title": "chk - 160",
+    "type": "checkbox",
+    "heading_path": [
+      "ENVIRONMENTAL ASSESSMENT"
+    ]
+  },
+  {
+    "index": 168,
+    "tag": "environmental_assessment_the_supplier_of_a_part_number_chk",
+    "proposed_tag": "environmental_assessment_the_supplier_of_a_part_number_chk",
+    "proposed_title": "chk - 161",
+    "type": "checkbox",
+    "heading_path": [
+      "ENVIRONMENTAL ASSESSMENT"
+    ]
+  },
+  {
+    "index": 169,
+    "tag": "environmental_assessment_the_manufacturing_or_internal_part_num",
+    "proposed_tag": "environmental_assessment_the_manufacturing_or_internal_part_num",
+    "proposed_title": "chk - 162",
+    "type": "checkbox",
+    "heading_path": [
+      "ENVIRONMENTAL ASSESSMENT"
+    ]
+  },
+  {
+    "index": 170,
+    "tag": "environmental_assessment_end_product_impacted_currently_has_an_",
+    "proposed_tag": "environmental_assessment_end_product_impacted_currently_has_an_",
+    "proposed_title": "chk - 163",
+    "type": "checkbox",
+    "heading_path": [
+      "ENVIRONMENTAL ASSESSMENT"
+    ]
+  },
+  {
+    "index": 171,
+    "tag": "environmental_assessment_other_if_other_is_selected_provide_chk",
+    "proposed_tag": "environmental_assessment_other_if_other_is_selected_provide_chk",
+    "proposed_title": "chk - 164",
+    "type": "checkbox",
+    "heading_path": [
+      "ENVIRONMENTAL ASSESSMENT"
+    ]
+  },
+  {
+    "index": 172,
+    "tag": "environmental_assessment_greensoft_item_submission_greensoft_bo",
+    "proposed_tag": "environmental_assessment_greensoft_item_submission_greensoft_bo",
+    "proposed_title": "chk - 165",
+    "type": "checkbox",
+    "heading_path": [
+      "ENVIRONMENTAL ASSESSMENT"
+    ]
+  },
+  {
+    "index": 173,
+    "tag": "environmental_assessment_greensoft_item_submission_greensoft_2",
+    "proposed_tag": "environmental_assessment_greensoft_item_submission_greensoft_2",
+    "proposed_title": "chk - 166",
+    "type": "checkbox",
+    "heading_path": [
+      "ENVIRONMENTAL ASSESSMENT"
+    ]
+  },
+  {
+    "index": 174,
+    "tag": "environmental_assessment_greensoft_item_submission_greensoft_3",
+    "proposed_tag": "environmental_assessment_greensoft_item_submission_greensoft_3",
+    "proposed_title": "chk - 167",
+    "type": "checkbox",
+    "heading_path": [
+      "ENVIRONMENTAL ASSESSMENT"
+    ]
+  },
+  {
+    "index": 175,
+    "tag": "environmental_assessment_other_if_other_is_selected_provide__2",
+    "proposed_tag": "environmental_assessment_other_if_other_is_selected_provide__2",
+    "proposed_title": "chk - 168",
+    "type": "checkbox",
+    "heading_path": [
+      "ENVIRONMENTAL ASSESSMENT"
+    ]
+  },
+  {
+    "index": 176,
+    "tag": "environmental_assessment_prop65_chk",
+    "proposed_tag": "environmental_assessment_prop65_chk",
+    "proposed_title": "chk - 169",
+    "type": "checkbox",
+    "heading_path": [
+      "ENVIRONMENTAL ASSESSMENT"
+    ]
+  },
+  {
+    "index": 177,
+    "tag": "environmental_assessment_fifra_pesticide_uv_lamp_chk",
+    "proposed_tag": "environmental_assessment_fifra_pesticide_uv_lamp_chk",
+    "proposed_title": "chk - 170",
+    "type": "checkbox",
+    "heading_path": [
+      "ENVIRONMENTAL ASSESSMENT"
+    ]
+  },
+  {
+    "index": 178,
+    "tag": "environmental_assessment_weee_chk",
+    "proposed_tag": "environmental_assessment_weee_chk",
+    "proposed_title": "chk - 171",
+    "type": "checkbox",
+    "heading_path": [
+      "ENVIRONMENTAL ASSESSMENT"
+    ]
+  },
+  {
+    "index": 179,
+    "tag": "environmental_assessment_weee_f_gas_chk",
+    "proposed_tag": "environmental_assessment_weee_f_gas_chk",
+    "proposed_title": "chk - 172",
+    "type": "checkbox",
+    "heading_path": [
+      "ENVIRONMENTAL ASSESSMENT"
+    ]
+  },
+  {
+    "index": 180,
+    "tag": "environmental_assessment_weee_f_gas_chk_2",
+    "proposed_tag": "environmental_assessment_weee_f_gas_chk_2",
+    "proposed_title": "chk - 173",
+    "type": "checkbox",
+    "heading_path": [
+      "ENVIRONMENTAL ASSESSMENT"
+    ]
+  },
+  {
+    "index": 181,
+    "tag": "environmental_assessment_pfas_chk",
+    "proposed_tag": "environmental_assessment_pfas_chk",
+    "proposed_title": "chk - 174",
+    "type": "checkbox",
+    "heading_path": [
+      "ENVIRONMENTAL ASSESSMENT"
+    ]
+  },
+  {
+    "index": 182,
+    "tag": "environmental_assessment_weee_chk_2",
+    "proposed_tag": "environmental_assessment_weee_chk_2",
+    "proposed_title": "chk - 175",
+    "type": "checkbox",
+    "heading_path": [
+      "ENVIRONMENTAL ASSESSMENT"
+    ]
+  },
+  {
+    "index": 183,
+    "tag": "environmental_assessment_china_rohs_c_rohs_chk",
+    "proposed_tag": "environmental_assessment_china_rohs_c_rohs_chk",
+    "proposed_title": "chk - 176",
+    "type": "checkbox",
+    "heading_path": [
+      "ENVIRONMENTAL ASSESSMENT"
+    ]
+  },
+  {
+    "index": 184,
+    "tag": "environmental_assessment_other_select_other_if_the_mark_chk",
+    "proposed_tag": "environmental_assessment_other_select_other_if_the_mark_chk",
+    "proposed_title": "chk - 177",
+    "type": "checkbox",
+    "heading_path": [
+      "ENVIRONMENTAL ASSESSMENT"
+    ]
+  },
+  {
+    "index": 185,
+    "tag": "environmental_assessment_prop65_declaration_chk",
+    "proposed_tag": "environmental_assessment_prop65_declaration_chk",
+    "proposed_title": "chk - 178",
+    "type": "checkbox",
+    "heading_path": [
+      "ENVIRONMENTAL ASSESSMENT"
+    ]
+  },
+  {
+    "index": 186,
+    "tag": "environmental_assessment_fifra_pesticide_product_reporting_uv_l",
+    "proposed_tag": "environmental_assessment_fifra_pesticide_product_reporting_uv_l",
+    "proposed_title": "chk - 179",
+    "type": "checkbox",
+    "heading_path": [
+      "ENVIRONMENTAL ASSESSMENT"
+    ]
+  },
+  {
+    "index": 187,
+    "tag": "environmental_assessment_montreal_protocol_declaration_chk",
+    "proposed_tag": "environmental_assessment_montreal_protocol_declaration_chk",
+    "proposed_title": "chk - 180",
+    "type": "checkbox",
+    "heading_path": [
+      "ENVIRONMENTAL ASSESSMENT"
+    ]
+  },
+  {
+    "index": 188,
+    "tag": "environmental_assessment_reach_declaration_chk",
+    "proposed_tag": "environmental_assessment_reach_declaration_chk",
+    "proposed_title": "chk - 181",
+    "type": "checkbox",
+    "heading_path": [
+      "ENVIRONMENTAL ASSESSMENT"
+    ]
+  },
+  {
+    "index": 189,
+    "tag": "environmental_assessment_rohs_declaration_chk",
+    "proposed_tag": "environmental_assessment_rohs_declaration_chk",
+    "proposed_title": "chk - 182",
+    "type": "checkbox",
+    "heading_path": [
+      "ENVIRONMENTAL ASSESSMENT"
+    ]
+  },
+  {
+    "index": 190,
+    "tag": "environmental_assessment_f_gas_declaration_chk",
+    "proposed_tag": "environmental_assessment_f_gas_declaration_chk",
+    "proposed_title": "chk - 183",
+    "type": "checkbox",
+    "heading_path": [
+      "ENVIRONMENTAL ASSESSMENT"
+    ]
+  },
+  {
+    "index": 191,
+    "tag": "environmental_assessment_ce_declaration_self_declared_chk",
+    "proposed_tag": "environmental_assessment_ce_declaration_self_declared_chk",
+    "proposed_title": "chk - 184",
+    "type": "checkbox",
+    "heading_path": [
+      "ENVIRONMENTAL ASSESSMENT"
+    ]
+  },
+  {
+    "index": 192,
+    "tag": "environmental_assessment_c_rohs_tic_tac_table_declaration_chk",
+    "proposed_tag": "environmental_assessment_c_rohs_tic_tac_table_declaration_chk",
+    "proposed_title": "chk - 185",
+    "type": "checkbox",
+    "heading_path": [
+      "ENVIRONMENTAL ASSESSMENT"
+    ]
+  },
+  {
+    "index": 193,
+    "tag": "environmental_assessment_other_select_other_if_the_document_chk",
+    "proposed_tag": "environmental_assessment_other_select_other_if_the_document_chk",
+    "proposed_title": "chk - 186",
+    "type": "checkbox",
+    "heading_path": [
+      "ENVIRONMENTAL ASSESSMENT"
+    ]
+  },
+  {
+    "index": 194,
+    "tag": "environmental_assessment_testing_required_choose_an_item_combo",
+    "proposed_tag": "environmental_assessment_testing_required_choose_an_item_combo",
+    "proposed_title": "combobox - 007",
+    "type": "combobox",
+    "heading_path": [
+      "ENVIRONMENTAL ASSESSMENT"
+    ]
+  },
+  {
+    "index": 195,
+    "tag": "environmental_assessment_no_update_required_upload_greensoft_fo",
+    "proposed_tag": "environmental_assessment_no_update_required_upload_greensoft_fo",
+    "proposed_title": "chk - 187",
+    "type": "checkbox",
+    "heading_path": [
+      "ENVIRONMENTAL ASSESSMENT"
+    ]
+  },
+  {
+    "index": 196,
+    "tag": "environmental_assessment_no_update_required_upload_greensoft_2",
+    "proposed_tag": "environmental_assessment_no_update_required_upload_greensoft_2",
+    "proposed_title": "chk - 188",
+    "type": "checkbox",
+    "heading_path": [
+      "ENVIRONMENTAL ASSESSMENT"
+    ]
+  },
+  {
+    "index": 197,
+    "tag": "environmental_assessment_no_update_required_upload_greensoft_3",
+    "proposed_tag": "environmental_assessment_no_update_required_upload_greensoft_3",
+    "proposed_title": "chk - 189",
+    "type": "checkbox",
+    "heading_path": [
+      "ENVIRONMENTAL ASSESSMENT"
+    ]
+  },
+  {
+    "index": 198,
+    "tag": "environmental_assessment_revise_regulatory_documents_i_e_declar",
+    "proposed_tag": "environmental_assessment_revise_regulatory_documents_i_e_declar",
+    "proposed_title": "chk - 190",
+    "type": "checkbox",
+    "heading_path": [
+      "ENVIRONMENTAL ASSESSMENT"
+    ]
+  },
+  {
+    "index": 199,
+    "tag": "environmental_assessment_change_impacts_product_scope_is_define",
+    "proposed_tag": "environmental_assessment_change_impacts_product_scope_is_define",
+    "proposed_title": "chk - 191",
+    "type": "checkbox",
+    "heading_path": [
+      "ENVIRONMENTAL ASSESSMENT"
+    ]
+  },
+  {
+    "index": 200,
+    "tag": "environmental_assessment_other_if_other_is_selected_provide__3",
+    "proposed_tag": "environmental_assessment_other_if_other_is_selected_provide__3",
+    "proposed_title": "chk - 192",
+    "type": "checkbox",
+    "heading_path": [
+      "ENVIRONMENTAL ASSESSMENT"
+    ]
+  },
+  {
+    "index": 201,
+    "tag": "environmental_assessment_epa_lead_if_registered_fifra_greensoft",
+    "proposed_tag": "environmental_assessment_epa_lead_if_registered_fifra_greensoft",
+    "proposed_title": "chk - 193",
+    "type": "checkbox",
+    "heading_path": [
+      "ENVIRONMENTAL ASSESSMENT"
+    ]
+  },
+  {
+    "index": 202,
+    "tag": "environmental_assessment_epa_lead_if_registered_fifra_greens_2",
+    "proposed_tag": "environmental_assessment_epa_lead_if_registered_fifra_greens_2",
+    "proposed_title": "chk - 194",
+    "type": "checkbox",
+    "heading_path": [
+      "ENVIRONMENTAL ASSESSMENT"
+    ]
+  },
+  {
+    "index": 203,
+    "tag": "environmental_assessment_other_if_other_is_selected_provide__4",
+    "proposed_tag": "environmental_assessment_other_if_other_is_selected_provide__4",
+    "proposed_title": "chk - 195",
+    "type": "checkbox",
+    "heading_path": [
+      "ENVIRONMENTAL ASSESSMENT"
+    ]
+  },
+  {
+    "index": 204,
+    "tag": "medical_assessment_part_a_safety_compatibility_effectiveness_ch",
+    "proposed_tag": "medical_assessment_part_a_safety_compatibility_effectiveness_ch",
+    "proposed_title": "chk - 196",
+    "type": "checkbox",
+    "heading_path": [
+      "MEDICAL ASSESSMENT"
+    ]
+  },
+  {
+    "index": 205,
+    "tag": "medical_assessment_will_the_change_affect_the_safety_chk",
+    "proposed_tag": "medical_assessment_will_the_change_affect_the_safety_chk",
+    "proposed_title": "chk - 197",
+    "type": "checkbox",
+    "heading_path": [
+      "MEDICAL ASSESSMENT"
+    ]
+  },
+  {
+    "index": 206,
+    "tag": "medical_assessment_will_the_technology_engineering_design_or_ch",
+    "proposed_tag": "medical_assessment_will_the_technology_engineering_design_or_ch",
+    "proposed_title": "chk - 198",
+    "type": "checkbox",
+    "heading_path": [
+      "MEDICAL ASSESSMENT"
+    ]
+  },
+  {
+    "index": 207,
+    "tag": "medical_assessment_is_the_change_introducing_a_new_chk",
+    "proposed_tag": "medical_assessment_is_the_change_introducing_a_new_chk",
+    "proposed_title": "chk - 199",
+    "type": "checkbox",
+    "heading_path": [
+      "MEDICAL ASSESSMENT"
+    ]
+  },
+  {
+    "index": 208,
+    "tag": "medical_assessment_does_the_change_include_or_impact_chk",
+    "proposed_tag": "medical_assessment_does_the_change_include_or_impact_chk",
+    "proposed_title": "chk - 200",
+    "type": "checkbox",
+    "heading_path": [
+      "MEDICAL ASSESSMENT"
+    ]
+  },
+  {
+    "index": 209,
+    "tag": "medical_assessment_does_the_change_introduce_new_risks_chk",
+    "proposed_tag": "medical_assessment_does_the_change_introduce_new_risks_chk",
+    "proposed_title": "chk - 201",
+    "type": "checkbox",
+    "heading_path": [
+      "MEDICAL ASSESSMENT"
+    ]
+  },
+  {
+    "index": 210,
+    "tag": "medical_assessment_will_the_change_affect_the_standards_chk",
+    "proposed_tag": "medical_assessment_will_the_change_affect_the_standards_chk",
+    "proposed_title": "chk - 202",
+    "type": "checkbox",
+    "heading_path": [
+      "MEDICAL ASSESSMENT"
+    ]
+  },
+  {
+    "index": 211,
+    "tag": "medical_assessment_is_there_another_registration_classification",
+    "proposed_tag": "medical_assessment_is_there_another_registration_classification",
+    "proposed_title": "chk - 203",
+    "type": "checkbox",
+    "heading_path": [
+      "MEDICAL ASSESSMENT"
+    ]
+  },
+  {
+    "index": 212,
+    "tag": "medical_assessment_will_the_change_affect_product_packaging_chk",
+    "proposed_tag": "medical_assessment_will_the_change_affect_product_packaging_chk",
+    "proposed_title": "chk - 204",
+    "type": "checkbox",
+    "heading_path": [
+      "MEDICAL ASSESSMENT"
+    ]
+  },
+  {
+    "index": 213,
+    "tag": "medical_assessment_ifu_user_manual_service_manual_translation_c",
+    "proposed_tag": "medical_assessment_ifu_user_manual_service_manual_translation_c",
+    "proposed_title": "chk - 205",
+    "type": "checkbox",
+    "heading_path": [
+      "MEDICAL ASSESSMENT"
+    ]
+  },
+  {
+    "index": 214,
+    "tag": "medical_assessment_ifu_user_manual_service_manual_translatio_2",
+    "proposed_tag": "medical_assessment_ifu_user_manual_service_manual_translatio_2",
+    "proposed_title": "chk - 206",
+    "type": "checkbox",
+    "heading_path": [
+      "MEDICAL ASSESSMENT"
+    ]
+  },
+  {
+    "index": 215,
+    "tag": "medical_assessment_ifu_user_manual_service_manual_translatio_3",
+    "proposed_tag": "medical_assessment_ifu_user_manual_service_manual_translatio_3",
+    "proposed_title": "chk - 207",
+    "type": "checkbox",
+    "heading_path": [
+      "MEDICAL ASSESSMENT"
+    ]
+  },
+  {
+    "index": 216,
+    "tag": "medical_assessment_ifu_user_manual_service_manual_translatio_4",
+    "proposed_tag": "medical_assessment_ifu_user_manual_service_manual_translatio_4",
+    "proposed_title": "chk - 208",
+    "type": "checkbox",
+    "heading_path": [
+      "MEDICAL ASSESSMENT"
+    ]
+  },
+  {
+    "index": 217,
+    "tag": "medical_assessment_esi_quick_start_guide_marketing_material_chk",
+    "proposed_tag": "medical_assessment_esi_quick_start_guide_marketing_material_chk",
+    "proposed_title": "chk - 209",
+    "type": "checkbox",
+    "heading_path": [
+      "MEDICAL ASSESSMENT"
+    ]
+  },
+  {
+    "index": 218,
+    "tag": "medical_assessment_esi_quick_start_guide_marketing_material__2",
+    "proposed_tag": "medical_assessment_esi_quick_start_guide_marketing_material__2",
+    "proposed_title": "chk - 210",
+    "type": "checkbox",
+    "heading_path": [
+      "MEDICAL ASSESSMENT"
+    ]
+  },
+  {
+    "index": 219,
+    "tag": "medical_assessment_esi_quick_start_guide_marketing_material__3",
+    "proposed_tag": "medical_assessment_esi_quick_start_guide_marketing_material__3",
+    "proposed_title": "chk - 211",
+    "type": "checkbox",
+    "heading_path": [
+      "MEDICAL ASSESSMENT"
+    ]
+  },
+  {
+    "index": 220,
+    "tag": "medical_assessment_change_in_label_material_marking_s_chk",
+    "proposed_tag": "medical_assessment_change_in_label_material_marking_s_chk",
+    "proposed_title": "chk - 212",
+    "type": "checkbox",
+    "heading_path": [
+      "MEDICAL ASSESSMENT"
+    ]
+  },
+  {
+    "index": 221,
+    "tag": "medical_assessment_change_in_label_material_marking_s_chk_2",
+    "proposed_tag": "medical_assessment_change_in_label_material_marking_s_chk_2",
+    "proposed_title": "chk - 213",
+    "type": "checkbox",
+    "heading_path": [
+      "MEDICAL ASSESSMENT"
+    ]
+  },
+  {
+    "index": 222,
+    "tag": "medical_assessment_change_in_label_material_marking_s_chk_3",
+    "proposed_tag": "medical_assessment_change_in_label_material_marking_s_chk_3",
+    "proposed_title": "chk - 214",
+    "type": "checkbox",
+    "heading_path": [
+      "MEDICAL ASSESSMENT"
+    ]
+  },
+  {
+    "index": 223,
+    "tag": "medical_assessment_change_in_label_material_marking_s_chk_4",
+    "proposed_tag": "medical_assessment_change_in_label_material_marking_s_chk_4",
+    "proposed_title": "chk - 215",
+    "type": "checkbox",
+    "heading_path": [
+      "MEDICAL ASSESSMENT"
+    ]
+  },
+  {
+    "index": 224,
+    "tag": "medical_assessment_other_if_other_is_selected_provide_chk",
+    "proposed_tag": "medical_assessment_other_if_other_is_selected_provide_chk",
+    "proposed_title": "chk - 216",
+    "type": "checkbox",
+    "heading_path": [
+      "MEDICAL ASSESSMENT"
+    ]
+  },
+  {
+    "index": 225,
+    "tag": "medical_assessment_intended_use_translation_s_change_in_chk",
+    "proposed_tag": "medical_assessment_intended_use_translation_s_change_in_chk",
+    "proposed_title": "chk - 217",
+    "type": "checkbox",
+    "heading_path": [
+      "MEDICAL ASSESSMENT"
+    ]
+  },
+  {
+    "index": 226,
+    "tag": "medical_assessment_intended_use_translation_s_change_in_chk_2",
+    "proposed_tag": "medical_assessment_intended_use_translation_s_change_in_chk_2",
+    "proposed_title": "chk - 218",
+    "type": "checkbox",
+    "heading_path": [
+      "MEDICAL ASSESSMENT"
+    ]
+  },
+  {
+    "index": 227,
+    "tag": "medical_assessment_intended_use_translation_s_change_in_chk_3",
+    "proposed_tag": "medical_assessment_intended_use_translation_s_change_in_chk_3",
+    "proposed_title": "chk - 219",
+    "type": "checkbox",
+    "heading_path": [
+      "MEDICAL ASSESSMENT"
+    ]
+  },
+  {
+    "index": 228,
+    "tag": "medical_assessment_intended_use_translation_s_change_in_chk_4",
+    "proposed_tag": "medical_assessment_intended_use_translation_s_change_in_chk_4",
+    "proposed_title": "chk - 220",
+    "type": "checkbox",
+    "heading_path": [
+      "MEDICAL ASSESSMENT"
+    ]
+  },
+  {
+    "index": 229,
+    "tag": "medical_assessment_other_if_other_is_selected_provide_chk_2",
+    "proposed_tag": "medical_assessment_other_if_other_is_selected_provide_chk_2",
+    "proposed_title": "chk - 221",
+    "type": "checkbox",
+    "heading_path": [
+      "MEDICAL ASSESSMENT"
+    ]
+  },
+  {
+    "index": 230,
+    "tag": "medical_assessment_will_the_technology_engineering_design_perfo",
+    "proposed_tag": "medical_assessment_will_the_technology_engineering_design_perfo",
+    "proposed_title": "chk - 222",
+    "type": "checkbox",
+    "heading_path": [
+      "MEDICAL ASSESSMENT"
+    ]
+  },
+  {
+    "index": 231,
+    "tag": "medical_assessment_change_in_control_mechanism_operating_princi",
+    "proposed_tag": "medical_assessment_change_in_control_mechanism_operating_princi",
+    "proposed_title": "chk - 223",
+    "type": "checkbox",
+    "heading_path": [
+      "MEDICAL ASSESSMENT"
+    ]
+  },
+  {
+    "index": 232,
+    "tag": "medical_assessment_does_the_change_impact_the_product_chk",
+    "proposed_tag": "medical_assessment_does_the_change_impact_the_product_chk",
+    "proposed_title": "chk - 224",
+    "type": "checkbox",
+    "heading_path": [
+      "MEDICAL ASSESSMENT"
+    ]
+  },
+  {
+    "index": 233,
+    "tag": "medical_assessment_does_the_change_impact_a_component_chk",
+    "proposed_tag": "medical_assessment_does_the_change_impact_a_component_chk",
+    "proposed_title": "chk - 225",
+    "type": "checkbox",
+    "heading_path": [
+      "MEDICAL ASSESSMENT"
+    ]
+  },
+  {
+    "index": 234,
+    "tag": "medical_assessment_does_the_change_to_the_part_chk",
+    "proposed_tag": "medical_assessment_does_the_change_to_the_part_chk",
+    "proposed_title": "chk - 226",
+    "type": "checkbox",
+    "heading_path": [
+      "MEDICAL ASSESSMENT"
+    ]
+  },
+  {
+    "index": 235,
+    "tag": "medical_assessment_does_the_change_affect_the_performance_chk",
+    "proposed_tag": "medical_assessment_does_the_change_affect_the_performance_chk",
+    "proposed_title": "chk - 227",
+    "type": "checkbox",
+    "heading_path": [
+      "MEDICAL ASSESSMENT"
+    ]
+  },
+  {
+    "index": 236,
+    "tag": "medical_assessment_does_the_change_involve_a_component_chk",
+    "proposed_tag": "medical_assessment_does_the_change_involve_a_component_chk",
+    "proposed_title": "chk - 228",
+    "type": "checkbox",
+    "heading_path": [
+      "MEDICAL ASSESSMENT"
+    ]
+  },
+  {
+    "index": 237,
+    "tag": "medical_assessment_change_in_packaging_design_chk",
+    "proposed_tag": "medical_assessment_change_in_packaging_design_chk",
+    "proposed_title": "chk - 229",
+    "type": "checkbox",
+    "heading_path": [
+      "MEDICAL ASSESSMENT"
+    ]
+  },
+  {
+    "index": 238,
+    "tag": "medical_assessment_change_uses_the_same_technology_and_chk",
+    "proposed_tag": "medical_assessment_change_uses_the_same_technology_and_chk",
+    "proposed_title": "chk - 230",
+    "type": "checkbox",
+    "heading_path": [
+      "MEDICAL ASSESSMENT"
+    ]
+  },
+  {
+    "index": 239,
+    "tag": "medical_assessment_does_the_change_impact_safety_critical_chk",
+    "proposed_tag": "medical_assessment_does_the_change_impact_safety_critical_chk",
+    "proposed_title": "chk - 231",
+    "type": "checkbox",
+    "heading_path": [
+      "MEDICAL ASSESSMENT"
+    ]
+  },
+  {
+    "index": 240,
+    "tag": "medical_assessment_does_the_change_affect_the_intended_chk",
+    "proposed_tag": "medical_assessment_does_the_change_affect_the_intended_chk",
+    "proposed_title": "chk - 232",
+    "type": "checkbox",
+    "heading_path": [
+      "MEDICAL ASSESSMENT"
+    ]
+  },
+  {
+    "index": 241,
+    "tag": "medical_assessment_risk_based_assessment_of_the_changed_chk",
+    "proposed_tag": "medical_assessment_risk_based_assessment_of_the_changed_chk",
+    "proposed_title": "chk - 233",
+    "type": "checkbox",
+    "heading_path": [
+      "MEDICAL ASSESSMENT"
+    ]
+  },
+  {
+    "index": 242,
+    "tag": "medical_assessment_is_clinical_data_necessary_to_evaluate_chk",
+    "proposed_tag": "medical_assessment_is_clinical_data_necessary_to_evaluate_chk",
+    "proposed_title": "chk - 234",
+    "type": "checkbox",
+    "heading_path": [
+      "MEDICAL ASSESSMENT"
+    ]
+  },
+  {
+    "index": 243,
+    "tag": "medical_assessment_is_the_change_introducing_a_new_chk_2",
+    "proposed_tag": "medical_assessment_is_the_change_introducing_a_new_chk_2",
+    "proposed_title": "chk - 235",
+    "type": "checkbox",
+    "heading_path": [
+      "MEDICAL ASSESSMENT"
+    ]
+  },
+  {
+    "index": 244,
+    "tag": "medical_assessment_is_this_a_change_in_material_chk",
+    "proposed_tag": "medical_assessment_is_this_a_change_in_material_chk",
+    "proposed_title": "chk - 236",
+    "type": "checkbox",
+    "heading_path": [
+      "MEDICAL ASSESSMENT"
+    ]
+  },
+  {
+    "index": 245,
+    "tag": "medical_assessment_will_the_changed_material_directly_or_chk",
+    "proposed_tag": "medical_assessment_will_the_changed_material_directly_or_chk",
+    "proposed_title": "chk - 237",
+    "type": "checkbox",
+    "heading_path": [
+      "MEDICAL ASSESSMENT"
+    ]
+  },
+  {
+    "index": 246,
+    "tag": "medical_assessment_does_a_risk_assessment_identify_any_chk",
+    "proposed_tag": "medical_assessment_does_a_risk_assessment_identify_any_chk",
+    "proposed_title": "chk - 238",
+    "type": "checkbox",
+    "heading_path": [
+      "MEDICAL ASSESSMENT"
+    ]
+  },
+  {
+    "index": 247,
+    "tag": "medical_assessment_has_the_manufacturer_used_the_same_chk",
+    "proposed_tag": "medical_assessment_has_the_manufacturer_used_the_same_chk",
+    "proposed_title": "chk - 239",
+    "type": "checkbox",
+    "heading_path": [
+      "MEDICAL ASSESSMENT"
+    ]
+  },
+  {
+    "index": 248,
+    "tag": "medical_assessment_could_the_change_affect_the_device_chk",
+    "proposed_tag": "medical_assessment_could_the_change_affect_the_device_chk",
+    "proposed_title": "chk - 240",
+    "type": "checkbox",
+    "heading_path": [
+      "MEDICAL ASSESSMENT"
+    ]
+  },
+  {
+    "index": 249,
+    "tag": "medical_assessment_does_the_supplier_change_impact_split_chk",
+    "proposed_tag": "medical_assessment_does_the_supplier_change_impact_split_chk",
+    "proposed_title": "chk - 241",
+    "type": "checkbox",
+    "heading_path": [
+      "MEDICAL ASSESSMENT"
+    ]
+  },
+  {
+    "index": 250,
+    "tag": "medical_assessment_does_the_supplier_change_affect_critical_chk",
+    "proposed_tag": "medical_assessment_does_the_supplier_change_affect_critical_chk",
+    "proposed_title": "chk - 242",
+    "type": "checkbox",
+    "heading_path": [
+      "MEDICAL ASSESSMENT"
+    ]
+  },
+  {
+    "index": 251,
+    "tag": "medical_assessment_is_there_a_change_to_product_chk",
+    "proposed_tag": "medical_assessment_is_there_a_change_to_product_chk",
+    "proposed_title": "chk - 243",
+    "type": "checkbox",
+    "heading_path": [
+      "MEDICAL ASSESSMENT"
+    ]
+  },
+  {
+    "index": 252,
+    "tag": "medical_assessment_does_the_sw_change_impact_the_chk",
+    "proposed_tag": "medical_assessment_does_the_sw_change_impact_the_chk",
+    "proposed_title": "chk - 244",
+    "type": "checkbox",
+    "heading_path": [
+      "MEDICAL ASSESSMENT"
+    ]
+  },
+  {
+    "index": 253,
+    "tag": "medical_assessment_does_the_sw_change_include_a_chk",
+    "proposed_tag": "medical_assessment_does_the_sw_change_include_a_chk",
+    "proposed_title": "chk - 245",
+    "type": "checkbox",
+    "heading_path": [
+      "MEDICAL ASSESSMENT"
+    ]
+  },
+  {
+    "index": 254,
+    "tag": "medical_assessment_is_the_sw_change_made_solely_chk",
+    "proposed_tag": "medical_assessment_is_the_sw_change_made_solely_chk",
+    "proposed_title": "chk - 246",
+    "type": "checkbox",
+    "heading_path": [
+      "MEDICAL ASSESSMENT"
+    ]
+  },
+  {
+    "index": 255,
+    "tag": "medical_assessment_does_the_sw_change_introduce_a_chk",
+    "proposed_tag": "medical_assessment_does_the_sw_change_introduce_a_chk",
+    "proposed_title": "chk - 247",
+    "type": "checkbox",
+    "heading_path": [
+      "MEDICAL ASSESSMENT"
+    ]
+  },
+  {
+    "index": 256,
+    "tag": "medical_assessment_does_the_change_create_or_necessitate_chk",
+    "proposed_tag": "medical_assessment_does_the_change_create_or_necessitate_chk",
+    "proposed_title": "chk - 248",
+    "type": "checkbox",
+    "heading_path": [
+      "MEDICAL ASSESSMENT"
+    ]
+  },
+  {
+    "index": 257,
+    "tag": "medical_assessment_could_the_change_impact_functionality_or_chk",
+    "proposed_tag": "medical_assessment_could_the_change_impact_functionality_or_chk",
+    "proposed_title": "chk - 249",
+    "type": "checkbox",
+    "heading_path": [
+      "MEDICAL ASSESSMENT"
+    ]
+  },
+  {
+    "index": 258,
+    "tag": "medical_assessment_are_there_additional_software_factors_that_c",
+    "proposed_tag": "medical_assessment_are_there_additional_software_factors_that_c",
+    "proposed_title": "chk - 250",
+    "type": "checkbox",
+    "heading_path": [
+      "MEDICAL ASSESSMENT"
+    ]
+  },
+  {
+    "index": 259,
+    "tag": "medical_assessment_usa_fda_510_k_exempt_chk",
+    "proposed_tag": "medical_assessment_usa_fda_510_k_exempt_chk",
+    "proposed_title": "chk - 251",
+    "type": "checkbox",
+    "heading_path": [
+      "MEDICAL ASSESSMENT"
+    ]
+  },
+  {
+    "index": 260,
+    "tag": "medical_assessment_usa_fda_510_k_chk",
+    "proposed_tag": "medical_assessment_usa_fda_510_k_chk",
+    "proposed_title": "chk - 252",
+    "type": "checkbox",
+    "heading_path": [
+      "MEDICAL ASSESSMENT"
+    ]
+  },
+  {
+    "index": 261,
+    "tag": "medical_assessment_canada_mdsap_chk",
+    "proposed_tag": "medical_assessment_canada_mdsap_chk",
+    "proposed_title": "chk - 253",
+    "type": "checkbox",
+    "heading_path": [
+      "MEDICAL ASSESSMENT"
+    ]
+  },
+  {
+    "index": 262,
+    "tag": "medical_assessment_mexico_cofepris_chk",
+    "proposed_tag": "medical_assessment_mexico_cofepris_chk",
+    "proposed_title": "chk - 254",
+    "type": "checkbox",
+    "heading_path": [
+      "MEDICAL ASSESSMENT"
+    ]
+  },
+  {
+    "index": 263,
+    "tag": "medical_assessment_argentina_anmat_chk",
+    "proposed_tag": "medical_assessment_argentina_anmat_chk",
+    "proposed_title": "chk - 255",
+    "type": "checkbox",
+    "heading_path": [
+      "MEDICAL ASSESSMENT"
+    ]
+  },
+  {
+    "index": 264,
+    "tag": "medical_assessment_brazil_anvisa_chk",
+    "proposed_tag": "medical_assessment_brazil_anvisa_chk",
+    "proposed_title": "chk - 256",
+    "type": "checkbox",
+    "heading_path": [
+      "MEDICAL ASSESSMENT"
+    ]
+  },
+  {
+    "index": 265,
+    "tag": "medical_assessment_brazil_inmetro_chk",
+    "proposed_tag": "medical_assessment_brazil_inmetro_chk",
+    "proposed_title": "chk - 257",
+    "type": "checkbox",
+    "heading_path": [
+      "MEDICAL ASSESSMENT"
+    ]
+  },
+  {
+    "index": 266,
+    "tag": "medical_assessment_columbia_invima_chk",
+    "proposed_tag": "medical_assessment_columbia_invima_chk",
+    "proposed_title": "chk - 258",
+    "type": "checkbox",
+    "heading_path": [
+      "MEDICAL ASSESSMENT"
+    ]
+  },
+  {
+    "index": 267,
+    "tag": "medical_assessment_costa_rica_moh_chk",
+    "proposed_tag": "medical_assessment_costa_rica_moh_chk",
+    "proposed_title": "chk - 259",
+    "type": "checkbox",
+    "heading_path": [
+      "MEDICAL ASSESSMENT"
+    ]
+  },
+  {
+    "index": 268,
+    "tag": "medical_assessment_ecuador_arcsa_chk",
+    "proposed_tag": "medical_assessment_ecuador_arcsa_chk",
+    "proposed_title": "chk - 260",
+    "type": "checkbox",
+    "heading_path": [
+      "MEDICAL ASSESSMENT"
+    ]
+  },
+  {
+    "index": 269,
+    "tag": "medical_assessment_el_salvador_dnm_chk",
+    "proposed_tag": "medical_assessment_el_salvador_dnm_chk",
+    "proposed_title": "chk - 261",
+    "type": "checkbox",
+    "heading_path": [
+      "MEDICAL ASSESSMENT"
+    ]
+  },
+  {
+    "index": 270,
+    "tag": "medical_assessment_guatemala_mspas_chk",
+    "proposed_tag": "medical_assessment_guatemala_mspas_chk",
+    "proposed_title": "chk - 262",
+    "type": "checkbox",
+    "heading_path": [
+      "MEDICAL ASSESSMENT"
+    ]
+  },
+  {
+    "index": 271,
+    "tag": "medical_assessment_nicaragua_minsa_chk",
+    "proposed_tag": "medical_assessment_nicaragua_minsa_chk",
+    "proposed_title": "chk - 263",
+    "type": "checkbox",
+    "heading_path": [
+      "MEDICAL ASSESSMENT"
+    ]
+  },
+  {
+    "index": 272,
+    "tag": "medical_assessment_panama_minsa_moh_chk",
+    "proposed_tag": "medical_assessment_panama_minsa_moh_chk",
+    "proposed_title": "chk - 264",
+    "type": "checkbox",
+    "heading_path": [
+      "MEDICAL ASSESSMENT"
+    ]
+  },
+  {
+    "index": 273,
+    "tag": "medical_assessment_peru_minsa_chk",
+    "proposed_tag": "medical_assessment_peru_minsa_chk",
+    "proposed_title": "chk - 265",
+    "type": "checkbox",
+    "heading_path": [
+      "MEDICAL ASSESSMENT"
+    ]
+  },
+  {
+    "index": 274,
+    "tag": "medical_assessment_eu_ce_nb_chk",
+    "proposed_tag": "medical_assessment_eu_ce_nb_chk",
+    "proposed_title": "chk - 266",
+    "type": "checkbox",
+    "heading_path": [
+      "MEDICAL ASSESSMENT"
+    ]
+  },
+  {
+    "index": 275,
+    "tag": "medical_assessment_uk_mhra_chk",
+    "proposed_tag": "medical_assessment_uk_mhra_chk",
+    "proposed_title": "chk - 267",
+    "type": "checkbox",
+    "heading_path": [
+      "MEDICAL ASSESSMENT"
+    ]
+  },
+  {
+    "index": 276,
+    "tag": "medical_assessment_uk_ukca_nb_chk",
+    "proposed_tag": "medical_assessment_uk_ukca_nb_chk",
+    "proposed_title": "chk - 268",
+    "type": "checkbox",
+    "heading_path": [
+      "MEDICAL ASSESSMENT"
+    ]
+  },
+  {
+    "index": 277,
+    "tag": "medical_assessment_uk_ukca_chk",
+    "proposed_tag": "medical_assessment_uk_ukca_chk",
+    "proposed_title": "chk - 269",
+    "type": "checkbox",
+    "heading_path": [
+      "MEDICAL ASSESSMENT"
+    ]
+  },
+  {
+    "index": 278,
+    "tag": "medical_assessment_iceland_ima_chk",
+    "proposed_tag": "medical_assessment_iceland_ima_chk",
+    "proposed_title": "chk - 270",
+    "type": "checkbox",
+    "heading_path": [
+      "MEDICAL ASSESSMENT"
+    ]
+  },
+  {
+    "index": 279,
+    "tag": "medical_assessment_israel_moh_chk",
+    "proposed_tag": "medical_assessment_israel_moh_chk",
+    "proposed_title": "chk - 271",
+    "type": "checkbox",
+    "heading_path": [
+      "MEDICAL ASSESSMENT"
+    ]
+  },
+  {
+    "index": 280,
+    "tag": "medical_assessment_egypt_eda_chk",
+    "proposed_tag": "medical_assessment_egypt_eda_chk",
+    "proposed_title": "chk - 272",
+    "type": "checkbox",
+    "heading_path": [
+      "MEDICAL ASSESSMENT"
+    ]
+  },
+  {
+    "index": 281,
+    "tag": "medical_assessment_saudi_arabia_sfda_chk",
+    "proposed_tag": "medical_assessment_saudi_arabia_sfda_chk",
+    "proposed_title": "chk - 273",
+    "type": "checkbox",
+    "heading_path": [
+      "MEDICAL ASSESSMENT"
+    ]
+  },
+  {
+    "index": 282,
+    "tag": "medical_assessment_turkey_titck_chk",
+    "proposed_tag": "medical_assessment_turkey_titck_chk",
+    "proposed_title": "chk - 274",
+    "type": "checkbox",
+    "heading_path": [
+      "MEDICAL ASSESSMENT"
+    ]
+  },
+  {
+    "index": 283,
+    "tag": "medical_assessment_norway_noma_chk",
+    "proposed_tag": "medical_assessment_norway_noma_chk",
+    "proposed_title": "chk - 275",
+    "type": "checkbox",
+    "heading_path": [
+      "MEDICAL ASSESSMENT"
+    ]
+  },
+  {
+    "index": 284,
+    "tag": "medical_assessment_serbia_alims_chk",
+    "proposed_tag": "medical_assessment_serbia_alims_chk",
+    "proposed_title": "chk - 276",
+    "type": "checkbox",
+    "heading_path": [
+      "MEDICAL ASSESSMENT"
+    ]
+  },
+  {
+    "index": 285,
+    "tag": "medical_assessment_ukraine_smdc_chk",
+    "proposed_tag": "medical_assessment_ukraine_smdc_chk",
+    "proposed_title": "chk - 277",
+    "type": "checkbox",
+    "heading_path": [
+      "MEDICAL ASSESSMENT"
+    ]
+  },
+  {
+    "index": 286,
+    "tag": "medical_assessment_morocco_dmp_chk",
+    "proposed_tag": "medical_assessment_morocco_dmp_chk",
+    "proposed_title": "chk - 278",
+    "type": "checkbox",
+    "heading_path": [
+      "MEDICAL ASSESSMENT"
+    ]
+  },
+  {
+    "index": 287,
+    "tag": "medical_assessment_china_nmpa_chk",
+    "proposed_tag": "medical_assessment_china_nmpa_chk",
+    "proposed_title": "chk - 279",
+    "type": "checkbox",
+    "heading_path": [
+      "MEDICAL ASSESSMENT"
+    ]
+  },
+  {
+    "index": 288,
+    "tag": "medical_assessment_malaysia_mda_chk",
+    "proposed_tag": "medical_assessment_malaysia_mda_chk",
+    "proposed_title": "chk - 280",
+    "type": "checkbox",
+    "heading_path": [
+      "MEDICAL ASSESSMENT"
+    ]
+  },
+  {
+    "index": 289,
+    "tag": "medical_assessment_south_korea_mfds_chk",
+    "proposed_tag": "medical_assessment_south_korea_mfds_chk",
+    "proposed_title": "chk - 281",
+    "type": "checkbox",
+    "heading_path": [
+      "MEDICAL ASSESSMENT"
+    ]
+  },
+  {
+    "index": 290,
+    "tag": "medical_assessment_taiwan_tfda_chk",
+    "proposed_tag": "medical_assessment_taiwan_tfda_chk",
+    "proposed_title": "chk - 282",
+    "type": "checkbox",
+    "heading_path": [
+      "MEDICAL ASSESSMENT"
+    ]
+  },
+  {
+    "index": 291,
+    "tag": "medical_assessment_india_cdsco_chk",
+    "proposed_tag": "medical_assessment_india_cdsco_chk",
+    "proposed_title": "chk - 283",
+    "type": "checkbox",
+    "heading_path": [
+      "MEDICAL ASSESSMENT"
+    ]
+  },
+  {
+    "index": 292,
+    "tag": "medical_assessment_singapore_hsa_chk",
+    "proposed_tag": "medical_assessment_singapore_hsa_chk",
+    "proposed_title": "chk - 284",
+    "type": "checkbox",
+    "heading_path": [
+      "MEDICAL ASSESSMENT"
+    ]
+  },
+  {
+    "index": 293,
+    "tag": "medical_assessment_japan_pmda_chk",
+    "proposed_tag": "medical_assessment_japan_pmda_chk",
+    "proposed_title": "chk - 285",
+    "type": "checkbox",
+    "heading_path": [
+      "MEDICAL ASSESSMENT"
+    ]
+  },
+  {
+    "index": 294,
+    "tag": "medical_assessment_australia_tga_chk",
+    "proposed_tag": "medical_assessment_australia_tga_chk",
+    "proposed_title": "chk - 286",
+    "type": "checkbox",
+    "heading_path": [
+      "MEDICAL ASSESSMENT"
+    ]
+  },
+  {
+    "index": 295,
+    "tag": "medical_assessment_hong_kong_mco_chk",
+    "proposed_tag": "medical_assessment_hong_kong_mco_chk",
+    "proposed_title": "chk - 287",
+    "type": "checkbox",
+    "heading_path": [
+      "MEDICAL ASSESSMENT"
+    ]
+  },
+  {
+    "index": 296,
+    "tag": "medical_assessment_indonesia_moh_chk",
+    "proposed_tag": "medical_assessment_indonesia_moh_chk",
+    "proposed_title": "chk - 288",
+    "type": "checkbox",
+    "heading_path": [
+      "MEDICAL ASSESSMENT"
+    ]
+  },
+  {
+    "index": 297,
+    "tag": "medical_assessment_new_zealand_medsafe_chk",
+    "proposed_tag": "medical_assessment_new_zealand_medsafe_chk",
+    "proposed_title": "chk - 289",
+    "type": "checkbox",
+    "heading_path": [
+      "MEDICAL ASSESSMENT"
+    ]
+  },
+  {
+    "index": 298,
+    "tag": "medical_assessment_other_select_other_if_the_approval_chk",
+    "proposed_tag": "medical_assessment_other_select_other_if_the_approval_chk",
+    "proposed_title": "chk - 290",
+    "type": "checkbox",
+    "heading_path": [
+      "MEDICAL ASSESSMENT"
+    ]
+  },
+  {
+    "index": 299,
+    "tag": "medical_assessment_iec_60601_report_s_report_insert_chk",
+    "proposed_tag": "medical_assessment_iec_60601_report_s_report_insert_chk",
+    "proposed_title": "chk - 291",
+    "type": "checkbox",
+    "heading_path": [
+      "MEDICAL ASSESSMENT"
+    ]
+  },
+  {
+    "index": 300,
+    "tag": "medical_assessment_iec_60601_report_s_report_insert_chk_2",
+    "proposed_tag": "medical_assessment_iec_60601_report_s_report_insert_chk_2",
+    "proposed_title": "chk - 292",
+    "type": "checkbox",
+    "heading_path": [
+      "MEDICAL ASSESSMENT"
+    ]
+  },
+  {
+    "index": 301,
+    "tag": "medical_assessment_iec_61010_report_s_report_insert_chk",
+    "proposed_tag": "medical_assessment_iec_61010_report_s_report_insert_chk",
+    "proposed_title": "chk - 293",
+    "type": "checkbox",
+    "heading_path": [
+      "MEDICAL ASSESSMENT"
+    ]
+  },
+  {
+    "index": 302,
+    "tag": "medical_assessment_iec_61010_report_s_report_insert_chk_2",
+    "proposed_tag": "medical_assessment_iec_61010_report_s_report_insert_chk_2",
+    "proposed_title": "chk - 294",
+    "type": "checkbox",
+    "heading_path": [
+      "MEDICAL ASSESSMENT"
+    ]
+  },
+  {
+    "index": 303,
+    "tag": "medical_assessment_other_select_other_if_the_report_chk",
+    "proposed_tag": "medical_assessment_other_select_other_if_the_report_chk",
+    "proposed_title": "chk - 295",
+    "type": "checkbox",
+    "heading_path": [
+      "MEDICAL ASSESSMENT"
+    ]
+  },
+  {
+    "index": 304,
+    "tag": "medical_assessment_udi_ce_eu_nb_packaging_shipping_chk",
+    "proposed_tag": "medical_assessment_udi_ce_eu_nb_packaging_shipping_chk",
+    "proposed_title": "chk - 296",
+    "type": "checkbox",
+    "heading_path": [
+      "MEDICAL ASSESSMENT"
+    ]
+  },
+  {
+    "index": 305,
+    "tag": "medical_assessment_udi_ce_eu_nb_packaging_shipping_chk_2",
+    "proposed_tag": "medical_assessment_udi_ce_eu_nb_packaging_shipping_chk_2",
+    "proposed_title": "chk - 297",
+    "type": "checkbox",
+    "heading_path": [
+      "MEDICAL ASSESSMENT"
+    ]
+  },
+  {
+    "index": 306,
+    "tag": "medical_assessment_udi_ce_eu_nb_packaging_shipping_chk_3",
+    "proposed_tag": "medical_assessment_udi_ce_eu_nb_packaging_shipping_chk_3",
+    "proposed_title": "chk - 298",
+    "type": "checkbox",
+    "heading_path": [
+      "MEDICAL ASSESSMENT"
+    ]
+  },
+  {
+    "index": 307,
+    "tag": "medical_assessment_udi_ce_eu_nb_packaging_shipping_chk_4",
+    "proposed_tag": "medical_assessment_udi_ce_eu_nb_packaging_shipping_chk_4",
+    "proposed_title": "chk - 299",
+    "type": "checkbox",
+    "heading_path": [
+      "MEDICAL ASSESSMENT"
+    ]
+  },
+  {
+    "index": 308,
+    "tag": "medical_assessment_other_if_other_is_selected_provide_chk_3",
+    "proposed_tag": "medical_assessment_other_if_other_is_selected_provide_chk_3",
+    "proposed_title": "chk - 300",
+    "type": "checkbox",
+    "heading_path": [
+      "MEDICAL ASSESSMENT"
+    ]
+  },
+  {
+    "index": 309,
+    "tag": "medical_assessment_testing_required_choose_an_item_combo",
+    "proposed_tag": "medical_assessment_testing_required_choose_an_item_combo",
+    "proposed_title": "combobox - 008",
+    "type": "combobox",
+    "heading_path": [
+      "MEDICAL ASSESSMENT"
+    ]
+  },
+  {
+    "index": 310,
+    "tag": "medical_assessment_registration_impact_choose_an_item_combo",
+    "proposed_tag": "medical_assessment_registration_impact_choose_an_item_combo",
+    "proposed_title": "combobox - 009",
+    "type": "combobox",
+    "heading_path": [
+      "MEDICAL ASSESSMENT"
+    ]
+  },
+  {
+    "index": 311,
+    "tag": "medical_assessment_verify_intended_use_consistency_verify_chang",
+    "proposed_tag": "medical_assessment_verify_intended_use_consistency_verify_chang",
+    "proposed_title": "chk - 301",
+    "type": "checkbox",
+    "heading_path": [
+      "MEDICAL ASSESSMENT"
+    ]
+  },
+  {
+    "index": 312,
+    "tag": "medical_assessment_verify_intended_use_consistency_verify_ch_2",
+    "proposed_tag": "medical_assessment_verify_intended_use_consistency_verify_ch_2",
+    "proposed_title": "chk - 302",
+    "type": "checkbox",
+    "heading_path": [
+      "MEDICAL ASSESSMENT"
+    ]
+  },
+  {
+    "index": 313,
+    "tag": "medical_assessment_verify_intended_use_consistency_verify_ch_3",
+    "proposed_tag": "medical_assessment_verify_intended_use_consistency_verify_ch_3",
+    "proposed_title": "chk - 303",
+    "type": "checkbox",
+    "heading_path": [
+      "MEDICAL ASSESSMENT"
+    ]
+  },
+  {
+    "index": 314,
+    "tag": "medical_assessment_submit_to_eu_nb_submit_and_chk",
+    "proposed_tag": "medical_assessment_submit_to_eu_nb_submit_and_chk",
+    "proposed_title": "chk - 304",
+    "type": "checkbox",
+    "heading_path": [
+      "MEDICAL ASSESSMENT"
+    ]
+  },
+  {
+    "index": 315,
+    "tag": "medical_assessment_submit_to_eu_nb_submit_and_chk_2",
+    "proposed_tag": "medical_assessment_submit_to_eu_nb_submit_and_chk_2",
+    "proposed_title": "chk - 305",
+    "type": "checkbox",
+    "heading_path": [
+      "MEDICAL ASSESSMENT"
+    ]
+  },
+  {
+    "index": 316,
+    "tag": "medical_assessment_submit_to_eu_nb_submit_and_chk_3",
+    "proposed_tag": "medical_assessment_submit_to_eu_nb_submit_and_chk_3",
+    "proposed_title": "chk - 306",
+    "type": "checkbox",
+    "heading_path": [
+      "MEDICAL ASSESSMENT"
+    ]
+  },
+  {
+    "index": 317,
+    "tag": "medical_assessment_other_if_other_is_selected_provide_chk_4",
+    "proposed_tag": "medical_assessment_other_if_other_is_selected_provide_chk_4",
+    "proposed_title": "chk - 307",
+    "type": "checkbox",
+    "heading_path": [
+      "MEDICAL ASSESSMENT"
+    ]
+  },
+  {
+    "index": 318,
+    "tag": "medical_assessment_regional_ra_lead_s_fda_correspondent_chk",
+    "proposed_tag": "medical_assessment_regional_ra_lead_s_fda_correspondent_chk",
+    "proposed_title": "chk - 308",
+    "type": "checkbox",
+    "heading_path": [
+      "MEDICAL ASSESSMENT"
+    ]
+  },
+  {
+    "index": 319,
+    "tag": "medical_assessment_regional_ra_lead_s_fda_correspondent_chk_2",
+    "proposed_tag": "medical_assessment_regional_ra_lead_s_fda_correspondent_chk_2",
+    "proposed_title": "chk - 309",
+    "type": "checkbox",
+    "heading_path": [
+      "MEDICAL ASSESSMENT"
+    ]
+  },
+  {
+    "index": 320,
+    "tag": "medical_assessment_regional_ra_lead_s_fda_correspondent_chk_3",
+    "proposed_tag": "medical_assessment_regional_ra_lead_s_fda_correspondent_chk_3",
+    "proposed_title": "chk - 310",
+    "type": "checkbox",
+    "heading_path": [
+      "MEDICAL ASSESSMENT"
+    ]
+  },
+  {
+    "index": 321,
+    "tag": "medical_assessment_regional_ra_lead_s_fda_correspondent_chk_4",
+    "proposed_tag": "medical_assessment_regional_ra_lead_s_fda_correspondent_chk_4",
+    "proposed_title": "chk - 311",
+    "type": "checkbox",
+    "heading_path": [
+      "MEDICAL ASSESSMENT"
+    ]
+  },
+  {
+    "index": 322,
+    "tag": "medical_assessment_notify_authorities_of_product_changes_where_",
+    "proposed_tag": "medical_assessment_notify_authorities_of_product_changes_where_",
+    "proposed_title": "chk - 312",
+    "type": "checkbox",
+    "heading_path": [
+      "MEDICAL ASSESSMENT"
+    ]
+  },
+  {
+    "index": 323,
+    "tag": "medical_assessment_notify_authorities_of_product_changes_whe_2",
+    "proposed_tag": "medical_assessment_notify_authorities_of_product_changes_whe_2",
+    "proposed_title": "chk - 313",
+    "type": "checkbox",
+    "heading_path": [
+      "MEDICAL ASSESSMENT"
+    ]
+  },
+  {
+    "index": 324,
+    "tag": "medical_assessment_click_or_tap_to_enter_a_date",
+    "proposed_tag": "medical_assessment_click_or_tap_to_enter_a_date",
+    "proposed_title": "date - 001",
+    "type": "date",
+    "heading_path": [
+      "MEDICAL ASSESSMENT"
+    ]
+  },
+  {
+    "index": 325,
+    "tag": "medical_assessment_click_or_tap_to_enter_a_date_2",
+    "proposed_tag": "medical_assessment_click_or_tap_to_enter_a_date_2",
+    "proposed_title": "date - 002",
+    "type": "date",
+    "heading_path": [
+      "MEDICAL ASSESSMENT"
+    ]
+  },
+  {
+    "index": 326,
+    "tag": "medical_assessment_medical_only_did_any_design_verification_com",
+    "proposed_tag": "medical_assessment_medical_only_did_any_design_verification_com",
+    "proposed_title": "combobox - 010",
+    "type": "combobox",
+    "heading_path": [
+      "MEDICAL ASSESSMENT"
+    ]
+  },
+  {
+    "index": 327,
+    "tag": "medical_assessment_all_affected_reports_were_verified_for_chk",
+    "proposed_tag": "medical_assessment_all_affected_reports_were_verified_for_chk",
+    "proposed_title": "chk - 314",
+    "type": "checkbox",
+    "heading_path": [
+      "MEDICAL ASSESSMENT"
+    ]
+  },
+  {
+    "index": 328,
+    "tag": "medical_assessment_not_a_medical_device_chk",
+    "proposed_tag": "medical_assessment_not_a_medical_device_chk",
+    "proposed_title": "chk - 315",
+    "type": "checkbox",
+    "heading_path": [
+      "MEDICAL ASSESSMENT"
+    ]
+  },
+  {
+    "index": 329,
+    "tag": "medical_assessment_click_or_tap_to_enter_a_date_3",
+    "proposed_tag": "medical_assessment_click_or_tap_to_enter_a_date_3",
+    "proposed_title": "date - 003",
+    "type": "date",
+    "heading_path": [
+      "MEDICAL ASSESSMENT"
+    ]
+  },
+  {
+    "index": 330,
+    "tag": "medical_assessment_click_or_tap_to_enter_a_date_4",
+    "proposed_tag": "medical_assessment_click_or_tap_to_enter_a_date_4",
+    "proposed_title": "date - 004",
+    "type": "date",
+    "heading_path": [
+      "MEDICAL ASSESSMENT"
+    ]
+  }
+]

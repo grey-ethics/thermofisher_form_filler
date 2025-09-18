@@ -1,0 +1,30 @@
+Breakdown by type:
+
+checkbox: 315
+
+dropdown: 1
+
+combobox: 10
+
+date: 4
+
+
+===== ===== ===== ===== ===== 
+
+
+(venv) PS C:\Users\K Santosh Kumar\Desktop\HEALTHARK\04_thermofisher\Downloaded_Documents\edited> python summarize_controls.py audit_report.json
+
+From audit_report.json:
+ Total content controls: 330
+
+ By type: {'checkbox': 315, 'dropdown': 1, 'combobox': 10, 'date': 4}
+
+ Locked controls: 0
+ Controls with empty Tag or Title: 16
+ Checkbox symbol summary: {'checked:2612': 315, 'unchecked:2610': 315}
+
+ Leftover chk tokens: 0
+ Leftover box glyph occurrences found: 314
+
+If you want per-control details (index/tag/title), pass your controls_report.json as the 2nd arg.
+(venv) PS C:\Users\K Santosh Kumar\Desktop\HEALTHARK\04_thermofisher\Downloaded_Documents\edited>

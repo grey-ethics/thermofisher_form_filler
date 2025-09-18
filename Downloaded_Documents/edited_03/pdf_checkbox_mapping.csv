@@ -1,0 +1,31 @@
+index,title,tag,page,box_x,box_y,box_w,box_h,distance,anchor
+1,chk,epd_ecr_gepc_chk,3,85.73,135.41,10.08,10.08,12.91,EPD ECR GEPC
+2,chk,epd_ecr_gepc_chk_2,3,85.73,135.41,10.08,10.08,12.91,EPD ECR GEPC
+3,chk,epd_ecr_gepc_chk_3,3,85.73,135.41,10.08,10.08,12.91,EPD ECR GEPC
+37,chk,risk_management_file_the_change_does_not_impact_the_chk,4,63.41,169.31,7.92,7.92,57.6,The change does not impact the Risk
+38,chk,risk_management_file_the_product_family_does_not_have_chk,4,63.41,169.31,7.92,7.92,63.51,The product family does not have a
+40,chk,risk_management_file_the_change_affects_the_current_risk_chk,4,63.41,199.94,7.92,7.92,82.47,The change affects the current risk probability
+41,chk,risk_management_file_the_change_will_mean_that_the_chk,4,63.41,210.38,7.92,7.92,68.2,The change will mean that the device
+42,chk,risk_management_file_the_performance_evaluation_data_for_the_ch,4,63.41,220.46,7.92,7.92,86.88,The performance evaluation data for the original
+45,chk,risk_management_file_the_change_requires_a_process_validation_c,4,63.41,261.52,7.92,7.92,73.68,The change requires a process validation
+47,chk,risk_management_file_the_change_results_from_actions_taken_chk,4,63.41,292.14,7.92,7.92,82.01,The change results from actions taken related
+53,chk,risk_management_file_capa_owner_notified_chk,4,63.41,385.43,7.92,7.92,37.78,CAPA owner notified
+54,chk,performance_compliance_assessment_the_change_does_not_impact_th,4,76.01,462.5,7.92,7.92,64.96,The change does not impact the performance
+57,chk,performance_compliance_assessment_product_currently_has_outdate,5,135.43,242.8,7.92,7.92,37.18,Product currently has outdated testing or missing
+58,chk,performance_compliance_assessment_changes_affect_critical_compo,5,76.01,132.59,7.92,7.92,91.84,Changes affect critical components in compliance files
+60,chk,performance_compliance_assessment_changes_will_be_made_to_the_c,4,76.01,524.08,7.92,7.92,63.73,Changes will be made to the product
+63,chk,performance_compliance_assessment_changes_to_the_software_affec,4,76.01,555.42,7.92,7.92,78.51,Changes to the software affecting behavior or
+64,chk,performance_compliance_assessment_product_currently_has_outd_2,5,135.43,242.8,7.92,7.92,37.18,Product currently has outdated testing or missing
+65,chk,performance_compliance_assessment_changes_affect_the_cooling_ca,4,76.01,586.02,7.92,7.92,75.5,Changes affect the cooling capacity to cool
+66,chk,performance_compliance_assessment_changes_affect_the_functional,4,76.01,596.13,7.92,7.92,82.48,Changes affect the functionality of the medium
+67,chk,performance_compliance_assessment_changes_may_affect_the_power_,4,76.01,606.57,7.92,7.92,87.71,Changes may affect the power input specifications
+68,chk,performance_compliance_assessment_product_currently_has_outd_3,5,135.43,242.8,7.92,7.92,37.18,Product currently has outdated testing or missing
+69,chk,performance_compliance_assessment_changes_affect_critical_co_2,5,76.01,132.59,7.92,7.92,91.84,Changes affect critical components in compliance files
+70,chk,performance_compliance_assessment_product_currently_has_outd_4,5,135.43,242.8,7.92,7.92,37.18,Product currently has outdated testing or missing
+71,chk,performance_compliance_assessment_changes_affect_critical_co_3,5,76.01,132.59,7.92,7.92,91.84,Changes affect critical components in compliance files
+72,chk,performance_compliance_assessment_changes_to_the_materials_of_c,5,76.01,142.67,7.92,7.92,76.25,Changes to the materials of construction or
+74,chk,performance_compliance_assessment_changes_to_the_software_chk,4,76.01,555.42,7.92,7.92,43.67,Changes to the software
+77,chk,performance_compliance_assessment_changes_impact_the_cabinet_pr,5,135.43,242.8,7.92,7.92,53.03,Changes impact the cabinet pressure decay test
+79,chk,performance_compliance_assessment_product_currently_has_outd_5,5,135.43,242.8,7.92,7.92,37.18,Product currently has outdated testing or missing
+87,chk,performance_compliance_assessment_south_korean_act_on_environme,5,445.94,252.88,7.92,7.92,17.26,South Korean Act on Environmental testing and
+118,chk,design_safety_emc_wireless_compliance_assessment_product_curren,5,135.43,242.8,7.92,7.92,37.18,Product currently has outdated testing or missing

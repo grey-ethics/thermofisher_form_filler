@@ -1,3 +1,5 @@
 Flask>=3.0
 pywin32>=305           # Word COM (Windows only)
 python-dotenv>=1.0.1   # optional, for env config
+openai>=1.42.0
+requests>=2.31.0

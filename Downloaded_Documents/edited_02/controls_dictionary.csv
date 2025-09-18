@@ -1,0 +1,331 @@
+﻿index,controller type,title,tag,heading
+1,checkbox,chk - 001,epd_ecr_gepc_chk,
+2,checkbox,chk - 002,epd_ecr_gepc_chk_2,
+3,checkbox,chk - 003,epd_ecr_gepc_chk_3,
+4,checkbox,chk - 004,insert_other_chk,
+5,dropdown,dropdown - 001,level_choose_a_project_level_dd,
+6,combobox,combobox - 001,capa_associated_select_one_combo,
+7,combobox,combobox - 002,design_owner_choose_an_item_other_combo,
+8,checkbox,chk - 005,manufacturing_site_avl_mar_lsb_oha_chk,
+9,checkbox,chk - 006,manufacturing_site_avl_mar_lsb_oha_chk_2,
+10,checkbox,chk - 007,manufacturing_site_avl_mar_lsb_oha_chk_3,
+11,checkbox,chk - 008,manufacturing_site_avl_mar_lsb_oha_chk_4,
+12,checkbox,chk - 009,manufacturing_site_avl_mar_lsb_oha_chk_5,
+13,checkbox,chk - 010,manufacturing_site_avl_mar_lsb_oha_chk_6,
+14,checkbox,chk - 011,manufacturing_site_avl_mar_lsb_oha_chk_7,
+15,checkbox,chk - 012,manufacturing_site_avl_mar_lsb_oha_chk_8,
+16,combobox,combobox - 003,design_is_copy_exact_choose_an_combo,
+17,checkbox,chk - 013,device_type_table_n_america_general_purpose,
+18,checkbox,chk - 014,device_type_table_emea_general_purpose,
+19,checkbox,chk - 015,device_type_table_latam_general_purpose,
+20,checkbox,chk - 016,device_type_table_apac_general_purpose,
+21,checkbox,chk - 017,device_type_table_n_america_medical,
+22,checkbox,chk - 018,device_type_table_emea_medical,
+23,checkbox,chk - 019,device_type_table_latam_medical,
+24,checkbox,chk - 020,device_type_table_apac_medical,
+25,checkbox,chk - 021,device_type_table_n_america_in_vitro_diagnostics,
+26,checkbox,chk - 022,device_type_table_emea_in_vitro_diagnostics,
+27,checkbox,chk - 023,device_type_table_latam_in_vitro_diagnostics,
+28,checkbox,chk - 024,device_type_table_apac_in_vitro_diagnostics,
+29,checkbox,chk - 025,device_type_table_n_america_general_purpose_cell_gene_therapy,
+30,checkbox,chk - 026,device_type_table_emea_general_purpose_cell_gene_therapy,
+31,checkbox,chk - 027,device_type_table_latam_general_purpose_cell_gene_therapy,
+32,checkbox,chk - 028,device_type_table_apac_general_purpose_cell_gene_therapy,
+33,checkbox,chk - 029,device_type_table_n_america_gp_md_ivd_and_gp_plus_cgt,
+34,checkbox,chk - 030,device_type_table_emea_gp_md_ivd_and_gp_plus_cgt,
+35,checkbox,chk - 031,device_type_table_latam_gp_md_ivd_and_gp_plus_cgt,
+36,checkbox,chk - 032,device_type_table_apac_gp_md_ivd_and_gp_plus_cgt,
+37,checkbox,chk - 033,risk_management_file_the_change_does_not_impact_the_chk,RISK MANAGEMENT FILE
+38,checkbox,chk - 034,risk_management_file_the_product_family_does_not_have_chk,RISK MANAGEMENT FILE
+39,checkbox,chk - 035,risk_management_file_the_change_introduces_new_usage_conditions,RISK MANAGEMENT FILE
+40,checkbox,chk - 036,risk_management_file_the_change_affects_the_current_risk_chk,RISK MANAGEMENT FILE
+41,checkbox,chk - 037,risk_management_file_the_change_will_mean_that_the_chk,RISK MANAGEMENT FILE
+42,checkbox,chk - 038,risk_management_file_the_performance_evaluation_data_for_the_ch,RISK MANAGEMENT FILE
+43,checkbox,chk - 039,risk_management_file_the_change_involves_the_manufacturing_proc,RISK MANAGEMENT FILE
+44,checkbox,chk - 040,risk_management_file_the_change_impacts_end_of_line_chk,RISK MANAGEMENT FILE
+45,checkbox,chk - 041,risk_management_file_the_change_requires_a_process_validation_c,RISK MANAGEMENT FILE
+46,checkbox,chk - 042,risk_management_file_the_change_affects_agreements_and_or_chk,RISK MANAGEMENT FILE
+47,checkbox,chk - 043,risk_management_file_the_change_results_from_actions_taken_chk,RISK MANAGEMENT FILE
+48,checkbox,chk - 044,risk_management_file_the_change_impacts_quality_control_procedu,RISK MANAGEMENT FILE
+49,checkbox,chk - 045,risk_management_file_medical_the_change_results_from_characteri,RISK MANAGEMENT FILE
+50,checkbox,chk - 046,risk_management_file_medical_the_change_is_driven_by_chk,RISK MANAGEMENT FILE
+51,checkbox,chk - 047,risk_management_file_other_if_other_is_selected_provide_chk,RISK MANAGEMENT FILE
+52,combobox,combobox - 004,risk_management_file_next_steps_choose_the_project_action_combo,RISK MANAGEMENT FILE
+53,checkbox,chk - 048,risk_management_file_capa_owner_notified_chk,RISK MANAGEMENT FILE
+54,checkbox,chk - 049,performance_compliance_assessment_the_change_does_not_impact_th,PERFORMANCE COMPLIANCE ASSESSMENT
+55,checkbox,chk - 050,performance_compliance_assessment_changes_affect_degradable_mov,PERFORMANCE COMPLIANCE ASSESSMENT
+56,checkbox,chk - 051,performance_compliance_assessment_changes_affect_the_airflow_in,PERFORMANCE COMPLIANCE ASSESSMENT
+57,checkbox,chk - 052,performance_compliance_assessment_product_currently_has_outdate,PERFORMANCE COMPLIANCE ASSESSMENT
+58,checkbox,chk - 053,performance_compliance_assessment_changes_affect_critical_compo,PERFORMANCE COMPLIANCE ASSESSMENT
+59,checkbox,chk - 054,performance_compliance_assessment_changes_affect_the_product_pe,PERFORMANCE COMPLIANCE ASSESSMENT
+60,checkbox,chk - 055,performance_compliance_assessment_changes_will_be_made_to_the_c,PERFORMANCE COMPLIANCE ASSESSMENT
+61,checkbox,chk - 056,performance_compliance_assessment_changes_to_the_internal_cabin,PERFORMANCE COMPLIANCE ASSESSMENT
+62,checkbox,chk - 057,performance_compliance_assessment_change_to_defrosts_setpoint_r,PERFORMANCE COMPLIANCE ASSESSMENT
+63,checkbox,chk - 058,performance_compliance_assessment_changes_to_the_software_affec,PERFORMANCE COMPLIANCE ASSESSMENT
+64,checkbox,chk - 059,performance_compliance_assessment_product_currently_has_outd_2,PERFORMANCE COMPLIANCE ASSESSMENT
+65,checkbox,chk - 060,performance_compliance_assessment_changes_affect_the_cooling_ca,PERFORMANCE COMPLIANCE ASSESSMENT
+66,checkbox,chk - 061,performance_compliance_assessment_changes_affect_the_functional,PERFORMANCE COMPLIANCE ASSESSMENT
+67,checkbox,chk - 062,performance_compliance_assessment_changes_may_affect_the_power_,PERFORMANCE COMPLIANCE ASSESSMENT
+68,checkbox,chk - 063,performance_compliance_assessment_product_currently_has_outd_3,PERFORMANCE COMPLIANCE ASSESSMENT
+69,checkbox,chk - 064,performance_compliance_assessment_changes_affect_critical_co_2,PERFORMANCE COMPLIANCE ASSESSMENT
+70,checkbox,chk - 065,performance_compliance_assessment_product_currently_has_outd_4,PERFORMANCE COMPLIANCE ASSESSMENT
+71,checkbox,chk - 066,performance_compliance_assessment_changes_affect_critical_co_3,PERFORMANCE COMPLIANCE ASSESSMENT
+72,checkbox,chk - 067,performance_compliance_assessment_changes_to_the_materials_of_c,PERFORMANCE COMPLIANCE ASSESSMENT
+73,checkbox,chk - 068,performance_compliance_assessment_changes_impact_air_flow_blowe,PERFORMANCE COMPLIANCE ASSESSMENT
+74,checkbox,chk - 069,performance_compliance_assessment_changes_to_the_software_chk,PERFORMANCE COMPLIANCE ASSESSMENT
+75,checkbox,chk - 070,performance_compliance_assessment_changes_impacting_stability_c,PERFORMANCE COMPLIANCE ASSESSMENT
+76,checkbox,chk - 071,performance_compliance_assessment_changes_impact_cleanability_s,PERFORMANCE COMPLIANCE ASSESSMENT
+77,checkbox,chk - 072,performance_compliance_assessment_changes_impact_the_cabinet_pr,PERFORMANCE COMPLIANCE ASSESSMENT
+78,checkbox,chk - 073,performance_compliance_assessment_changes_impact_labels_or_mark,PERFORMANCE COMPLIANCE ASSESSMENT
+79,checkbox,chk - 074,performance_compliance_assessment_product_currently_has_outd_5,PERFORMANCE COMPLIANCE ASSESSMENT
+80,checkbox,chk - 075,performance_compliance_assessment_energy_star_chk,PERFORMANCE COMPLIANCE ASSESSMENT
+81,checkbox,chk - 076,performance_compliance_assessment_nsf49_bsc_chk,PERFORMANCE COMPLIANCE ASSESSMENT
+82,checkbox,chk - 077,performance_compliance_assessment_nsf456_vaccine_chk,PERFORMANCE COMPLIANCE ASSESSMENT
+83,checkbox,chk - 078,performance_compliance_assessment_clean_room_particulate_14644_,PERFORMANCE COMPLIANCE ASSESSMENT
+84,checkbox,chk - 079,performance_compliance_assessment_clean_room_particulate_146_2,PERFORMANCE COMPLIANCE ASSESSMENT
+85,checkbox,chk - 080,performance_compliance_assessment_erp_directive_chillers_only_c,PERFORMANCE COMPLIANCE ASSESSMENT
+86,checkbox,chk - 081,performance_compliance_assessment_clean_room_particulate_146_3,PERFORMANCE COMPLIANCE ASSESSMENT
+87,checkbox,chk - 082,performance_compliance_assessment_south_korean_act_on_environme,PERFORMANCE COMPLIANCE ASSESSMENT
+88,checkbox,chk - 083,performance_compliance_assessment_other_if_applicable_select_ot,PERFORMANCE COMPLIANCE ASSESSMENT
+89,checkbox,chk - 084,performance_compliance_assessment_energy_star_ce_self_declared_,PERFORMANCE COMPLIANCE ASSESSMENT
+90,checkbox,chk - 085,performance_compliance_assessment_energy_star_ce_self_declar_2,PERFORMANCE COMPLIANCE ASSESSMENT
+91,checkbox,chk - 086,performance_compliance_assessment_energy_star_ce_self_declar_3,PERFORMANCE COMPLIANCE ASSESSMENT
+92,checkbox,chk - 087,performance_compliance_assessment_marketing_claims_ce_doc_self_,PERFORMANCE COMPLIANCE ASSESSMENT
+93,checkbox,chk - 088,performance_compliance_assessment_marketing_claims_ce_doc_se_2,PERFORMANCE COMPLIANCE ASSESSMENT
+94,checkbox,chk - 089,performance_compliance_assessment_marketing_claims_ce_doc_se_3,PERFORMANCE COMPLIANCE ASSESSMENT
+95,combobox,combobox - 005,performance_compliance_assessment_testing_required_choose_an_it,PERFORMANCE COMPLIANCE ASSESSMENT
+96,checkbox,chk - 090,performance_compliance_assessment_agency_report_revision_revise,PERFORMANCE COMPLIANCE ASSESSMENT
+97,checkbox,chk - 091,performance_compliance_assessment_agency_report_revision_rev_2,PERFORMANCE COMPLIANCE ASSESSMENT
+98,checkbox,chk - 092,performance_compliance_assessment_agency_report_revision_rev_3,PERFORMANCE COMPLIANCE ASSESSMENT
+99,checkbox,chk - 093,performance_compliance_assessment_marketing_claims_are_validate,PERFORMANCE COMPLIANCE ASSESSMENT
+100,checkbox,chk - 094,performance_compliance_assessment_marketing_claims_are_valid_2,PERFORMANCE COMPLIANCE ASSESSMENT
+101,checkbox,chk - 095,performance_compliance_assessment_change_impacts_product_scope_,PERFORMANCE COMPLIANCE ASSESSMENT
+102,checkbox,chk - 096,performance_compliance_assessment_other_if_applicable_if_other_,PERFORMANCE COMPLIANCE ASSESSMENT
+103,checkbox,chk - 097,performance_compliance_assessment_cb_of_changes_energy_star_req,PERFORMANCE COMPLIANCE ASSESSMENT
+104,checkbox,chk - 098,performance_compliance_assessment_cb_of_changes_energy_star__2,PERFORMANCE COMPLIANCE ASSESSMENT
+105,checkbox,chk - 099,performance_compliance_assessment_ra_at_implementation_manufact,PERFORMANCE COMPLIANCE ASSESSMENT
+106,checkbox,chk - 100,performance_compliance_assessment_ra_at_implementation_manuf_2,PERFORMANCE COMPLIANCE ASSESSMENT
+107,checkbox,chk - 101,performance_compliance_assessment_authorities_of_product_change,PERFORMANCE COMPLIANCE ASSESSMENT
+108,checkbox,chk - 102,performance_compliance_assessment_authorities_of_product_cha_2,PERFORMANCE COMPLIANCE ASSESSMENT
+109,checkbox,chk - 103,design_safety_emc_wireless_compliance_assessment_the_change_doe,"DESIGN SAFETY, EMC, & WIRELESS COMPLIANCE ASSESSMENT"
+110,checkbox,chk - 104,design_safety_emc_wireless_compliance_assessment_does_the_chang,"DESIGN SAFETY, EMC, & WIRELESS COMPLIANCE ASSESSMENT"
+111,checkbox,chk - 105,design_safety_emc_wireless_compliance_assessment_are_the_specs_,"DESIGN SAFETY, EMC, & WIRELESS COMPLIANCE ASSESSMENT"
+112,checkbox,chk - 106,design_safety_emc_wireless_compliance_assessment_are_the_spe_2,"DESIGN SAFETY, EMC, & WIRELESS COMPLIANCE ASSESSMENT"
+113,checkbox,chk - 107,design_safety_emc_wireless_compliance_assessment_are_the_produc,"DESIGN SAFETY, EMC, & WIRELESS COMPLIANCE ASSESSMENT"
+114,checkbox,chk - 108,design_safety_emc_wireless_compliance_assessment_are_materials_,"DESIGN SAFETY, EMC, & WIRELESS COMPLIANCE ASSESSMENT"
+115,checkbox,chk - 109,design_safety_emc_wireless_compliance_assessment_are_labels_ifu,"DESIGN SAFETY, EMC, & WIRELESS COMPLIANCE ASSESSMENT"
+116,checkbox,chk - 110,design_safety_emc_wireless_compliance_assessment_will_the_manuf,"DESIGN SAFETY, EMC, & WIRELESS COMPLIANCE ASSESSMENT"
+117,checkbox,chk - 111,design_safety_emc_wireless_compliance_assessment_supplier_chang,"DESIGN SAFETY, EMC, & WIRELESS COMPLIANCE ASSESSMENT"
+118,checkbox,chk - 112,design_safety_emc_wireless_compliance_assessment_product_curren,"DESIGN SAFETY, EMC, & WIRELESS COMPLIANCE ASSESSMENT"
+119,checkbox,chk - 113,design_safety_emc_wireless_compliance_assessment_other_if_appli,"DESIGN SAFETY, EMC, & WIRELESS COMPLIANCE ASSESSMENT"
+120,checkbox,chk - 114,design_safety_emc_wireless_compliance_assessment_nrtl_listing_r,"DESIGN SAFETY, EMC, & WIRELESS COMPLIANCE ASSESSMENT"
+121,checkbox,chk - 115,design_safety_emc_wireless_compliance_assessment_nrtl_listin_2,"DESIGN SAFETY, EMC, & WIRELESS COMPLIANCE ASSESSMENT"
+122,checkbox,chk - 116,design_safety_emc_wireless_compliance_assessment_cb_safety_repo,"DESIGN SAFETY, EMC, & WIRELESS COMPLIANCE ASSESSMENT"
+123,checkbox,chk - 117,design_safety_emc_wireless_compliance_assessment_cb_safety_r_2,"DESIGN SAFETY, EMC, & WIRELESS COMPLIANCE ASSESSMENT"
+124,checkbox,chk - 118,design_safety_emc_wireless_compliance_assessment_informative_sa,"DESIGN SAFETY, EMC, & WIRELESS COMPLIANCE ASSESSMENT"
+125,checkbox,chk - 119,design_safety_emc_wireless_compliance_assessment_informative_2,"DESIGN SAFETY, EMC, & WIRELESS COMPLIANCE ASSESSMENT"
+126,checkbox,chk - 120,design_safety_emc_wireless_compliance_assessment_wireless_repor,"DESIGN SAFETY, EMC, & WIRELESS COMPLIANCE ASSESSMENT"
+127,checkbox,chk - 121,design_safety_emc_wireless_compliance_assessment_other_if_other,"DESIGN SAFETY, EMC, & WIRELESS COMPLIANCE ASSESSMENT"
+128,checkbox,chk - 122,design_safety_emc_wireless_compliance_assessment_ul_csa_chk,"DESIGN SAFETY, EMC, & WIRELESS COMPLIANCE ASSESSMENT"
+129,checkbox,chk - 123,design_safety_emc_wireless_compliance_assessment_ul_csa_chk_2,"DESIGN SAFETY, EMC, & WIRELESS COMPLIANCE ASSESSMENT"
+130,checkbox,chk - 124,design_safety_emc_wireless_compliance_assessment_etl_tuv_chk,"DESIGN SAFETY, EMC, & WIRELESS COMPLIANCE ASSESSMENT"
+131,checkbox,chk - 125,design_safety_emc_wireless_compliance_assessment_etl_tuv_chk_2,"DESIGN SAFETY, EMC, & WIRELESS COMPLIANCE ASSESSMENT"
+132,checkbox,chk - 126,design_safety_emc_wireless_compliance_assessment_fcc_ices_nsf_c,"DESIGN SAFETY, EMC, & WIRELESS COMPLIANCE ASSESSMENT"
+133,checkbox,chk - 127,design_safety_emc_wireless_compliance_assessment_fcc_ices_ns_2,"DESIGN SAFETY, EMC, & WIRELESS COMPLIANCE ASSESSMENT"
+134,checkbox,chk - 128,design_safety_emc_wireless_compliance_assessment_iram_s_chk,"DESIGN SAFETY, EMC, & WIRELESS COMPLIANCE ASSESSMENT"
+135,checkbox,chk - 129,design_safety_emc_wireless_compliance_assessment_inmetro_chk,"DESIGN SAFETY, EMC, & WIRELESS COMPLIANCE ASSESSMENT"
+136,checkbox,chk - 130,design_safety_emc_wireless_compliance_assessment_anatel_chk,"DESIGN SAFETY, EMC, & WIRELESS COMPLIANCE ASSESSMENT"
+137,checkbox,chk - 131,design_safety_emc_wireless_compliance_assessment_s_mark_chk,"DESIGN SAFETY, EMC, & WIRELESS COMPLIANCE ASSESSMENT"
+138,checkbox,chk - 132,design_safety_emc_wireless_compliance_assessment_ce_doc_self_de,"DESIGN SAFETY, EMC, & WIRELESS COMPLIANCE ASSESSMENT"
+139,checkbox,chk - 133,design_safety_emc_wireless_compliance_assessment_ce_doc_eu_nb_c,"DESIGN SAFETY, EMC, & WIRELESS COMPLIANCE ASSESSMENT"
+140,checkbox,chk - 134,design_safety_emc_wireless_compliance_assessment_ukca_lne_chk,"DESIGN SAFETY, EMC, & WIRELESS COMPLIANCE ASSESSMENT"
+141,checkbox,chk - 135,design_safety_emc_wireless_compliance_assessment_ukca_lne_chk_2,"DESIGN SAFETY, EMC, & WIRELESS COMPLIANCE ASSESSMENT"
+142,checkbox,chk - 136,design_safety_emc_wireless_compliance_assessment_gs_weee_chk,"DESIGN SAFETY, EMC, & WIRELESS COMPLIANCE ASSESSMENT"
+143,checkbox,chk - 137,design_safety_emc_wireless_compliance_assessment_gs_weee_chk_2,"DESIGN SAFETY, EMC, & WIRELESS COMPLIANCE ASSESSMENT"
+144,checkbox,chk - 138,design_safety_emc_wireless_compliance_assessment_kc_mark_chk,"DESIGN SAFETY, EMC, & WIRELESS COMPLIANCE ASSESSMENT"
+145,checkbox,chk - 139,design_safety_emc_wireless_compliance_assessment_eac_chk,"DESIGN SAFETY, EMC, & WIRELESS COMPLIANCE ASSESSMENT"
+146,checkbox,chk - 140,design_safety_emc_wireless_compliance_assessment_other_select_o,"DESIGN SAFETY, EMC, & WIRELESS COMPLIANCE ASSESSMENT"
+147,checkbox,chk - 141,design_safety_emc_wireless_compliance_assessment_fcc_declaratio,"DESIGN SAFETY, EMC, & WIRELESS COMPLIANCE ASSESSMENT"
+148,checkbox,chk - 142,design_safety_emc_wireless_compliance_assessment_ce_doc_self_2,"DESIGN SAFETY, EMC, & WIRELESS COMPLIANCE ASSESSMENT"
+149,checkbox,chk - 143,design_safety_emc_wireless_compliance_assessment_ce_doc_eu_n_2,"DESIGN SAFETY, EMC, & WIRELESS COMPLIANCE ASSESSMENT"
+150,checkbox,chk - 144,design_safety_emc_wireless_compliance_assessment_ukca_declarati,"DESIGN SAFETY, EMC, & WIRELESS COMPLIANCE ASSESSMENT"
+151,checkbox,chk - 145,design_safety_emc_wireless_compliance_assessment_other_selec_2,"DESIGN SAFETY, EMC, & WIRELESS COMPLIANCE ASSESSMENT"
+152,combobox,combobox - 006,design_safety_emc_wireless_compliance_assessment_testing_requir,"DESIGN SAFETY, EMC, & WIRELESS COMPLIANCE ASSESSMENT"
+153,checkbox,chk - 146,design_safety_emc_wireless_compliance_assessment_impacted_docum,"DESIGN SAFETY, EMC, & WIRELESS COMPLIANCE ASSESSMENT"
+154,checkbox,chk - 147,design_safety_emc_wireless_compliance_assessment_impacted_do_2,"DESIGN SAFETY, EMC, & WIRELESS COMPLIANCE ASSESSMENT"
+155,checkbox,chk - 148,design_safety_emc_wireless_compliance_assessment_registration_w,"DESIGN SAFETY, EMC, & WIRELESS COMPLIANCE ASSESSMENT"
+156,checkbox,chk - 149,design_safety_emc_wireless_compliance_assessment_registratio_2,"DESIGN SAFETY, EMC, & WIRELESS COMPLIANCE ASSESSMENT"
+157,checkbox,chk - 150,design_safety_emc_wireless_compliance_assessment_revise_regulat,"DESIGN SAFETY, EMC, & WIRELESS COMPLIANCE ASSESSMENT"
+158,checkbox,chk - 151,design_safety_emc_wireless_compliance_assessment_revise_regu_2,"DESIGN SAFETY, EMC, & WIRELESS COMPLIANCE ASSESSMENT"
+159,checkbox,chk - 152,design_safety_emc_wireless_compliance_assessment_re_evaluate_pr,"DESIGN SAFETY, EMC, & WIRELESS COMPLIANCE ASSESSMENT"
+160,checkbox,chk - 153,design_safety_emc_wireless_compliance_assessment_re_evaluate_2,"DESIGN SAFETY, EMC, & WIRELESS COMPLIANCE ASSESSMENT"
+161,checkbox,chk - 154,design_safety_emc_wireless_compliance_assessment_other_if_ot_2,"DESIGN SAFETY, EMC, & WIRELESS COMPLIANCE ASSESSMENT"
+162,checkbox,chk - 155,design_safety_emc_wireless_compliance_assessment_regional_leads,"DESIGN SAFETY, EMC, & WIRELESS COMPLIANCE ASSESSMENT"
+163,checkbox,chk - 156,design_safety_emc_wireless_compliance_assessment_regional_le_2,"DESIGN SAFETY, EMC, & WIRELESS COMPLIANCE ASSESSMENT"
+164,checkbox,chk - 157,design_safety_emc_wireless_compliance_assessment_authorities_of,"DESIGN SAFETY, EMC, & WIRELESS COMPLIANCE ASSESSMENT"
+165,checkbox,chk - 158,design_safety_emc_wireless_compliance_assessment_authorities_2,"DESIGN SAFETY, EMC, & WIRELESS COMPLIANCE ASSESSMENT"
+166,checkbox,chk - 159,environmental_assessment_the_change_does_not_impact_the_chk,ENVIRONMENTAL ASSESSMENT
+167,checkbox,chk - 160,environmental_assessment_change_adds_new_or_removes_any_chk,ENVIRONMENTAL ASSESSMENT
+168,checkbox,chk - 161,environmental_assessment_the_supplier_of_a_part_number_chk,ENVIRONMENTAL ASSESSMENT
+169,checkbox,chk - 162,environmental_assessment_the_manufacturing_or_internal_part_num,ENVIRONMENTAL ASSESSMENT
+170,checkbox,chk - 163,environmental_assessment_end_product_impacted_currently_has_an_,ENVIRONMENTAL ASSESSMENT
+171,checkbox,chk - 164,environmental_assessment_other_if_other_is_selected_provide_chk,ENVIRONMENTAL ASSESSMENT
+172,checkbox,chk - 165,environmental_assessment_greensoft_item_submission_greensoft_bo,ENVIRONMENTAL ASSESSMENT
+173,checkbox,chk - 166,environmental_assessment_greensoft_item_submission_greensoft_2,ENVIRONMENTAL ASSESSMENT
+174,checkbox,chk - 167,environmental_assessment_greensoft_item_submission_greensoft_3,ENVIRONMENTAL ASSESSMENT
+175,checkbox,chk - 168,environmental_assessment_other_if_other_is_selected_provide__2,ENVIRONMENTAL ASSESSMENT
+176,checkbox,chk - 169,environmental_assessment_prop65_chk,ENVIRONMENTAL ASSESSMENT
+177,checkbox,chk - 170,environmental_assessment_fifra_pesticide_uv_lamp_chk,ENVIRONMENTAL ASSESSMENT
+178,checkbox,chk - 171,environmental_assessment_weee_chk,ENVIRONMENTAL ASSESSMENT
+179,checkbox,chk - 172,environmental_assessment_weee_f_gas_chk,ENVIRONMENTAL ASSESSMENT
+180,checkbox,chk - 173,environmental_assessment_weee_f_gas_chk_2,ENVIRONMENTAL ASSESSMENT
+181,checkbox,chk - 174,environmental_assessment_pfas_chk,ENVIRONMENTAL ASSESSMENT
+182,checkbox,chk - 175,environmental_assessment_weee_chk_2,ENVIRONMENTAL ASSESSMENT
+183,checkbox,chk - 176,environmental_assessment_china_rohs_c_rohs_chk,ENVIRONMENTAL ASSESSMENT
+184,checkbox,chk - 177,environmental_assessment_other_select_other_if_the_mark_chk,ENVIRONMENTAL ASSESSMENT
+185,checkbox,chk - 178,environmental_assessment_prop65_declaration_chk,ENVIRONMENTAL ASSESSMENT
+186,checkbox,chk - 179,environmental_assessment_fifra_pesticide_product_reporting_uv_l,ENVIRONMENTAL ASSESSMENT
+187,checkbox,chk - 180,environmental_assessment_montreal_protocol_declaration_chk,ENVIRONMENTAL ASSESSMENT
+188,checkbox,chk - 181,environmental_assessment_reach_declaration_chk,ENVIRONMENTAL ASSESSMENT
+189,checkbox,chk - 182,environmental_assessment_rohs_declaration_chk,ENVIRONMENTAL ASSESSMENT
+190,checkbox,chk - 183,environmental_assessment_f_gas_declaration_chk,ENVIRONMENTAL ASSESSMENT
+191,checkbox,chk - 184,environmental_assessment_ce_declaration_self_declared_chk,ENVIRONMENTAL ASSESSMENT
+192,checkbox,chk - 185,environmental_assessment_c_rohs_tic_tac_table_declaration_chk,ENVIRONMENTAL ASSESSMENT
+193,checkbox,chk - 186,environmental_assessment_other_select_other_if_the_document_chk,ENVIRONMENTAL ASSESSMENT
+194,combobox,combobox - 007,environmental_assessment_testing_required_choose_an_item_combo,ENVIRONMENTAL ASSESSMENT
+195,checkbox,chk - 187,environmental_assessment_no_update_required_upload_greensoft_fo,ENVIRONMENTAL ASSESSMENT
+196,checkbox,chk - 188,environmental_assessment_no_update_required_upload_greensoft_2,ENVIRONMENTAL ASSESSMENT
+197,checkbox,chk - 189,environmental_assessment_no_update_required_upload_greensoft_3,ENVIRONMENTAL ASSESSMENT
+198,checkbox,chk - 190,environmental_assessment_revise_regulatory_documents_i_e_declar,ENVIRONMENTAL ASSESSMENT
+199,checkbox,chk - 191,environmental_assessment_change_impacts_product_scope_is_define,ENVIRONMENTAL ASSESSMENT
+200,checkbox,chk - 192,environmental_assessment_other_if_other_is_selected_provide__3,ENVIRONMENTAL ASSESSMENT
+201,checkbox,chk - 193,environmental_assessment_epa_lead_if_registered_fifra_greensoft,ENVIRONMENTAL ASSESSMENT
+202,checkbox,chk - 194,environmental_assessment_epa_lead_if_registered_fifra_greens_2,ENVIRONMENTAL ASSESSMENT
+203,checkbox,chk - 195,environmental_assessment_other_if_other_is_selected_provide__4,ENVIRONMENTAL ASSESSMENT
+204,checkbox,chk - 196,medical_assessment_part_a_safety_compatibility_effectiveness_ch,MEDICAL ASSESSMENT
+205,checkbox,chk - 197,medical_assessment_will_the_change_affect_the_safety_chk,MEDICAL ASSESSMENT
+206,checkbox,chk - 198,medical_assessment_will_the_technology_engineering_design_or_ch,MEDICAL ASSESSMENT
+207,checkbox,chk - 199,medical_assessment_is_the_change_introducing_a_new_chk,MEDICAL ASSESSMENT
+208,checkbox,chk - 200,medical_assessment_does_the_change_include_or_impact_chk,MEDICAL ASSESSMENT
+209,checkbox,chk - 201,medical_assessment_does_the_change_introduce_new_risks_chk,MEDICAL ASSESSMENT
+210,checkbox,chk - 202,medical_assessment_will_the_change_affect_the_standards_chk,MEDICAL ASSESSMENT
+211,checkbox,chk - 203,medical_assessment_is_there_another_registration_classification,MEDICAL ASSESSMENT
+212,checkbox,chk - 204,medical_assessment_will_the_change_affect_product_packaging_chk,MEDICAL ASSESSMENT
+213,checkbox,chk - 205,medical_assessment_ifu_user_manual_service_manual_translation_c,MEDICAL ASSESSMENT
+214,checkbox,chk - 206,medical_assessment_ifu_user_manual_service_manual_translatio_2,MEDICAL ASSESSMENT
+215,checkbox,chk - 207,medical_assessment_ifu_user_manual_service_manual_translatio_3,MEDICAL ASSESSMENT
+216,checkbox,chk - 208,medical_assessment_ifu_user_manual_service_manual_translatio_4,MEDICAL ASSESSMENT
+217,checkbox,chk - 209,medical_assessment_esi_quick_start_guide_marketing_material_chk,MEDICAL ASSESSMENT
+218,checkbox,chk - 210,medical_assessment_esi_quick_start_guide_marketing_material__2,MEDICAL ASSESSMENT
+219,checkbox,chk - 211,medical_assessment_esi_quick_start_guide_marketing_material__3,MEDICAL ASSESSMENT
+220,checkbox,chk - 212,medical_assessment_change_in_label_material_marking_s_chk,MEDICAL ASSESSMENT
+221,checkbox,chk - 213,medical_assessment_change_in_label_material_marking_s_chk_2,MEDICAL ASSESSMENT
+222,checkbox,chk - 214,medical_assessment_change_in_label_material_marking_s_chk_3,MEDICAL ASSESSMENT
+223,checkbox,chk - 215,medical_assessment_change_in_label_material_marking_s_chk_4,MEDICAL ASSESSMENT
+224,checkbox,chk - 216,medical_assessment_other_if_other_is_selected_provide_chk,MEDICAL ASSESSMENT
+225,checkbox,chk - 217,medical_assessment_intended_use_translation_s_change_in_chk,MEDICAL ASSESSMENT
+226,checkbox,chk - 218,medical_assessment_intended_use_translation_s_change_in_chk_2,MEDICAL ASSESSMENT
+227,checkbox,chk - 219,medical_assessment_intended_use_translation_s_change_in_chk_3,MEDICAL ASSESSMENT
+228,checkbox,chk - 220,medical_assessment_intended_use_translation_s_change_in_chk_4,MEDICAL ASSESSMENT
+229,checkbox,chk - 221,medical_assessment_other_if_other_is_selected_provide_chk_2,MEDICAL ASSESSMENT
+230,checkbox,chk - 222,medical_assessment_will_the_technology_engineering_design_perfo,MEDICAL ASSESSMENT
+231,checkbox,chk - 223,medical_assessment_change_in_control_mechanism_operating_princi,MEDICAL ASSESSMENT
+232,checkbox,chk - 224,medical_assessment_does_the_change_impact_the_product_chk,MEDICAL ASSESSMENT
+233,checkbox,chk - 225,medical_assessment_does_the_change_impact_a_component_chk,MEDICAL ASSESSMENT
+234,checkbox,chk - 226,medical_assessment_does_the_change_to_the_part_chk,MEDICAL ASSESSMENT
+235,checkbox,chk - 227,medical_assessment_does_the_change_affect_the_performance_chk,MEDICAL ASSESSMENT
+236,checkbox,chk - 228,medical_assessment_does_the_change_involve_a_component_chk,MEDICAL ASSESSMENT
+237,checkbox,chk - 229,medical_assessment_change_in_packaging_design_chk,MEDICAL ASSESSMENT
+238,checkbox,chk - 230,medical_assessment_change_uses_the_same_technology_and_chk,MEDICAL ASSESSMENT
+239,checkbox,chk - 231,medical_assessment_does_the_change_impact_safety_critical_chk,MEDICAL ASSESSMENT
+240,checkbox,chk - 232,medical_assessment_does_the_change_affect_the_intended_chk,MEDICAL ASSESSMENT
+241,checkbox,chk - 233,medical_assessment_risk_based_assessment_of_the_changed_chk,MEDICAL ASSESSMENT
+242,checkbox,chk - 234,medical_assessment_is_clinical_data_necessary_to_evaluate_chk,MEDICAL ASSESSMENT
+243,checkbox,chk - 235,medical_assessment_is_the_change_introducing_a_new_chk_2,MEDICAL ASSESSMENT
+244,checkbox,chk - 236,medical_assessment_is_this_a_change_in_material_chk,MEDICAL ASSESSMENT
+245,checkbox,chk - 237,medical_assessment_will_the_changed_material_directly_or_chk,MEDICAL ASSESSMENT
+246,checkbox,chk - 238,medical_assessment_does_a_risk_assessment_identify_any_chk,MEDICAL ASSESSMENT
+247,checkbox,chk - 239,medical_assessment_has_the_manufacturer_used_the_same_chk,MEDICAL ASSESSMENT
+248,checkbox,chk - 240,medical_assessment_could_the_change_affect_the_device_chk,MEDICAL ASSESSMENT
+249,checkbox,chk - 241,medical_assessment_does_the_supplier_change_impact_split_chk,MEDICAL ASSESSMENT
+250,checkbox,chk - 242,medical_assessment_does_the_supplier_change_affect_critical_chk,MEDICAL ASSESSMENT
+251,checkbox,chk - 243,medical_assessment_is_there_a_change_to_product_chk,MEDICAL ASSESSMENT
+252,checkbox,chk - 244,medical_assessment_does_the_sw_change_impact_the_chk,MEDICAL ASSESSMENT
+253,checkbox,chk - 245,medical_assessment_does_the_sw_change_include_a_chk,MEDICAL ASSESSMENT
+254,checkbox,chk - 246,medical_assessment_is_the_sw_change_made_solely_chk,MEDICAL ASSESSMENT
+255,checkbox,chk - 247,medical_assessment_does_the_sw_change_introduce_a_chk,MEDICAL ASSESSMENT
+256,checkbox,chk - 248,medical_assessment_does_the_change_create_or_necessitate_chk,MEDICAL ASSESSMENT
+257,checkbox,chk - 249,medical_assessment_could_the_change_impact_functionality_or_chk,MEDICAL ASSESSMENT
+258,checkbox,chk - 250,medical_assessment_are_there_additional_software_factors_that_c,MEDICAL ASSESSMENT
+259,checkbox,chk - 251,medical_assessment_usa_fda_510_k_exempt_chk,MEDICAL ASSESSMENT
+260,checkbox,chk - 252,medical_assessment_usa_fda_510_k_chk,MEDICAL ASSESSMENT
+261,checkbox,chk - 253,medical_assessment_canada_mdsap_chk,MEDICAL ASSESSMENT
+262,checkbox,chk - 254,medical_assessment_mexico_cofepris_chk,MEDICAL ASSESSMENT
+263,checkbox,chk - 255,medical_assessment_argentina_anmat_chk,MEDICAL ASSESSMENT
+264,checkbox,chk - 256,medical_assessment_brazil_anvisa_chk,MEDICAL ASSESSMENT
+265,checkbox,chk - 257,medical_assessment_brazil_inmetro_chk,MEDICAL ASSESSMENT
+266,checkbox,chk - 258,medical_assessment_columbia_invima_chk,MEDICAL ASSESSMENT
+267,checkbox,chk - 259,medical_assessment_costa_rica_moh_chk,MEDICAL ASSESSMENT
+268,checkbox,chk - 260,medical_assessment_ecuador_arcsa_chk,MEDICAL ASSESSMENT
+269,checkbox,chk - 261,medical_assessment_el_salvador_dnm_chk,MEDICAL ASSESSMENT
+270,checkbox,chk - 262,medical_assessment_guatemala_mspas_chk,MEDICAL ASSESSMENT
+271,checkbox,chk - 263,medical_assessment_nicaragua_minsa_chk,MEDICAL ASSESSMENT
+272,checkbox,chk - 264,medical_assessment_panama_minsa_moh_chk,MEDICAL ASSESSMENT
+273,checkbox,chk - 265,medical_assessment_peru_minsa_chk,MEDICAL ASSESSMENT
+274,checkbox,chk - 266,medical_assessment_eu_ce_nb_chk,MEDICAL ASSESSMENT
+275,checkbox,chk - 267,medical_assessment_uk_mhra_chk,MEDICAL ASSESSMENT
+276,checkbox,chk - 268,medical_assessment_uk_ukca_nb_chk,MEDICAL ASSESSMENT
+277,checkbox,chk - 269,medical_assessment_uk_ukca_chk,MEDICAL ASSESSMENT
+278,checkbox,chk - 270,medical_assessment_iceland_ima_chk,MEDICAL ASSESSMENT
+279,checkbox,chk - 271,medical_assessment_israel_moh_chk,MEDICAL ASSESSMENT
+280,checkbox,chk - 272,medical_assessment_egypt_eda_chk,MEDICAL ASSESSMENT
+281,checkbox,chk - 273,medical_assessment_saudi_arabia_sfda_chk,MEDICAL ASSESSMENT
+282,checkbox,chk - 274,medical_assessment_turkey_titck_chk,MEDICAL ASSESSMENT
+283,checkbox,chk - 275,medical_assessment_norway_noma_chk,MEDICAL ASSESSMENT
+284,checkbox,chk - 276,medical_assessment_serbia_alims_chk,MEDICAL ASSESSMENT
+285,checkbox,chk - 277,medical_assessment_ukraine_smdc_chk,MEDICAL ASSESSMENT
+286,checkbox,chk - 278,medical_assessment_morocco_dmp_chk,MEDICAL ASSESSMENT
+287,checkbox,chk - 279,medical_assessment_china_nmpa_chk,MEDICAL ASSESSMENT
+288,checkbox,chk - 280,medical_assessment_malaysia_mda_chk,MEDICAL ASSESSMENT
+289,checkbox,chk - 281,medical_assessment_south_korea_mfds_chk,MEDICAL ASSESSMENT
+290,checkbox,chk - 282,medical_assessment_taiwan_tfda_chk,MEDICAL ASSESSMENT
+291,checkbox,chk - 283,medical_assessment_india_cdsco_chk,MEDICAL ASSESSMENT
+292,checkbox,chk - 284,medical_assessment_singapore_hsa_chk,MEDICAL ASSESSMENT
+293,checkbox,chk - 285,medical_assessment_japan_pmda_chk,MEDICAL ASSESSMENT
+294,checkbox,chk - 286,medical_assessment_australia_tga_chk,MEDICAL ASSESSMENT
+295,checkbox,chk - 287,medical_assessment_hong_kong_mco_chk,MEDICAL ASSESSMENT
+296,checkbox,chk - 288,medical_assessment_indonesia_moh_chk,MEDICAL ASSESSMENT
+297,checkbox,chk - 289,medical_assessment_new_zealand_medsafe_chk,MEDICAL ASSESSMENT
+298,checkbox,chk - 290,medical_assessment_other_select_other_if_the_approval_chk,MEDICAL ASSESSMENT
+299,checkbox,chk - 291,medical_assessment_iec_60601_report_s_report_insert_chk,MEDICAL ASSESSMENT
+300,checkbox,chk - 292,medical_assessment_iec_60601_report_s_report_insert_chk_2,MEDICAL ASSESSMENT
+301,checkbox,chk - 293,medical_assessment_iec_61010_report_s_report_insert_chk,MEDICAL ASSESSMENT
+302,checkbox,chk - 294,medical_assessment_iec_61010_report_s_report_insert_chk_2,MEDICAL ASSESSMENT
+303,checkbox,chk - 295,medical_assessment_other_select_other_if_the_report_chk,MEDICAL ASSESSMENT
+304,checkbox,chk - 296,medical_assessment_udi_ce_eu_nb_packaging_shipping_chk,MEDICAL ASSESSMENT
+305,checkbox,chk - 297,medical_assessment_udi_ce_eu_nb_packaging_shipping_chk_2,MEDICAL ASSESSMENT
+306,checkbox,chk - 298,medical_assessment_udi_ce_eu_nb_packaging_shipping_chk_3,MEDICAL ASSESSMENT
+307,checkbox,chk - 299,medical_assessment_udi_ce_eu_nb_packaging_shipping_chk_4,MEDICAL ASSESSMENT
+308,checkbox,chk - 300,medical_assessment_other_if_other_is_selected_provide_chk_3,MEDICAL ASSESSMENT
+309,combobox,combobox - 008,medical_assessment_testing_required_choose_an_item_combo,MEDICAL ASSESSMENT
+310,combobox,combobox - 009,medical_assessment_registration_impact_choose_an_item_combo,MEDICAL ASSESSMENT
+311,checkbox,chk - 301,medical_assessment_verify_intended_use_consistency_verify_chang,MEDICAL ASSESSMENT
+312,checkbox,chk - 302,medical_assessment_verify_intended_use_consistency_verify_ch_2,MEDICAL ASSESSMENT
+313,checkbox,chk - 303,medical_assessment_verify_intended_use_consistency_verify_ch_3,MEDICAL ASSESSMENT
+314,checkbox,chk - 304,medical_assessment_submit_to_eu_nb_submit_and_chk,MEDICAL ASSESSMENT
+315,checkbox,chk - 305,medical_assessment_submit_to_eu_nb_submit_and_chk_2,MEDICAL ASSESSMENT
+316,checkbox,chk - 306,medical_assessment_submit_to_eu_nb_submit_and_chk_3,MEDICAL ASSESSMENT
+317,checkbox,chk - 307,medical_assessment_other_if_other_is_selected_provide_chk_4,MEDICAL ASSESSMENT
+318,checkbox,chk - 308,medical_assessment_regional_ra_lead_s_fda_correspondent_chk,MEDICAL ASSESSMENT
+319,checkbox,chk - 309,medical_assessment_regional_ra_lead_s_fda_correspondent_chk_2,MEDICAL ASSESSMENT
+320,checkbox,chk - 310,medical_assessment_regional_ra_lead_s_fda_correspondent_chk_3,MEDICAL ASSESSMENT
+321,checkbox,chk - 311,medical_assessment_regional_ra_lead_s_fda_correspondent_chk_4,MEDICAL ASSESSMENT
+322,checkbox,chk - 312,medical_assessment_notify_authorities_of_product_changes_where_,MEDICAL ASSESSMENT
+323,checkbox,chk - 313,medical_assessment_notify_authorities_of_product_changes_whe_2,MEDICAL ASSESSMENT
+324,date,date - 001,medical_assessment_click_or_tap_to_enter_a_date,MEDICAL ASSESSMENT
+325,date,date - 002,medical_assessment_click_or_tap_to_enter_a_date_2,MEDICAL ASSESSMENT
+326,combobox,combobox - 010,medical_assessment_medical_only_did_any_design_verification_com,MEDICAL ASSESSMENT
+327,checkbox,chk - 314,medical_assessment_all_affected_reports_were_verified_for_chk,MEDICAL ASSESSMENT
+328,checkbox,chk - 315,medical_assessment_not_a_medical_device_chk,MEDICAL ASSESSMENT
+329,date,date - 003,medical_assessment_click_or_tap_to_enter_a_date_3,MEDICAL ASSESSMENT
+330,date,date - 004,medical_assessment_click_or_tap_to_enter_a_date_4,MEDICAL ASSESSMENT

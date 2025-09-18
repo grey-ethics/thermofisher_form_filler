@@ -1,0 +1,1400 @@
+{
+  "file": "C:\\Users\\K Santosh Kumar\\Desktop\\HEALTHARK\\04_thermofisher\\Downloaded_Documents\\edited\\refernce_template_real_checkbox_final.docx",
+  "xml_validation": {
+    "ok": true,
+    "errors": []
+  },
+  "protection": {
+    "settings_present": true,
+    "documentProtection": null,
+    "writeProtection": null
+  },
+  "content_controls": {
+    "total": 330,
+    "by_type": {
+      "checkbox": 315,
+      "dropdown": 1,
+      "combobox": 10,
+      "date": 4
+    },
+    "locked_count": 0,
+    "empty_tag_or_title": 16,
+    "checkbox_symbol_summary": {
+      "checked:2612": 315,
+      "unchecked:2610": 315
+    }
+  },
+  "leftover_tokens": {
+    "chk_tokens": [],
+    "box_glyph_hits": [
+      {
+        "part": "word/document.xml",
+        "context": "=\"20\"/><w:szCs w:val=\"20\"/></w:rPr><w:t>☐</w:t></w:r></w:sdtContent></w:sdt><w:r "
+      },
+      {
+        "part": "word/document.xml",
+        "context": "=\"20\"/><w:szCs w:val=\"20\"/></w:rPr><w:t>☐</w:t></w:r></w:sdtContent></w:sdt><w:r "
+      },
+      {
+        "part": "word/document.xml",
+        "context": "=\"20\"/><w:szCs w:val=\"20\"/></w:rPr><w:t>☐</w:t></w:r></w:sdtContent></w:sdt><w:r "
+      },
+      {
+        "part": "word/document.xml",
+        "context": "=\"20\"/><w:szCs w:val=\"20\"/></w:rPr><w:t>☐</w:t></w:r></w:sdtContent></w:sdt><w:r>"
+      },
+      {
+        "part": "word/document.xml",
+        "context": "=\"16\"/><w:szCs w:val=\"16\"/></w:rPr><w:t>☐</w:t></w:r></w:sdtContent></w:sdt><w:r "
+      },
+      {
+        "part": "word/document.xml",
+        "context": "=\"16\"/><w:szCs w:val=\"16\"/></w:rPr><w:t>☐</w:t></w:r></w:sdtContent></w:sdt><w:r "
+      },
+      {
+        "part": "word/document.xml",
+        "context": "=\"16\"/><w:szCs w:val=\"16\"/></w:rPr><w:t>☐</w:t></w:r></w:sdtContent></w:sdt><w:r "
+      },
+      {
+        "part": "word/document.xml",
+        "context": "=\"16\"/><w:szCs w:val=\"16\"/></w:rPr><w:t>☐</w:t></w:r></w:sdtContent></w:sdt><w:r "
+      },
+      {
+        "part": "word/document.xml",
+        "context": "=\"16\"/><w:szCs w:val=\"16\"/></w:rPr><w:t>☐</w:t></w:r></w:sdtContent></w:sdt><w:r "
+      },
+      {
+        "part": "word/document.xml",
+        "context": "=\"16\"/><w:szCs w:val=\"16\"/></w:rPr><w:t>☐</w:t></w:r></w:sdtContent></w:sdt><w:r "
+      },
+      {
+        "part": "word/document.xml",
+        "context": "=\"16\"/><w:szCs w:val=\"16\"/></w:rPr><w:t>☐</w:t></w:r></w:sdtContent></w:sdt><w:r "
+      },
+      {
+        "part": "word/document.xml",
+        "context": "=\"16\"/><w:szCs w:val=\"16\"/></w:rPr><w:t>☐</w:t></w:r></w:sdtContent></w:sdt><w:r "
+      },
+      {
+        "part": "word/document.xml",
+        "context": "=\"16\"/><w:szCs w:val=\"16\"/></w:rPr><w:t>☐</w:t></w:r></w:p></w:tc></w:sdtContent>"
+      },
+      {
+        "part": "word/document.xml",
+        "context": "=\"16\"/><w:szCs w:val=\"16\"/></w:rPr><w:t>☐</w:t></w:r></w:p></w:tc></w:sdtContent>"
+      },
+      {
+        "part": "word/document.xml",
+        "context": "=\"16\"/><w:szCs w:val=\"16\"/></w:rPr><w:t>☐</w:t></w:r></w:p></w:tc></w:sdtContent>"
+      },
+      {
+        "part": "word/document.xml",
+        "context": "=\"16\"/><w:szCs w:val=\"16\"/></w:rPr><w:t>☐</w:t></w:r></w:p></w:tc></w:sdtContent>"
+      },
+      {
+        "part": "word/document.xml",
+        "context": "=\"16\"/><w:szCs w:val=\"16\"/></w:rPr><w:t>☐</w:t></w:r></w:p></w:tc></w:sdtContent>"
+      },
+      {
+        "part": "word/document.xml",
+        "context": "=\"16\"/><w:szCs w:val=\"16\"/></w:rPr><w:t>☐</w:t></w:r></w:p></w:tc></w:sdtContent>"
+      },
+      {
+        "part": "word/document.xml",
+        "context": "=\"16\"/><w:szCs w:val=\"16\"/></w:rPr><w:t>☐</w:t></w:r></w:p></w:tc></w:sdtContent>"
+      },
+      {
+        "part": "word/document.xml",
+        "context": "=\"16\"/><w:szCs w:val=\"16\"/></w:rPr><w:t>☐</w:t></w:r></w:p></w:tc></w:sdtContent>"
+      },
+      {
+        "part": "word/document.xml",
+        "context": "=\"16\"/><w:szCs w:val=\"16\"/></w:rPr><w:t>☐</w:t></w:r></w:p></w:tc></w:sdtContent>"
+      },
+      {
+        "part": "word/document.xml",
+        "context": "=\"16\"/><w:szCs w:val=\"16\"/></w:rPr><w:t>☐</w:t></w:r></w:p></w:tc></w:sdtContent>"
+      },
+      {
+        "part": "word/document.xml",
+        "context": "=\"16\"/><w:szCs w:val=\"16\"/></w:rPr><w:t>☐</w:t></w:r></w:p></w:tc></w:sdtContent>"
+      },
+      {
+        "part": "word/document.xml",
+        "context": "=\"16\"/><w:szCs w:val=\"16\"/></w:rPr><w:t>☐</w:t></w:r></w:p></w:tc></w:sdtContent>"
+      },
+      {
+        "part": "word/document.xml",
+        "context": "=\"16\"/><w:szCs w:val=\"16\"/></w:rPr><w:t>☐</w:t></w:r></w:p></w:tc></w:sdtContent>"
+      },
+      {
+        "part": "word/document.xml",
+        "context": "=\"16\"/><w:szCs w:val=\"16\"/></w:rPr><w:t>☐</w:t></w:r></w:p></w:tc></w:sdtContent>"
+      },
+      {
+        "part": "word/document.xml",
+        "context": "=\"16\"/><w:szCs w:val=\"16\"/></w:rPr><w:t>☐</w:t></w:r></w:p></w:tc></w:sdtContent>"
+      },
+      {
+        "part": "word/document.xml",
+        "context": "=\"16\"/><w:szCs w:val=\"16\"/></w:rPr><w:t>☐</w:t></w:r></w:p></w:tc></w:sdtContent>"
+      },
+      {
+        "part": "word/document.xml",
+        "context": "=\"16\"/><w:szCs w:val=\"16\"/></w:rPr><w:t>☐</w:t></w:r></w:p></w:tc></w:sdtContent>"
+      },
+      {
+        "part": "word/document.xml",
+        "context": "=\"16\"/><w:szCs w:val=\"16\"/></w:rPr><w:t>☐</w:t></w:r></w:p></w:tc></w:sdtContent>"
+      },
+      {
+        "part": "word/document.xml",
+        "context": "=\"16\"/><w:szCs w:val=\"16\"/></w:rPr><w:t>☐</w:t></w:r></w:p></w:tc></w:sdtContent>"
+      },
+      {
+        "part": "word/document.xml",
+        "context": "=\"16\"/><w:szCs w:val=\"16\"/></w:rPr><w:t>☐</w:t></w:r></w:p></w:tc></w:sdtContent>"
+      },
+      {
+        "part": "word/document.xml",
+        "context": "=\"16\"/><w:szCs w:val=\"16\"/></w:rPr><w:t>☐</w:t></w:r></w:sdtContent></w:sdt><w:r "
+      },
+      {
+        "part": "word/document.xml",
+        "context": "en-IN\" w:eastAsia=\"de-DE\"/></w:rPr><w:t>☐</w:t></w:r></w:sdtContent></w:sdt><w:r "
+      },
+      {
+        "part": "word/document.xml",
+        "context": "=\"16\"/><w:szCs w:val=\"16\"/></w:rPr><w:t>☐</w:t></w:r></w:sdtContent></w:sdt><w:r "
+      },
+      {
+        "part": "word/document.xml",
+        "context": "=\"16\"/><w:szCs w:val=\"16\"/></w:rPr><w:t>☐</w:t></w:r></w:sdtContent></w:sdt><w:r "
+      },
+      {
+        "part": "word/document.xml",
+        "context": "=\"16\"/><w:szCs w:val=\"16\"/></w:rPr><w:t>☐</w:t></w:r></w:sdtContent></w:sdt><w:r "
+      },
+      {
+        "part": "word/document.xml",
+        "context": "=\"16\"/><w:szCs w:val=\"16\"/></w:rPr><w:t>☐</w:t></w:r></w:sdtContent></w:sdt><w:r "
+      },
+      {
+        "part": "word/document.xml",
+        "context": "=\"16\"/><w:szCs w:val=\"16\"/></w:rPr><w:t>☐</w:t></w:r></w:sdtContent></w:sdt><w:r "
+      },
+      {
+        "part": "word/document.xml",
+        "context": "=\"16\"/><w:szCs w:val=\"16\"/></w:rPr><w:t>☐</w:t></w:r></w:sdtContent></w:sdt><w:r "
+      },
+      {
+        "part": "word/document.xml",
+        "context": "=\"16\"/><w:szCs w:val=\"16\"/></w:rPr><w:t>☐</w:t></w:r></w:sdtContent></w:sdt><w:r "
+      },
+      {
+        "part": "word/document.xml",
+        "context": "=\"16\"/><w:szCs w:val=\"16\"/></w:rPr><w:t>☐</w:t></w:r></w:sdtContent></w:sdt><w:r "
+      },
+      {
+        "part": "word/document.xml",
+        "context": "=\"16\"/><w:szCs w:val=\"16\"/></w:rPr><w:t>☐</w:t></w:r></w:sdtContent></w:sdt><w:r "
+      },
+      {
+        "part": "word/document.xml",
+        "context": "=\"16\"/><w:szCs w:val=\"16\"/></w:rPr><w:t>☐</w:t></w:r></w:sdtContent></w:sdt><w:r "
+      },
+      {
+        "part": "word/document.xml",
+        "context": "=\"16\"/><w:szCs w:val=\"16\"/></w:rPr><w:t>☐</w:t></w:r></w:sdtContent></w:sdt><w:r "
+      },
+      {
+        "part": "word/document.xml",
+        "context": "=\"16\"/><w:szCs w:val=\"16\"/></w:rPr><w:t>☐</w:t></w:r></w:sdtContent></w:sdt><w:r "
+      },
+      {
+        "part": "word/document.xml",
+        "context": "=\"16\"/><w:szCs w:val=\"16\"/></w:rPr><w:t>☐</w:t></w:r></w:sdtContent></w:sdt><w:r "
+      },
+      {
+        "part": "word/document.xml",
+        "context": "=\"16\"/><w:szCs w:val=\"16\"/></w:rPr><w:t>☐</w:t></w:r></w:sdtContent></w:sdt><w:r "
+      },
+      {
+        "part": "word/document.xml",
+        "context": "=\"16\"/><w:szCs w:val=\"16\"/></w:rPr><w:t>☐</w:t></w:r></w:sdtContent></w:sdt><w:r "
+      },
+      {
+        "part": "word/document.xml",
+        "context": "=\"16\"/><w:szCs w:val=\"16\"/></w:rPr><w:t>☐</w:t></w:r></w:sdtContent></w:sdt><w:r "
+      },
+      {
+        "part": "word/document.xml",
+        "context": "=\"16\"/><w:szCs w:val=\"16\"/></w:rPr><w:t>☐</w:t></w:r></w:sdtContent></w:sdt><w:r "
+      },
+      {
+        "part": "word/document.xml",
+        "context": "=\"16\"/><w:szCs w:val=\"16\"/></w:rPr><w:t>☐</w:t></w:r></w:sdtContent></w:sdt><w:r "
+      },
+      {
+        "part": "word/document.xml",
+        "context": "=\"16\"/><w:szCs w:val=\"16\"/></w:rPr><w:t>☐</w:t></w:r></w:sdtContent></w:sdt><w:r "
+      },
+      {
+        "part": "word/document.xml",
+        "context": "=\"16\"/><w:szCs w:val=\"16\"/></w:rPr><w:t>☐</w:t></w:r></w:sdtContent></w:sdt><w:r "
+      },
+      {
+        "part": "word/document.xml",
+        "context": "=\"16\"/><w:szCs w:val=\"16\"/></w:rPr><w:t>☐</w:t></w:r></w:sdtContent></w:sdt><w:r "
+      },
+      {
+        "part": "word/document.xml",
+        "context": "=\"16\"/><w:szCs w:val=\"16\"/></w:rPr><w:t>☐</w:t></w:r></w:sdtContent></w:sdt><w:r "
+      },
+      {
+        "part": "word/document.xml",
+        "context": "=\"16\"/><w:szCs w:val=\"16\"/></w:rPr><w:t>☐</w:t></w:r></w:sdtContent></w:sdt><w:r "
+      },
+      {
+        "part": "word/document.xml",
+        "context": "=\"16\"/><w:szCs w:val=\"16\"/></w:rPr><w:t>☐</w:t></w:r></w:sdtContent></w:sdt><w:r "
+      },
+      {
+        "part": "word/document.xml",
+        "context": "=\"16\"/><w:szCs w:val=\"16\"/></w:rPr><w:t>☐</w:t></w:r></w:sdtContent></w:sdt><w:r "
+      },
+      {
+        "part": "word/document.xml",
+        "context": "=\"16\"/><w:szCs w:val=\"16\"/></w:rPr><w:t>☐</w:t></w:r></w:sdtContent></w:sdt><w:r "
+      },
+      {
+        "part": "word/document.xml",
+        "context": "=\"16\"/><w:szCs w:val=\"16\"/></w:rPr><w:t>☐</w:t></w:r></w:sdtContent></w:sdt><w:r "
+      },
+      {
+        "part": "word/document.xml",
+        "context": "=\"16\"/><w:szCs w:val=\"16\"/></w:rPr><w:t>☐</w:t></w:r></w:sdtContent></w:sdt><w:r "
+      },
+      {
+        "part": "word/document.xml",
+        "context": "=\"16\"/><w:szCs w:val=\"16\"/></w:rPr><w:t>☐</w:t></w:r></w:sdtContent></w:sdt><w:r "
+      },
+      {
+        "part": "word/document.xml",
+        "context": "=\"16\"/><w:szCs w:val=\"16\"/></w:rPr><w:t>☐</w:t></w:r></w:sdtContent></w:sdt><w:r "
+      },
+      {
+        "part": "word/document.xml",
+        "context": "=\"16\"/><w:szCs w:val=\"16\"/></w:rPr><w:t>☐</w:t></w:r></w:sdtContent></w:sdt><w:r "
+      },
+      {
+        "part": "word/document.xml",
+        "context": "=\"16\"/><w:szCs w:val=\"16\"/></w:rPr><w:t>☐</w:t></w:r></w:sdtContent></w:sdt><w:r "
+      },
+      {
+        "part": "word/document.xml",
+        "context": "=\"16\"/><w:szCs w:val=\"16\"/></w:rPr><w:t>☐</w:t></w:r></w:sdtContent></w:sdt><w:r "
+      },
+      {
+        "part": "word/document.xml",
+        "context": "=\"16\"/><w:szCs w:val=\"16\"/></w:rPr><w:t>☐</w:t></w:r></w:sdtContent></w:sdt><w:r "
+      },
+      {
+        "part": "word/document.xml",
+        "context": "=\"16\"/><w:szCs w:val=\"16\"/></w:rPr><w:t>☐</w:t></w:r></w:sdtContent></w:sdt><w:r "
+      },
+      {
+        "part": "word/document.xml",
+        "context": "=\"16\"/><w:szCs w:val=\"16\"/></w:rPr><w:t>☐</w:t></w:r></w:sdtContent></w:sdt><w:r "
+      },
+      {
+        "part": "word/document.xml",
+        "context": "=\"16\"/><w:szCs w:val=\"16\"/></w:rPr><w:t>☐</w:t></w:r></w:sdtContent></w:sdt><w:r "
+      },
+      {
+        "part": "word/document.xml",
+        "context": "=\"16\"/><w:szCs w:val=\"16\"/></w:rPr><w:t>☐</w:t></w:r></w:sdtContent></w:sdt><w:r "
+      },
+      {
+        "part": "word/document.xml",
+        "context": "=\"16\"/><w:szCs w:val=\"16\"/></w:rPr><w:t>☐</w:t></w:r></w:sdtContent></w:sdt><w:r "
+      },
+      {
+        "part": "word/document.xml",
+        "context": "=\"16\"/><w:szCs w:val=\"16\"/></w:rPr><w:t>☐</w:t></w:r></w:sdtContent></w:sdt><w:r "
+      },
+      {
+        "part": "word/document.xml",
+        "context": "=\"16\"/><w:szCs w:val=\"16\"/></w:rPr><w:t>☐</w:t></w:r></w:sdtContent></w:sdt><w:r "
+      },
+      {
+        "part": "word/document.xml",
+        "context": "=\"16\"/><w:szCs w:val=\"16\"/></w:rPr><w:t>☐</w:t></w:r></w:sdtContent></w:sdt><w:r "
+      },
+      {
+        "part": "word/document.xml",
+        "context": "=\"16\"/><w:szCs w:val=\"16\"/></w:rPr><w:t>☐</w:t></w:r></w:sdtContent></w:sdt><w:r "
+      },
+      {
+        "part": "word/document.xml",
+        "context": "=\"16\"/><w:szCs w:val=\"16\"/></w:rPr><w:t>☐</w:t></w:r></w:sdtContent></w:sdt><w:r "
+      },
+      {
+        "part": "word/document.xml",
+        "context": "=\"16\"/><w:szCs w:val=\"16\"/></w:rPr><w:t>☐</w:t></w:r></w:sdtContent></w:sdt><w:r "
+      },
+      {
+        "part": "word/document.xml",
+        "context": "=\"16\"/><w:szCs w:val=\"16\"/></w:rPr><w:t>☐</w:t></w:r></w:sdtContent></w:sdt><w:pr"
+      },
+      {
+        "part": "word/document.xml",
+        "context": "=\"16\"/><w:szCs w:val=\"16\"/></w:rPr><w:t>☐</w:t></w:r></w:sdtContent></w:sdt><w:r "
+      },
+      {
+        "part": "word/document.xml",
+        "context": "=\"16\"/><w:szCs w:val=\"16\"/></w:rPr><w:t>☐</w:t></w:r></w:sdtContent></w:sdt><w:r "
+      },
+      {
+        "part": "word/document.xml",
+        "context": "=\"16\"/><w:szCs w:val=\"16\"/></w:rPr><w:t>☐</w:t></w:r></w:sdtContent></w:sdt><w:r "
+      },
+      {
+        "part": "word/document.xml",
+        "context": "=\"16\"/><w:szCs w:val=\"16\"/></w:rPr><w:t>☐</w:t></w:r></w:sdtContent></w:sdt><w:r "
+      },
+      {
+        "part": "word/document.xml",
+        "context": "=\"16\"/><w:szCs w:val=\"16\"/></w:rPr><w:t>☐</w:t></w:r></w:sdtContent></w:sdt><w:r "
+      },
+      {
+        "part": "word/document.xml",
+        "context": "=\"16\"/><w:szCs w:val=\"16\"/></w:rPr><w:t>☐</w:t></w:r></w:sdtContent></w:sdt><w:r "
+      },
+      {
+        "part": "word/document.xml",
+        "context": "=\"16\"/><w:szCs w:val=\"16\"/></w:rPr><w:t>☐</w:t></w:r></w:sdtContent></w:sdt><w:r "
+      },
+      {
+        "part": "word/document.xml",
+        "context": "=\"16\"/><w:szCs w:val=\"16\"/></w:rPr><w:t>☐</w:t></w:r></w:sdtContent></w:sdt><w:r "
+      },
+      {
+        "part": "word/document.xml",
+        "context": "=\"16\"/><w:szCs w:val=\"16\"/></w:rPr><w:t>☐</w:t></w:r></w:sdtContent></w:sdt><w:r "
+      },
+      {
+        "part": "word/document.xml",
+        "context": "=\"16\"/><w:szCs w:val=\"16\"/></w:rPr><w:t>☐</w:t></w:r></w:sdtContent></w:sdt><w:r>"
+      },
+      {
+        "part": "word/document.xml",
+        "context": "=\"16\"/><w:szCs w:val=\"16\"/></w:rPr><w:t>☐</w:t></w:r></w:sdtContent></w:sdt><w:r>"
+      },
+      {
+        "part": "word/document.xml",
+        "context": "=\"16\"/><w:szCs w:val=\"16\"/></w:rPr><w:t>☐</w:t></w:r></w:sdtContent></w:sdt><w:r>"
+      },
+      {
+        "part": "word/document.xml",
+        "context": "=\"16\"/><w:szCs w:val=\"16\"/></w:rPr><w:t>☐</w:t></w:r></w:sdtContent></w:sdt><w:r>"
+      },
+      {
+        "part": "word/document.xml",
+        "context": "=\"16\"/><w:szCs w:val=\"16\"/></w:rPr><w:t>☐</w:t></w:r></w:sdtContent></w:sdt><w:r "
+      },
+      {
+        "part": "word/document.xml",
+        "context": "=\"16\"/><w:szCs w:val=\"16\"/></w:rPr><w:t>☐</w:t></w:r></w:sdtContent></w:sdt><w:r "
+      },
+      {
+        "part": "word/document.xml",
+        "context": "=\"16\"/><w:szCs w:val=\"16\"/></w:rPr><w:t>☐</w:t></w:r></w:sdtContent></w:sdt><w:r "
+      },
+      {
+        "part": "word/document.xml",
+        "context": "=\"16\"/><w:szCs w:val=\"16\"/></w:rPr><w:t>☐</w:t></w:r></w:sdtContent></w:sdt><w:r "
+      },
+      {
+        "part": "word/document.xml",
+        "context": "=\"16\"/><w:szCs w:val=\"16\"/></w:rPr><w:t>☐</w:t></w:r></w:sdtContent></w:sdt><w:r "
+      },
+      {
+        "part": "word/document.xml",
+        "context": "=\"16\"/><w:szCs w:val=\"16\"/></w:rPr><w:t>☐</w:t></w:r></w:sdtContent></w:sdt><w:r "
+      },
+      {
+        "part": "word/document.xml",
+        "context": "=\"16\"/><w:szCs w:val=\"16\"/></w:rPr><w:t>☐</w:t></w:r></w:sdtContent></w:sdt><w:r "
+      },
+      {
+        "part": "word/document.xml",
+        "context": "=\"16\"/><w:szCs w:val=\"16\"/></w:rPr><w:t>☐</w:t></w:r></w:sdtContent></w:sdt><w:r "
+      },
+      {
+        "part": "word/document.xml",
+        "context": "=\"16\"/><w:szCs w:val=\"16\"/></w:rPr><w:t>☐</w:t></w:r></w:sdtContent></w:sdt><w:r "
+      },
+      {
+        "part": "word/document.xml",
+        "context": "=\"16\"/><w:szCs w:val=\"16\"/></w:rPr><w:t>☐</w:t></w:r></w:sdtContent></w:sdt><w:r "
+      },
+      {
+        "part": "word/document.xml",
+        "context": "=\"16\"/><w:szCs w:val=\"16\"/></w:rPr><w:t>☐</w:t></w:r></w:sdtContent></w:sdt><w:r "
+      },
+      {
+        "part": "word/document.xml",
+        "context": "=\"16\"/><w:szCs w:val=\"16\"/></w:rPr><w:t>☐</w:t></w:r></w:sdtContent></w:sdt><w:r "
+      },
+      {
+        "part": "word/document.xml",
+        "context": "=\"16\"/><w:szCs w:val=\"16\"/></w:rPr><w:t>☐</w:t></w:r></w:sdtContent></w:sdt><w:r "
+      },
+      {
+        "part": "word/document.xml",
+        "context": "=\"16\"/><w:szCs w:val=\"16\"/></w:rPr><w:t>☐</w:t></w:r></w:sdtContent></w:sdt><w:r "
+      },
+      {
+        "part": "word/document.xml",
+        "context": "=\"16\"/><w:szCs w:val=\"16\"/></w:rPr><w:t>☐</w:t></w:r></w:sdtContent></w:sdt><w:r "
+      },
+      {
+        "part": "word/document.xml",
+        "context": "=\"16\"/><w:szCs w:val=\"16\"/></w:rPr><w:t>☐</w:t></w:r></w:sdtContent></w:sdt><w:r "
+      },
+      {
+        "part": "word/document.xml",
+        "context": "=\"16\"/><w:szCs w:val=\"16\"/></w:rPr><w:t>☐</w:t></w:r></w:sdtContent></w:sdt><w:r "
+      },
+      {
+        "part": "word/document.xml",
+        "context": "=\"16\"/><w:szCs w:val=\"16\"/></w:rPr><w:t>☐</w:t></w:r></w:sdtContent></w:sdt><w:r "
+      },
+      {
+        "part": "word/document.xml",
+        "context": "=\"16\"/><w:szCs w:val=\"16\"/></w:rPr><w:t>☐</w:t></w:r></w:sdtContent></w:sdt><w:r "
+      },
+      {
+        "part": "word/document.xml",
+        "context": "=\"16\"/><w:szCs w:val=\"16\"/></w:rPr><w:t>☐</w:t></w:r></w:sdtContent></w:sdt><w:r "
+      },
+      {
+        "part": "word/document.xml",
+        "context": "=\"16\"/><w:szCs w:val=\"16\"/></w:rPr><w:t>☐</w:t></w:r></w:sdtContent></w:sdt><w:r "
+      },
+      {
+        "part": "word/document.xml",
+        "context": "=\"16\"/><w:szCs w:val=\"16\"/></w:rPr><w:t>☐</w:t></w:r></w:sdtContent></w:sdt><w:r "
+      },
+      {
+        "part": "word/document.xml",
+        "context": "=\"16\"/><w:szCs w:val=\"16\"/></w:rPr><w:t>☐</w:t></w:r></w:sdtContent></w:sdt><w:r "
+      },
+      {
+        "part": "word/document.xml",
+        "context": "=\"16\"/><w:szCs w:val=\"16\"/></w:rPr><w:t>☐</w:t></w:r></w:sdtContent></w:sdt><w:r "
+      },
+      {
+        "part": "word/document.xml",
+        "context": "=\"16\"/><w:szCs w:val=\"16\"/></w:rPr><w:t>☐</w:t></w:r></w:sdtContent></w:sdt><w:r "
+      },
+      {
+        "part": "word/document.xml",
+        "context": "=\"16\"/><w:szCs w:val=\"16\"/></w:rPr><w:t>☐</w:t></w:r></w:sdtContent></w:sdt><w:r "
+      },
+      {
+        "part": "word/document.xml",
+        "context": "=\"16\"/><w:szCs w:val=\"16\"/></w:rPr><w:t>☐</w:t></w:r></w:sdtContent></w:sdt><w:r "
+      },
+      {
+        "part": "word/document.xml",
+        "context": "=\"16\"/><w:szCs w:val=\"16\"/></w:rPr><w:t>☐</w:t></w:r></w:sdtContent></w:sdt><w:r "
+      },
+      {
+        "part": "word/document.xml",
+        "context": "=\"16\"/><w:szCs w:val=\"16\"/></w:rPr><w:t>☐</w:t></w:r></w:sdtContent></w:sdt><w:r "
+      },
+      {
+        "part": "word/document.xml",
+        "context": "=\"16\"/><w:szCs w:val=\"16\"/></w:rPr><w:t>☐</w:t></w:r></w:sdtContent></w:sdt><w:r "
+      },
+      {
+        "part": "word/document.xml",
+        "context": "=\"16\"/><w:szCs w:val=\"16\"/></w:rPr><w:t>☐</w:t></w:r></w:sdtContent></w:sdt><w:r "
+      },
+      {
+        "part": "word/document.xml",
+        "context": "=\"16\"/><w:szCs w:val=\"16\"/></w:rPr><w:t>☐</w:t></w:r></w:sdtContent></w:sdt><w:r "
+      },
+      {
+        "part": "word/document.xml",
+        "context": "=\"16\"/><w:szCs w:val=\"16\"/></w:rPr><w:t>☐</w:t></w:r></w:sdtContent></w:sdt><w:r "
+      },
+      {
+        "part": "word/document.xml",
+        "context": "=\"16\"/><w:szCs w:val=\"16\"/></w:rPr><w:t>☐</w:t></w:r></w:sdtContent></w:sdt><w:r "
+      },
+      {
+        "part": "word/document.xml",
+        "context": "=\"16\"/><w:szCs w:val=\"16\"/></w:rPr><w:t>☐</w:t></w:r></w:sdtContent></w:sdt><w:r "
+      },
+      {
+        "part": "word/document.xml",
+        "context": "=\"16\"/><w:szCs w:val=\"16\"/></w:rPr><w:t>☐</w:t></w:r></w:sdtContent></w:sdt><w:r "
+      },
+      {
+        "part": "word/document.xml",
+        "context": "=\"16\"/><w:szCs w:val=\"16\"/></w:rPr><w:t>☐</w:t></w:r></w:sdtContent></w:sdt><w:r "
+      },
+      {
+        "part": "word/document.xml",
+        "context": "=\"16\"/><w:szCs w:val=\"16\"/></w:rPr><w:t>☐</w:t></w:r></w:sdtContent></w:sdt><w:r "
+      },
+      {
+        "part": "word/document.xml",
+        "context": "=\"16\"/><w:szCs w:val=\"16\"/></w:rPr><w:t>☐</w:t></w:r></w:sdtContent></w:sdt><w:r "
+      },
+      {
+        "part": "word/document.xml",
+        "context": "=\"16\"/><w:szCs w:val=\"16\"/></w:rPr><w:t>☐</w:t></w:r></w:sdtContent></w:sdt><w:r "
+      },
+      {
+        "part": "word/document.xml",
+        "context": "=\"16\"/><w:szCs w:val=\"16\"/></w:rPr><w:t>☐</w:t></w:r></w:sdtContent></w:sdt><w:r "
+      },
+      {
+        "part": "word/document.xml",
+        "context": "=\"16\"/><w:szCs w:val=\"16\"/></w:rPr><w:t>☐</w:t></w:r></w:sdtContent></w:sdt><w:r "
+      },
+      {
+        "part": "word/document.xml",
+        "context": "=\"16\"/><w:szCs w:val=\"16\"/></w:rPr><w:t>☐</w:t></w:r></w:sdtContent></w:sdt><w:r "
+      },
+      {
+        "part": "word/document.xml",
+        "context": "=\"16\"/><w:szCs w:val=\"16\"/></w:rPr><w:t>☐</w:t></w:r></w:sdtContent></w:sdt><w:r "
+      },
+      {
+        "part": "word/document.xml",
+        "context": "=\"16\"/><w:szCs w:val=\"16\"/></w:rPr><w:t>☐</w:t></w:r></w:sdtContent></w:sdt><w:r "
+      },
+      {
+        "part": "word/document.xml",
+        "context": "=\"16\"/><w:szCs w:val=\"16\"/></w:rPr><w:t>☐</w:t></w:r></w:sdtContent></w:sdt><w:r "
+      },
+      {
+        "part": "word/document.xml",
+        "context": "=\"16\"/><w:szCs w:val=\"16\"/></w:rPr><w:t>☐</w:t></w:r></w:sdtContent></w:sdt><w:r "
+      },
+      {
+        "part": "word/document.xml",
+        "context": "=\"16\"/><w:szCs w:val=\"16\"/></w:rPr><w:t>☐</w:t></w:r></w:sdtContent></w:sdt><w:r "
+      },
+      {
+        "part": "word/document.xml",
+        "context": "=\"16\"/><w:szCs w:val=\"16\"/></w:rPr><w:t>☐</w:t></w:r></w:sdtContent></w:sdt><w:r "
+      },
+      {
+        "part": "word/document.xml",
+        "context": "=\"16\"/><w:szCs w:val=\"16\"/></w:rPr><w:t>☐</w:t></w:r></w:sdtContent></w:sdt><w:r "
+      },
+      {
+        "part": "word/document.xml",
+        "context": "=\"16\"/><w:szCs w:val=\"16\"/></w:rPr><w:t>☐</w:t></w:r></w:sdtContent></w:sdt><w:r "
+      },
+      {
+        "part": "word/document.xml",
+        "context": "=\"16\"/><w:szCs w:val=\"16\"/></w:rPr><w:t>☐</w:t></w:r></w:sdtContent></w:sdt><w:r "
+      },
+      {
+        "part": "word/document.xml",
+        "context": "=\"16\"/><w:szCs w:val=\"16\"/></w:rPr><w:t>☐</w:t></w:r></w:sdtContent></w:sdt><w:r "
+      },
+      {
+        "part": "word/document.xml",
+        "context": "=\"16\"/><w:szCs w:val=\"16\"/></w:rPr><w:t>☐</w:t></w:r></w:sdtContent></w:sdt><w:r "
+      },
+      {
+        "part": "word/document.xml",
+        "context": "=\"16\"/><w:szCs w:val=\"16\"/></w:rPr><w:t>☐</w:t></w:r></w:sdtContent></w:sdt><w:r "
+      },
+      {
+        "part": "word/document.xml",
+        "context": "=\"16\"/><w:szCs w:val=\"16\"/></w:rPr><w:t>☐</w:t></w:r></w:sdtContent></w:sdt><w:r "
+      },
+      {
+        "part": "word/document.xml",
+        "context": "=\"16\"/><w:szCs w:val=\"16\"/></w:rPr><w:t>☐</w:t></w:r></w:sdtContent></w:sdt><w:r "
+      },
+      {
+        "part": "word/document.xml",
+        "context": "=\"16\"/><w:szCs w:val=\"16\"/></w:rPr><w:t>☐</w:t></w:r></w:sdtContent></w:sdt><w:r "
+      },
+      {
+        "part": "word/document.xml",
+        "context": "=\"16\"/><w:szCs w:val=\"16\"/></w:rPr><w:t>☐</w:t></w:r></w:sdtContent></w:sdt><w:r "
+      },
+      {
+        "part": "word/document.xml",
+        "context": "=\"16\"/><w:szCs w:val=\"16\"/></w:rPr><w:t>☐</w:t></w:r></w:sdtContent></w:sdt><w:r "
+      },
+      {
+        "part": "word/document.xml",
+        "context": "=\"16\"/><w:szCs w:val=\"16\"/></w:rPr><w:t>☐</w:t></w:r></w:sdtContent></w:sdt><w:r>"
+      },
+      {
+        "part": "word/document.xml",
+        "context": "=\"16\"/><w:szCs w:val=\"16\"/></w:rPr><w:t>☐</w:t></w:r></w:sdtContent></w:sdt><w:r "
+      },
+      {
+        "part": "word/document.xml",
+        "context": "=\"16\"/><w:szCs w:val=\"16\"/></w:rPr><w:t>☐</w:t></w:r></w:sdtContent></w:sdt><w:r "
+      },
+      {
+        "part": "word/document.xml",
+        "context": "=\"16\"/><w:szCs w:val=\"16\"/></w:rPr><w:t>☐</w:t></w:r></w:sdtContent></w:sdt><w:r "
+      },
+      {
+        "part": "word/document.xml",
+        "context": "=\"16\"/><w:szCs w:val=\"16\"/></w:rPr><w:t>☐</w:t></w:r></w:sdtContent></w:sdt><w:r "
+      },
+      {
+        "part": "word/document.xml",
+        "context": "=\"16\"/><w:szCs w:val=\"16\"/></w:rPr><w:t>☐</w:t></w:r></w:sdtContent></w:sdt><w:r "
+      },
+      {
+        "part": "word/document.xml",
+        "context": "=\"16\"/><w:szCs w:val=\"16\"/></w:rPr><w:t>☐</w:t></w:r></w:sdtContent></w:sdt><w:r "
+      },
+      {
+        "part": "word/document.xml",
+        "context": "=\"16\"/><w:szCs w:val=\"16\"/></w:rPr><w:t>☐</w:t></w:r></w:sdtContent></w:sdt><w:r "
+      },
+      {
+        "part": "word/document.xml",
+        "context": "=\"16\"/><w:szCs w:val=\"16\"/></w:rPr><w:t>☐</w:t></w:r></w:sdtContent></w:sdt><w:r "
+      },
+      {
+        "part": "word/document.xml",
+        "context": "=\"16\"/><w:szCs w:val=\"16\"/></w:rPr><w:t>☐</w:t></w:r></w:sdtContent></w:sdt><w:r "
+      },
+      {
+        "part": "word/document.xml",
+        "context": "=\"16\"/><w:szCs w:val=\"16\"/></w:rPr><w:t>☐</w:t></w:r></w:sdtContent></w:sdt><w:r "
+      },
+      {
+        "part": "word/document.xml",
+        "context": "=\"16\"/><w:szCs w:val=\"16\"/></w:rPr><w:t>☐</w:t></w:r></w:sdtContent></w:sdt><w:pr"
+      },
+      {
+        "part": "word/document.xml",
+        "context": "=\"16\"/><w:szCs w:val=\"16\"/></w:rPr><w:t>☐</w:t></w:r></w:sdtContent></w:sdt><w:pr"
+      },
+      {
+        "part": "word/document.xml",
+        "context": "=\"16\"/><w:szCs w:val=\"16\"/></w:rPr><w:t>☐</w:t></w:r></w:sdtContent></w:sdt><w:pr"
+      },
+      {
+        "part": "word/document.xml",
+        "context": "=\"16\"/><w:szCs w:val=\"16\"/></w:rPr><w:t>☐</w:t></w:r></w:sdtContent></w:sdt><w:r "
+      },
+      {
+        "part": "word/document.xml",
+        "context": "=\"16\"/><w:szCs w:val=\"16\"/></w:rPr><w:t>☐</w:t></w:r></w:sdtContent></w:sdt><w:r "
+      },
+      {
+        "part": "word/document.xml",
+        "context": "=\"16\"/><w:szCs w:val=\"16\"/></w:rPr><w:t>☐</w:t></w:r></w:sdtContent></w:sdt><w:r "
+      },
+      {
+        "part": "word/document.xml",
+        "context": "=\"16\"/><w:szCs w:val=\"16\"/></w:rPr><w:t>☐</w:t></w:r></w:sdtContent></w:sdt><w:r "
+      },
+      {
+        "part": "word/document.xml",
+        "context": "=\"16\"/><w:szCs w:val=\"16\"/></w:rPr><w:t>☐</w:t></w:r></w:sdtContent></w:sdt><w:r "
+      },
+      {
+        "part": "word/document.xml",
+        "context": "=\"16\"/><w:szCs w:val=\"16\"/></w:rPr><w:t>☐</w:t></w:r></w:sdtContent></w:sdt><w:r "
+      },
+      {
+        "part": "word/document.xml",
+        "context": "=\"16\"/><w:szCs w:val=\"16\"/></w:rPr><w:t>☐</w:t></w:r></w:sdtContent></w:sdt><w:r "
+      },
+      {
+        "part": "word/document.xml",
+        "context": "=\"16\"/><w:szCs w:val=\"16\"/></w:rPr><w:t>☐</w:t></w:r></w:sdtContent></w:sdt><w:r "
+      },
+      {
+        "part": "word/document.xml",
+        "context": "=\"16\"/><w:szCs w:val=\"16\"/></w:rPr><w:t>☐</w:t></w:r></w:sdtContent></w:sdt><w:r "
+      },
+      {
+        "part": "word/document.xml",
+        "context": "=\"16\"/><w:szCs w:val=\"16\"/></w:rPr><w:t>☐</w:t></w:r></w:sdtContent></w:sdt><w:r "
+      },
+      {
+        "part": "word/document.xml",
+        "context": "=\"16\"/><w:szCs w:val=\"16\"/></w:rPr><w:t>☐</w:t></w:r></w:sdtContent></w:sdt><w:r "
+      },
+      {
+        "part": "word/document.xml",
+        "context": "=\"16\"/><w:szCs w:val=\"16\"/></w:rPr><w:t>☐</w:t></w:r></w:sdtContent></w:sdt><w:r "
+      },
+      {
+        "part": "word/document.xml",
+        "context": "=\"16\"/><w:szCs w:val=\"16\"/></w:rPr><w:t>☐</w:t></w:r></w:sdtContent></w:sdt><w:r "
+      },
+      {
+        "part": "word/document.xml",
+        "context": "=\"16\"/><w:szCs w:val=\"16\"/></w:rPr><w:t>☐</w:t></w:r></w:sdtContent></w:sdt><w:r "
+      },
+      {
+        "part": "word/document.xml",
+        "context": "=\"16\"/><w:szCs w:val=\"16\"/></w:rPr><w:t>☐</w:t></w:r></w:sdtContent></w:sdt><w:r "
+      },
+      {
+        "part": "word/document.xml",
+        "context": "=\"16\"/><w:szCs w:val=\"16\"/></w:rPr><w:t>☐</w:t></w:r></w:sdtContent></w:sdt><w:r "
+      },
+      {
+        "part": "word/document.xml",
+        "context": "=\"16\"/><w:szCs w:val=\"16\"/></w:rPr><w:t>☐</w:t></w:r></w:sdtContent></w:sdt><w:r "
+      },
+      {
+        "part": "word/document.xml",
+        "context": "=\"16\"/><w:szCs w:val=\"16\"/></w:rPr><w:t>☐</w:t></w:r></w:sdtContent></w:sdt><w:r "
+      },
+      {
+        "part": "word/document.xml",
+        "context": "=\"16\"/><w:szCs w:val=\"16\"/></w:rPr><w:t>☐</w:t></w:r></w:sdtContent></w:sdt><w:r "
+      },
+      {
+        "part": "word/document.xml",
+        "context": "=\"16\"/><w:szCs w:val=\"16\"/></w:rPr><w:t>☐</w:t></w:r></w:sdtContent></w:sdt><w:r "
+      },
+      {
+        "part": "word/document.xml",
+        "context": "=\"16\"/><w:szCs w:val=\"16\"/></w:rPr><w:t>☐</w:t></w:r></w:sdtContent></w:sdt><w:r "
+      },
+      {
+        "part": "word/document.xml",
+        "context": "=\"16\"/><w:szCs w:val=\"16\"/></w:rPr><w:t>☐</w:t></w:r></w:sdtContent></w:sdt><w:r "
+      },
+      {
+        "part": "word/document.xml",
+        "context": "=\"16\"/><w:szCs w:val=\"16\"/></w:rPr><w:t>☐</w:t></w:r></w:sdtContent></w:sdt><w:r "
+      },
+      {
+        "part": "word/document.xml",
+        "context": "=\"16\"/><w:szCs w:val=\"16\"/></w:rPr><w:t>☐</w:t></w:r></w:sdtContent></w:sdt><w:r "
+      },
+      {
+        "part": "word/document.xml",
+        "context": "=\"16\"/><w:szCs w:val=\"16\"/></w:rPr><w:t>☐</w:t></w:r></w:sdtContent></w:sdt><w:r "
+      },
+      {
+        "part": "word/document.xml",
+        "context": "=\"16\"/><w:szCs w:val=\"16\"/></w:rPr><w:t>☐</w:t></w:r></w:sdtContent></w:sdt><w:r "
+      },
+      {
+        "part": "word/document.xml",
+        "context": "=\"16\"/><w:szCs w:val=\"16\"/></w:rPr><w:t>☐</w:t></w:r></w:sdtContent></w:sdt><w:pr"
+      },
+      {
+        "part": "word/document.xml",
+        "context": "=\"16\"/><w:szCs w:val=\"16\"/></w:rPr><w:t>☐</w:t></w:r></w:sdtContent></w:sdt><w:r "
+      },
+      {
+        "part": "word/document.xml",
+        "context": "6\"/><w:lang w:val=\"en-IN\"/></w:rPr><w:t>☐</w:t></w:r></w:sdtContent></w:sdt><w:r "
+      },
+      {
+        "part": "word/document.xml",
+        "context": "en-IN\" w:eastAsia=\"de-DE\"/></w:rPr><w:t>☐</w:t></w:r></w:sdtContent></w:sdt><w:r "
+      },
+      {
+        "part": "word/document.xml",
+        "context": "en-IN\" w:eastAsia=\"de-DE\"/></w:rPr><w:t>☐</w:t></w:r></w:sdtContent></w:sdt><w:r "
+      },
+      {
+        "part": "word/document.xml",
+        "context": "=\"16\"/><w:szCs w:val=\"16\"/></w:rPr><w:t>☐</w:t></w:r></w:sdtContent></w:sdt><w:r "
+      },
+      {
+        "part": "word/document.xml",
+        "context": "=\"16\"/><w:szCs w:val=\"16\"/></w:rPr><w:t>☐</w:t></w:r></w:sdtContent></w:sdt><w:r "
+      },
+      {
+        "part": "word/document.xml",
+        "context": "=\"16\"/><w:szCs w:val=\"16\"/></w:rPr><w:t>☐</w:t></w:r></w:sdtContent></w:sdt><w:r "
+      },
+      {
+        "part": "word/document.xml",
+        "context": "=\"16\"/><w:szCs w:val=\"16\"/></w:rPr><w:t>☐</w:t></w:r></w:sdtContent></w:sdt><w:r "
+      },
+      {
+        "part": "word/document.xml",
+        "context": "en-IN\" w:eastAsia=\"de-DE\"/></w:rPr><w:t>☐</w:t></w:r></w:sdtContent></w:sdt><w:r "
+      },
+      {
+        "part": "word/document.xml",
+        "context": "=\"16\"/><w:szCs w:val=\"16\"/></w:rPr><w:t>☐</w:t></w:r></w:sdtContent></w:sdt><w:r "
+      },
+      {
+        "part": "word/document.xml",
+        "context": "=\"16\"/><w:szCs w:val=\"16\"/></w:rPr><w:t>☐</w:t></w:r></w:sdtContent></w:sdt><w:r "
+      },
+      {
+        "part": "word/document.xml",
+        "context": "=\"16\"/><w:szCs w:val=\"16\"/></w:rPr><w:t>☐</w:t></w:r></w:sdtContent></w:sdt><w:r "
+      },
+      {
+        "part": "word/document.xml",
+        "context": "=\"16\"/><w:szCs w:val=\"16\"/></w:rPr><w:t>☐</w:t></w:r></w:sdtContent></w:sdt><w:r "
+      },
+      {
+        "part": "word/document.xml",
+        "context": "=\"16\"/><w:szCs w:val=\"16\"/></w:rPr><w:t>☐</w:t></w:r></w:sdtContent></w:sdt><w:r "
+      },
+      {
+        "part": "word/document.xml",
+        "context": "=\"16\"/><w:szCs w:val=\"16\"/></w:rPr><w:t>☐</w:t></w:r></w:sdtContent></w:sdt><w:r "
+      },
+      {
+        "part": "word/document.xml",
+        "context": "=\"16\"/><w:szCs w:val=\"16\"/></w:rPr><w:t>☐</w:t></w:r></w:sdtContent></w:sdt><w:r>"
+      },
+      {
+        "part": "word/document.xml",
+        "context": "=\"16\"/><w:szCs w:val=\"16\"/></w:rPr><w:t>☐</w:t></w:r></w:sdtContent></w:sdt><w:r "
+      },
+      {
+        "part": "word/document.xml",
+        "context": "=\"16\"/><w:szCs w:val=\"16\"/></w:rPr><w:t>☐</w:t></w:r></w:sdtContent></w:sdt><w:r "
+      },
+      {
+        "part": "word/document.xml",
+        "context": "=\"16\"/><w:szCs w:val=\"16\"/></w:rPr><w:t>☐</w:t></w:r></w:sdtContent></w:sdt><w:r "
+      },
+      {
+        "part": "word/document.xml",
+        "context": "=\"16\"/><w:szCs w:val=\"16\"/></w:rPr><w:t>☐</w:t></w:r></w:sdtContent></w:sdt><w:r "
+      },
+      {
+        "part": "word/document.xml",
+        "context": "=\"16\"/><w:szCs w:val=\"16\"/></w:rPr><w:t>☐</w:t></w:r></w:sdtContent></w:sdt><w:r>"
+      },
+      {
+        "part": "word/document.xml",
+        "context": "=\"16\"/><w:szCs w:val=\"16\"/></w:rPr><w:t>☐</w:t></w:r></w:sdtContent></w:sdt><w:r "
+      },
+      {
+        "part": "word/document.xml",
+        "context": "=\"16\"/><w:szCs w:val=\"16\"/></w:rPr><w:t>☐</w:t></w:r></w:sdtContent></w:sdt><w:r "
+      },
+      {
+        "part": "word/document.xml",
+        "context": "=\"16\"/><w:szCs w:val=\"16\"/></w:rPr><w:t>☐</w:t></w:r></w:sdtContent></w:sdt><w:r "
+      },
+      {
+        "part": "word/document.xml",
+        "context": "=\"16\"/><w:szCs w:val=\"16\"/></w:rPr><w:t>☐</w:t></w:r></w:sdtContent></w:sdt><w:r "
+      },
+      {
+        "part": "word/document.xml",
+        "context": "=\"16\"/><w:szCs w:val=\"16\"/></w:rPr><w:t>☐</w:t></w:r></w:sdtContent></w:sdt><w:r>"
+      },
+      {
+        "part": "word/document.xml",
+        "context": "=\"16\"/><w:szCs w:val=\"16\"/></w:rPr><w:t>☐</w:t></w:r></w:sdtContent></w:sdt><w:r "
+      },
+      {
+        "part": "word/document.xml",
+        "context": "=\"16\"/><w:szCs w:val=\"16\"/></w:rPr><w:t>☐</w:t></w:r></w:sdtContent></w:sdt><w:r "
+      },
+      {
+        "part": "word/document.xml",
+        "context": "=\"16\"/><w:szCs w:val=\"16\"/></w:rPr><w:t>☐</w:t></w:r></w:sdtContent></w:sdt><w:r "
+      },
+      {
+        "part": "word/document.xml",
+        "context": "=\"16\"/><w:szCs w:val=\"16\"/></w:rPr><w:t>☐</w:t></w:r></w:sdtContent></w:sdt><w:r "
+      },
+      {
+        "part": "word/document.xml",
+        "context": "=\"16\"/><w:szCs w:val=\"16\"/></w:rPr><w:t>☐</w:t></w:r></w:sdtContent></w:sdt><w:r "
+      },
+      {
+        "part": "word/document.xml",
+        "context": "=\"16\"/><w:szCs w:val=\"16\"/></w:rPr><w:t>☐</w:t></w:r></w:sdtContent></w:sdt><w:r "
+      },
+      {
+        "part": "word/document.xml",
+        "context": "=\"16\"/><w:szCs w:val=\"16\"/></w:rPr><w:t>☐</w:t></w:r></w:sdtContent></w:sdt><w:r "
+      },
+      {
+        "part": "word/document.xml",
+        "context": "=\"16\"/><w:szCs w:val=\"16\"/></w:rPr><w:t>☐</w:t></w:r></w:sdtContent></w:sdt><w:r "
+      },
+      {
+        "part": "word/document.xml",
+        "context": "=\"16\"/><w:szCs w:val=\"16\"/></w:rPr><w:t>☐</w:t></w:r></w:sdtContent></w:sdt><w:r "
+      },
+      {
+        "part": "word/document.xml",
+        "context": "=\"16\"/><w:szCs w:val=\"16\"/></w:rPr><w:t>☐</w:t></w:r></w:sdtContent></w:sdt><w:r "
+      },
+      {
+        "part": "word/document.xml",
+        "context": "=\"16\"/><w:szCs w:val=\"16\"/></w:rPr><w:t>☐</w:t></w:r></w:sdtContent></w:sdt><w:r "
+      },
+      {
+        "part": "word/document.xml",
+        "context": "=\"16\"/><w:szCs w:val=\"16\"/></w:rPr><w:t>☐</w:t></w:r></w:sdtContent></w:sdt><w:r "
+      },
+      {
+        "part": "word/document.xml",
+        "context": "=\"16\"/><w:szCs w:val=\"16\"/></w:rPr><w:t>☐</w:t></w:r></w:sdtContent></w:sdt><w:r "
+      },
+      {
+        "part": "word/document.xml",
+        "context": "en-IN\" w:eastAsia=\"de-DE\"/></w:rPr><w:t>☐</w:t></w:r></w:sdtContent></w:sdt><w:r "
+      },
+      {
+        "part": "word/document.xml",
+        "context": "=\"16\"/><w:szCs w:val=\"16\"/></w:rPr><w:t>☐</w:t></w:r></w:sdtContent></w:sdt><w:r "
+      },
+      {
+        "part": "word/document.xml",
+        "context": "=\"16\"/><w:szCs w:val=\"16\"/></w:rPr><w:t>☐</w:t></w:r></w:sdtContent></w:sdt><w:r "
+      },
+      {
+        "part": "word/document.xml",
+        "context": "=\"16\"/><w:szCs w:val=\"16\"/></w:rPr><w:t>☐</w:t></w:r></w:sdtContent></w:sdt><w:r "
+      },
+      {
+        "part": "word/document.xml",
+        "context": "=\"16\"/><w:szCs w:val=\"16\"/></w:rPr><w:t>☐</w:t></w:r></w:sdtContent></w:sdt><w:r "
+      },
+      {
+        "part": "word/document.xml",
+        "context": "=\"16\"/><w:szCs w:val=\"16\"/></w:rPr><w:t>☐</w:t></w:r></w:sdtContent></w:sdt><w:r "
+      },
+      {
+        "part": "word/document.xml",
+        "context": "=\"16\"/><w:szCs w:val=\"16\"/></w:rPr><w:t>☐</w:t></w:r></w:sdtContent></w:sdt><w:r "
+      },
+      {
+        "part": "word/document.xml",
+        "context": "=\"16\"/><w:szCs w:val=\"16\"/></w:rPr><w:t>☐</w:t></w:r></w:sdtContent></w:sdt><w:r "
+      },
+      {
+        "part": "word/document.xml",
+        "context": "en-IN\" w:eastAsia=\"de-DE\"/></w:rPr><w:t>☐</w:t></w:r></w:sdtContent></w:sdt><w:r "
+      },
+      {
+        "part": "word/document.xml",
+        "context": "=\"16\"/><w:szCs w:val=\"16\"/></w:rPr><w:t>☐</w:t></w:r></w:sdtContent></w:sdt><w:r "
+      },
+      {
+        "part": "word/document.xml",
+        "context": "=\"16\"/><w:szCs w:val=\"16\"/></w:rPr><w:t>☐</w:t></w:r></w:sdtContent></w:sdt><w:r "
+      },
+      {
+        "part": "word/document.xml",
+        "context": "=\"16\"/><w:szCs w:val=\"16\"/></w:rPr><w:t>☐</w:t></w:r></w:sdtContent></w:sdt><w:r "
+      },
+      {
+        "part": "word/document.xml",
+        "context": "=\"16\"/><w:szCs w:val=\"16\"/></w:rPr><w:t>☐</w:t></w:r></w:sdtContent></w:sdt><w:r "
+      },
+      {
+        "part": "word/document.xml",
+        "context": "=\"16\"/><w:szCs w:val=\"16\"/></w:rPr><w:t>☐</w:t></w:r></w:sdtContent></w:sdt><w:r "
+      },
+      {
+        "part": "word/document.xml",
+        "context": "=\"16\"/><w:szCs w:val=\"16\"/></w:rPr><w:t>☐</w:t></w:r></w:sdtContent></w:sdt><w:r "
+      },
+      {
+        "part": "word/document.xml",
+        "context": "=\"16\"/><w:szCs w:val=\"16\"/></w:rPr><w:t>☐</w:t></w:r></w:sdtContent></w:sdt><w:r "
+      },
+      {
+        "part": "word/document.xml",
+        "context": "=\"16\"/><w:szCs w:val=\"16\"/></w:rPr><w:t>☐</w:t></w:r></w:sdtContent></w:sdt><w:r "
+      },
+      {
+        "part": "word/document.xml",
+        "context": "=\"16\"/><w:szCs w:val=\"16\"/></w:rPr><w:t>☐</w:t></w:r></w:sdtContent></w:sdt><w:r "
+      },
+      {
+        "part": "word/document.xml",
+        "context": "=\"16\"/><w:szCs w:val=\"16\"/></w:rPr><w:t>☐</w:t></w:r></w:sdtContent></w:sdt><w:r "
+      },
+      {
+        "part": "word/document.xml",
+        "context": "=\"16\"/><w:szCs w:val=\"16\"/></w:rPr><w:t>☐</w:t></w:r></w:sdtContent></w:sdt><w:r "
+      },
+      {
+        "part": "word/document.xml",
+        "context": "=\"16\"/><w:szCs w:val=\"16\"/></w:rPr><w:t>☐</w:t></w:r></w:sdtContent></w:sdt><w:r "
+      },
+      {
+        "part": "word/document.xml",
+        "context": "=\"16\"/><w:szCs w:val=\"16\"/></w:rPr><w:t>☐</w:t></w:r></w:sdtContent></w:sdt><w:r "
+      },
+      {
+        "part": "word/document.xml",
+        "context": "=\"16\"/><w:szCs w:val=\"16\"/></w:rPr><w:t>☐</w:t></w:r></w:sdtContent></w:sdt><w:r "
+      },
+      {
+        "part": "word/document.xml",
+        "context": "=\"16\"/><w:szCs w:val=\"16\"/></w:rPr><w:t>☐</w:t></w:r></w:sdtContent></w:sdt><w:r "
+      },
+      {
+        "part": "word/document.xml",
+        "context": "=\"16\"/><w:szCs w:val=\"16\"/></w:rPr><w:t>☐</w:t></w:r></w:sdtContent></w:sdt><w:r "
+      },
+      {
+        "part": "word/document.xml",
+        "context": "=\"16\"/><w:szCs w:val=\"16\"/></w:rPr><w:t>☐</w:t></w:r></w:sdtContent></w:sdt><w:r "
+      },
+      {
+        "part": "word/document.xml",
+        "context": "=\"16\"/><w:szCs w:val=\"16\"/></w:rPr><w:t>☐</w:t></w:r></w:sdtContent></w:sdt><w:r "
+      },
+      {
+        "part": "word/document.xml",
+        "context": "=\"16\"/><w:szCs w:val=\"16\"/></w:rPr><w:t>☐</w:t></w:r></w:sdtContent></w:sdt><w:r "
+      },
+      {
+        "part": "word/document.xml",
+        "context": "=\"16\"/><w:szCs w:val=\"16\"/></w:rPr><w:t>☐</w:t></w:r></w:sdtContent></w:sdt><w:r "
+      },
+      {
+        "part": "word/document.xml",
+        "context": "=\"16\"/><w:szCs w:val=\"16\"/></w:rPr><w:t>☐</w:t></w:r></w:sdtContent></w:sdt><w:r "
+      },
+      {
+        "part": "word/document.xml",
+        "context": "=\"16\"/><w:szCs w:val=\"16\"/></w:rPr><w:t>☐</w:t></w:r></w:sdtContent></w:sdt><w:r "
+      },
+      {
+        "part": "word/document.xml",
+        "context": "=\"16\"/><w:szCs w:val=\"16\"/></w:rPr><w:t>☐</w:t></w:r></w:sdtContent></w:sdt><w:r "
+      },
+      {
+        "part": "word/document.xml",
+        "context": "=\"16\"/><w:szCs w:val=\"16\"/></w:rPr><w:t>☐</w:t></w:r></w:sdtContent></w:sdt><w:r "
+      },
+      {
+        "part": "word/document.xml",
+        "context": "=\"16\"/><w:szCs w:val=\"16\"/></w:rPr><w:t>☐</w:t></w:r></w:sdtContent></w:sdt><w:r "
+      },
+      {
+        "part": "word/document.xml",
+        "context": "=\"16\"/><w:szCs w:val=\"16\"/></w:rPr><w:t>☐</w:t></w:r></w:sdtContent></w:sdt><w:r "
+      },
+      {
+        "part": "word/document.xml",
+        "context": "=\"16\"/><w:szCs w:val=\"16\"/></w:rPr><w:t>☐</w:t></w:r></w:sdtContent></w:sdt><w:r "
+      },
+      {
+        "part": "word/document.xml",
+        "context": "=\"16\"/><w:szCs w:val=\"16\"/></w:rPr><w:t>☐</w:t></w:r></w:sdtContent></w:sdt><w:r "
+      },
+      {
+        "part": "word/document.xml",
+        "context": "=\"16\"/><w:szCs w:val=\"16\"/></w:rPr><w:t>☐</w:t></w:r></w:sdtContent></w:sdt><w:r "
+      },
+      {
+        "part": "word/document.xml",
+        "context": "=\"16\"/><w:szCs w:val=\"16\"/></w:rPr><w:t>☐</w:t></w:r></w:sdtContent></w:sdt><w:r "
+      },
+      {
+        "part": "word/document.xml",
+        "context": "=\"16\"/><w:szCs w:val=\"16\"/></w:rPr><w:t>☐</w:t></w:r></w:sdtContent></w:sdt><w:r "
+      },
+      {
+        "part": "word/document.xml",
+        "context": "=\"16\"/><w:szCs w:val=\"16\"/></w:rPr><w:t>☐</w:t></w:r></w:sdtContent></w:sdt><w:r "
+      },
+      {
+        "part": "word/document.xml",
+        "context": "=\"16\"/><w:szCs w:val=\"16\"/></w:rPr><w:t>☐</w:t></w:r></w:sdtContent></w:sdt><w:r "
+      },
+      {
+        "part": "word/document.xml",
+        "context": "=\"16\"/><w:szCs w:val=\"16\"/></w:rPr><w:t>☐</w:t></w:r></w:sdtContent></w:sdt><w:r "
+      },
+      {
+        "part": "word/document.xml",
+        "context": "=\"16\"/><w:szCs w:val=\"16\"/></w:rPr><w:t>☐</w:t></w:r></w:sdtContent></w:sdt><w:r "
+      },
+      {
+        "part": "word/document.xml",
+        "context": "=\"16\"/><w:szCs w:val=\"16\"/></w:rPr><w:t>☐</w:t></w:r></w:sdtContent></w:sdt><w:r "
+      },
+      {
+        "part": "word/document.xml",
+        "context": "=\"16\"/><w:szCs w:val=\"16\"/></w:rPr><w:t>☐</w:t></w:r></w:sdtContent></w:sdt><w:r "
+      },
+      {
+        "part": "word/document.xml",
+        "context": "=\"16\"/><w:szCs w:val=\"16\"/></w:rPr><w:t>☐</w:t></w:r></w:sdtContent></w:sdt><w:r "
+      },
+      {
+        "part": "word/document.xml",
+        "context": "=\"16\"/><w:szCs w:val=\"16\"/></w:rPr><w:t>☐</w:t></w:r></w:sdtContent></w:sdt><w:r "
+      },
+      {
+        "part": "word/document.xml",
+        "context": "=\"16\"/><w:szCs w:val=\"16\"/></w:rPr><w:t>☐</w:t></w:r></w:sdtContent></w:sdt><w:r "
+      },
+      {
+        "part": "word/document.xml",
+        "context": "=\"16\"/><w:szCs w:val=\"16\"/></w:rPr><w:t>☐</w:t></w:r></w:sdtContent></w:sdt><w:r "
+      },
+      {
+        "part": "word/document.xml",
+        "context": "=\"16\"/><w:szCs w:val=\"16\"/></w:rPr><w:t>☐</w:t></w:r></w:sdtContent></w:sdt><w:r "
+      },
+      {
+        "part": "word/document.xml",
+        "context": "=\"16\"/><w:szCs w:val=\"16\"/></w:rPr><w:t>☐</w:t></w:r></w:sdtContent></w:sdt><w:r "
+      },
+      {
+        "part": "word/document.xml",
+        "context": "=\"16\"/><w:szCs w:val=\"16\"/></w:rPr><w:t>☐</w:t></w:r></w:sdtContent></w:sdt><w:r "
+      },
+      {
+        "part": "word/document.xml",
+        "context": "=\"16\"/><w:szCs w:val=\"16\"/></w:rPr><w:t>☐</w:t></w:r></w:sdtContent></w:sdt><w:r "
+      },
+      {
+        "part": "word/document.xml",
+        "context": "=\"16\"/><w:szCs w:val=\"16\"/></w:rPr><w:t>☐</w:t></w:r></w:sdtContent></w:sdt><w:r "
+      },
+      {
+        "part": "word/document.xml",
+        "context": "=\"16\"/><w:szCs w:val=\"16\"/></w:rPr><w:t>☐</w:t></w:r></w:sdtContent></w:sdt><w:r "
+      },
+      {
+        "part": "word/document.xml",
+        "context": "=\"16\"/><w:szCs w:val=\"16\"/></w:rPr><w:t>☐</w:t></w:r></w:sdtContent></w:sdt><w:r "
+      },
+      {
+        "part": "word/document.xml",
+        "context": "=\"16\"/><w:szCs w:val=\"16\"/></w:rPr><w:t>☐</w:t></w:r></w:sdtContent></w:sdt><w:r "
+      },
+      {
+        "part": "word/document.xml",
+        "context": "=\"16\"/><w:szCs w:val=\"16\"/></w:rPr><w:t>☐</w:t></w:r></w:sdtContent></w:sdt><w:r "
+      },
+      {
+        "part": "word/document.xml",
+        "context": "=\"16\"/><w:szCs w:val=\"16\"/></w:rPr><w:t>☐</w:t></w:r></w:sdtContent></w:sdt><w:r "
+      },
+      {
+        "part": "word/document.xml",
+        "context": "=\"16\"/><w:szCs w:val=\"16\"/></w:rPr><w:t>☐</w:t></w:r></w:sdtContent></w:sdt><w:r "
+      },
+      {
+        "part": "word/document.xml",
+        "context": "=\"16\"/><w:szCs w:val=\"16\"/></w:rPr><w:t>☐</w:t></w:r></w:sdtContent></w:sdt><w:r "
+      },
+      {
+        "part": "word/document.xml",
+        "context": "=\"16\"/><w:szCs w:val=\"16\"/></w:rPr><w:t>☐</w:t></w:r></w:sdtContent></w:sdt><w:r "
+      },
+      {
+        "part": "word/document.xml",
+        "context": "=\"16\"/><w:szCs w:val=\"16\"/></w:rPr><w:t>☐</w:t></w:r></w:sdtContent></w:sdt><w:r "
+      },
+      {
+        "part": "word/document.xml",
+        "context": "=\"16\"/><w:szCs w:val=\"16\"/></w:rPr><w:t>☐</w:t></w:r></w:sdtContent></w:sdt><w:r "
+      },
+      {
+        "part": "word/document.xml",
+        "context": "=\"16\"/><w:szCs w:val=\"16\"/></w:rPr><w:t>☐</w:t></w:r></w:sdtContent></w:sdt><w:r "
+      },
+      {
+        "part": "word/document.xml",
+        "context": "=\"16\"/><w:szCs w:val=\"16\"/></w:rPr><w:t>☐</w:t></w:r></w:sdtContent></w:sdt><w:r "
+      },
+      {
+        "part": "word/document.xml",
+        "context": "=\"16\"/><w:szCs w:val=\"16\"/></w:rPr><w:t>☐</w:t></w:r></w:sdtContent></w:sdt><w:r "
+      },
+      {
+        "part": "word/document.xml",
+        "context": "=\"16\"/><w:szCs w:val=\"16\"/></w:rPr><w:t>☐</w:t></w:r></w:sdtContent></w:sdt><w:r "
+      },
+      {
+        "part": "word/document.xml",
+        "context": "=\"16\"/><w:szCs w:val=\"16\"/></w:rPr><w:t>☐</w:t></w:r></w:sdtContent></w:sdt><w:r "
+      },
+      {
+        "part": "word/document.xml",
+        "context": "=\"16\"/><w:szCs w:val=\"16\"/></w:rPr><w:t>☐</w:t></w:r></w:sdtContent></w:sdt><w:r "
+      },
+      {
+        "part": "word/document.xml",
+        "context": "=\"16\"/><w:szCs w:val=\"16\"/></w:rPr><w:t>☐</w:t></w:r></w:sdtContent></w:sdt><w:r "
+      },
+      {
+        "part": "word/document.xml",
+        "context": "=\"16\"/><w:szCs w:val=\"16\"/></w:rPr><w:t>☐</w:t></w:r></w:sdtContent></w:sdt><w:r "
+      },
+      {
+        "part": "word/document.xml",
+        "context": "=\"16\"/><w:szCs w:val=\"16\"/></w:rPr><w:t>☐</w:t></w:r></w:sdtContent></w:sdt><w:r "
+      },
+      {
+        "part": "word/document.xml",
+        "context": "=\"16\"/><w:szCs w:val=\"16\"/></w:rPr><w:t>☐</w:t></w:r></w:sdtContent></w:sdt><w:r "
+      },
+      {
+        "part": "word/document.xml",
+        "context": "=\"16\"/><w:szCs w:val=\"16\"/></w:rPr><w:t>☐</w:t></w:r></w:sdtContent></w:sdt><w:r "
+      },
+      {
+        "part": "word/document.xml",
+        "context": "=\"16\"/><w:szCs w:val=\"16\"/></w:rPr><w:t>☐</w:t></w:r></w:sdtContent></w:sdt><w:r "
+      },
+      {
+        "part": "word/document.xml",
+        "context": "=\"16\"/><w:szCs w:val=\"16\"/></w:rPr><w:t>☐</w:t></w:r></w:sdtContent></w:sdt><w:r "
+      },
+      {
+        "part": "word/document.xml",
+        "context": "=\"16\"/><w:szCs w:val=\"16\"/></w:rPr><w:t>☐</w:t></w:r></w:sdtContent></w:sdt><w:r "
+      },
+      {
+        "part": "word/document.xml",
+        "context": "=\"16\"/><w:szCs w:val=\"16\"/></w:rPr><w:t>☐</w:t></w:r></w:sdtContent></w:sdt><w:r "
+      },
+      {
+        "part": "word/document.xml",
+        "context": "=\"16\"/><w:szCs w:val=\"16\"/></w:rPr><w:t>☐</w:t></w:r></w:sdtContent></w:sdt><w:r "
+      }
+    ]
+  },
+  "legacy_form_fields": [],
+  "text_comparison": {
+    "similarity_ratio": 0.998967,
+    "orig_length": 37267,
+    "final_length": 37278,
+    "diff_samples": [
+      {
+        "op": "delete",
+        "orig_excerpt": "\n",
+        "final_excerpt": "",
+        "orig_span": [
+          36469,
+          36470
+        ],
+        "final_span": [
+          36469,
+          36469
+        ]
+      },
+      {
+        "op": "replace",
+        "orig_excerpt": "1",
+        "final_excerpt": "6",
+        "orig_span": [
+          36481,
+          36482
+        ],
+        "final_span": [
+          36480,
+          36481
+        ]
+      },
+      {
+        "op": "replace",
+        "orig_excerpt": "June 26",
+        "final_excerpt": "September 17",
+        "orig_span": [
+          36531,
+          36538
+        ],
+        "final_span": [
+          36530,
+          36542
+        ]
+      },
+      {
+        "op": "insert",
+        "orig_excerpt": "",
+        "final_excerpt": "\n",
+        "orig_span": [
+          36603,
+          36603
+        ],
+        "final_span": [
+          36607,
+          36608
+        ]
+      },
+      {
+        "op": "delete",
+        "orig_excerpt": " - Template",
+        "final_excerpt": "",
+        "orig_span": [
+          36658,
+          36669
+        ],
+        "final_span": [
+          36663,
+          36663
+        ]
+      },
+      {
+        "op": "insert",
+        "orig_excerpt": "",
+        "final_excerpt": " - Template",
+        "orig_span": [
+          36732,
+          36732
+        ],
+        "final_span": [
+          36726,
+          36737
+        ]
+      },
+      {
+        "op": "replace",
+        "orig_excerpt": " of 24",
+        "final_excerpt": "1 of 16",
+        "orig_span": [
+          36746,
+          36752
+        ],
+        "final_span": [
+          36751,
+          36758
+        ]
+      },
+      {
+        "op": "replace",
+        "orig_excerpt": "June 26",
+        "final_excerpt": "September 17",
+        "orig_span": [
+          36801,
+          36808
+        ],
+        "final_span": [
+          36807,
+          36819
+        ]
+      }
+    ]
+  }
+}

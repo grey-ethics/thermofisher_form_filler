@@ -4,20 +4,16 @@ services/word_fill.py
 Word COM automation (Windows + installed Word required).
 
 Pipelines/Functions:
-- fill_and_export(docx_template, mapping, out_dir, out_basename, export_docx=True)
-    Orchestrates: open template -> set dropdown (cc_2) -> set device ticks (glyph_r..)
-    -> save DOCX (optional) -> export PDF -> return relative paths.
+- fill_and_export(docx_template, full_docx_template, mapping, out_dir, out_basename, export_docx=True)
+    Orchestrates: open single-page template -> set dropdown (cc_2) -> set device ticks
+    -> paste that page over page 3 of full_docx_template -> save DOCX/PDF -> return paths.
 
 - _open_word() / _quit_word(app): manage Word app lifecycle
 - _open_doc(app, path) / _close_doc(doc)
 - _find_cc_in_cell(doc, table_index, row, col): locate content-control in a specific cell
 - _set_dropdown_value(cc, value): choose an entry by Text
-- _set_device_cell_tick(doc, table_index, row, col, checked): replace ☐/<U+2610> with ☑/<U+2611>
-
-Notes:
-- This implementation assumes the dropdown control lives in Table(1) Row(2) Col(2),
-  per your skeleton. Update if template changes or (better) tag the control and
-  locate by Tag.
+- _set_device_cell_tick(...): write ☐/☒ (U+2610/U+2612)
+- _replace_page3_with_doc_content(app, src_doc, full_path): returns opened full doc after replacement
 """
 
 import os
@@ -30,10 +26,13 @@ from services.storage import relpath_from_output
 # Global mutex to serialize COM access
 _WORD_LOCK = threading.Lock()
 
-# Word constants (lazy init)
-_wdFormatPDF = 17  # SaveAs2 format for PDF
-# Alternatively: ExportAsFixedFormat Type=17 (wdExportFormatPDF)
-# We'll use SaveAs2 for simplicity.
+# Word constants
+_wdFormatPDF = 17           # SaveAs2 format for PDF
+_wdGoToPage = 1             # wdGoToPage
+_wdGoToAbsolute = 1         # wdGoToAbsolute
+
+CHECKED_CHAR = "☒"          # U+2612: box with X  (required)
+UNCHECKED_CHAR = "☐"        # U+2610: empty box
 
 def _open_word():
     pythoncom.CoInitialize()
@@ -82,8 +81,6 @@ def _set_dropdown_value(cc, value: str | None):
     """
     if not value:
         return
-    # Some controls expose DropdownListEntries; others via ComboBoxEntries
-    # COM normalizes under DropdownListEntries for both dropdown/combobox.
     try:
         entries = cc.DropdownListEntries
         for j in range(1, entries.Count + 1):
@@ -92,7 +89,6 @@ def _set_dropdown_value(cc, value: str | None):
                 e.Select()
                 return
     except Exception:
-        # Fallback: set range text (less ideal)
         try:
             cc.Range.Text = value
         except Exception:
@@ -111,8 +107,9 @@ def _strip_cell_end(text: str) -> str:
 
 def _set_device_cell_tick(doc, table_index: int, row: int, col: int, checked: bool):
     """
-    Replace first ballot box ☐ (U+2610) with ☑ (U+2611) if checked, else ensure ☐.
-    Only for cells that contain a single glyph in your Device grid.
+    Replace the first ballot box with ☒ when checked, else ensure ☐.
+    Previously used ☑; now we exclusively use U+2612 (☒).
+    Also unchecking replaces any ☒/☑ back to ☐.
     """
     rng = _cell_range(doc, table_index, row, col)
     txt = rng.Text
@@ -120,24 +117,22 @@ def _set_device_cell_tick(doc, table_index: int, row: int, col: int, checked: bo
     if not core:
         return
 
+    new_core = core
     if checked:
-        # Replace first ☐ with ☑ (if already ☑, keep)
-        if "☑" in core:
-            new_core = core
-        elif "☐" in core:
-            new_core = core.replace("☐", "☑", 1)
-        else:
-            new_core = "☑" + core  # fallback: prepend a check
-    else:
-        # Ensure it's ☐ (uncheck if previously ☑)
-        if "☐" in core:
+        if CHECKED_CHAR in core:
             new_core = core
         elif "☑" in core:
-            new_core = core.replace("☑", "☐", 1)
+            new_core = core.replace("☑", CHECKED_CHAR, 1)
+        elif UNCHECKED_CHAR in core:
+            new_core = core.replace(UNCHECKED_CHAR, CHECKED_CHAR, 1)
         else:
-            new_core = "☐"
+            new_core = CHECKED_CHAR + core
+    else:
+        # Ensure unchecked box
+        new_core = (core
+                    .replace(CHECKED_CHAR, UNCHECKED_CHAR)
+                    .replace("☑", UNCHECKED_CHAR))
 
-    # Write back preserving end-of-cell markers
     try:
         if len(txt) >= 2 and ord(txt[-1]) == 7:
             rng.Text = new_core + txt[-2:]
@@ -146,21 +141,55 @@ def _set_device_cell_tick(doc, table_index: int, row: int, col: int, checked: bo
     except Exception:
         pass
 
-def fill_and_export(docx_template: str, mapping: dict, out_dir: str, out_basename: str, export_docx: bool = True) -> dict:
+def _replace_page3_with_doc_content(app, src_doc, full_path: str):
+    """
+    Copies src_doc.Content (single page) and pastes it over page 3 of the full template.
+    Returns the opened 'full' document object (caller is responsible to close it).
+    """
+    # Copy source page to clipboard
+    src_doc.Content.Copy()
+
+    full_doc = _open_doc(app, full_path)
+    full_doc.Activate()
+    sel = app.Selection
+
+    # Go to page 3 start
+    sel.GoTo(What=_wdGoToPage, Which=_wdGoToAbsolute, Count=3)
+    start = sel.Start
+
+    # Try to get start of page 4; if not present, use end of document
+    try:
+        sel.GoTo(What=_wdGoToPage, Which=_wdGoToAbsolute, Count=4)
+        end = sel.Start
+    except Exception:
+        end = full_doc.Content.End
+
+    # Replace that range with the source page
+    rng = full_doc.Range(Start=start, End=end)
+    rng.Select()
+    app.Selection.Paste()
+
+    return full_doc
+
+def fill_and_export(
+    docx_template: str,
+    full_docx_template: str,
+    mapping: dict,
+    out_dir: str,
+    out_basename: str,
+    export_docx: bool = True
+) -> dict:
     """
     Main orchestrator for a single document fill + export.
 
     mapping example:
     {
       "projectLevel": "L2",         # or None for placeholder
-      "ticks": { "glyph_r16_c2": true, ... }
+      "ticks": { "glyph_r16_c2": true, ... }  # may include r16..r20
     }
 
-    Returns:
-    {
-      "rel_pdf_path": "YYYYMMDD_HHMMSS/file.pdf",
-      "rel_docx_path": "YYYYMMDD_HHMMSS/file.docx"  # if export_docx=True
-    }
+    We fill the single-page template, then paste that page over page 3 of the full template,
+    and save PDF/DOCX from the full template.
     """
     os.makedirs(out_dir, exist_ok=True)
     abs_docx = os.path.join(out_dir, f"{out_basename}.docx")
@@ -169,17 +198,17 @@ def fill_and_export(docx_template: str, mapping: dict, out_dir: str, out_basenam
     with _WORD_LOCK:
         app = _open_word()
         try:
+            # 1) Open single-page working template and fill it
             doc = _open_doc(app, docx_template)
 
-            # 1) Dropdown at Table(1), Row(2), Col(2)
+            # Dropdown at Table(1), Row(2), Col(2)
             cc = _find_cc_in_cell(doc, table_index=1, row=2, col=2)
             if cc:
                 _set_dropdown_value(cc, mapping.get("projectLevel"))
 
-            # 2) Device ticks (IDs like glyph_r16_c2)
+            # Device ticks (IDs like glyph_r16_c2, glyph_r17_c5, ...)
             ticks = mapping.get("ticks") or {}
             for glyph_id, checked in ticks.items():
-                # parse row/col from id "glyph_r<row>_c<col>"
                 try:
                     parts = glyph_id.replace("glyph_r", "").split("_c")
                     row = int(parts[0]); col = int(parts[1])
@@ -187,13 +216,18 @@ def fill_and_export(docx_template: str, mapping: dict, out_dir: str, out_basenam
                     continue
                 _set_device_cell_tick(doc, table_index=1, row=row, col=col, checked=bool(checked))
 
-            # 3) Save DOCX (optional) + Export PDF
-            if export_docx:
-                doc.SaveAs2(abs_docx)  # Save as DOCX
-            # SaveAs2 to PDF (wdFormatPDF=17), or ExportAsFixedFormat
-            doc.SaveAs2(abs_pdf, FileFormat=_wdFormatPDF)
+            # 2) Paste the filled page over page 3 of the full template
+            full_doc = _replace_page3_with_doc_content(app, doc, full_docx_template)
 
+            # 3) Save (from the full_doc)
+            if export_docx:
+                full_doc.SaveAs2(abs_docx)                # DOCX
+            full_doc.SaveAs2(abs_pdf, FileFormat=_wdFormatPDF)  # PDF
+
+            # 4) Close docs
+            _close_doc(full_doc)
             _close_doc(doc)
+
         finally:
             _quit_word(app)
 

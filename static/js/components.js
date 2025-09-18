@@ -9,22 +9,25 @@
  * - renderBatchResults(listEl, items): render result cards with download links
  */
 
-const REGIONS = ["N. America","EMEA","LATAM","APAC"];
+// Regions (columns 2..5)
+const REGIONS = ["N. America", "EMEA", "LATAM", "APAC"];
+
+// Product categories mapped to Word rows 16..20 (IDs preserved)
 const ROWS = [
-  { label: "Row 16", r: 16 },
-  { label: "Row 17", r: 17 },
-  { label: "Row 18", r: 18 },
-  { label: "Row 19", r: 19 },
-  { label: "Row 20", r: 20 }
+  { label: "General Purpose (GP)", r: 16 },
+  { label: "Medical (MD)", r: 17 },
+  { label: "In Vitro Diagnostics (IVD)", r: 18 },
+  { label: "Gen Purpose + Cell Gene Therapy (GP + CGT)", r: 19 },
+  { label: "Accessories in Scope (GP / MD / IVD / GP + CGT)", r: 20 },
 ];
 
 export function buildDeviceGrid(container, onChange) {
   container.innerHTML = "";
 
-  // header row: blank cell + 4 regions
+  // header row: left label + 4 regions
   const head0 = document.createElement("div");
   head0.className = "cell head";
-  head0.textContent = "";
+  head0.textContent = "Category";
   container.appendChild(head0);
 
   for (const reg of REGIONS) {
@@ -87,16 +90,17 @@ export function renderBatchResults(listEl, items) {
 
     const actions = document.createElement("div");
     actions.className = "actions";
+
     const aPdf = document.createElement("a");
     aPdf.href = it.pdf_url;
-    aPdf.className = "btn btn-primary";
+    aPdf.className = "btn btn-primary"; // was "btn"
     aPdf.textContent = "Download PDF";
     actions.appendChild(aPdf);
 
     if (it.docx_url) {
       const aDocx = document.createElement("a");
       aDocx.href = it.docx_url;
-      aDocx.className = "btn";
+      aDocx.className = "btn btn-primary"; // was "btn"
       aDocx.textContent = "Download DOCX";
       actions.appendChild(aDocx);
     }

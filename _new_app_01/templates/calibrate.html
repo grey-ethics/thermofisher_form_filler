@@ -1,0 +1,29 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <title>Calibration Helper</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <link rel="stylesheet" href="/static/css/app.css" />
+  <script src="https://cdn.jsdelivr.net/npm/pdfjs-dist@3.11.174/build/pdf.min.js"></script>
+  <script>
+    pdfjsLib.GlobalWorkerOptions.workerSrc = "https://cdn.jsdelivr.net/npm/pdfjs-dist@3.11.174/build/pdf.worker.min.js";
+  </script>
+</head>
+<body>
+  <main class="container app-main">
+    <section class="card blade">
+      <h2>Calibration</h2>
+      <p>Click on the PDF to log normalized (x,y) positions. Copy into overlay_map.json.</p>
+      <div id="pdfContainer" class="pdf-container">
+        <div class="pdf-page" id="pdfPage">
+          <canvas id="pdfCanvas"></canvas>
+          <svg id="overlaySvg" class="overlay"></svg>
+        </div>
+      </div>
+      <pre id="log" style="white-space: pre-wrap; background:#0d0f14; padding:10px; border-radius:8px; border:1px solid #242938;"></pre>
+    </section>
+  </main>
+  <script type="module" src="/static/js/calibrate.js"></script>
+</body>
+</html>

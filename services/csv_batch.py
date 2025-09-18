@@ -1,30 +1,14 @@
 """
 services/csv_batch.py
 ---------------------
-Batch CSV processing: parse rows -> build mapping -> call Word fill/export.
-
-Functions:
-- process_csv(csv_file, docx_template, out_dir, export_docx=True) -> manifest dict
-
-Expected CSV headers (focus scope only):
-company_id,project_level_dropdown,
-device_r16_c2,...,device_r20_c5   # booleans
-
-Output:
-{
-  "processed": N,
-  "items": [{ "company_id": "...", "pdf_url": "...", "docx_url": "..." }, ...],
-  "pdf_relpaths": ["batch_id/file1.pdf", ...]
-}
 """
-
 import os
 import csv
 from services.storage import relpath_from_output, safe_filename
 from services.validation import normalize_project_level, parse_bool
 from services.word_fill import fill_and_export
 
-def process_csv(csv_file, docx_template: str, out_dir: str, export_docx: bool = True):
+def process_csv(csv_file, docx_template: str, full_docx_template: str, out_dir: str, export_docx: bool = True):
     csv_file.stream.seek(0)
     reader = csv.DictReader(line.decode("utf-8") if isinstance(line, bytes) else line for line in csv_file.stream)
 
@@ -37,7 +21,6 @@ def process_csv(csv_file, docx_template: str, out_dir: str, export_docx: bool = 
         company = (row.get("company_id") or f"row_{count}").strip()
         project_level = normalize_project_level(row.get("project_level_dropdown"))
 
-        # collect ticks
         ticks = {}
         for r in range(16, 21):
             for c in range(2, 6):
@@ -47,6 +30,7 @@ def process_csv(csv_file, docx_template: str, out_dir: str, export_docx: bool = 
         out_base = safe_filename(f"{company}")
         result = fill_and_export(
             docx_template=docx_template,
+            full_docx_template=full_docx_template,
             mapping={"projectLevel": project_level, "ticks": ticks},
             out_dir=out_dir,
             out_basename=out_base,

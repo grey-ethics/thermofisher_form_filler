@@ -9,5 +9,10 @@ venv/
 *.egg-info/
 *.log
 
-git config user.name "grey-ethics"
-git config user.email "grey_ethics@gmail.com"
+.env
+
+code_reader_04.ps1
+full_folder_and_file_and_code_data.md
+
+_code_copy_02/
+_code_copy_03/
