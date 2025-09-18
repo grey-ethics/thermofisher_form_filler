@@ -16,32 +16,45 @@ export class OverlayRenderer {
     this.pageMap = overlayMap.pages["1"]; // single-page template
   }
 
-  _px(norm, total) { return norm * total; }
+  _px(norm, total) {
+    return norm * total;
+  }
 
   _clear() {
     while (this.svg.firstChild) this.svg.removeChild(this.svg.firstChild);
   }
 
-  _drawText(x, y, w, h, text, style) {
-    // Draw text baseline approx. 80% from top of box
-    const fontSize = (style.fontSizePt || 10) * 1.3333; // pt -> px
+  _drawText(x, y, w, h, text, style, scale) {
+    // Scale font with PDF zoom
+    const basePx = (style.fontSizePt || 10) * 1.3333; // pt -> px
+    const fontPx = basePx * (scale || 1);
     const tx = document.createElementNS("http://www.w3.org/2000/svg", "text");
     tx.setAttribute("x", x.toFixed(2));
-    tx.setAttribute("y", (y + h*0.8).toFixed(2));
+    tx.setAttribute("y", (y + h * 0.8).toFixed(2));
     tx.setAttribute("fill", style.color || "#000");
-    tx.setAttribute("font-size", fontSize.toFixed(2));
+    tx.setAttribute("font-size", fontPx.toFixed(2));
     tx.setAttribute("font-family", style.fontFamily || "sans-serif");
     if (style.italic) tx.setAttribute("font-style", "italic");
     tx.textContent = text;
     this.svg.appendChild(tx);
   }
 
-  _drawTick(x, y) {
+  _ink() {
+    // read CSS var set by the current theme
+    const v = getComputedStyle(document.documentElement)
+      .getPropertyValue("--overlay-ink")
+      .trim();
+    return v || "#000";
+  }
+
+  // static/js/overlay.js
+  _drawTick(x, y, scale) {
+    const size = 14 * (scale || 1);
     const tx = document.createElementNS("http://www.w3.org/2000/svg", "text");
     tx.setAttribute("x", x.toFixed(2));
     tx.setAttribute("y", y.toFixed(2));
-    tx.setAttribute("fill", "#000"); // black check; looks good over PDF text
-    tx.setAttribute("font-size", "14"); // adjust as needed per your PDF scale
+    tx.setAttribute("class", "tick"); // <— use CSS rule above
+    tx.setAttribute("font-size", size.toFixed(2));
     tx.setAttribute("font-weight", "700");
     tx.textContent = "✓";
     this.svg.appendChild(tx);
@@ -50,6 +63,7 @@ export class OverlayRenderer {
   render(stateSnapshot, viewportInfo) {
     const vw = viewportInfo.width;
     const vh = viewportInfo.height;
+    const scale = viewportInfo.scale || 1;
 
     this._clear();
 
@@ -59,9 +73,11 @@ export class OverlayRenderer {
       const isPlaceholder = !stateSnapshot.projectLevel;
       const text = isPlaceholder ? dd.values[0] : stateSnapshot.projectLevel;
       const style = isPlaceholder ? dd.styles.placeholder : dd.styles.selected;
-      const x = this._px(dd.x, vw), y = this._px(dd.y, vh);
-      const w = this._px(dd.w, vw), h = this._px(dd.h, vh);
-      this._drawText(x, y, w, h, text, style);
+      const x = this._px(dd.x, vw),
+        y = this._px(dd.y, vh);
+      const w = this._px(dd.w, vw),
+        h = this._px(dd.h, vh);
+      this._drawText(x, y, w, h, text, style, scale);
     }
 
     // 2) Ticks
@@ -70,7 +86,7 @@ export class OverlayRenderer {
       if (stateSnapshot.ticks[t.id]) {
         const x = this._px(t.x, vw);
         const y = this._px(t.y, vh);
-        this._drawTick(x, y);
+        this._drawTick(x, y, scale);
       }
     }
   }

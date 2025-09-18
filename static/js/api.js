@@ -37,3 +37,15 @@ export async function processCsv(file) {
   if (!res.ok) throw new Error("Batch failed");
   return res.json();
 }
+
+export async function extractFromInput(file) {
+  const form = new FormData();
+  form.append("file", file);
+  const res = await fetch("/extract", { method: "POST", body: form });
+  if (!res.ok) {
+    let msg = "Extract failed";
+    try { const j = await res.json(); msg = j.error || msg; } catch {}
+    throw new Error(msg);
+  }
+  return res.json();
+}

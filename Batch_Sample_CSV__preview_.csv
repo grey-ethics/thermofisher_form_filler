@@ -1,0 +1,5 @@
+company_id,project_level_dropdown,device_r16_c2,device_r16_c3,device_r16_c4,device_r16_c5,device_r17_c2,device_r17_c3,device_r17_c4,device_r17_c5,device_r18_c2,device_r18_c3,device_r18_c4,device_r18_c5,device_r19_c2,device_r19_c3,device_r19_c4,device_r19_c5,device_r20_c2,device_r20_c3,device_r20_c4,device_r20_c5
+AlphaCorp,L1,true,true,false,false,true,true,false,false,true,true,false,false,true,true,false,false,true,true,false,false
+BetaMed,L2L,true,false,false,false,true,false,false,false,true,false,false,false,true,false,false,false,true,false,false,false
+GammaDx,L2,false,true,true,false,false,true,true,false,false,true,true,false,false,true,true,false,false,true,true,false
+DeltaAPAC,L3L,false,false,false,true,false,false,false,true,false,false,false,true,false,false,false,true,false,false,false,true

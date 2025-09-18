@@ -1,0 +1,1692 @@
+[
+  {
+    "index": 4,
+    "tag": "insert_other_chk",
+    "reason": "no_pdf_hit",
+    "anchor": "insert other chk"
+  },
+  {
+    "index": 8,
+    "tag": "manufacturing_site_avl_mar_lsb_oha_chk",
+    "reason": "no_pdf_hit",
+    "anchor": "Manufacturing Site AVL MAR LSB OHA SNG"
+  },
+  {
+    "index": 9,
+    "tag": "manufacturing_site_avl_mar_lsb_oha_chk_2",
+    "reason": "no_pdf_hit",
+    "anchor": "Manufacturing Site AVL MAR LSB OHA SNG"
+  },
+  {
+    "index": 10,
+    "tag": "manufacturing_site_avl_mar_lsb_oha_chk_3",
+    "reason": "no_pdf_hit",
+    "anchor": "Manufacturing Site AVL MAR LSB OHA SNG"
+  },
+  {
+    "index": 11,
+    "tag": "manufacturing_site_avl_mar_lsb_oha_chk_4",
+    "reason": "no_pdf_hit",
+    "anchor": "Manufacturing Site AVL MAR LSB OHA SNG"
+  },
+  {
+    "index": 12,
+    "tag": "manufacturing_site_avl_mar_lsb_oha_chk_5",
+    "reason": "no_pdf_hit",
+    "anchor": "Manufacturing Site AVL MAR LSB OHA SNG"
+  },
+  {
+    "index": 13,
+    "tag": "manufacturing_site_avl_mar_lsb_oha_chk_6",
+    "reason": "no_pdf_hit",
+    "anchor": "Manufacturing Site AVL MAR LSB OHA SNG"
+  },
+  {
+    "index": 14,
+    "tag": "manufacturing_site_avl_mar_lsb_oha_chk_7",
+    "reason": "no_pdf_hit",
+    "anchor": "Manufacturing Site AVL MAR LSB OHA SNG"
+  },
+  {
+    "index": 15,
+    "tag": "manufacturing_site_avl_mar_lsb_oha_chk_8",
+    "reason": "no_pdf_hit",
+    "anchor": "Manufacturing Site AVL MAR LSB OHA SNG"
+  },
+  {
+    "index": 17,
+    "tag": "chk",
+    "reason": "no_anchor"
+  },
+  {
+    "index": 18,
+    "tag": "chk_2",
+    "reason": "no_anchor"
+  },
+  {
+    "index": 19,
+    "tag": "chk_3",
+    "reason": "no_anchor"
+  },
+  {
+    "index": 20,
+    "tag": "chk_4",
+    "reason": "no_anchor"
+  },
+  {
+    "index": 21,
+    "tag": "chk_5",
+    "reason": "no_anchor"
+  },
+  {
+    "index": 22,
+    "tag": "chk_6",
+    "reason": "no_anchor"
+  },
+  {
+    "index": 23,
+    "tag": "chk_7",
+    "reason": "no_anchor"
+  },
+  {
+    "index": 24,
+    "tag": "chk_8",
+    "reason": "no_anchor"
+  },
+  {
+    "index": 25,
+    "tag": "chk_9",
+    "reason": "no_anchor"
+  },
+  {
+    "index": 26,
+    "tag": "chk_10",
+    "reason": "no_anchor"
+  },
+  {
+    "index": 27,
+    "tag": "chk_11",
+    "reason": "no_anchor"
+  },
+  {
+    "index": 28,
+    "tag": "chk_12",
+    "reason": "no_anchor"
+  },
+  {
+    "index": 29,
+    "tag": "chk_13",
+    "reason": "no_anchor"
+  },
+  {
+    "index": 30,
+    "tag": "chk_14",
+    "reason": "no_anchor"
+  },
+  {
+    "index": 31,
+    "tag": "chk_15",
+    "reason": "no_anchor"
+  },
+  {
+    "index": 32,
+    "tag": "chk_16",
+    "reason": "no_anchor"
+  },
+  {
+    "index": 33,
+    "tag": "chk_17",
+    "reason": "no_anchor"
+  },
+  {
+    "index": 34,
+    "tag": "chk_18",
+    "reason": "no_anchor"
+  },
+  {
+    "index": 35,
+    "tag": "chk_19",
+    "reason": "no_anchor"
+  },
+  {
+    "index": 36,
+    "tag": "chk_20",
+    "reason": "no_anchor"
+  },
+  {
+    "index": 39,
+    "tag": "risk_management_file_the_change_introduces_new_usage_conditions",
+    "reason": "no_pdf_hit",
+    "anchor": "The change introduces new usage conditions or"
+  },
+  {
+    "index": 43,
+    "tag": "risk_management_file_the_change_involves_the_manufacturing_proc",
+    "reason": "no_pdf_hit",
+    "anchor": "The change involves the manufacturing process i"
+  },
+  {
+    "index": 44,
+    "tag": "risk_management_file_the_change_impacts_end_of_line_chk",
+    "reason": "no_pdf_hit",
+    "anchor": "The change impacts End of Line EOL"
+  },
+  {
+    "index": 46,
+    "tag": "risk_management_file_the_change_affects_agreements_and_or_chk",
+    "reason": "no_pdf_hit",
+    "anchor": "The change affects agreements and or arrangements"
+  },
+  {
+    "index": 48,
+    "tag": "risk_management_file_the_change_impacts_quality_control_procedu",
+    "reason": "no_pdf_hit",
+    "anchor": "The change impacts Quality Control procedures incoming"
+  },
+  {
+    "index": 49,
+    "tag": "risk_management_file_medical_the_change_results_from_characteri",
+    "reason": "no_pdf_hit",
+    "anchor": "Medical The change results from characteristics not"
+  },
+  {
+    "index": 50,
+    "tag": "risk_management_file_medical_the_change_is_driven_by_chk",
+    "reason": "no_pdf_hit",
+    "anchor": "Medical The change is driven by the"
+  },
+  {
+    "index": 51,
+    "tag": "risk_management_file_other_if_other_is_selected_provide_chk",
+    "reason": "no_pdf_hit",
+    "anchor": "Other If Other is selected provide more"
+  },
+  {
+    "index": 55,
+    "tag": "performance_compliance_assessment_changes_affect_degradable_mov",
+    "reason": "no_pdf_hit",
+    "anchor": "Changes affect degradable moving or friction generating"
+  },
+  {
+    "index": 56,
+    "tag": "performance_compliance_assessment_changes_affect_the_airflow_in",
+    "reason": "no_pdf_hit",
+    "anchor": "Changes affect the airflow into throughout and"
+  },
+  {
+    "index": 59,
+    "tag": "performance_compliance_assessment_changes_affect_the_product_pe",
+    "reason": "no_pdf_hit",
+    "anchor": "Changes affect the product performance peak variation"
+  },
+  {
+    "index": 61,
+    "tag": "performance_compliance_assessment_changes_to_the_internal_cabin",
+    "reason": "no_pdf_hit",
+    "anchor": "Changes to the internal cabinet size construction"
+  },
+  {
+    "index": 62,
+    "tag": "performance_compliance_assessment_change_to_defrosts_setpoint_r",
+    "reason": "no_pdf_hit",
+    "anchor": "Change to defrosts setpoint ranges or code"
+  },
+  {
+    "index": 73,
+    "tag": "performance_compliance_assessment_changes_impact_air_flow_blowe",
+    "reason": "no_pdf_hit",
+    "anchor": "Changes impact air flow blowers power supp"
+  },
+  {
+    "index": 75,
+    "tag": "performance_compliance_assessment_changes_impacting_stability_c",
+    "reason": "no_pdf_hit",
+    "anchor": "Changes impacting stability change weight distribution or"
+  },
+  {
+    "index": 76,
+    "tag": "performance_compliance_assessment_changes_impact_cleanability_s",
+    "reason": "no_pdf_hit",
+    "anchor": "Changes impact cleanability Sealing of openings that"
+  },
+  {
+    "index": 78,
+    "tag": "performance_compliance_assessment_changes_impact_labels_or_mark",
+    "reason": "no_pdf_hit",
+    "anchor": "Changes impact labels or markings add remove"
+  },
+  {
+    "index": 80,
+    "tag": "performance_compliance_assessment_energy_star_chk",
+    "reason": "no_pdf_hit",
+    "anchor": "performance compliance assessment energy star chk"
+  },
+  {
+    "index": 81,
+    "tag": "performance_compliance_assessment_nsf49_bsc_chk",
+    "reason": "no_pdf_hit",
+    "anchor": "performance compliance assessment nsf49 bsc chk"
+  },
+  {
+    "index": 82,
+    "tag": "performance_compliance_assessment_nsf456_vaccine_chk",
+    "reason": "no_pdf_hit",
+    "anchor": "performance compliance assessment nsf456 vaccine chk"
+  },
+  {
+    "index": 83,
+    "tag": "performance_compliance_assessment_clean_room_particulate_14644_",
+    "reason": "no_pdf_hit",
+    "anchor": "Clean Room Particulate 14644 14"
+  },
+  {
+    "index": 84,
+    "tag": "performance_compliance_assessment_clean_room_particulate_146_2",
+    "reason": "no_pdf_hit",
+    "anchor": "Clean Room Particulate 14644 14"
+  },
+  {
+    "index": 85,
+    "tag": "performance_compliance_assessment_erp_directive_chillers_only_c",
+    "reason": "no_pdf_hit",
+    "anchor": "ErP Directive Chillers only"
+  },
+  {
+    "index": 86,
+    "tag": "performance_compliance_assessment_clean_room_particulate_146_3",
+    "reason": "no_pdf_hit",
+    "anchor": "Clean Room Particulate 14644 14"
+  },
+  {
+    "index": 88,
+    "tag": "performance_compliance_assessment_other_if_applicable_select_ot",
+    "reason": "no_pdf_hit",
+    "anchor": "Other if applicable Select Other if the"
+  },
+  {
+    "index": 89,
+    "tag": "performance_compliance_assessment_energy_star_ce_self_declared_",
+    "reason": "no_pdf_hit",
+    "anchor": "ENERGY STAR CE Self Declared Other if"
+  },
+  {
+    "index": 90,
+    "tag": "performance_compliance_assessment_energy_star_ce_self_declar_2",
+    "reason": "no_pdf_hit",
+    "anchor": "ENERGY STAR CE Self Declared Other if"
+  },
+  {
+    "index": 91,
+    "tag": "performance_compliance_assessment_energy_star_ce_self_declar_3",
+    "reason": "no_pdf_hit",
+    "anchor": "ENERGY STAR CE Self Declared Other if"
+  },
+  {
+    "index": 92,
+    "tag": "performance_compliance_assessment_marketing_claims_ce_doc_self_",
+    "reason": "no_pdf_hit",
+    "anchor": "Marketing claims CE DoC Self Declared Other"
+  },
+  {
+    "index": 93,
+    "tag": "performance_compliance_assessment_marketing_claims_ce_doc_se_2",
+    "reason": "no_pdf_hit",
+    "anchor": "Marketing claims CE DoC Self Declared Other"
+  },
+  {
+    "index": 94,
+    "tag": "performance_compliance_assessment_marketing_claims_ce_doc_se_3",
+    "reason": "no_pdf_hit",
+    "anchor": "Marketing claims CE DoC Self Declared Other"
+  },
+  {
+    "index": 96,
+    "tag": "performance_compliance_assessment_agency_report_revision_revise",
+    "reason": "no_pdf_hit",
+    "anchor": "Agency Report Revision Revise Engineering Drawings Documents"
+  },
+  {
+    "index": 97,
+    "tag": "performance_compliance_assessment_agency_report_revision_rev_2",
+    "reason": "no_pdf_hit",
+    "anchor": "Agency Report Revision Revise Engineering Drawings Documents"
+  },
+  {
+    "index": 98,
+    "tag": "performance_compliance_assessment_agency_report_revision_rev_3",
+    "reason": "no_pdf_hit",
+    "anchor": "Agency Report Revision Revise Engineering Drawings Documents"
+  },
+  {
+    "index": 99,
+    "tag": "performance_compliance_assessment_marketing_claims_are_validate",
+    "reason": "no_pdf_hit",
+    "anchor": "Marketing claims are validated Marketing claims have"
+  },
+  {
+    "index": 100,
+    "tag": "performance_compliance_assessment_marketing_claims_are_valid_2",
+    "reason": "no_pdf_hit",
+    "anchor": "Marketing claims are validated Marketing claims have"
+  },
+  {
+    "index": 101,
+    "tag": "performance_compliance_assessment_change_impacts_product_scope_",
+    "reason": "no_pdf_hit",
+    "anchor": "Change impacts product scope is defined as"
+  },
+  {
+    "index": 102,
+    "tag": "performance_compliance_assessment_other_if_applicable_if_other_",
+    "reason": "no_pdf_hit",
+    "anchor": "Other if applicable If Other is selected"
+  },
+  {
+    "index": 103,
+    "tag": "performance_compliance_assessment_cb_of_changes_energy_star_req",
+    "reason": "no_pdf_hit",
+    "anchor": "CB of changes ENERGY STAR required if"
+  },
+  {
+    "index": 104,
+    "tag": "performance_compliance_assessment_cb_of_changes_energy_star__2",
+    "reason": "no_pdf_hit",
+    "anchor": "CB of changes ENERGY STAR required if"
+  },
+  {
+    "index": 105,
+    "tag": "performance_compliance_assessment_ra_at_implementation_manufact",
+    "reason": "no_pdf_hit",
+    "anchor": "RA at Implementation Manufacturing Location South Korean"
+  },
+  {
+    "index": 106,
+    "tag": "performance_compliance_assessment_ra_at_implementation_manuf_2",
+    "reason": "no_pdf_hit",
+    "anchor": "RA at Implementation Manufacturing Location South Korean"
+  },
+  {
+    "index": 107,
+    "tag": "performance_compliance_assessment_authorities_of_product_change",
+    "reason": "no_pdf_hit",
+    "anchor": "Authorities of Product Changes where registered Other"
+  },
+  {
+    "index": 108,
+    "tag": "performance_compliance_assessment_authorities_of_product_cha_2",
+    "reason": "no_pdf_hit",
+    "anchor": "Authorities of Product Changes where registered Other"
+  },
+  {
+    "index": 109,
+    "tag": "design_safety_emc_wireless_compliance_assessment_the_change_doe",
+    "reason": "no_pdf_hit",
+    "anchor": "The change does not impact the design"
+  },
+  {
+    "index": 110,
+    "tag": "design_safety_emc_wireless_compliance_assessment_does_the_chang",
+    "reason": "no_pdf_hit",
+    "anchor": "Does the change affect specs listings warnings"
+  },
+  {
+    "index": 111,
+    "tag": "design_safety_emc_wireless_compliance_assessment_are_the_specs_",
+    "reason": "no_pdf_hit",
+    "anchor": "Are the specs ratings of the end"
+  },
+  {
+    "index": 112,
+    "tag": "design_safety_emc_wireless_compliance_assessment_are_the_spe_2",
+    "reason": "no_pdf_hit",
+    "anchor": "Are the specs ratings of the product"
+  },
+  {
+    "index": 113,
+    "tag": "design_safety_emc_wireless_compliance_assessment_are_the_produc",
+    "reason": "no_pdf_hit",
+    "anchor": "Are the product features use being impacted"
+  },
+  {
+    "index": 114,
+    "tag": "design_safety_emc_wireless_compliance_assessment_are_materials_",
+    "reason": "no_pdf_hit",
+    "anchor": "Are materials going to be changed Keeping"
+  },
+  {
+    "index": 115,
+    "tag": "design_safety_emc_wireless_compliance_assessment_are_labels_ifu",
+    "reason": "no_pdf_hit",
+    "anchor": "Are labels IFU or customer facing information"
+  },
+  {
+    "index": 116,
+    "tag": "design_safety_emc_wireless_compliance_assessment_will_the_manuf",
+    "reason": "no_pdf_hit",
+    "anchor": "Will the manufacturing location or applicant of"
+  },
+  {
+    "index": 117,
+    "tag": "design_safety_emc_wireless_compliance_assessment_supplier_chang",
+    "reason": "no_pdf_hit",
+    "anchor": "Supplier change Does the change impact split"
+  },
+  {
+    "index": 119,
+    "tag": "design_safety_emc_wireless_compliance_assessment_other_if_appli",
+    "reason": "no_pdf_hit",
+    "anchor": "Other if applicable If Other is selected"
+  },
+  {
+    "index": 120,
+    "tag": "design_safety_emc_wireless_compliance_assessment_nrtl_listing_r",
+    "reason": "no_pdf_hit",
+    "anchor": "NRTL Listing Report Insert Report Number EMC"
+  },
+  {
+    "index": 121,
+    "tag": "design_safety_emc_wireless_compliance_assessment_nrtl_listin_2",
+    "reason": "no_pdf_hit",
+    "anchor": "NRTL Listing Report Insert Report Number EMC"
+  },
+  {
+    "index": 122,
+    "tag": "design_safety_emc_wireless_compliance_assessment_cb_safety_repo",
+    "reason": "no_pdf_hit",
+    "anchor": "CB Safety Report Insert Report Number FCC"
+  },
+  {
+    "index": 123,
+    "tag": "design_safety_emc_wireless_compliance_assessment_cb_safety_r_2",
+    "reason": "no_pdf_hit",
+    "anchor": "CB Safety Report Insert Report Number FCC"
+  },
+  {
+    "index": 124,
+    "tag": "design_safety_emc_wireless_compliance_assessment_informative_sa",
+    "reason": "no_pdf_hit",
+    "anchor": "Informative Safety Report Insert Report Number ICES"
+  },
+  {
+    "index": 125,
+    "tag": "design_safety_emc_wireless_compliance_assessment_informative_2",
+    "reason": "no_pdf_hit",
+    "anchor": "Informative Safety Report Insert Report Number ICES"
+  },
+  {
+    "index": 126,
+    "tag": "design_safety_emc_wireless_compliance_assessment_wireless_repor",
+    "reason": "no_pdf_hit",
+    "anchor": "Wireless Report Insert Report Number"
+  },
+  {
+    "index": 127,
+    "tag": "design_safety_emc_wireless_compliance_assessment_other_if_other",
+    "reason": "no_pdf_hit",
+    "anchor": "Other If Other is selected provide more"
+  },
+  {
+    "index": 128,
+    "tag": "design_safety_emc_wireless_compliance_assessment_ul_csa_chk",
+    "reason": "no_pdf_hit",
+    "anchor": "design safety emc wireless compliance assessment"
+  },
+  {
+    "index": 129,
+    "tag": "design_safety_emc_wireless_compliance_assessment_ul_csa_chk_2",
+    "reason": "no_pdf_hit",
+    "anchor": "design safety emc wireless compliance assessment"
+  },
+  {
+    "index": 130,
+    "tag": "design_safety_emc_wireless_compliance_assessment_etl_tuv_chk",
+    "reason": "no_pdf_hit",
+    "anchor": "design safety emc wireless compliance assessment"
+  },
+  {
+    "index": 131,
+    "tag": "design_safety_emc_wireless_compliance_assessment_etl_tuv_chk_2",
+    "reason": "no_pdf_hit",
+    "anchor": "design safety emc wireless compliance assessment"
+  },
+  {
+    "index": 132,
+    "tag": "design_safety_emc_wireless_compliance_assessment_fcc_ices_nsf_c",
+    "reason": "no_pdf_hit",
+    "anchor": "FCC ICES NSF"
+  },
+  {
+    "index": 133,
+    "tag": "design_safety_emc_wireless_compliance_assessment_fcc_ices_ns_2",
+    "reason": "no_pdf_hit",
+    "anchor": "FCC ICES NSF"
+  },
+  {
+    "index": 134,
+    "tag": "design_safety_emc_wireless_compliance_assessment_iram_s_chk",
+    "reason": "no_pdf_hit",
+    "anchor": "design safety emc wireless compliance assessment"
+  },
+  {
+    "index": 135,
+    "tag": "design_safety_emc_wireless_compliance_assessment_inmetro_chk",
+    "reason": "no_pdf_hit",
+    "anchor": "design safety emc wireless compliance assessment"
+  },
+  {
+    "index": 136,
+    "tag": "design_safety_emc_wireless_compliance_assessment_anatel_chk",
+    "reason": "no_pdf_hit",
+    "anchor": "design safety emc wireless compliance assessment"
+  },
+  {
+    "index": 137,
+    "tag": "design_safety_emc_wireless_compliance_assessment_s_mark_chk",
+    "reason": "no_pdf_hit",
+    "anchor": "design safety emc wireless compliance assessment"
+  },
+  {
+    "index": 138,
+    "tag": "design_safety_emc_wireless_compliance_assessment_ce_doc_self_de",
+    "reason": "no_pdf_hit",
+    "anchor": "CE DoC Self Declared"
+  },
+  {
+    "index": 139,
+    "tag": "design_safety_emc_wireless_compliance_assessment_ce_doc_eu_nb_c",
+    "reason": "no_pdf_hit",
+    "anchor": "CE DoC EU NB"
+  },
+  {
+    "index": 140,
+    "tag": "design_safety_emc_wireless_compliance_assessment_ukca_lne_chk",
+    "reason": "no_pdf_hit",
+    "anchor": "design safety emc wireless compliance assessment"
+  },
+  {
+    "index": 141,
+    "tag": "design_safety_emc_wireless_compliance_assessment_ukca_lne_chk_2",
+    "reason": "no_pdf_hit",
+    "anchor": "design safety emc wireless compliance assessment"
+  },
+  {
+    "index": 142,
+    "tag": "design_safety_emc_wireless_compliance_assessment_gs_weee_chk",
+    "reason": "no_pdf_hit",
+    "anchor": "design safety emc wireless compliance assessment"
+  },
+  {
+    "index": 143,
+    "tag": "design_safety_emc_wireless_compliance_assessment_gs_weee_chk_2",
+    "reason": "no_pdf_hit",
+    "anchor": "design safety emc wireless compliance assessment"
+  },
+  {
+    "index": 144,
+    "tag": "design_safety_emc_wireless_compliance_assessment_kc_mark_chk",
+    "reason": "no_pdf_hit",
+    "anchor": "design safety emc wireless compliance assessment"
+  },
+  {
+    "index": 145,
+    "tag": "design_safety_emc_wireless_compliance_assessment_eac_chk",
+    "reason": "no_pdf_hit",
+    "anchor": "design safety emc wireless compliance assessment"
+  },
+  {
+    "index": 146,
+    "tag": "design_safety_emc_wireless_compliance_assessment_other_select_o",
+    "reason": "no_pdf_hit",
+    "anchor": "Other Select Other if the mark label"
+  },
+  {
+    "index": 147,
+    "tag": "design_safety_emc_wireless_compliance_assessment_fcc_declaratio",
+    "reason": "no_pdf_hit",
+    "anchor": "design safety emc wireless compliance assessment"
+  },
+  {
+    "index": 148,
+    "tag": "design_safety_emc_wireless_compliance_assessment_ce_doc_self_2",
+    "reason": "no_pdf_hit",
+    "anchor": "CE DoC Self Declared"
+  },
+  {
+    "index": 149,
+    "tag": "design_safety_emc_wireless_compliance_assessment_ce_doc_eu_n_2",
+    "reason": "no_pdf_hit",
+    "anchor": "CE DoC EU NB"
+  },
+  {
+    "index": 150,
+    "tag": "design_safety_emc_wireless_compliance_assessment_ukca_declarati",
+    "reason": "no_pdf_hit",
+    "anchor": "design safety emc wireless compliance assessment"
+  },
+  {
+    "index": 151,
+    "tag": "design_safety_emc_wireless_compliance_assessment_other_selec_2",
+    "reason": "no_pdf_hit",
+    "anchor": "Other Select Other if the document is"
+  },
+  {
+    "index": 153,
+    "tag": "design_safety_emc_wireless_compliance_assessment_impacted_docum",
+    "reason": "no_pdf_hit",
+    "anchor": "Impacted Documents No Update Required justification within"
+  },
+  {
+    "index": 154,
+    "tag": "design_safety_emc_wireless_compliance_assessment_impacted_do_2",
+    "reason": "no_pdf_hit",
+    "anchor": "Impacted Documents No Update Required justification within"
+  },
+  {
+    "index": 155,
+    "tag": "design_safety_emc_wireless_compliance_assessment_registration_w",
+    "reason": "no_pdf_hit",
+    "anchor": "Registration with Agency required FCC etc Revise"
+  },
+  {
+    "index": 156,
+    "tag": "design_safety_emc_wireless_compliance_assessment_registratio_2",
+    "reason": "no_pdf_hit",
+    "anchor": "Registration with Agency required FCC etc Revise"
+  },
+  {
+    "index": 157,
+    "tag": "design_safety_emc_wireless_compliance_assessment_revise_regulat",
+    "reason": "no_pdf_hit",
+    "anchor": "Revise Regulatory Documents i e declarations Re"
+  },
+  {
+    "index": 158,
+    "tag": "design_safety_emc_wireless_compliance_assessment_revise_regu_2",
+    "reason": "no_pdf_hit",
+    "anchor": "Revise Regulatory Documents i e declarations Re"
+  },
+  {
+    "index": 159,
+    "tag": "design_safety_emc_wireless_compliance_assessment_re_evaluate_pr",
+    "reason": "no_pdf_hit",
+    "anchor": "Re evaluate product requirements due to changes"
+  },
+  {
+    "index": 160,
+    "tag": "design_safety_emc_wireless_compliance_assessment_re_evaluate_2",
+    "reason": "no_pdf_hit",
+    "anchor": "Re evaluate product requirements due to changes"
+  },
+  {
+    "index": 161,
+    "tag": "design_safety_emc_wireless_compliance_assessment_other_if_ot_2",
+    "reason": "no_pdf_hit",
+    "anchor": "Other If Other is selected provide more"
+  },
+  {
+    "index": 162,
+    "tag": "design_safety_emc_wireless_compliance_assessment_regional_leads",
+    "reason": "no_pdf_hit",
+    "anchor": "Regional Leads if registered i e Saudi"
+  },
+  {
+    "index": 163,
+    "tag": "design_safety_emc_wireless_compliance_assessment_regional_le_2",
+    "reason": "no_pdf_hit",
+    "anchor": "Regional Leads if registered i e Saudi"
+  },
+  {
+    "index": 164,
+    "tag": "design_safety_emc_wireless_compliance_assessment_authorities_of",
+    "reason": "no_pdf_hit",
+    "anchor": "Authorities of Product Changes where registered Other"
+  },
+  {
+    "index": 165,
+    "tag": "design_safety_emc_wireless_compliance_assessment_authorities_2",
+    "reason": "no_pdf_hit",
+    "anchor": "Authorities of Product Changes where registered Other"
+  },
+  {
+    "index": 166,
+    "tag": "environmental_assessment_the_change_does_not_impact_the_chk",
+    "reason": "no_pdf_hit",
+    "anchor": "The change does not impact the end"
+  },
+  {
+    "index": 167,
+    "tag": "environmental_assessment_change_adds_new_or_removes_any_chk",
+    "reason": "no_pdf_hit",
+    "anchor": "Change adds new or removes any components"
+  },
+  {
+    "index": 168,
+    "tag": "environmental_assessment_the_supplier_of_a_part_number_chk",
+    "reason": "no_pdf_hit",
+    "anchor": "The supplier of a part number is"
+  },
+  {
+    "index": 169,
+    "tag": "environmental_assessment_the_manufacturing_or_internal_part_num",
+    "reason": "no_pdf_hit",
+    "anchor": "The manufacturing or internal part number is"
+  },
+  {
+    "index": 170,
+    "tag": "environmental_assessment_end_product_impacted_currently_has_an_",
+    "reason": "no_pdf_hit",
+    "anchor": "End product impacted currently has an outdated"
+  },
+  {
+    "index": 171,
+    "tag": "environmental_assessment_other_if_other_is_selected_provide_chk",
+    "reason": "no_pdf_hit",
+    "anchor": "Other If Other is selected provide more"
+  },
+  {
+    "index": 172,
+    "tag": "environmental_assessment_greensoft_item_submission_greensoft_bo",
+    "reason": "no_pdf_hit",
+    "anchor": "GreenSoft Item Submission GreenSoft BOM Upload Form"
+  },
+  {
+    "index": 173,
+    "tag": "environmental_assessment_greensoft_item_submission_greensoft_2",
+    "reason": "no_pdf_hit",
+    "anchor": "GreenSoft Item Submission GreenSoft BOM Upload Form"
+  },
+  {
+    "index": 174,
+    "tag": "environmental_assessment_greensoft_item_submission_greensoft_3",
+    "reason": "no_pdf_hit",
+    "anchor": "GreenSoft Item Submission GreenSoft BOM Upload Form"
+  },
+  {
+    "index": 175,
+    "tag": "environmental_assessment_other_if_other_is_selected_provide__2",
+    "reason": "no_pdf_hit",
+    "anchor": "Other If Other is selected provide more"
+  },
+  {
+    "index": 176,
+    "tag": "environmental_assessment_prop65_chk",
+    "reason": "no_pdf_hit",
+    "anchor": "environmental assessment prop65 chk"
+  },
+  {
+    "index": 177,
+    "tag": "environmental_assessment_fifra_pesticide_uv_lamp_chk",
+    "reason": "no_pdf_hit",
+    "anchor": "FIFRA Pesticide UV Lamp"
+  },
+  {
+    "index": 178,
+    "tag": "environmental_assessment_weee_chk",
+    "reason": "no_pdf_hit",
+    "anchor": "environmental assessment weee chk"
+  },
+  {
+    "index": 179,
+    "tag": "environmental_assessment_weee_f_gas_chk",
+    "reason": "no_pdf_hit",
+    "anchor": "environmental assessment weee f gas chk"
+  },
+  {
+    "index": 180,
+    "tag": "environmental_assessment_weee_f_gas_chk_2",
+    "reason": "no_pdf_hit",
+    "anchor": "environmental assessment weee f gas chk"
+  },
+  {
+    "index": 181,
+    "tag": "environmental_assessment_pfas_chk",
+    "reason": "no_pdf_hit",
+    "anchor": "environmental assessment pfas chk"
+  },
+  {
+    "index": 182,
+    "tag": "environmental_assessment_weee_chk_2",
+    "reason": "no_pdf_hit",
+    "anchor": "environmental assessment weee chk 2"
+  },
+  {
+    "index": 183,
+    "tag": "environmental_assessment_china_rohs_c_rohs_chk",
+    "reason": "no_pdf_hit",
+    "anchor": "China RoHS C RoHS"
+  },
+  {
+    "index": 184,
+    "tag": "environmental_assessment_other_select_other_if_the_mark_chk",
+    "reason": "no_pdf_hit",
+    "anchor": "Other Select Other if the mark label"
+  },
+  {
+    "index": 185,
+    "tag": "environmental_assessment_prop65_declaration_chk",
+    "reason": "no_pdf_hit",
+    "anchor": "environmental assessment prop65 declaration chk"
+  },
+  {
+    "index": 186,
+    "tag": "environmental_assessment_fifra_pesticide_product_reporting_uv_l",
+    "reason": "no_pdf_hit",
+    "anchor": "FIFRA Pesticide Product Reporting UV Lamp"
+  },
+  {
+    "index": 187,
+    "tag": "environmental_assessment_montreal_protocol_declaration_chk",
+    "reason": "no_pdf_hit",
+    "anchor": "Montreal Protocol Declaration"
+  },
+  {
+    "index": 188,
+    "tag": "environmental_assessment_reach_declaration_chk",
+    "reason": "no_pdf_hit",
+    "anchor": "environmental assessment reach declaration chk"
+  },
+  {
+    "index": 189,
+    "tag": "environmental_assessment_rohs_declaration_chk",
+    "reason": "no_pdf_hit",
+    "anchor": "environmental assessment rohs declaration chk"
+  },
+  {
+    "index": 190,
+    "tag": "environmental_assessment_f_gas_declaration_chk",
+    "reason": "no_pdf_hit",
+    "anchor": "F Gas Declaration"
+  },
+  {
+    "index": 191,
+    "tag": "environmental_assessment_ce_declaration_self_declared_chk",
+    "reason": "no_pdf_hit",
+    "anchor": "CE Declaration Self Declared"
+  },
+  {
+    "index": 192,
+    "tag": "environmental_assessment_c_rohs_tic_tac_table_declaration_chk",
+    "reason": "no_pdf_hit",
+    "anchor": "C RoHS Tic Tac Table Declaration"
+  },
+  {
+    "index": 193,
+    "tag": "environmental_assessment_other_select_other_if_the_document_chk",
+    "reason": "no_pdf_hit",
+    "anchor": "Other Select Other if the document is"
+  },
+  {
+    "index": 195,
+    "tag": "environmental_assessment_no_update_required_upload_greensoft_fo",
+    "reason": "no_pdf_hit",
+    "anchor": "No Update Required Upload GreenSoft Form s"
+  },
+  {
+    "index": 196,
+    "tag": "environmental_assessment_no_update_required_upload_greensoft_2",
+    "reason": "no_pdf_hit",
+    "anchor": "No Update Required Upload GreenSoft Form s"
+  },
+  {
+    "index": 197,
+    "tag": "environmental_assessment_no_update_required_upload_greensoft_3",
+    "reason": "no_pdf_hit",
+    "anchor": "No Update Required Upload GreenSoft Form s"
+  },
+  {
+    "index": 198,
+    "tag": "environmental_assessment_revise_regulatory_documents_i_e_declar",
+    "reason": "no_pdf_hit",
+    "anchor": "Revise Regulatory Documents i e declarations"
+  },
+  {
+    "index": 199,
+    "tag": "environmental_assessment_change_impacts_product_scope_is_define",
+    "reason": "no_pdf_hit",
+    "anchor": "Change impacts product scope is defined as"
+  },
+  {
+    "index": 200,
+    "tag": "environmental_assessment_other_if_other_is_selected_provide__3",
+    "reason": "no_pdf_hit",
+    "anchor": "Other If Other is selected provide more"
+  },
+  {
+    "index": 201,
+    "tag": "environmental_assessment_epa_lead_if_registered_fifra_greensoft",
+    "reason": "no_pdf_hit",
+    "anchor": "EPA Lead if registered FIFRA GreenSoft User"
+  },
+  {
+    "index": 202,
+    "tag": "environmental_assessment_epa_lead_if_registered_fifra_greens_2",
+    "reason": "no_pdf_hit",
+    "anchor": "EPA Lead if registered FIFRA GreenSoft User"
+  },
+  {
+    "index": 203,
+    "tag": "environmental_assessment_other_if_other_is_selected_provide__4",
+    "reason": "no_pdf_hit",
+    "anchor": "Other If Other is selected provide more"
+  },
+  {
+    "index": 204,
+    "tag": "medical_assessment_part_a_safety_compatibility_effectiveness_ch",
+    "reason": "no_pdf_hit",
+    "anchor": "PART A SAFETY COMPATIBILITY EFFECTIVENESS"
+  },
+  {
+    "index": 205,
+    "tag": "medical_assessment_will_the_change_affect_the_safety_chk",
+    "reason": "no_pdf_hit",
+    "anchor": "Will the change affect the safety compatibility"
+  },
+  {
+    "index": 206,
+    "tag": "medical_assessment_will_the_technology_engineering_design_or_ch",
+    "reason": "no_pdf_hit",
+    "anchor": "Will the technology engineering design or performance"
+  },
+  {
+    "index": 207,
+    "tag": "medical_assessment_is_the_change_introducing_a_new_chk",
+    "reason": "no_pdf_hit",
+    "anchor": "Is the change introducing a new material"
+  },
+  {
+    "index": 208,
+    "tag": "medical_assessment_does_the_change_include_or_impact_chk",
+    "reason": "no_pdf_hit",
+    "anchor": "Does the change include or impact the"
+  },
+  {
+    "index": 209,
+    "tag": "medical_assessment_does_the_change_introduce_new_risks_chk",
+    "reason": "no_pdf_hit",
+    "anchor": "Does the change introduce new risks of"
+  },
+  {
+    "index": 210,
+    "tag": "medical_assessment_will_the_change_affect_the_standards_chk",
+    "reason": "no_pdf_hit",
+    "anchor": "Will the change affect the standards this"
+  },
+  {
+    "index": 211,
+    "tag": "medical_assessment_is_there_another_registration_classification",
+    "reason": "no_pdf_hit",
+    "anchor": "Is there another registration classification that this"
+  },
+  {
+    "index": 212,
+    "tag": "medical_assessment_will_the_change_affect_product_packaging_chk",
+    "reason": "no_pdf_hit",
+    "anchor": "Will the change affect product packaging electronic"
+  },
+  {
+    "index": 213,
+    "tag": "medical_assessment_ifu_user_manual_service_manual_translation_c",
+    "reason": "no_pdf_hit",
+    "anchor": "IFU User Manual Service Manual Translation s"
+  },
+  {
+    "index": 214,
+    "tag": "medical_assessment_ifu_user_manual_service_manual_translatio_2",
+    "reason": "no_pdf_hit",
+    "anchor": "IFU User Manual Service Manual Translation s"
+  },
+  {
+    "index": 215,
+    "tag": "medical_assessment_ifu_user_manual_service_manual_translatio_3",
+    "reason": "no_pdf_hit",
+    "anchor": "IFU User Manual Service Manual Translation s"
+  },
+  {
+    "index": 216,
+    "tag": "medical_assessment_ifu_user_manual_service_manual_translatio_4",
+    "reason": "no_pdf_hit",
+    "anchor": "IFU User Manual Service Manual Translation s"
+  },
+  {
+    "index": 217,
+    "tag": "medical_assessment_esi_quick_start_guide_marketing_material_chk",
+    "reason": "no_pdf_hit",
+    "anchor": "ESI Quick Start Guide Marketing Material Other"
+  },
+  {
+    "index": 218,
+    "tag": "medical_assessment_esi_quick_start_guide_marketing_material__2",
+    "reason": "no_pdf_hit",
+    "anchor": "ESI Quick Start Guide Marketing Material Other"
+  },
+  {
+    "index": 219,
+    "tag": "medical_assessment_esi_quick_start_guide_marketing_material__3",
+    "reason": "no_pdf_hit",
+    "anchor": "ESI Quick Start Guide Marketing Material Other"
+  },
+  {
+    "index": 220,
+    "tag": "medical_assessment_change_in_label_material_marking_s_chk",
+    "reason": "no_pdf_hit",
+    "anchor": "Change in label material Marking s Indication"
+  },
+  {
+    "index": 221,
+    "tag": "medical_assessment_change_in_label_material_marking_s_chk_2",
+    "reason": "no_pdf_hit",
+    "anchor": "Change in label material Marking s Indication"
+  },
+  {
+    "index": 222,
+    "tag": "medical_assessment_change_in_label_material_marking_s_chk_3",
+    "reason": "no_pdf_hit",
+    "anchor": "Change in label material Marking s Indication"
+  },
+  {
+    "index": 223,
+    "tag": "medical_assessment_change_in_label_material_marking_s_chk_4",
+    "reason": "no_pdf_hit",
+    "anchor": "Change in label material Marking s Indication"
+  },
+  {
+    "index": 224,
+    "tag": "medical_assessment_other_if_other_is_selected_provide_chk",
+    "reason": "no_pdf_hit",
+    "anchor": "Other If Other is selected provide more"
+  },
+  {
+    "index": 225,
+    "tag": "medical_assessment_intended_use_translation_s_change_in_chk",
+    "reason": "no_pdf_hit",
+    "anchor": "Intended Use Translation s Change in specs"
+  },
+  {
+    "index": 226,
+    "tag": "medical_assessment_intended_use_translation_s_change_in_chk_2",
+    "reason": "no_pdf_hit",
+    "anchor": "Intended Use Translation s Change in specs"
+  },
+  {
+    "index": 227,
+    "tag": "medical_assessment_intended_use_translation_s_change_in_chk_3",
+    "reason": "no_pdf_hit",
+    "anchor": "Intended Use Translation s Change in specs"
+  },
+  {
+    "index": 228,
+    "tag": "medical_assessment_intended_use_translation_s_change_in_chk_4",
+    "reason": "no_pdf_hit",
+    "anchor": "Intended Use Translation s Change in specs"
+  },
+  {
+    "index": 229,
+    "tag": "medical_assessment_other_if_other_is_selected_provide_chk_2",
+    "reason": "no_pdf_hit",
+    "anchor": "Other If Other is selected provide more"
+  },
+  {
+    "index": 230,
+    "tag": "medical_assessment_will_the_technology_engineering_design_perfo",
+    "reason": "no_pdf_hit",
+    "anchor": "Will the technology engineering design performance of"
+  },
+  {
+    "index": 231,
+    "tag": "medical_assessment_change_in_control_mechanism_operating_princi",
+    "reason": "no_pdf_hit",
+    "anchor": "Change in control mechanism operating principle or"
+  },
+  {
+    "index": 232,
+    "tag": "medical_assessment_does_the_change_impact_the_product_chk",
+    "reason": "no_pdf_hit",
+    "anchor": "Does the change impact the Product Requirements"
+  },
+  {
+    "index": 233,
+    "tag": "medical_assessment_does_the_change_impact_a_component_chk",
+    "reason": "no_pdf_hit",
+    "anchor": "Does the change impact a component that"
+  },
+  {
+    "index": 234,
+    "tag": "medical_assessment_does_the_change_to_the_part_chk",
+    "reason": "no_pdf_hit",
+    "anchor": "Does the change to the part require"
+  },
+  {
+    "index": 235,
+    "tag": "medical_assessment_does_the_change_affect_the_performance_chk",
+    "reason": "no_pdf_hit",
+    "anchor": "Does the change affect the performance or"
+  },
+  {
+    "index": 236,
+    "tag": "medical_assessment_does_the_change_involve_a_component_chk",
+    "reason": "no_pdf_hit",
+    "anchor": "Does the change involve a component software"
+  },
+  {
+    "index": 237,
+    "tag": "medical_assessment_change_in_packaging_design_chk",
+    "reason": "no_pdf_hit",
+    "anchor": "Change in packaging design"
+  },
+  {
+    "index": 238,
+    "tag": "medical_assessment_change_uses_the_same_technology_and_chk",
+    "reason": "no_pdf_hit",
+    "anchor": "Change uses the same technology and classification"
+  },
+  {
+    "index": 239,
+    "tag": "medical_assessment_does_the_change_impact_safety_critical_chk",
+    "reason": "no_pdf_hit",
+    "anchor": "Does the change impact safety critical i"
+  },
+  {
+    "index": 240,
+    "tag": "medical_assessment_does_the_change_affect_the_intended_chk",
+    "reason": "no_pdf_hit",
+    "anchor": "Does the change affect the intended use"
+  },
+  {
+    "index": 241,
+    "tag": "medical_assessment_risk_based_assessment_of_the_changed_chk",
+    "reason": "no_pdf_hit",
+    "anchor": "Risk based assessment of the changed device"
+  },
+  {
+    "index": 242,
+    "tag": "medical_assessment_is_clinical_data_necessary_to_evaluate_chk",
+    "reason": "no_pdf_hit",
+    "anchor": "Is clinical data necessary to evaluate the"
+  },
+  {
+    "index": 243,
+    "tag": "medical_assessment_is_the_change_introducing_a_new_chk_2",
+    "reason": "no_pdf_hit",
+    "anchor": "Is the change introducing a new material"
+  },
+  {
+    "index": 244,
+    "tag": "medical_assessment_is_this_a_change_in_material_chk",
+    "reason": "no_pdf_hit",
+    "anchor": "Is this a change in material type"
+  },
+  {
+    "index": 245,
+    "tag": "medical_assessment_will_the_changed_material_directly_or_chk",
+    "reason": "no_pdf_hit",
+    "anchor": "Will the changed material directly or indirectly"
+  },
+  {
+    "index": 246,
+    "tag": "medical_assessment_does_a_risk_assessment_identify_any_chk",
+    "reason": "no_pdf_hit",
+    "anchor": "Does a risk assessment identify any new"
+  },
+  {
+    "index": 247,
+    "tag": "medical_assessment_has_the_manufacturer_used_the_same_chk",
+    "reason": "no_pdf_hit",
+    "anchor": "Has the manufacturer used the same material"
+  },
+  {
+    "index": 248,
+    "tag": "medical_assessment_could_the_change_affect_the_device_chk",
+    "reason": "no_pdf_hit",
+    "anchor": "Could the change affect the device s"
+  },
+  {
+    "index": 249,
+    "tag": "medical_assessment_does_the_supplier_change_impact_split_chk",
+    "reason": "no_pdf_hit",
+    "anchor": "Does the supplier change impact split inspection"
+  },
+  {
+    "index": 250,
+    "tag": "medical_assessment_does_the_supplier_change_affect_critical_chk",
+    "reason": "no_pdf_hit",
+    "anchor": "Does the supplier change affect critical components"
+  },
+  {
+    "index": 251,
+    "tag": "medical_assessment_is_there_a_change_to_product_chk",
+    "reason": "no_pdf_hit",
+    "anchor": "Is there a change to product software"
+  },
+  {
+    "index": 252,
+    "tag": "medical_assessment_does_the_sw_change_impact_the_chk",
+    "reason": "no_pdf_hit",
+    "anchor": "Does the SW Change impact the SW"
+  },
+  {
+    "index": 253,
+    "tag": "medical_assessment_does_the_sw_change_include_a_chk",
+    "reason": "no_pdf_hit",
+    "anchor": "Does the SW Change include a security"
+  },
+  {
+    "index": 254,
+    "tag": "medical_assessment_is_the_sw_change_made_solely_chk",
+    "reason": "no_pdf_hit",
+    "anchor": "Is the SW Change made solely to"
+  },
+  {
+    "index": 255,
+    "tag": "medical_assessment_does_the_sw_change_introduce_a_chk",
+    "reason": "no_pdf_hit",
+    "anchor": "Does the SW change introduce a new"
+  },
+  {
+    "index": 256,
+    "tag": "medical_assessment_does_the_change_create_or_necessitate_chk",
+    "reason": "no_pdf_hit",
+    "anchor": "Does the change create or necessitate a"
+  },
+  {
+    "index": 257,
+    "tag": "medical_assessment_could_the_change_impact_functionality_or_chk",
+    "reason": "no_pdf_hit",
+    "anchor": "Could the change impact functionality or performance"
+  },
+  {
+    "index": 258,
+    "tag": "medical_assessment_are_there_additional_software_factors_that_c",
+    "reason": "no_pdf_hit",
+    "anchor": "Are there additional software factors that may"
+  },
+  {
+    "index": 259,
+    "tag": "medical_assessment_usa_fda_510_k_exempt_chk",
+    "reason": "no_pdf_hit",
+    "anchor": "USA FDA 510 K Exempt"
+  },
+  {
+    "index": 260,
+    "tag": "medical_assessment_usa_fda_510_k_chk",
+    "reason": "no_pdf_hit",
+    "anchor": "USA FDA 510 K"
+  },
+  {
+    "index": 261,
+    "tag": "medical_assessment_canada_mdsap_chk",
+    "reason": "no_pdf_hit",
+    "anchor": "medical assessment canada mdsap chk"
+  },
+  {
+    "index": 262,
+    "tag": "medical_assessment_mexico_cofepris_chk",
+    "reason": "no_pdf_hit",
+    "anchor": "medical assessment mexico cofepris chk"
+  },
+  {
+    "index": 263,
+    "tag": "medical_assessment_argentina_anmat_chk",
+    "reason": "no_pdf_hit",
+    "anchor": "medical assessment argentina anmat chk"
+  },
+  {
+    "index": 264,
+    "tag": "medical_assessment_brazil_anvisa_chk",
+    "reason": "no_pdf_hit",
+    "anchor": "medical assessment brazil anvisa chk"
+  },
+  {
+    "index": 265,
+    "tag": "medical_assessment_brazil_inmetro_chk",
+    "reason": "no_pdf_hit",
+    "anchor": "medical assessment brazil inmetro chk"
+  },
+  {
+    "index": 266,
+    "tag": "medical_assessment_columbia_invima_chk",
+    "reason": "no_pdf_hit",
+    "anchor": "medical assessment columbia invima chk"
+  },
+  {
+    "index": 267,
+    "tag": "medical_assessment_costa_rica_moh_chk",
+    "reason": "no_pdf_hit",
+    "anchor": "Costa Rica MoH"
+  },
+  {
+    "index": 268,
+    "tag": "medical_assessment_ecuador_arcsa_chk",
+    "reason": "no_pdf_hit",
+    "anchor": "medical assessment ecuador arcsa chk"
+  },
+  {
+    "index": 269,
+    "tag": "medical_assessment_el_salvador_dnm_chk",
+    "reason": "no_pdf_hit",
+    "anchor": "El Salvador DNM"
+  },
+  {
+    "index": 270,
+    "tag": "medical_assessment_guatemala_mspas_chk",
+    "reason": "no_pdf_hit",
+    "anchor": "medical assessment guatemala mspas chk"
+  },
+  {
+    "index": 271,
+    "tag": "medical_assessment_nicaragua_minsa_chk",
+    "reason": "no_pdf_hit",
+    "anchor": "medical assessment nicaragua minsa chk"
+  },
+  {
+    "index": 272,
+    "tag": "medical_assessment_panama_minsa_moh_chk",
+    "reason": "no_pdf_hit",
+    "anchor": "Panama MINSA MoH"
+  },
+  {
+    "index": 273,
+    "tag": "medical_assessment_peru_minsa_chk",
+    "reason": "no_pdf_hit",
+    "anchor": "medical assessment peru minsa chk"
+  },
+  {
+    "index": 274,
+    "tag": "medical_assessment_eu_ce_nb_chk",
+    "reason": "no_pdf_hit",
+    "anchor": "medical assessment eu ce nb chk"
+  },
+  {
+    "index": 275,
+    "tag": "medical_assessment_uk_mhra_chk",
+    "reason": "no_pdf_hit",
+    "anchor": "medical assessment uk mhra chk"
+  },
+  {
+    "index": 276,
+    "tag": "medical_assessment_uk_ukca_nb_chk",
+    "reason": "no_pdf_hit",
+    "anchor": "medical assessment uk ukca nb chk"
+  },
+  {
+    "index": 277,
+    "tag": "medical_assessment_uk_ukca_chk",
+    "reason": "no_pdf_hit",
+    "anchor": "medical assessment uk ukca chk"
+  },
+  {
+    "index": 278,
+    "tag": "medical_assessment_iceland_ima_chk",
+    "reason": "no_pdf_hit",
+    "anchor": "medical assessment iceland ima chk"
+  },
+  {
+    "index": 279,
+    "tag": "medical_assessment_israel_moh_chk",
+    "reason": "no_pdf_hit",
+    "anchor": "medical assessment israel moh chk"
+  },
+  {
+    "index": 280,
+    "tag": "medical_assessment_egypt_eda_chk",
+    "reason": "no_pdf_hit",
+    "anchor": "medical assessment egypt eda chk"
+  },
+  {
+    "index": 281,
+    "tag": "medical_assessment_saudi_arabia_sfda_chk",
+    "reason": "no_pdf_hit",
+    "anchor": "Saudi Arabia SFDA"
+  },
+  {
+    "index": 282,
+    "tag": "medical_assessment_turkey_titck_chk",
+    "reason": "no_pdf_hit",
+    "anchor": "medical assessment turkey titck chk"
+  },
+  {
+    "index": 283,
+    "tag": "medical_assessment_norway_noma_chk",
+    "reason": "no_pdf_hit",
+    "anchor": "medical assessment norway noma chk"
+  },
+  {
+    "index": 284,
+    "tag": "medical_assessment_serbia_alims_chk",
+    "reason": "no_pdf_hit",
+    "anchor": "medical assessment serbia alims chk"
+  },
+  {
+    "index": 285,
+    "tag": "medical_assessment_ukraine_smdc_chk",
+    "reason": "no_pdf_hit",
+    "anchor": "medical assessment ukraine smdc chk"
+  },
+  {
+    "index": 286,
+    "tag": "medical_assessment_morocco_dmp_chk",
+    "reason": "no_pdf_hit",
+    "anchor": "medical assessment morocco dmp chk"
+  },
+  {
+    "index": 287,
+    "tag": "medical_assessment_china_nmpa_chk",
+    "reason": "no_pdf_hit",
+    "anchor": "medical assessment china nmpa chk"
+  },
+  {
+    "index": 288,
+    "tag": "medical_assessment_malaysia_mda_chk",
+    "reason": "no_pdf_hit",
+    "anchor": "medical assessment malaysia mda chk"
+  },
+  {
+    "index": 289,
+    "tag": "medical_assessment_south_korea_mfds_chk",
+    "reason": "no_pdf_hit",
+    "anchor": "South Korea MFDS"
+  },
+  {
+    "index": 290,
+    "tag": "medical_assessment_taiwan_tfda_chk",
+    "reason": "no_pdf_hit",
+    "anchor": "medical assessment taiwan tfda chk"
+  },
+  {
+    "index": 291,
+    "tag": "medical_assessment_india_cdsco_chk",
+    "reason": "no_pdf_hit",
+    "anchor": "medical assessment india cdsco chk"
+  },
+  {
+    "index": 292,
+    "tag": "medical_assessment_singapore_hsa_chk",
+    "reason": "no_pdf_hit",
+    "anchor": "medical assessment singapore hsa chk"
+  },
+  {
+    "index": 293,
+    "tag": "medical_assessment_japan_pmda_chk",
+    "reason": "no_pdf_hit",
+    "anchor": "medical assessment japan pmda chk"
+  },
+  {
+    "index": 294,
+    "tag": "medical_assessment_australia_tga_chk",
+    "reason": "no_pdf_hit",
+    "anchor": "medical assessment australia tga chk"
+  },
+  {
+    "index": 295,
+    "tag": "medical_assessment_hong_kong_mco_chk",
+    "reason": "no_pdf_hit",
+    "anchor": "Hong Kong MCO"
+  },
+  {
+    "index": 296,
+    "tag": "medical_assessment_indonesia_moh_chk",
+    "reason": "no_pdf_hit",
+    "anchor": "medical assessment indonesia moh chk"
+  },
+  {
+    "index": 297,
+    "tag": "medical_assessment_new_zealand_medsafe_chk",
+    "reason": "no_pdf_hit",
+    "anchor": "New Zealand MEDSAFE"
+  },
+  {
+    "index": 298,
+    "tag": "medical_assessment_other_select_other_if_the_approval_chk",
+    "reason": "no_pdf_hit",
+    "anchor": "Other Select Other if the approval registration"
+  },
+  {
+    "index": 299,
+    "tag": "medical_assessment_iec_60601_report_s_report_insert_chk",
+    "reason": "no_pdf_hit",
+    "anchor": "IEC 60601 Report s Report Insert Report"
+  },
+  {
+    "index": 300,
+    "tag": "medical_assessment_iec_60601_report_s_report_insert_chk_2",
+    "reason": "no_pdf_hit",
+    "anchor": "IEC 60601 Report s Report Insert Report"
+  },
+  {
+    "index": 301,
+    "tag": "medical_assessment_iec_61010_report_s_report_insert_chk",
+    "reason": "no_pdf_hit",
+    "anchor": "IEC 61010 Report s Report Insert Report"
+  },
+  {
+    "index": 302,
+    "tag": "medical_assessment_iec_61010_report_s_report_insert_chk_2",
+    "reason": "no_pdf_hit",
+    "anchor": "IEC 61010 Report s Report Insert Report"
+  },
+  {
+    "index": 303,
+    "tag": "medical_assessment_other_select_other_if_the_report_chk",
+    "reason": "no_pdf_hit",
+    "anchor": "Other Select Other if the report is"
+  },
+  {
+    "index": 304,
+    "tag": "medical_assessment_udi_ce_eu_nb_packaging_shipping_chk",
+    "reason": "no_pdf_hit",
+    "anchor": "UDI CE EU NB Packaging Shipping Labels"
+  },
+  {
+    "index": 305,
+    "tag": "medical_assessment_udi_ce_eu_nb_packaging_shipping_chk_2",
+    "reason": "no_pdf_hit",
+    "anchor": "UDI CE EU NB Packaging Shipping Labels"
+  },
+  {
+    "index": 306,
+    "tag": "medical_assessment_udi_ce_eu_nb_packaging_shipping_chk_3",
+    "reason": "no_pdf_hit",
+    "anchor": "UDI CE EU NB Packaging Shipping Labels"
+  },
+  {
+    "index": 307,
+    "tag": "medical_assessment_udi_ce_eu_nb_packaging_shipping_chk_4",
+    "reason": "no_pdf_hit",
+    "anchor": "UDI CE EU NB Packaging Shipping Labels"
+  },
+  {
+    "index": 308,
+    "tag": "medical_assessment_other_if_other_is_selected_provide_chk_3",
+    "reason": "no_pdf_hit",
+    "anchor": "Other If Other is selected provide more"
+  },
+  {
+    "index": 311,
+    "tag": "medical_assessment_verify_intended_use_consistency_verify_chang",
+    "reason": "no_pdf_hit",
+    "anchor": "Verify Intended Use consistency Verify changes documented"
+  },
+  {
+    "index": 312,
+    "tag": "medical_assessment_verify_intended_use_consistency_verify_ch_2",
+    "reason": "no_pdf_hit",
+    "anchor": "Verify Intended Use consistency Verify changes documented"
+  },
+  {
+    "index": 313,
+    "tag": "medical_assessment_verify_intended_use_consistency_verify_ch_3",
+    "reason": "no_pdf_hit",
+    "anchor": "Verify Intended Use consistency Verify changes documented"
+  },
+  {
+    "index": 314,
+    "tag": "medical_assessment_submit_to_eu_nb_submit_and_chk",
+    "reason": "no_pdf_hit",
+    "anchor": "Submit to EU NB Submit and Update"
+  },
+  {
+    "index": 315,
+    "tag": "medical_assessment_submit_to_eu_nb_submit_and_chk_2",
+    "reason": "no_pdf_hit",
+    "anchor": "Submit to EU NB Submit and Update"
+  },
+  {
+    "index": 316,
+    "tag": "medical_assessment_submit_to_eu_nb_submit_and_chk_3",
+    "reason": "no_pdf_hit",
+    "anchor": "Submit to EU NB Submit and Update"
+  },
+  {
+    "index": 317,
+    "tag": "medical_assessment_other_if_other_is_selected_provide_chk_4",
+    "reason": "no_pdf_hit",
+    "anchor": "Other If Other is selected provide more"
+  },
+  {
+    "index": 318,
+    "tag": "medical_assessment_regional_ra_lead_s_fda_correspondent_chk",
+    "reason": "no_pdf_hit",
+    "anchor": "Regional RA Lead s FDA Correspondent s"
+  },
+  {
+    "index": 319,
+    "tag": "medical_assessment_regional_ra_lead_s_fda_correspondent_chk_2",
+    "reason": "no_pdf_hit",
+    "anchor": "Regional RA Lead s FDA Correspondent s"
+  },
+  {
+    "index": 320,
+    "tag": "medical_assessment_regional_ra_lead_s_fda_correspondent_chk_3",
+    "reason": "no_pdf_hit",
+    "anchor": "Regional RA Lead s FDA Correspondent s"
+  },
+  {
+    "index": 321,
+    "tag": "medical_assessment_regional_ra_lead_s_fda_correspondent_chk_4",
+    "reason": "no_pdf_hit",
+    "anchor": "Regional RA Lead s FDA Correspondent s"
+  },
+  {
+    "index": 322,
+    "tag": "medical_assessment_notify_authorities_of_product_changes_where_",
+    "reason": "no_pdf_hit",
+    "anchor": "Notify Authorities of Product Changes where registered"
+  },
+  {
+    "index": 323,
+    "tag": "medical_assessment_notify_authorities_of_product_changes_whe_2",
+    "reason": "no_pdf_hit",
+    "anchor": "Notify Authorities of Product Changes where registered"
+  },
+  {
+    "index": 327,
+    "tag": "medical_assessment_all_affected_reports_were_verified_for_chk",
+    "reason": "no_pdf_hit",
+    "anchor": "All affected reports were verified for change"
+  },
+  {
+    "index": 328,
+    "tag": "medical_assessment_not_a_medical_device_chk",
+    "reason": "no_pdf_hit",
+    "anchor": "Not a Medical Device"
+  }
+]

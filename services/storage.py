@@ -40,7 +40,8 @@ def relpath_from_output(abs_path: str) -> str:
     Convert absolute path inside OUTPUT_DIR to a relative path for /download route.
     """
     base = os.path.abspath(AppConfig.OUTPUT_DIR)
-    return os.path.relpath(os.path.abspath(abs_path), base)
+    rel = os.path.relpath(os.path.abspath(abs_path), base)
+    return rel.replace(os.sep, "/")
 
 def zip_outputs(pdf_relpaths, out_dir, zip_name="batch.zip") -> str:
     """

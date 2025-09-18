@@ -1,124 +1,275 @@
-<!--
-templates/index.html
--------------------------------------------------
-Main UI with two stacked blades:
-
-Blade 1: Interactive fill
-- Left: form controls (Project Level dropdown, device grid, Download buttons)
-- Right: PDF.js viewer with SVG overlay
-
-Blade 2: Batch processing
-- Upload CSV -> server fills per row -> render result cards with download links
-
-Structure emphasizes accessibility, clean semantics, and progressive enhancement.
--->
-<!doctype html>
+<!DOCTYPE html>
 <html lang="en">
-<head>
-  <meta charset="utf-8" />
-  <title>ThermoFisher Form Filler</title>
-  <meta name="viewport" content="width=device-width, initial-scale=1" />
-  <link rel="stylesheet" href="/static/css/app.css" />
-  <!-- PDF.js (CDN) -->
-  <script src="https://cdn.jsdelivr.net/npm/pdfjs-dist@3.11.174/build/pdf.min.js"></script>
-  <script>
-    // Wire worker (must be same version as above)
-    pdfjsLib.GlobalWorkerOptions.workerSrc = "https://cdn.jsdelivr.net/npm/pdfjs-dist@3.11.174/build/pdf.worker.min.js";
-  </script>
-</head>
-<body>
-  <header class="app-header">
-    <div class="container header-inner">
-      <h1>ThermoFisher Form Filler</h1>
-      <nav class="nav">
-        <a href="#" id="helpLink" aria-label="Help & Instructions">Help</a>
-      </nav>
-    </div>
-  </header>
+  <head>
+    <meta charset="utf-8" />
+    <title>ThermoFisher Form Filler</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <link rel="stylesheet" href="/static/css/app.css" />
 
-  <main class="container app-main">
-    <!-- Blade 1: Interactive Preview -->
-    <section class="card blade">
-      <header class="blade-header">
-        <h2>Interactive Preview</h2>
-        <p>Set the Project Level and Device grid, then download the filled PDF/DOCX.</p>
-      </header>
+    <style>
+      html[data-theme="dark"] { --theme-dot: #a4cdff; }
+      html[data-theme="light"] { --theme-dot: #fdff92; }
 
-      <div class="blade-body grid-2">
-        <!-- Left controls -->
-        <div class="left-pane">
-          <div class="form-group">
-            <label for="projectLevel">Project Level</label>
-            <select id="projectLevel" class="select">
-              <option value=""> &lt;Choose a Project Level.&gt; </option>
-              <option value="L1">L1</option>
-              <option value="L2L">L2L</option>
-              <option value="L2">L2</option>
-              <option value="L3L">L3L</option>
-            </select>
+      /* slightly larger & a touch higher */
+      #themeToggle {
+        border: 0 !important;
+        background: transparent !important;
+        box-shadow: none !important;
+        padding: 6px;
+        width: 38px;
+        height: 38px;
+        min-width: 42px;
+        font-size: 0;
+        line-height: 0;
+        transform: translateY(-5px);
+      }
+      #themeToggle::after {
+        content: "";
+        display: block;
+        width: 18px;
+        height: 18px;
+        margin: 0 auto;
+        border-radius: 9999px;
+        background: var(--theme-dot);
+        box-shadow: 0 0 0 2px var(--border) inset;
+      }
+      #themeToggle:focus-visible {
+        outline: 2px solid var(--accent);
+        outline-offset: 2px;
+      }
+    </style>
+
+    <!-- PDF.js (CDN) -->
+    <script src="https://cdn.jsdelivr.net/npm/pdfjs-dist@3.11.174/build/pdf.min.js"></script>
+    <script>
+      pdfjsLib.GlobalWorkerOptions.workerSrc =
+        "https://cdn.jsdelivr.net/npm/pdfjs-dist@3.11.174/build/pdf.worker.min.js";
+    </script>
+  </head>
+  <body>
+    <header class="app-header">
+      <div class="container header-inner">
+        <div class="brand-wrap">
+          <h1>ThermoFisher Form Filler</h1>
+        </div>
+        <nav class="nav">
+          <a href="#" id="helpLink" aria-label="Help &amp; Instructions" class="btn small">Help</a>
+          <button id="themeToggle" class="btn small" aria-pressed="false" title="Toggle theme">Light</button>
+        </nav>
+      </div>
+    </header>
+
+    <main class="container app-main">
+      <!-- Blade 1: Extract Data From Input -->
+      <section class="card blade">
+        <header class="blade-header">
+          <h2>Reference (Standard DOCX) — Extract &amp; Prefill</h2>
+          <p>
+            Upload the standard 5-page <strong>reference</strong> DOCX. The app keeps only Page&nbsp;1,
+            extracts Regions in scope + Medical status via AI, prefills the <em><b>General Purpose (GP)</b></em>
+            row, and shows the results here.
+          </p>
+        </header>
+
+        <div class="blade-body">
+          <!-- Set Drop Down Default -->
+          <div class="form-group" style="margin-bottom: 18px">
+            <label for="defaultProjectLevel"><strong>Set Drop Down Default</strong></label>
+            <div class="upload-form">
+              <select id="defaultProjectLevel" class="select" aria-label="Default Project Level">
+                <option value="">— No default —</option>
+                <option value="L1">L1</option>
+                <option value="L2L">L2L</option>
+                <option value="L2">L2</option>
+                <option value="L3L">L3L</option>
+              </select>
+              <button id="btnSetDefault" class="btn btn-primary" type="button">Set Default</button>
+            </div>
+            <small class="help-text" style="color: var(--muted); display: block; margin-top: 6px">
+              This sets the default Project Level. The left-side form updates automatically.
+            </small>
           </div>
 
-          <div class="form-group">
-            <label>Device Type × Region</label>
-            <div id="deviceGrid" class="grid-table" role="grid" aria-label="Device Type by Region"></div>
-          </div>
+          <form id="extractForm" class="upload-form">
+            <label for="extractFile" style="margin-right: 8px"><strong>Reference file (.docx)</strong></label>
+            <input type="file" id="extractFile" accept=".docx" />
+            <button id="btnExtract" class="btn btn-primary" type="submit">Extract &amp; Prefill</button>
+          </form>
 
-          <div class="actions">
-            <button id="btnDownloadPdf" class="btn btn-primary">Download PDF</button>
-            <button id="btnDownloadDocx" class="btn">Download DOCX</button>
+          <div id="extractResults" class="result" style="margin-top: 12px">
+            <div id="extractSummary" class="grid-table" style="grid-template-columns: 220px 1fr">
+              <div class="cell head">Medical</div>
+              <div class="cell" id="extractMedical">—</div>
+            </div>
+
+            <pre
+              id="extractLines"
+              style="
+                margin-top: 10px;
+                white-space: pre-wrap;
+                background: var(--input-bg);
+                color: var(--text);
+                padding: 10px;
+                border: 1px solid var(--border);
+                border-radius: 10px;
+              "
+            >Results will appear here…</pre>
           </div>
         </div>
+      </section>
 
-        <!-- Right viewer -->
-        <div class="right-pane">
-          <div id="pdfContainer" class="pdf-container">
-            <!-- PDF.js injects canvas here; we add an SVG overlay on top -->
-            <div class="pdf-page" id="pdfPage">
-              <canvas id="pdfCanvas" aria-label="PDF page"></canvas>
-              <svg id="overlaySvg" class="overlay" aria-hidden="true"></svg>
+      <!-- Blade 2: Interactive Preview -->
+      <section class="card blade">
+        <header class="blade-header">
+          <h2>Interactive Preview</h2>
+          <p>Set the Project Level and product/region grid, then download the filled PDF/DOCX.</p>
+        </header>
+
+        <div class="blade-body grid-2">
+          <!-- Left controls -->
+          <div class="left-pane">
+            <div class="form-group">
+              <label for="projectLevel">Project Level</label>
+              <select id="projectLevel" class="select">
+                <option value="">&lt;Choose a Project Level.&gt;</option>
+                <option value="L1">L1</option>
+                <option value="L2L">L2L</option>
+                <option value="L2">L2</option>
+                <option value="L3L">L3L</option>
+              </select>
+            </div>
+
+            <div class="form-group">
+              <label>Product Category × Region</label>
+              <div id="deviceGrid" class="grid-table" role="grid" aria-label="Category by Region"></div>
+            </div>
+
+            <!-- NEW: Custom Template Export -->
+            <div class="form-group">
+              <label for="templateFile"><strong>Use My Template (optional)</strong></label>
+              <form id="templateExportForm" class="upload-form" enctype="multipart/form-data">
+                <input type="file" id="templateFile" accept=".docx,.pdf" />
+                <button id="btnExportTemplate" class="btn btn-primary" type="submit">
+                  Export with My Template
+                </button>
+              </form>
+              <small class="help-text" style="color: var(--muted); display:block; margin-top:6px;">
+                Upload a .docx or .pdf template. We’ll replace <em>Page&nbsp;3</em> with a summary of your current
+                selections and download the filled file. (DOCX→DOCX, PDF→PDF.)
+              </small>
+            </div>
+
+            <div class="actions">
+              <button id="btnDownloadPdf" class="btn btn-primary">Download PDF</button>
+              <button id="btnDownloadDocx" class="btn btn-primary">Download DOCX</button>
             </div>
           </div>
-          <div class="viewer-controls">
-            <button id="zoomOut" class="btn small">-</button>
-            <span id="zoomLabel">100%</span>
-            <button id="zoomIn" class="btn small">+</button>
-            <button id="fitWidth" class="btn small">Fit width</button>
-            <button id="fitPage" class="btn small">Fit page</button>
+
+          <!-- Right viewer -->
+          <div class="right-pane">
+            <div id="pdfContainer" class="pdf-container">
+              <div class="pdf-page" id="pdfPage">
+                <canvas id="pdfCanvas" aria-label="PDF page"></canvas>
+                <svg id="overlaySvg" class="overlay" aria-hidden="true"></svg>
+              </div>
+            </div>
+
+            <!-- Zoom controls (ONLY +/- from 50% to 300%) -->
+            <div class="viewer-controls">
+              <div class="seg">
+                <button id="zoomOut" class="btn small" title="Zoom out">-</button>
+                <span id="zoomLabel" class="zoom-label">100%</span>
+                <button id="zoomIn" class="btn small" title="Zoom in">+</button>
+              </div>
+            </div>
           </div>
         </div>
-      </div>
-    </section>
+      </section>
 
-    <!-- Blade 2: Batch CSV -->
-    <section class="card blade">
-      <header class="blade-header">
-        <h2>Batch Processing</h2>
-        <p>Upload a CSV to generate multiple filled documents. Required headers: <code>company_id,project_level_dropdown,device_r16_c2..device_r20_c5</code></p>
-      </header>
+      <!-- Blade 3: Batch CSV -->
+      <section class="card blade">
+        <header class="blade-header">
+          <h2>Batch Processing</h2>
+          <p>Upload a CSV to generate multiple filled documents.</p>
+        </header>
 
-      <div id="batchInitial" class="blade-body">
-        <form id="csvForm" class="upload-form">
-          <input type="file" id="csvFile" accept=".csv" />
-          <button id="btnProcessCsv" class="btn btn-primary" type="submit">Process CSV</button>
-        </form>
-      </div>
-
-      <div id="batchResults" class="blade-body hidden">
-        <div class="batch-summary">
-          <strong id="processedCount">Processed: 0</strong>
-          <a id="downloadAllZip" class="btn">Download All (ZIP)</a>
+        <div id="batchInitial" class="blade-body">
+          <form id="csvForm" class="upload-form">
+            <input type="file" id="csvFile" accept=".csv" />
+            <button id="btnProcessCsv" class="btn btn-primary" type="submit">Process CSV</button>
+          </form>
         </div>
-        <div id="resultsList" class="results-list"></div>
+
+        <div id="batchResults" class="blade-body hidden">
+          <div class="batch-summary">
+            <strong id="processedCount">Processed: 0</strong>
+            <a id="downloadAllZip" class="btn">Download All (ZIP)</a>
+          </div>
+          <div id="resultsList" class="results-list"></div>
+        </div>
+      </section>
+    </main>
+
+    <footer class="app-footer">
+      <div class="container">
+        <small>© 2025 ThermoFisher Automation Helper — built by HEALTHARK INSIGHTS</small>
       </div>
-    </section>
-  </main>
+    </footer>
 
-  <footer class="app-footer">
-    <div class="container">
-      <small>© 2025 ThermoFisher Automation Helper — built with Flask + PDF.js</small>
+    <!-- Floating Help Window (starts hidden) -->
+    <div id="helpModal" class="modal-backdrop hidden" aria-hidden="true">
+      <div class="modal" role="dialog" aria-modal="true" aria-labelledby="helpTitle">
+        <button class="modal-close" id="helpClose" aria-label="Close help">✕</button>
+
+        <header class="modal-header">
+          <div class="modal-title-wrap">
+            <h3 id="helpTitle">ThermoFisher Form Filler</h3>
+          </div>
+        </header>
+
+        <div class="modal-body">
+          <div class="contact-card">
+            <img src="/static/img/dhaval_vasavada.jpg" alt="Dhaval Vasavada" class="avatar" />
+            <div>
+              <div class="contact-line">For Technical Assistance Contact</div>
+              <div class="contact-name">Dhaval Vasavada</div>
+              <a href="mailto:dhaval@healtharkinsights.com" class="contact-link">dhaval@healtharkinsights.com</a>
+            </div>
+          </div>
+
+          <div class="meta">
+            <div>By — <strong>HealthArk Insights</strong></div>
+            <div>
+              <img src="/static/img/healthark_logo.png" alt="HealthArk" class="modal-brand" />
+            </div>
+            <div>
+              <a href="https://www.healthark.ai" target="_blank" rel="noopener" class="contact-link">www.healthark.ai</a>
+            </div>
+          </div>
+
+          <hr class="modal-divider" />
+
+          <ul class="help-points">
+            <li>Choose a <em>Project Level</em> on the left. The blue placeholder reflects on the PDF.</li>
+            <li>Tick the grid cells to place ✓ marks on the PDF in the corresponding regions.</li>
+            <li>Download a single filled PDF/DOCX, or process many rows via CSV.</li>
+          </ul>
+        </div>
+
+        <footer class="modal-footer">
+          <button class="btn btn-primary" id="helpOk">Got it</button>
+        </footer>
+      </div>
     </div>
-  </footer>
 
-  <script type="module" src="/static/js/main.js"></script>
-</body>
+    <!-- Full-screen busy overlay -->
+    <div id="busyOverlay" class="busy-overlay hidden" aria-hidden="true" aria-live="polite">
+      <div class="busy-box" role="status">
+        <div class="spinner"></div>
+        <div class="busy-text">Processing CSV…</div>
+      </div>
+    </div>
+
+    <script type="module" src="/static/js/main.js"></script>
+  </body>
 </html>

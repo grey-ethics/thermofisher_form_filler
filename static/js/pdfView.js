@@ -1,14 +1,13 @@
 /**
  * pdfView.js
  * ----------------------------------------
- * PDF.js viewer bootstrap & simple zoom controls.
+ * Minimal PDF.js viewer with +/- zoom only (50%–300%).
  *
  * Exposes:
  * - PdfView: constructor(container, canvas, overlay, pdfUrl)
  *   Methods:
  *     load() -> Promise
  *     setScale(newScale)
- *     fitWidth(), fitPage()
  *   Events:
  *     onRendered(cb): called after each render with {width,height,scale}
  */
@@ -35,7 +34,7 @@ export class PdfView {
   async load() {
     this.pdfDoc = await pdfjsLib.getDocument(this.pdfUrl).promise;
     this.page = await this.pdfDoc.getPage(1);
-    this.fitWidth(); // initial render
+    this.setScale(1.0); // initial 100%
   }
 
   async _render() {
@@ -43,10 +42,15 @@ export class PdfView {
     const viewport = this.page.getViewport({ scale: this.scale });
     this.viewport = viewport;
 
+    // Set internal pixel buffer
     this.canvas.width = Math.floor(viewport.width);
     this.canvas.height = Math.floor(viewport.height);
 
-    // size overlay to match canvas
+    // IMPORTANT: set CSS size to match pixel size (prevents blank space / mismatch)
+    this.canvas.style.width = `${viewport.width}px`;
+    this.canvas.style.height = `${viewport.height}px`;
+
+    // Match overlay to canvas size
     this.overlay.setAttribute("viewBox", `0 0 ${viewport.width} ${viewport.height}`);
     this.overlay.style.width = `${viewport.width}px`;
     this.overlay.style.height = `${viewport.height}px`;
@@ -60,23 +64,5 @@ export class PdfView {
     const minScale = 0.5, maxScale = 3.0;
     this.scale = Math.max(minScale, Math.min(maxScale, newScale));
     this._render();
-  }
-
-  fitWidth() {
-    const viewW = this.container.clientWidth - 10; // padding
-    this.page.getViewport({ scale: 1.0 });
-    const initial = 1.0;
-    const vw = this.page.getViewport({ scale: initial }).width;
-    const s = viewW / vw;
-    this.setScale(s);
-  }
-
-  fitPage() {
-    const viewW = this.container.clientWidth - 10;
-    const viewH = this.container.clientHeight - 10;
-    const vw = this.page.getViewport({ scale: 1.0 }).width;
-    const vh = this.page.getViewport({ scale: 1.0 }).height;
-    const s = Math.min(viewW / vw, viewH / vh);
-    this.setScale(s);
   }
 }

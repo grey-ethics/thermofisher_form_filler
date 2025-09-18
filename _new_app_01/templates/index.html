@@ -1,0 +1,196 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <title>Form Filling App — Clean</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <link rel="stylesheet" href="/static/css/app.css" />
+
+    <style>
+      html[data-theme="dark"] { --theme-dot: #a4cdff; }
+      html[data-theme="light"] { --theme-dot: #fdff92; }
+      #themeToggle{
+        border:0!important;background:transparent!important;box-shadow:none!important;
+        padding:6px;width:38px;height:38px;min-width:42px;font-size:0;line-height:0;transform:translateY(-5px);
+      }
+      #themeToggle::after{
+        content:"";display:block;width:18px;height:18px;margin:0 auto;border-radius:9999px;
+        background:var(--theme-dot);box-shadow:0 0 0 2px var(--border) inset;
+      }
+      #themeToggle:focus-visible{ outline:2px solid var(--accent); outline-offset:2px; }
+    </style>
+
+    <!-- PDF.js (CDN) -->
+    <script src="https://cdn.jsdelivr.net/npm/pdfjs-dist@3.11.174/build/pdf.min.js"></script>
+    <script>
+      pdfjsLib.GlobalWorkerOptions.workerSrc =
+        "https://cdn.jsdelivr.net/npm/pdfjs-dist@3.11.174/build/pdf.worker.min.js";
+    </script>
+  </head>
+  <body>
+    <header class="app-header">
+      <div class="container header-inner">
+        <div class="brand-wrap">
+          <h1>Form Filling App</h1>
+        </div>
+        <nav class="nav">
+          <a href="#" id="helpLink" aria-label="Help &amp; Instructions" class="btn small">Help</a>
+          <button id="themeToggle" class="btn small" aria-pressed="false" title="Toggle theme">Light</button>
+        </nav>
+      </div>
+    </header>
+
+    <main class="container app-main">
+      <!-- Blade 1: Upload Files & Extra Data -->
+      <section class="card blade">
+        <header class="blade-header">
+          <h2>Upload Files &amp; Extra Data</h2>
+          <p>
+            Upload your <strong>Regulatory Document (.docx)</strong> and the <strong>Template Document (.docx or .pdf)</strong>, then click <b>Process Documents</b>.
+            We’ll infer the initial selections from the regulatory file and prefill the grid below.
+          </p>
+        </header>
+
+        <div class="blade-body">
+          <!-- Inputs -->
+          <div class="form-group">
+            <label for="regulatoryFile"><strong>Regulatory Document (.docx)</strong></label>
+            <input type="file" id="regulatoryFile" accept=".docx" />
+          </div>
+
+          <div class="form-group">
+            <label for="templateFile"><strong>Template Document (.docx or .pdf)</strong></label>
+            <input type="file" id="templateFile" accept=".docx,.pdf" />
+          </div>
+
+          <div class="actions">
+            <button id="btnProcess" class="btn btn-primary" type="button">Process Documents</button>
+          </div>
+
+          <!-- Processed Results -->
+          <div id="extractResults" class="result" style="margin-top: 14px">
+            <div class="grid-table" style="grid-template-columns: 220px 1fr">
+              <div class="cell head">Medical</div>
+              <div class="cell" id="extractMedical">—</div>
+            </div>
+            <pre id="extractLines"
+              style="margin-top:10px; white-space: pre-wrap; background: var(--input-bg); color: var(--text); padding: 10px; border: 1px solid var(--border); border-radius: 10px;">
+Results will appear here…
+            </pre>
+          </div>
+        </div>
+      </section>
+
+      <!-- Blade 2: Preview & Download -->
+      <section class="card blade">
+        <header class="blade-header">
+          <h2>Preview &amp; Download</h2>
+          <p>Adjust the Project Level and Product Category × Region grid. The right pane always shows the fixed reference PDF with an overlay. Use your uploaded Template Document when downloading.</p>
+        </header>
+
+        <div class="blade-body grid-2">
+          <!-- Left controls -->
+          <div class="left-pane">
+            <div class="form-group">
+              <label for="projectLevel">Project Level</label>
+              <select id="projectLevel" class="select">
+                <option value="">&lt;Choose a Project Level.&gt;</option>
+                <option value="L1">L1</option>
+                <option value="L2L">L2L</option>
+                <option value="L2">L2</option>
+                <option value="L3L">L3L</option>
+              </select>
+            </div>
+
+            <div class="form-group">
+              <label>Product Category × Region</label>
+              <div id="deviceGrid" class="grid-table" role="grid" aria-label="Category by Region"></div>
+            </div>
+
+            <div class="actions">
+              <button id="btnDownloadPdf" class="btn btn-primary">Download (Uses Uploaded Template)</button>
+              <button id="btnDownloadDocx" class="btn">Download (Alternate)</button>
+            </div>
+            <small class="help-text" style="color: var(--muted); display:block; margin-top:6px;">
+              Both buttons export with your uploaded Template Document and replace <em>Page&nbsp;3</em> with a summary of your selections. The file type follows your template (DOCX→DOCX, PDF→PDF).
+            </small>
+          </div>
+
+          <!-- Right viewer -->
+          <div class="right-pane">
+            <div id="pdfContainer" class="pdf-container" tabindex="0" aria-label="PDF viewer">
+              <div class="pdf-page" id="pdfPage">
+                <canvas id="pdfCanvas" aria-label="PDF page"></canvas>
+                <svg id="overlaySvg" class="overlay" aria-hidden="true"></svg>
+              </div>
+            </div>
+
+            <div class="viewer-controls">
+              <div class="seg">
+                <button id="zoomOut" class="btn small" title="Zoom out">-</button>
+                <span id="zoomLabel" class="zoom-label">100%</span>
+                <button id="zoomIn" class="btn small" title="Zoom in">+</button>
+              </div>
+            </div>
+          </div>
+        </div>
+      </section>
+    </main>
+
+    <footer class="app-footer">
+      <div class="container">
+        <small>© 2025 — Clean Form Filling App</small>
+      </div>
+    </footer>
+
+    <!-- Floating Help Window (static help) -->
+    <div id="helpModal" class="modal-backdrop hidden" aria-hidden="true">
+      <div class="modal" role="dialog" aria-modal="true" aria-labelledby="helpTitle">
+        <button class="modal-close" id="helpClose" aria-label="Close help">✕</button>
+
+        <header class="modal-header">
+          <div class="modal-title-wrap">
+            <h3 id="helpTitle">How this works</h3>
+          </div>
+        </header>
+
+        <div class="modal-body">
+          <div class="contact-card">
+            <img src="/static/img/dhaval_vasavada.jpg" alt="Contact" class="avatar" />
+            <div>
+              <div class="contact-line">For Technical Assistance Contact</div>
+              <div class="contact-name">Support</div>
+              <a href="mailto:support@example.com" class="contact-link">support@example.com</a>
+            </div>
+          </div>
+
+          <div class="meta">
+            <div>Built by — <strong>Your Team</strong></div>
+          </div>
+
+          <hr class="modal-divider" />
+
+          <ul class="help-points">
+            <li>Use the first blade to upload the Regulatory DOCX and the Template DOCX/PDF, then click <b>Process Documents</b>.</li>
+            <li>Adjust the Project Level and tick the grid; the overlay will update live on the fixed PDF preview.</li>
+            <li>Click <b>Download</b> to get a copy of your uploaded Template with <em>Page 3</em> replaced by your selections.</li>
+          </ul>
+        </div>
+
+        <footer class="modal-footer">
+          <button class="btn btn-primary" id="helpOk">Got it</button>
+        </footer>
+      </div>
+    </div>
+
+    <!-- Full-screen busy overlay -->
+    <div id="busyOverlay" class="busy-overlay hidden" aria-hidden="true" aria-live="polite">
+      <div class="busy-box" role="status">
+        <div class="spinner"></div>
+        <div class="busy-text">Processing…</div>
+      </div>
+    </div>
+
+    <script type="module" src="/static/js/main.js"></script>
+  </body>
+</html>

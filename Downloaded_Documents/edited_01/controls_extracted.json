@@ -1,0 +1,4808 @@
+[
+  {
+    "index": 1,
+    "type": "checkbox",
+    "tag": "chk",
+    "title": "chk",
+    "checked": false,
+    "heading_path": [],
+    "heading_path_slug": [],
+    "paragraph_context": "\u2610EPD\t\u2610ECR\t\u2610GEPC",
+    "range_preview": "\u2610"
+  },
+  {
+    "index": 2,
+    "type": "checkbox",
+    "tag": "chk",
+    "title": "chk",
+    "checked": false,
+    "heading_path": [],
+    "heading_path_slug": [],
+    "paragraph_context": "\u2610EPD\t\u2610ECR\t\u2610GEPC",
+    "range_preview": "\u2610"
+  },
+  {
+    "index": 3,
+    "type": "checkbox",
+    "tag": "chk",
+    "title": "chk",
+    "checked": false,
+    "heading_path": [],
+    "heading_path_slug": [],
+    "paragraph_context": "\u2610EPD\t\u2610ECR\t\u2610GEPC",
+    "range_preview": "\u2610"
+  },
+  {
+    "index": 4,
+    "type": "checkbox",
+    "tag": "chk",
+    "title": "chk",
+    "checked": false,
+    "heading_path": [],
+    "heading_path_slug": [],
+    "paragraph_context": "\u2610  <Insert Other>\u0007",
+    "range_preview": "\u2610"
+  },
+  {
+    "index": 5,
+    "type": "dropdown",
+    "tag": "",
+    "title": "",
+    "checked": null,
+    "heading_path": [],
+    "heading_path_slug": [],
+    "paragraph_context": "Level: <Choose a Project Level.>\u0007",
+    "range_preview": "<Choose a Project Level.>"
+  },
+  {
+    "index": 6,
+    "type": "combobox",
+    "tag": "",
+    "title": "",
+    "checked": null,
+    "heading_path": [],
+    "heading_path_slug": [],
+    "paragraph_context": "CAPA Associated: <Select one.>",
+    "range_preview": "<Select one.>"
+  },
+  {
+    "index": 7,
+    "type": "combobox",
+    "tag": "",
+    "title": "",
+    "checked": null,
+    "heading_path": [],
+    "heading_path_slug": [],
+    "paragraph_context": "Design Owner:\t<Choose an item.>\tOther (if applicable): <Fill in if \u201cOther\u201d is chosen.> \tName of OEM (if applicable): <Name of OEM>",
+    "range_preview": "<Choose an item.>"
+  },
+  {
+    "index": 8,
+    "type": "checkbox",
+    "tag": "chk",
+    "title": "chk",
+    "checked": false,
+    "heading_path": [],
+    "heading_path_slug": [],
+    "paragraph_context": "Manufacturing Site:\t\u2610AVL \u2610 MAR \u2610 LSB \u2610 OHA \u2610 SNG \u2610 Other\t\u2610OEM \u2610 CM (External)",
+    "range_preview": "\u2610"
+  },
+  {
+    "index": 9,
+    "type": "checkbox",
+    "tag": "chk",
+    "title": "chk",
+    "checked": false,
+    "heading_path": [],
+    "heading_path_slug": [],
+    "paragraph_context": "Manufacturing Site:\t\u2610AVL \u2610 MAR \u2610 LSB \u2610 OHA \u2610 SNG \u2610 Other\t\u2610OEM \u2610 CM (External)",
+    "range_preview": "\u2610"
+  },
+  {
+    "index": 10,
+    "type": "checkbox",
+    "tag": "chk",
+    "title": "chk",
+    "checked": false,
+    "heading_path": [],
+    "heading_path_slug": [],
+    "paragraph_context": "Manufacturing Site:\t\u2610AVL \u2610 MAR \u2610 LSB \u2610 OHA \u2610 SNG \u2610 Other\t\u2610OEM \u2610 CM (External)",
+    "range_preview": "\u2610"
+  },
+  {
+    "index": 11,
+    "type": "checkbox",
+    "tag": "chk",
+    "title": "chk",
+    "checked": false,
+    "heading_path": [],
+    "heading_path_slug": [],
+    "paragraph_context": "Manufacturing Site:\t\u2610AVL \u2610 MAR \u2610 LSB \u2610 OHA \u2610 SNG \u2610 Other\t\u2610OEM \u2610 CM (External)",
+    "range_preview": "\u2610"
+  },
+  {
+    "index": 12,
+    "type": "checkbox",
+    "tag": "chk",
+    "title": "chk",
+    "checked": false,
+    "heading_path": [],
+    "heading_path_slug": [],
+    "paragraph_context": "Manufacturing Site:\t\u2610AVL \u2610 MAR \u2610 LSB \u2610 OHA \u2610 SNG \u2610 Other\t\u2610OEM \u2610 CM (External)",
+    "range_preview": "\u2610"
+  },
+  {
+    "index": 13,
+    "type": "checkbox",
+    "tag": "chk",
+    "title": "chk",
+    "checked": false,
+    "heading_path": [],
+    "heading_path_slug": [],
+    "paragraph_context": "Manufacturing Site:\t\u2610AVL \u2610 MAR \u2610 LSB \u2610 OHA \u2610 SNG \u2610 Other\t\u2610OEM \u2610 CM (External)",
+    "range_preview": "\u2610"
+  },
+  {
+    "index": 14,
+    "type": "checkbox",
+    "tag": "chk",
+    "title": "chk",
+    "checked": false,
+    "heading_path": [],
+    "heading_path_slug": [],
+    "paragraph_context": "Manufacturing Site:\t\u2610AVL \u2610 MAR \u2610 LSB \u2610 OHA \u2610 SNG \u2610 Other\t\u2610OEM \u2610 CM (External)",
+    "range_preview": "\u2610"
+  },
+  {
+    "index": 15,
+    "type": "checkbox",
+    "tag": "chk",
+    "title": "chk",
+    "checked": false,
+    "heading_path": [],
+    "heading_path_slug": [],
+    "paragraph_context": "Manufacturing Site:\t\u2610AVL \u2610 MAR \u2610 LSB \u2610 OHA \u2610 SNG \u2610 Other\t\u2610OEM \u2610 CM (External)",
+    "range_preview": "\u2610"
+  },
+  {
+    "index": 16,
+    "type": "combobox",
+    "tag": "",
+    "title": "",
+    "checked": null,
+    "heading_path": [],
+    "heading_path_slug": [],
+    "paragraph_context": "Design is Copy Exact: <Choose an item.>\u0007",
+    "range_preview": "<Choose an item.>"
+  },
+  {
+    "index": 17,
+    "type": "checkbox",
+    "tag": "chk",
+    "title": "chk",
+    "checked": false,
+    "heading_path": [],
+    "heading_path_slug": [],
+    "paragraph_context": "\u2610\u0007",
+    "range_preview": "\u2610"
+  },
+  {
+    "index": 18,
+    "type": "checkbox",
+    "tag": "chk",
+    "title": "chk",
+    "checked": false,
+    "heading_path": [],
+    "heading_path_slug": [],
+    "paragraph_context": "\u2610\u0007",
+    "range_preview": "\u2610"
+  },
+  {
+    "index": 19,
+    "type": "checkbox",
+    "tag": "chk",
+    "title": "chk",
+    "checked": false,
+    "heading_path": [],
+    "heading_path_slug": [],
+    "paragraph_context": "\u2610\u0007",
+    "range_preview": "\u2610"
+  },
+  {
+    "index": 20,
+    "type": "checkbox",
+    "tag": "chk",
+    "title": "chk",
+    "checked": false,
+    "heading_path": [],
+    "heading_path_slug": [],
+    "paragraph_context": "\u2610\u0007",
+    "range_preview": "\u2610"
+  },
+  {
+    "index": 21,
+    "type": "checkbox",
+    "tag": "chk",
+    "title": "chk",
+    "checked": false,
+    "heading_path": [],
+    "heading_path_slug": [],
+    "paragraph_context": "\u2610\u0007",
+    "range_preview": "\u2610"
+  },
+  {
+    "index": 22,
+    "type": "checkbox",
+    "tag": "chk",
+    "title": "chk",
+    "checked": false,
+    "heading_path": [],
+    "heading_path_slug": [],
+    "paragraph_context": "\u2610\u0007",
+    "range_preview": "\u2610"
+  },
+  {
+    "index": 23,
+    "type": "checkbox",
+    "tag": "chk",
+    "title": "chk",
+    "checked": false,
+    "heading_path": [],
+    "heading_path_slug": [],
+    "paragraph_context": "\u2610\u0007",
+    "range_preview": "\u2610"
+  },
+  {
+    "index": 24,
+    "type": "checkbox",
+    "tag": "chk",
+    "title": "chk",
+    "checked": false,
+    "heading_path": [],
+    "heading_path_slug": [],
+    "paragraph_context": "\u2610\u0007",
+    "range_preview": "\u2610"
+  },
+  {
+    "index": 25,
+    "type": "checkbox",
+    "tag": "chk",
+    "title": "chk",
+    "checked": false,
+    "heading_path": [],
+    "heading_path_slug": [],
+    "paragraph_context": "\u2610\u0007",
+    "range_preview": "\u2610"
+  },
+  {
+    "index": 26,
+    "type": "checkbox",
+    "tag": "chk",
+    "title": "chk",
+    "checked": false,
+    "heading_path": [],
+    "heading_path_slug": [],
+    "paragraph_context": "\u2610\u0007",
+    "range_preview": "\u2610"
+  },
+  {
+    "index": 27,
+    "type": "checkbox",
+    "tag": "chk",
+    "title": "chk",
+    "checked": false,
+    "heading_path": [],
+    "heading_path_slug": [],
+    "paragraph_context": "\u2610\u0007",
+    "range_preview": "\u2610"
+  },
+  {
+    "index": 28,
+    "type": "checkbox",
+    "tag": "chk",
+    "title": "chk",
+    "checked": false,
+    "heading_path": [],
+    "heading_path_slug": [],
+    "paragraph_context": "\u2610\u0007",
+    "range_preview": "\u2610"
+  },
+  {
+    "index": 29,
+    "type": "checkbox",
+    "tag": "chk",
+    "title": "chk",
+    "checked": false,
+    "heading_path": [],
+    "heading_path_slug": [],
+    "paragraph_context": "\u2610\u0007",
+    "range_preview": "\u2610"
+  },
+  {
+    "index": 30,
+    "type": "checkbox",
+    "tag": "chk",
+    "title": "chk",
+    "checked": false,
+    "heading_path": [],
+    "heading_path_slug": [],
+    "paragraph_context": "\u2610\u0007",
+    "range_preview": "\u2610"
+  },
+  {
+    "index": 31,
+    "type": "checkbox",
+    "tag": "chk",
+    "title": "chk",
+    "checked": false,
+    "heading_path": [],
+    "heading_path_slug": [],
+    "paragraph_context": "\u2610\u0007",
+    "range_preview": "\u2610"
+  },
+  {
+    "index": 32,
+    "type": "checkbox",
+    "tag": "chk",
+    "title": "chk",
+    "checked": false,
+    "heading_path": [],
+    "heading_path_slug": [],
+    "paragraph_context": "\u2610\u0007",
+    "range_preview": "\u2610"
+  },
+  {
+    "index": 33,
+    "type": "checkbox",
+    "tag": "chk",
+    "title": "chk",
+    "checked": false,
+    "heading_path": [],
+    "heading_path_slug": [],
+    "paragraph_context": "\u2610\u0007",
+    "range_preview": "\u2610"
+  },
+  {
+    "index": 34,
+    "type": "checkbox",
+    "tag": "chk",
+    "title": "chk",
+    "checked": false,
+    "heading_path": [],
+    "heading_path_slug": [],
+    "paragraph_context": "\u2610\u0007",
+    "range_preview": "\u2610"
+  },
+  {
+    "index": 35,
+    "type": "checkbox",
+    "tag": "chk",
+    "title": "chk",
+    "checked": false,
+    "heading_path": [],
+    "heading_path_slug": [],
+    "paragraph_context": "\u2610\u0007",
+    "range_preview": "\u2610"
+  },
+  {
+    "index": 36,
+    "type": "checkbox",
+    "tag": "chk",
+    "title": "chk",
+    "checked": false,
+    "heading_path": [],
+    "heading_path_slug": [],
+    "paragraph_context": "\u2610\u0007",
+    "range_preview": "\u2610"
+  },
+  {
+    "index": 37,
+    "type": "checkbox",
+    "tag": "chk",
+    "title": "chk",
+    "checked": false,
+    "heading_path": [
+      "RISK MANAGEMENT FILE"
+    ],
+    "heading_path_slug": [
+      "risk_management_file"
+    ],
+    "paragraph_context": "\u2610  The change does not impact the Risk Management File",
+    "range_preview": "\u2610"
+  },
+  {
+    "index": 38,
+    "type": "checkbox",
+    "tag": "chk",
+    "title": "chk",
+    "checked": false,
+    "heading_path": [
+      "RISK MANAGEMENT FILE"
+    ],
+    "heading_path_slug": [
+      "risk_management_file"
+    ],
+    "paragraph_context": "\u2610 The product family does not have a Risk Management File or does not have a Risk Management File aligned to the latest revisions in the QMS.",
+    "range_preview": "\u2610"
+  },
+  {
+    "index": 39,
+    "type": "checkbox",
+    "tag": "chk",
+    "title": "chk",
+    "checked": false,
+    "heading_path": [
+      "RISK MANAGEMENT FILE"
+    ],
+    "heading_path_slug": [
+      "risk_management_file"
+    ],
+    "paragraph_context": "\u2610  The change introduces new usage conditions, or risk of harm as defined in the Risk Management Procedure (Patient, Samples, Operators, Environment, etc.).",
+    "range_preview": "\u2610"
+  },
+  {
+    "index": 40,
+    "type": "checkbox",
+    "tag": "chk",
+    "title": "chk",
+    "checked": false,
+    "heading_path": [
+      "RISK MANAGEMENT FILE"
+    ],
+    "heading_path_slug": [
+      "risk_management_file"
+    ],
+    "paragraph_context": "\u2610  The change affects the current risk probability or severity associated with existing hazards",
+    "range_preview": "\u2610"
+  },
+  {
+    "index": 41,
+    "type": "checkbox",
+    "tag": "chk",
+    "title": "chk",
+    "checked": false,
+    "heading_path": [
+      "RISK MANAGEMENT FILE"
+    ],
+    "heading_path_slug": [
+      "risk_management_file"
+    ],
+    "paragraph_context": "\u2610  The change will mean that the device will have different end users or be used in a different manner",
+    "range_preview": "\u2610"
+  },
+  {
+    "index": 42,
+    "type": "checkbox",
+    "tag": "chk",
+    "title": "chk",
+    "checked": false,
+    "heading_path": [
+      "RISK MANAGEMENT FILE"
+    ],
+    "heading_path_slug": [
+      "risk_management_file"
+    ],
+    "paragraph_context": "\u2610  The performance evaluation data for the original device is not sufficient to confirm conformity of the changed device with the required characteristics and performance",
+    "range_preview": "\u2610"
+  },
+  {
+    "index": 43,
+    "type": "checkbox",
+    "tag": "chk",
+    "title": "chk",
+    "checked": false,
+    "heading_path": [
+      "RISK MANAGEMENT FILE"
+    ],
+    "heading_path_slug": [
+      "risk_management_file"
+    ],
+    "paragraph_context": "\u2610  The change involves the manufacturing process (i.e., technologies, product lines)",
+    "range_preview": "\u2610"
+  },
+  {
+    "index": 44,
+    "type": "checkbox",
+    "tag": "chk",
+    "title": "chk",
+    "checked": false,
+    "heading_path": [
+      "RISK MANAGEMENT FILE"
+    ],
+    "heading_path_slug": [
+      "risk_management_file"
+    ],
+    "paragraph_context": "\u2610  The change impacts End of Line (EOL) testing procedures (e.g., TP902 \u2013 Test procedure for all Hi Pot and Hypatia Equipment Test Machines)",
+    "range_preview": "\u2610"
+  },
+  {
+    "index": 45,
+    "type": "checkbox",
+    "tag": "chk",
+    "title": "chk",
+    "checked": false,
+    "heading_path": [
+      "RISK MANAGEMENT FILE"
+    ],
+    "heading_path_slug": [
+      "risk_management_file"
+    ],
+    "paragraph_context": "\u2610  The change requires a process validation",
+    "range_preview": "\u2610"
+  },
+  {
+    "index": 46,
+    "type": "checkbox",
+    "tag": "chk",
+    "title": "chk",
+    "checked": false,
+    "heading_path": [
+      "RISK MANAGEMENT FILE"
+    ],
+    "heading_path_slug": [
+      "risk_management_file"
+    ],
+    "paragraph_context": "\u2610  The change affects agreements and/or arrangements (e.g., verification, validation, organizational structure, production site, outsourcing, subcontracting) for ensuring continued compliance with the requirements",
+    "range_preview": "\u2610"
+  },
+  {
+    "index": 47,
+    "type": "checkbox",
+    "tag": "chk",
+    "title": "chk",
+    "checked": false,
+    "heading_path": [
+      "RISK MANAGEMENT FILE"
+    ],
+    "heading_path_slug": [
+      "risk_management_file"
+    ],
+    "paragraph_context": "\u2610  The change results from actions taken related to concerns arising from post-market surveillance including incidents/recalls/complaints (CAPA associated)",
+    "range_preview": "\u2610"
+  },
+  {
+    "index": 48,
+    "type": "checkbox",
+    "tag": "chk",
+    "title": "chk",
+    "checked": false,
+    "heading_path": [
+      "RISK MANAGEMENT FILE"
+    ],
+    "heading_path_slug": [
+      "risk_management_file"
+    ],
+    "paragraph_context": "\u2610  The change impacts Quality Control procedures, incoming acceptance criteria, or involves a change in supplier",
+    "range_preview": "\u2610"
+  },
+  {
+    "index": 49,
+    "type": "checkbox",
+    "tag": "chk",
+    "title": "chk",
+    "checked": false,
+    "heading_path": [
+      "RISK MANAGEMENT FILE"
+    ],
+    "heading_path_slug": [
+      "risk_management_file"
+    ],
+    "paragraph_context": "\u2610  (Medical) The change results from characteristics not previously considered in the clinical evaluation",
+    "range_preview": "\u2610"
+  },
+  {
+    "index": 50,
+    "type": "checkbox",
+    "tag": "chk",
+    "title": "chk",
+    "checked": false,
+    "heading_path": [
+      "RISK MANAGEMENT FILE"
+    ],
+    "heading_path_slug": [
+      "risk_management_file"
+    ],
+    "paragraph_context": "\u2610  (Medical) The change is driven by the development of the state of the art (e.g., latest technology)",
+    "range_preview": "\u2610"
+  },
+  {
+    "index": 51,
+    "type": "checkbox",
+    "tag": "chk",
+    "title": "chk",
+    "checked": false,
+    "heading_path": [
+      "RISK MANAGEMENT FILE"
+    ],
+    "heading_path_slug": [
+      "risk_management_file"
+    ],
+    "paragraph_context": "\u2610Other: <If \u201cOther\u201d is selected, provide more information here> \u0007",
+    "range_preview": "\u2610"
+  },
+  {
+    "index": 52,
+    "type": "combobox",
+    "tag": "",
+    "title": "",
+    "checked": null,
+    "heading_path": [
+      "RISK MANAGEMENT FILE"
+    ],
+    "heading_path_slug": [
+      "risk_management_file"
+    ],
+    "paragraph_context": "Next Steps: <Choose the project action item that would need to be completed based on the scope assessment.>",
+    "range_preview": "<Choose the project action item that would need to be completed based on the scope assessment.>"
+  },
+  {
+    "index": 53,
+    "type": "checkbox",
+    "tag": "chk",
+    "title": "chk",
+    "checked": false,
+    "heading_path": [
+      "RISK MANAGEMENT FILE"
+    ],
+    "heading_path_slug": [
+      "risk_management_file"
+    ],
+    "paragraph_context": "\u2610CAPA owner notified\u0007",
+    "range_preview": "\u2610"
+  },
+  {
+    "index": 54,
+    "type": "checkbox",
+    "tag": "chk",
+    "title": "chk",
+    "checked": false,
+    "heading_path": [
+      "PERFORMANCE COMPLIANCE ASSESSMENT"
+    ],
+    "heading_path_slug": [
+      "performance_compliance_assessment"
+    ],
+    "paragraph_context": "\u2610  The change does not impact the performance compliance of the product.",
+    "range_preview": "\u2610"
+  },
+  {
+    "index": 55,
+    "type": "checkbox",
+    "tag": "chk",
+    "title": "chk",
+    "checked": false,
+    "heading_path": [
+      "PERFORMANCE COMPLIANCE ASSESSMENT"
+    ],
+    "heading_path_slug": [
+      "performance_compliance_assessment"
+    ],
+    "paragraph_context": "\u2610Changes affect degradable, moving or friction generating components (air filters, fans, hinges, etc.)",
+    "range_preview": "\u2610"
+  },
+  {
+    "index": 56,
+    "type": "checkbox",
+    "tag": "chk",
+    "title": "chk",
+    "checked": false,
+    "heading_path": [
+      "PERFORMANCE COMPLIANCE ASSESSMENT"
+    ],
+    "heading_path_slug": [
+      "performance_compliance_assessment"
+    ],
+    "paragraph_context": "\u2610Changes affect the airflow into, throughout, and out of the unit (airflow vent, rearranging components, deck size, etc.)",
+    "range_preview": "\u2610"
+  },
+  {
+    "index": 57,
+    "type": "checkbox",
+    "tag": "chk",
+    "title": "chk",
+    "checked": false,
+    "heading_path": [
+      "PERFORMANCE COMPLIANCE ASSESSMENT"
+    ],
+    "heading_path_slug": [
+      "performance_compliance_assessment"
+    ],
+    "paragraph_context": "\u2610Product currently has outdated testing or missing testing to the latest requirements. Requested to add in scope of the current project.",
+    "range_preview": "\u2610"
+  },
+  {
+    "index": 58,
+    "type": "checkbox",
+    "tag": "chk",
+    "title": "chk",
+    "checked": false,
+    "heading_path": [
+      "PERFORMANCE COMPLIANCE ASSESSMENT"
+    ],
+    "heading_path_slug": [
+      "performance_compliance_assessment"
+    ],
+    "paragraph_context": "\u2610Changes affect critical components in compliance files (Electrical, refrigeration, labels)",
+    "range_preview": "\u2610"
+  },
+  {
+    "index": 59,
+    "type": "checkbox",
+    "tag": "chk",
+    "title": "chk",
+    "checked": false,
+    "heading_path": [
+      "PERFORMANCE COMPLIANCE ASSESSMENT"
+    ],
+    "heading_path_slug": [
+      "performance_compliance_assessment"
+    ],
+    "paragraph_context": "\u2610Changes affect the product performance, peak variation, temperature stability, door open recovery times",
+    "range_preview": "\u2610"
+  },
+  {
+    "index": 60,
+    "type": "checkbox",
+    "tag": "chk",
+    "title": "chk",
+    "checked": false,
+    "heading_path": [
+      "PERFORMANCE COMPLIANCE ASSESSMENT"
+    ],
+    "heading_path_slug": [
+      "performance_compliance_assessment"
+    ],
+    "paragraph_context": "\u2610Changes will be made to the product power specifications, refrigeration system, or electrical systems",
+    "range_preview": "\u2610"
+  },
+  {
+    "index": 61,
+    "type": "checkbox",
+    "tag": "chk",
+    "title": "chk",
+    "checked": false,
+    "heading_path": [
+      "PERFORMANCE COMPLIANCE ASSESSMENT"
+    ],
+    "heading_path_slug": [
+      "performance_compliance_assessment"
+    ],
+    "paragraph_context": "\u2610Changes to the internal cabinet size, construction, or configuration (inner doors, shelving, port holes)",
+    "range_preview": "\u2610"
+  },
+  {
+    "index": 62,
+    "type": "checkbox",
+    "tag": "chk",
+    "title": "chk",
+    "checked": false,
+    "heading_path": [
+      "PERFORMANCE COMPLIANCE ASSESSMENT"
+    ],
+    "heading_path_slug": [
+      "performance_compliance_assessment"
+    ],
+    "paragraph_context": "\u2610Change to defrosts, setpoint ranges, or code versions",
+    "range_preview": "\u2610"
+  },
+  {
+    "index": 63,
+    "type": "checkbox",
+    "tag": "chk",
+    "title": "chk",
+    "checked": false,
+    "heading_path": [
+      "PERFORMANCE COMPLIANCE ASSESSMENT"
+    ],
+    "heading_path_slug": [
+      "performance_compliance_assessment"
+    ],
+    "paragraph_context": "\u2610Changes to the software affecting behavior or timing of behaviors",
+    "range_preview": "\u2610"
+  },
+  {
+    "index": 64,
+    "type": "checkbox",
+    "tag": "chk",
+    "title": "chk",
+    "checked": false,
+    "heading_path": [
+      "PERFORMANCE COMPLIANCE ASSESSMENT"
+    ],
+    "heading_path_slug": [
+      "performance_compliance_assessment"
+    ],
+    "paragraph_context": "\u2610Product currently has outdated testing or missing testing to the latest requirements. Requested to add in scope of the current project.",
+    "range_preview": "\u2610"
+  },
+  {
+    "index": 65,
+    "type": "checkbox",
+    "tag": "chk",
+    "title": "chk",
+    "checked": false,
+    "heading_path": [
+      "PERFORMANCE COMPLIANCE ASSESSMENT"
+    ],
+    "heading_path_slug": [
+      "performance_compliance_assessment"
+    ],
+    "paragraph_context": "\u2610 Changes affect the cooling capacity to cool down and maintain the temperature of the liquid",
+    "range_preview": "\u2610"
+  },
+  {
+    "index": 66,
+    "type": "checkbox",
+    "tag": "chk",
+    "title": "chk",
+    "checked": false,
+    "heading_path": [
+      "PERFORMANCE COMPLIANCE ASSESSMENT"
+    ],
+    "heading_path_slug": [
+      "performance_compliance_assessment"
+    ],
+    "paragraph_context": "\u2610 Changes affect the functionality of the medium (refrigerant, water, etc.) to chill the system continuously",
+    "range_preview": "\u2610"
+  },
+  {
+    "index": 67,
+    "type": "checkbox",
+    "tag": "chk",
+    "title": "chk",
+    "checked": false,
+    "heading_path": [
+      "PERFORMANCE COMPLIANCE ASSESSMENT"
+    ],
+    "heading_path_slug": [
+      "performance_compliance_assessment"
+    ],
+    "paragraph_context": "\u2610 Changes may affect the power input specifications",
+    "range_preview": "\u2610"
+  },
+  {
+    "index": 68,
+    "type": "checkbox",
+    "tag": "chk",
+    "title": "chk",
+    "checked": false,
+    "heading_path": [
+      "PERFORMANCE COMPLIANCE ASSESSMENT"
+    ],
+    "heading_path_slug": [
+      "performance_compliance_assessment"
+    ],
+    "paragraph_context": "\u2610Product currently has outdated testing or missing testing to the latest requirements. Requested to add in scope of the current project.\u0007",
+    "range_preview": "\u2610"
+  },
+  {
+    "index": 69,
+    "type": "checkbox",
+    "tag": "chk",
+    "title": "chk",
+    "checked": false,
+    "heading_path": [
+      "PERFORMANCE COMPLIANCE ASSESSMENT"
+    ],
+    "heading_path_slug": [
+      "performance_compliance_assessment"
+    ],
+    "paragraph_context": "\u2610Changes affect critical components in compliance files",
+    "range_preview": "\u2610"
+  },
+  {
+    "index": 70,
+    "type": "checkbox",
+    "tag": "chk",
+    "title": "chk",
+    "checked": false,
+    "heading_path": [
+      "PERFORMANCE COMPLIANCE ASSESSMENT"
+    ],
+    "heading_path_slug": [
+      "performance_compliance_assessment"
+    ],
+    "paragraph_context": "\u2610Product currently has outdated testing or missing testing to the latest requirements. Requested to add in scope of the current project.\u0007",
+    "range_preview": "\u2610"
+  },
+  {
+    "index": 71,
+    "type": "checkbox",
+    "tag": "chk",
+    "title": "chk",
+    "checked": false,
+    "heading_path": [
+      "PERFORMANCE COMPLIANCE ASSESSMENT"
+    ],
+    "heading_path_slug": [
+      "performance_compliance_assessment"
+    ],
+    "paragraph_context": "\u2610Changes affect critical components in compliance files",
+    "range_preview": "\u2610"
+  },
+  {
+    "index": 72,
+    "type": "checkbox",
+    "tag": "chk",
+    "title": "chk",
+    "checked": false,
+    "heading_path": [
+      "PERFORMANCE COMPLIANCE ASSESSMENT"
+    ],
+    "heading_path_slug": [
+      "performance_compliance_assessment"
+    ],
+    "paragraph_context": "\u2610 Changes to the materials of construction or coatings (paint)",
+    "range_preview": "\u2610"
+  },
+  {
+    "index": 73,
+    "type": "checkbox",
+    "tag": "chk",
+    "title": "chk",
+    "checked": false,
+    "heading_path": [
+      "PERFORMANCE COMPLIANCE ASSESSMENT"
+    ],
+    "heading_path_slug": [
+      "performance_compliance_assessment"
+    ],
+    "paragraph_context": "\u2610 Changes impact air flow (blowers, power supp, filters, paper catch areas, filter screen)",
+    "range_preview": "\u2610"
+  },
+  {
+    "index": 74,
+    "type": "checkbox",
+    "tag": "chk",
+    "title": "chk",
+    "checked": false,
+    "heading_path": [
+      "PERFORMANCE COMPLIANCE ASSESSMENT"
+    ],
+    "heading_path_slug": [
+      "performance_compliance_assessment"
+    ],
+    "paragraph_context": "\u2610 Changes to the software",
+    "range_preview": "\u2610"
+  },
+  {
+    "index": 75,
+    "type": "checkbox",
+    "tag": "chk",
+    "title": "chk",
+    "checked": false,
+    "heading_path": [
+      "PERFORMANCE COMPLIANCE ASSESSMENT"
+    ],
+    "heading_path_slug": [
+      "performance_compliance_assessment"
+    ],
+    "paragraph_context": "\u2610 Changes impacting stability (change weight distribution or change to stands)",
+    "range_preview": "\u2610"
+  },
+  {
+    "index": 76,
+    "type": "checkbox",
+    "tag": "chk",
+    "title": "chk",
+    "checked": false,
+    "heading_path": [
+      "PERFORMANCE COMPLIANCE ASSESSMENT"
+    ],
+    "heading_path_slug": [
+      "performance_compliance_assessment"
+    ],
+    "paragraph_context": "\u2610 Changes impact cleanability (Sealing of openings that could harbor contamination, fasteners - Philip screws not allowed)",
+    "range_preview": "\u2610"
+  },
+  {
+    "index": 77,
+    "type": "checkbox",
+    "tag": "chk",
+    "title": "chk",
+    "checked": false,
+    "heading_path": [
+      "PERFORMANCE COMPLIANCE ASSESSMENT"
+    ],
+    "heading_path_slug": [
+      "performance_compliance_assessment"
+    ],
+    "paragraph_context": "\u2610Changes impact the cabinet pressure decay test (seals, cabinet materials)",
+    "range_preview": "\u2610"
+  },
+  {
+    "index": 78,
+    "type": "checkbox",
+    "tag": "chk",
+    "title": "chk",
+    "checked": false,
+    "heading_path": [
+      "PERFORMANCE COMPLIANCE ASSESSMENT"
+    ],
+    "heading_path_slug": [
+      "performance_compliance_assessment"
+    ],
+    "paragraph_context": "\u2610Changes impact labels or markings (add, remove, location change)",
+    "range_preview": "\u2610"
+  },
+  {
+    "index": 79,
+    "type": "checkbox",
+    "tag": "chk",
+    "title": "chk",
+    "checked": false,
+    "heading_path": [
+      "PERFORMANCE COMPLIANCE ASSESSMENT"
+    ],
+    "heading_path_slug": [
+      "performance_compliance_assessment"
+    ],
+    "paragraph_context": "\u2610Product currently has outdated testing or missing testing to the latest requirements. Requested to add in scope of the current project.\u0007",
+    "range_preview": "\u2610"
+  },
+  {
+    "index": 80,
+    "type": "checkbox",
+    "tag": "chk",
+    "title": "chk",
+    "checked": false,
+    "heading_path": [
+      "PERFORMANCE COMPLIANCE ASSESSMENT"
+    ],
+    "heading_path_slug": [
+      "performance_compliance_assessment"
+    ],
+    "paragraph_context": "\u2610ENERGY STAR*",
+    "range_preview": "\u2610"
+  },
+  {
+    "index": 81,
+    "type": "checkbox",
+    "tag": "chk",
+    "title": "chk",
+    "checked": false,
+    "heading_path": [
+      "PERFORMANCE COMPLIANCE ASSESSMENT"
+    ],
+    "heading_path_slug": [
+      "performance_compliance_assessment"
+    ],
+    "paragraph_context": "\u2610NSF49 BSC*",
+    "range_preview": "\u2610"
+  },
+  {
+    "index": 82,
+    "type": "checkbox",
+    "tag": "chk",
+    "title": "chk",
+    "checked": false,
+    "heading_path": [
+      "PERFORMANCE COMPLIANCE ASSESSMENT"
+    ],
+    "heading_path_slug": [
+      "performance_compliance_assessment"
+    ],
+    "paragraph_context": "\u2610NSF456 Vaccine*\u0007",
+    "range_preview": "\u2610"
+  },
+  {
+    "index": 83,
+    "type": "checkbox",
+    "tag": "chk",
+    "title": "chk",
+    "checked": false,
+    "heading_path": [
+      "PERFORMANCE COMPLIANCE ASSESSMENT"
+    ],
+    "heading_path_slug": [
+      "performance_compliance_assessment"
+    ],
+    "paragraph_context": "\u2610Clean Room Particulate 14644-14*\u0007",
+    "range_preview": "\u2610"
+  },
+  {
+    "index": 84,
+    "type": "checkbox",
+    "tag": "chk",
+    "title": "chk",
+    "checked": false,
+    "heading_path": [
+      "PERFORMANCE COMPLIANCE ASSESSMENT"
+    ],
+    "heading_path_slug": [
+      "performance_compliance_assessment"
+    ],
+    "paragraph_context": "\u2610Clean Room Particulate 14644-14*",
+    "range_preview": "\u2610"
+  },
+  {
+    "index": 85,
+    "type": "checkbox",
+    "tag": "chk",
+    "title": "chk",
+    "checked": false,
+    "heading_path": [
+      "PERFORMANCE COMPLIANCE ASSESSMENT"
+    ],
+    "heading_path_slug": [
+      "performance_compliance_assessment"
+    ],
+    "paragraph_context": "\u2610ErP Directive (Chillers only)\u0007",
+    "range_preview": "\u2610"
+  },
+  {
+    "index": 86,
+    "type": "checkbox",
+    "tag": "chk",
+    "title": "chk",
+    "checked": false,
+    "heading_path": [
+      "PERFORMANCE COMPLIANCE ASSESSMENT"
+    ],
+    "heading_path_slug": [
+      "performance_compliance_assessment"
+    ],
+    "paragraph_context": "\u2610Clean Room Particulate 14644-14*",
+    "range_preview": "\u2610"
+  },
+  {
+    "index": 87,
+    "type": "checkbox",
+    "tag": "chk",
+    "title": "chk",
+    "checked": false,
+    "heading_path": [
+      "PERFORMANCE COMPLIANCE ASSESSMENT"
+    ],
+    "heading_path_slug": [
+      "performance_compliance_assessment"
+    ],
+    "paragraph_context": "\u2610South Korean Act on Environmental testing and Inspection\u0007",
+    "range_preview": "\u2610"
+  },
+  {
+    "index": 88,
+    "type": "checkbox",
+    "tag": "chk",
+    "title": "chk",
+    "checked": false,
+    "heading_path": [
+      "PERFORMANCE COMPLIANCE ASSESSMENT"
+    ],
+    "heading_path_slug": [
+      "performance_compliance_assessment"
+    ],
+    "paragraph_context": "\u2610Other (if applicable): <Select \u201cOther\u201d if the report is not listed above. Provide more information here.>",
+    "range_preview": "\u2610"
+  },
+  {
+    "index": 89,
+    "type": "checkbox",
+    "tag": "chk",
+    "title": "chk",
+    "checked": false,
+    "heading_path": [
+      "PERFORMANCE COMPLIANCE ASSESSMENT"
+    ],
+    "heading_path_slug": [
+      "performance_compliance_assessment"
+    ],
+    "paragraph_context": "\u2610ENERGY STAR*\t\u2610CE (Self-Declared)\t\u2610Other (if applicable): <If \u201cOther\u201d is selected, provide more information here.> \u0007",
+    "range_preview": "\u2610"
+  },
+  {
+    "index": 90,
+    "type": "checkbox",
+    "tag": "chk",
+    "title": "chk",
+    "checked": false,
+    "heading_path": [
+      "PERFORMANCE COMPLIANCE ASSESSMENT"
+    ],
+    "heading_path_slug": [
+      "performance_compliance_assessment"
+    ],
+    "paragraph_context": "\u2610ENERGY STAR*\t\u2610CE (Self-Declared)\t\u2610Other (if applicable): <If \u201cOther\u201d is selected, provide more information here.> \u0007",
+    "range_preview": "\u2610"
+  },
+  {
+    "index": 91,
+    "type": "checkbox",
+    "tag": "chk",
+    "title": "chk",
+    "checked": false,
+    "heading_path": [
+      "PERFORMANCE COMPLIANCE ASSESSMENT"
+    ],
+    "heading_path_slug": [
+      "performance_compliance_assessment"
+    ],
+    "paragraph_context": "\u2610ENERGY STAR*\t\u2610CE (Self-Declared)\t\u2610Other (if applicable): <If \u201cOther\u201d is selected, provide more information here.> \u0007",
+    "range_preview": "\u2610"
+  },
+  {
+    "index": 92,
+    "type": "checkbox",
+    "tag": "chk",
+    "title": "chk",
+    "checked": false,
+    "heading_path": [
+      "PERFORMANCE COMPLIANCE ASSESSMENT"
+    ],
+    "heading_path_slug": [
+      "performance_compliance_assessment"
+    ],
+    "paragraph_context": "\u2610Marketing claims\t\u2610CE DoC (Self-Declared)\t\u2610Other (if applicable): <If \u201cOther\u201d is selected, provide more information here.> \u0007",
+    "range_preview": "\u2610"
+  },
+  {
+    "index": 93,
+    "type": "checkbox",
+    "tag": "chk",
+    "title": "chk",
+    "checked": false,
+    "heading_path": [
+      "PERFORMANCE COMPLIANCE ASSESSMENT"
+    ],
+    "heading_path_slug": [
+      "performance_compliance_assessment"
+    ],
+    "paragraph_context": "\u2610Marketing claims\t\u2610CE DoC (Self-Declared)\t\u2610Other (if applicable): <If \u201cOther\u201d is selected, provide more information here.> \u0007",
+    "range_preview": "\u2610"
+  },
+  {
+    "index": 94,
+    "type": "checkbox",
+    "tag": "chk",
+    "title": "chk",
+    "checked": false,
+    "heading_path": [
+      "PERFORMANCE COMPLIANCE ASSESSMENT"
+    ],
+    "heading_path_slug": [
+      "performance_compliance_assessment"
+    ],
+    "paragraph_context": "\u2610Marketing claims\t\u2610CE DoC (Self-Declared)\t\u2610Other (if applicable): <If \u201cOther\u201d is selected, provide more information here.> \u0007",
+    "range_preview": "\u2610"
+  },
+  {
+    "index": 95,
+    "type": "combobox",
+    "tag": "",
+    "title": "",
+    "checked": null,
+    "heading_path": [
+      "PERFORMANCE COMPLIANCE ASSESSMENT"
+    ],
+    "heading_path_slug": [
+      "performance_compliance_assessment"
+    ],
+    "paragraph_context": "Testing Required: <Choose an item.>",
+    "range_preview": "<Choose an item.>"
+  },
+  {
+    "index": 96,
+    "type": "checkbox",
+    "tag": "chk",
+    "title": "chk",
+    "checked": false,
+    "heading_path": [
+      "PERFORMANCE COMPLIANCE ASSESSMENT"
+    ],
+    "heading_path_slug": [
+      "performance_compliance_assessment"
+    ],
+    "paragraph_context": "\u2610Agency Report Revision\t\u2610Revise Engineering Drawings/Documents\t\u2610Revise Regulatory Documents (Cloud Drive)",
+    "range_preview": "\u2610"
+  },
+  {
+    "index": 97,
+    "type": "checkbox",
+    "tag": "chk",
+    "title": "chk",
+    "checked": false,
+    "heading_path": [
+      "PERFORMANCE COMPLIANCE ASSESSMENT"
+    ],
+    "heading_path_slug": [
+      "performance_compliance_assessment"
+    ],
+    "paragraph_context": "\u2610Agency Report Revision\t\u2610Revise Engineering Drawings/Documents\t\u2610Revise Regulatory Documents (Cloud Drive)",
+    "range_preview": "\u2610"
+  },
+  {
+    "index": 98,
+    "type": "checkbox",
+    "tag": "chk",
+    "title": "chk",
+    "checked": false,
+    "heading_path": [
+      "PERFORMANCE COMPLIANCE ASSESSMENT"
+    ],
+    "heading_path_slug": [
+      "performance_compliance_assessment"
+    ],
+    "paragraph_context": "\u2610Agency Report Revision\t\u2610Revise Engineering Drawings/Documents\t\u2610Revise Regulatory Documents (Cloud Drive)",
+    "range_preview": "\u2610"
+  },
+  {
+    "index": 99,
+    "type": "checkbox",
+    "tag": "chk",
+    "title": "chk",
+    "checked": false,
+    "heading_path": [
+      "PERFORMANCE COMPLIANCE ASSESSMENT"
+    ],
+    "heading_path_slug": [
+      "performance_compliance_assessment"
+    ],
+    "paragraph_context": "\u2610Marketing claims are validated\t\u2610 Marketing claims have not been validation",
+    "range_preview": "\u2610"
+  },
+  {
+    "index": 100,
+    "type": "checkbox",
+    "tag": "chk",
+    "title": "chk",
+    "checked": false,
+    "heading_path": [
+      "PERFORMANCE COMPLIANCE ASSESSMENT"
+    ],
+    "heading_path_slug": [
+      "performance_compliance_assessment"
+    ],
+    "paragraph_context": "\u2610Marketing claims are validated\t\u2610 Marketing claims have not been validation",
+    "range_preview": "\u2610"
+  },
+  {
+    "index": 101,
+    "type": "checkbox",
+    "tag": "chk",
+    "title": "chk",
+    "checked": false,
+    "heading_path": [
+      "PERFORMANCE COMPLIANCE ASSESSMENT"
+    ],
+    "heading_path_slug": [
+      "performance_compliance_assessment"
+    ],
+    "paragraph_context": "\u2610 Change impacts product, scope is defined as requiring a new project.",
+    "range_preview": "\u2610"
+  },
+  {
+    "index": 102,
+    "type": "checkbox",
+    "tag": "chk",
+    "title": "chk",
+    "checked": false,
+    "heading_path": [
+      "PERFORMANCE COMPLIANCE ASSESSMENT"
+    ],
+    "heading_path_slug": [
+      "performance_compliance_assessment"
+    ],
+    "paragraph_context": "\u2610Other (if applicable): <If \u201cOther\u201d is selected, provide more information here.>\u0007",
+    "range_preview": "\u2610"
+  },
+  {
+    "index": 103,
+    "type": "checkbox",
+    "tag": "chk",
+    "title": "chk",
+    "checked": false,
+    "heading_path": [
+      "PERFORMANCE COMPLIANCE ASSESSMENT"
+    ],
+    "heading_path_slug": [
+      "performance_compliance_assessment"
+    ],
+    "paragraph_context": "\u2610CB of changes (ENERGY STAR, required if not testing)\t\u2610Energy Star Team Leads (ENERGY STAR)",
+    "range_preview": "\u2610"
+  },
+  {
+    "index": 104,
+    "type": "checkbox",
+    "tag": "chk",
+    "title": "chk",
+    "checked": false,
+    "heading_path": [
+      "PERFORMANCE COMPLIANCE ASSESSMENT"
+    ],
+    "heading_path_slug": [
+      "performance_compliance_assessment"
+    ],
+    "paragraph_context": "\u2610CB of changes (ENERGY STAR, required if not testing)\t\u2610Energy Star Team Leads (ENERGY STAR)",
+    "range_preview": "\u2610"
+  },
+  {
+    "index": 105,
+    "type": "checkbox",
+    "tag": "chk",
+    "title": "chk",
+    "checked": false,
+    "heading_path": [
+      "PERFORMANCE COMPLIANCE ASSESSMENT"
+    ],
+    "heading_path_slug": [
+      "performance_compliance_assessment"
+    ],
+    "paragraph_context": "\u2610RA at Implementation Manufacturing Location\t\u2610South Korean RA Team for in-country Testing",
+    "range_preview": "\u2610"
+  },
+  {
+    "index": 106,
+    "type": "checkbox",
+    "tag": "chk",
+    "title": "chk",
+    "checked": false,
+    "heading_path": [
+      "PERFORMANCE COMPLIANCE ASSESSMENT"
+    ],
+    "heading_path_slug": [
+      "performance_compliance_assessment"
+    ],
+    "paragraph_context": "\u2610RA at Implementation Manufacturing Location\t\u2610South Korean RA Team for in-country Testing",
+    "range_preview": "\u2610"
+  },
+  {
+    "index": 107,
+    "type": "checkbox",
+    "tag": "chk",
+    "title": "chk",
+    "checked": false,
+    "heading_path": [
+      "PERFORMANCE COMPLIANCE ASSESSMENT"
+    ],
+    "heading_path_slug": [
+      "performance_compliance_assessment"
+    ],
+    "paragraph_context": "\u2610Authorities of Product Changes where registered\t\u2610Other (if applicable): <If \u201cOther\u201d is selected, provide more information here.>\u0007",
+    "range_preview": "\u2610"
+  },
+  {
+    "index": 108,
+    "type": "checkbox",
+    "tag": "chk",
+    "title": "chk",
+    "checked": false,
+    "heading_path": [
+      "PERFORMANCE COMPLIANCE ASSESSMENT"
+    ],
+    "heading_path_slug": [
+      "performance_compliance_assessment"
+    ],
+    "paragraph_context": "\u2610Authorities of Product Changes where registered\t\u2610Other (if applicable): <If \u201cOther\u201d is selected, provide more information here.>\u0007",
+    "range_preview": "\u2610"
+  },
+  {
+    "index": 109,
+    "type": "checkbox",
+    "tag": "chk",
+    "title": "chk",
+    "checked": false,
+    "heading_path": [
+      "DESIGN SAFETY, EMC, & WIRELESS COMPLIANCE ASSESSMENT"
+    ],
+    "heading_path_slug": [
+      "design_safety_emc_wireless_compliance_assessment"
+    ],
+    "paragraph_context": "\u2610  The change does not impact the design safety, EMC, and/or wireless compliance. Like for like components (i.e., PCBA components) should still be evaluated to ensure the safety report has not been impacted.",
+    "range_preview": "\u2610"
+  },
+  {
+    "index": 110,
+    "type": "checkbox",
+    "tag": "chk",
+    "title": "chk",
+    "checked": false,
+    "heading_path": [
+      "DESIGN SAFETY, EMC, & WIRELESS COMPLIANCE ASSESSMENT"
+    ],
+    "heading_path_slug": [
+      "design_safety_emc_wireless_compliance_assessment"
+    ],
+    "paragraph_context": "\u2610Does the change affect specs, listings, warnings, or text on critical components in compliance files?",
+    "range_preview": "\u2610"
+  },
+  {
+    "index": 111,
+    "type": "checkbox",
+    "tag": "chk",
+    "title": "chk",
+    "checked": false,
+    "heading_path": [
+      "DESIGN SAFETY, EMC, & WIRELESS COMPLIANCE ASSESSMENT"
+    ],
+    "heading_path_slug": [
+      "design_safety_emc_wireless_compliance_assessment"
+    ],
+    "paragraph_context": "\u2610Are the specs/ratings of the end product going to be changed? (power = re-evaluate markets)",
+    "range_preview": "\u2610"
+  },
+  {
+    "index": 112,
+    "type": "checkbox",
+    "tag": "chk",
+    "title": "chk",
+    "checked": false,
+    "heading_path": [
+      "DESIGN SAFETY, EMC, & WIRELESS COMPLIANCE ASSESSMENT"
+    ],
+    "heading_path_slug": [
+      "design_safety_emc_wireless_compliance_assessment"
+    ],
+    "paragraph_context": "\u2610Are the specs/ratings of the product\u2019s environment going to be changed? (Env. conditions, spacings, etc.)",
+    "range_preview": "\u2610"
+  },
+  {
+    "index": 113,
+    "type": "checkbox",
+    "tag": "chk",
+    "title": "chk",
+    "checked": false,
+    "heading_path": [
+      "DESIGN SAFETY, EMC, & WIRELESS COMPLIANCE ASSESSMENT"
+    ],
+    "heading_path_slug": [
+      "design_safety_emc_wireless_compliance_assessment"
+    ],
+    "paragraph_context": "\u2610Are the product features / use being impacted?",
+    "range_preview": "\u2610"
+  },
+  {
+    "index": 114,
+    "type": "checkbox",
+    "tag": "chk",
+    "title": "chk",
+    "checked": false,
+    "heading_path": [
+      "DESIGN SAFETY, EMC, & WIRELESS COMPLIANCE ASSESSMENT"
+    ],
+    "heading_path_slug": [
+      "design_safety_emc_wireless_compliance_assessment"
+    ],
+    "paragraph_context": "\u2610Are materials going to be changed (Keeping the same part number or not)?",
+    "range_preview": "\u2610"
+  },
+  {
+    "index": 115,
+    "type": "checkbox",
+    "tag": "chk",
+    "title": "chk",
+    "checked": false,
+    "heading_path": [
+      "DESIGN SAFETY, EMC, & WIRELESS COMPLIANCE ASSESSMENT"
+    ],
+    "heading_path_slug": [
+      "design_safety_emc_wireless_compliance_assessment"
+    ],
+    "paragraph_context": "\u2610Are labels, IFU, or customer facing information going to be changed?",
+    "range_preview": "\u2610"
+  },
+  {
+    "index": 116,
+    "type": "checkbox",
+    "tag": "chk",
+    "title": "chk",
+    "checked": false,
+    "heading_path": [
+      "DESIGN SAFETY, EMC, & WIRELESS COMPLIANCE ASSESSMENT"
+    ],
+    "heading_path_slug": [
+      "design_safety_emc_wireless_compliance_assessment"
+    ],
+    "paragraph_context": "\u2610Will the manufacturing location or applicant of the file need to change?",
+    "range_preview": "\u2610"
+  },
+  {
+    "index": 117,
+    "type": "checkbox",
+    "tag": "chk",
+    "title": "chk",
+    "checked": false,
+    "heading_path": [
+      "DESIGN SAFETY, EMC, & WIRELESS COMPLIANCE ASSESSMENT"
+    ],
+    "heading_path_slug": [
+      "design_safety_emc_wireless_compliance_assessment"
+    ],
+    "paragraph_context": "\u2610 (Supplier change) Does the change impact split inspection locations and files? (Common for PCBA or enclosed subassemblies)",
+    "range_preview": "\u2610"
+  },
+  {
+    "index": 118,
+    "type": "checkbox",
+    "tag": "chk",
+    "title": "chk",
+    "checked": false,
+    "heading_path": [
+      "DESIGN SAFETY, EMC, & WIRELESS COMPLIANCE ASSESSMENT"
+    ],
+    "heading_path_slug": [
+      "design_safety_emc_wireless_compliance_assessment"
+    ],
+    "paragraph_context": "\u2610Product currently has outdated testing or missing testing to the latest accepted requirements. Requested to add in scope of the current project.",
+    "range_preview": "\u2610"
+  },
+  {
+    "index": 119,
+    "type": "checkbox",
+    "tag": "chk",
+    "title": "chk",
+    "checked": false,
+    "heading_path": [
+      "DESIGN SAFETY, EMC, & WIRELESS COMPLIANCE ASSESSMENT"
+    ],
+    "heading_path_slug": [
+      "design_safety_emc_wireless_compliance_assessment"
+    ],
+    "paragraph_context": "\u2610Other (if applicable): <If \u201cOther\u201d is selected, provide more information here.> \u0007",
+    "range_preview": "\u2610"
+  },
+  {
+    "index": 120,
+    "type": "checkbox",
+    "tag": "chk",
+    "title": "chk",
+    "checked": false,
+    "heading_path": [
+      "DESIGN SAFETY, EMC, & WIRELESS COMPLIANCE ASSESSMENT"
+    ],
+    "heading_path_slug": [
+      "design_safety_emc_wireless_compliance_assessment"
+    ],
+    "paragraph_context": "\u2610NRTL Listing, Report # <Insert Report Number>\t\u2610EMC (EN report), Report # <Insert Report Number>",
+    "range_preview": "\u2610"
+  },
+  {
+    "index": 121,
+    "type": "checkbox",
+    "tag": "chk",
+    "title": "chk",
+    "checked": false,
+    "heading_path": [
+      "DESIGN SAFETY, EMC, & WIRELESS COMPLIANCE ASSESSMENT"
+    ],
+    "heading_path_slug": [
+      "design_safety_emc_wireless_compliance_assessment"
+    ],
+    "paragraph_context": "\u2610NRTL Listing, Report # <Insert Report Number>\t\u2610EMC (EN report), Report # <Insert Report Number>",
+    "range_preview": "\u2610"
+  },
+  {
+    "index": 122,
+    "type": "checkbox",
+    "tag": "chk",
+    "title": "chk",
+    "checked": false,
+    "heading_path": [
+      "DESIGN SAFETY, EMC, & WIRELESS COMPLIANCE ASSESSMENT"
+    ],
+    "heading_path_slug": [
+      "design_safety_emc_wireless_compliance_assessment"
+    ],
+    "paragraph_context": "\u2610CB Safety, Report # <Insert Report Number>\t\u2610FCC, Report # <Insert Report Number>",
+    "range_preview": "\u2610"
+  },
+  {
+    "index": 123,
+    "type": "checkbox",
+    "tag": "chk",
+    "title": "chk",
+    "checked": false,
+    "heading_path": [
+      "DESIGN SAFETY, EMC, & WIRELESS COMPLIANCE ASSESSMENT"
+    ],
+    "heading_path_slug": [
+      "design_safety_emc_wireless_compliance_assessment"
+    ],
+    "paragraph_context": "\u2610CB Safety, Report # <Insert Report Number>\t\u2610FCC, Report # <Insert Report Number>",
+    "range_preview": "\u2610"
+  },
+  {
+    "index": 124,
+    "type": "checkbox",
+    "tag": "chk",
+    "title": "chk",
+    "checked": false,
+    "heading_path": [
+      "DESIGN SAFETY, EMC, & WIRELESS COMPLIANCE ASSESSMENT"
+    ],
+    "heading_path_slug": [
+      "design_safety_emc_wireless_compliance_assessment"
+    ],
+    "paragraph_context": "\u2610Informative Safety, Report # <Insert Report Number>\t\u2610ICES, Report # <Insert Report Number>",
+    "range_preview": "\u2610"
+  },
+  {
+    "index": 125,
+    "type": "checkbox",
+    "tag": "chk",
+    "title": "chk",
+    "checked": false,
+    "heading_path": [
+      "DESIGN SAFETY, EMC, & WIRELESS COMPLIANCE ASSESSMENT"
+    ],
+    "heading_path_slug": [
+      "design_safety_emc_wireless_compliance_assessment"
+    ],
+    "paragraph_context": "\u2610Informative Safety, Report # <Insert Report Number>\t\u2610ICES, Report # <Insert Report Number>",
+    "range_preview": "\u2610"
+  },
+  {
+    "index": 126,
+    "type": "checkbox",
+    "tag": "chk",
+    "title": "chk",
+    "checked": false,
+    "heading_path": [
+      "DESIGN SAFETY, EMC, & WIRELESS COMPLIANCE ASSESSMENT"
+    ],
+    "heading_path_slug": [
+      "design_safety_emc_wireless_compliance_assessment"
+    ],
+    "paragraph_context": "\u2610Wireless, Report # <Insert Report Number>",
+    "range_preview": "\u2610"
+  },
+  {
+    "index": 127,
+    "type": "checkbox",
+    "tag": "chk",
+    "title": "chk",
+    "checked": false,
+    "heading_path": [
+      "DESIGN SAFETY, EMC, & WIRELESS COMPLIANCE ASSESSMENT"
+    ],
+    "heading_path_slug": [
+      "design_safety_emc_wireless_compliance_assessment"
+    ],
+    "paragraph_context": "\u2610Other: <If \u201cOther\u201d is selected, provide more information here.>, Report # <Insert Report Number>\u0007",
+    "range_preview": "\u2610"
+  },
+  {
+    "index": 128,
+    "type": "checkbox",
+    "tag": "chk",
+    "title": "chk",
+    "checked": false,
+    "heading_path": [
+      "DESIGN SAFETY, EMC, & WIRELESS COMPLIANCE ASSESSMENT"
+    ],
+    "heading_path_slug": [
+      "design_safety_emc_wireless_compliance_assessment"
+    ],
+    "paragraph_context": "\u2610UL\t\u2610CSA",
+    "range_preview": "\u2610"
+  },
+  {
+    "index": 129,
+    "type": "checkbox",
+    "tag": "chk",
+    "title": "chk",
+    "checked": false,
+    "heading_path": [
+      "DESIGN SAFETY, EMC, & WIRELESS COMPLIANCE ASSESSMENT"
+    ],
+    "heading_path_slug": [
+      "design_safety_emc_wireless_compliance_assessment"
+    ],
+    "paragraph_context": "\u2610UL\t\u2610CSA",
+    "range_preview": "\u2610"
+  },
+  {
+    "index": 130,
+    "type": "checkbox",
+    "tag": "chk",
+    "title": "chk",
+    "checked": false,
+    "heading_path": [
+      "DESIGN SAFETY, EMC, & WIRELESS COMPLIANCE ASSESSMENT"
+    ],
+    "heading_path_slug": [
+      "design_safety_emc_wireless_compliance_assessment"
+    ],
+    "paragraph_context": "\u2610ETL\t\u2610TUV",
+    "range_preview": "\u2610"
+  },
+  {
+    "index": 131,
+    "type": "checkbox",
+    "tag": "chk",
+    "title": "chk",
+    "checked": false,
+    "heading_path": [
+      "DESIGN SAFETY, EMC, & WIRELESS COMPLIANCE ASSESSMENT"
+    ],
+    "heading_path_slug": [
+      "design_safety_emc_wireless_compliance_assessment"
+    ],
+    "paragraph_context": "\u2610ETL\t\u2610TUV",
+    "range_preview": "\u2610"
+  },
+  {
+    "index": 132,
+    "type": "checkbox",
+    "tag": "chk",
+    "title": "chk",
+    "checked": false,
+    "heading_path": [
+      "DESIGN SAFETY, EMC, & WIRELESS COMPLIANCE ASSESSMENT"
+    ],
+    "heading_path_slug": [
+      "design_safety_emc_wireless_compliance_assessment"
+    ],
+    "paragraph_context": "\u2610FCC / ICES\t\u2610NSF",
+    "range_preview": "\u2610"
+  },
+  {
+    "index": 133,
+    "type": "checkbox",
+    "tag": "chk",
+    "title": "chk",
+    "checked": false,
+    "heading_path": [
+      "DESIGN SAFETY, EMC, & WIRELESS COMPLIANCE ASSESSMENT"
+    ],
+    "heading_path_slug": [
+      "design_safety_emc_wireless_compliance_assessment"
+    ],
+    "paragraph_context": "\u2610FCC / ICES\t\u2610NSF",
+    "range_preview": "\u2610"
+  },
+  {
+    "index": 134,
+    "type": "checkbox",
+    "tag": "chk",
+    "title": "chk",
+    "checked": false,
+    "heading_path": [
+      "DESIGN SAFETY, EMC, & WIRELESS COMPLIANCE ASSESSMENT"
+    ],
+    "heading_path_slug": [
+      "design_safety_emc_wireless_compliance_assessment"
+    ],
+    "paragraph_context": "\u2610IRAM-S",
+    "range_preview": "\u2610"
+  },
+  {
+    "index": 135,
+    "type": "checkbox",
+    "tag": "chk",
+    "title": "chk",
+    "checked": false,
+    "heading_path": [
+      "DESIGN SAFETY, EMC, & WIRELESS COMPLIANCE ASSESSMENT"
+    ],
+    "heading_path_slug": [
+      "design_safety_emc_wireless_compliance_assessment"
+    ],
+    "paragraph_context": "\u2610INMETRO",
+    "range_preview": "\u2610"
+  },
+  {
+    "index": 136,
+    "type": "checkbox",
+    "tag": "chk",
+    "title": "chk",
+    "checked": false,
+    "heading_path": [
+      "DESIGN SAFETY, EMC, & WIRELESS COMPLIANCE ASSESSMENT"
+    ],
+    "heading_path_slug": [
+      "design_safety_emc_wireless_compliance_assessment"
+    ],
+    "paragraph_context": "\u2610ANATEL",
+    "range_preview": "\u2610"
+  },
+  {
+    "index": 137,
+    "type": "checkbox",
+    "tag": "chk",
+    "title": "chk",
+    "checked": false,
+    "heading_path": [
+      "DESIGN SAFETY, EMC, & WIRELESS COMPLIANCE ASSESSMENT"
+    ],
+    "heading_path_slug": [
+      "design_safety_emc_wireless_compliance_assessment"
+    ],
+    "paragraph_context": "\u2610 S Mark\u0007",
+    "range_preview": "\u2610"
+  },
+  {
+    "index": 138,
+    "type": "checkbox",
+    "tag": "chk",
+    "title": "chk",
+    "checked": false,
+    "heading_path": [
+      "DESIGN SAFETY, EMC, & WIRELESS COMPLIANCE ASSESSMENT"
+    ],
+    "heading_path_slug": [
+      "design_safety_emc_wireless_compliance_assessment"
+    ],
+    "paragraph_context": "\u2610CE DoC (Self-Declared)",
+    "range_preview": "\u2610"
+  },
+  {
+    "index": 139,
+    "type": "checkbox",
+    "tag": "chk",
+    "title": "chk",
+    "checked": false,
+    "heading_path": [
+      "DESIGN SAFETY, EMC, & WIRELESS COMPLIANCE ASSESSMENT"
+    ],
+    "heading_path_slug": [
+      "design_safety_emc_wireless_compliance_assessment"
+    ],
+    "paragraph_context": "\u2610CE DoC (EU NB)",
+    "range_preview": "\u2610"
+  },
+  {
+    "index": 140,
+    "type": "checkbox",
+    "tag": "chk",
+    "title": "chk",
+    "checked": false,
+    "heading_path": [
+      "DESIGN SAFETY, EMC, & WIRELESS COMPLIANCE ASSESSMENT"
+    ],
+    "heading_path_slug": [
+      "design_safety_emc_wireless_compliance_assessment"
+    ],
+    "paragraph_context": "\u2610UKCA\t\u2610LNE",
+    "range_preview": "\u2610"
+  },
+  {
+    "index": 141,
+    "type": "checkbox",
+    "tag": "chk",
+    "title": "chk",
+    "checked": false,
+    "heading_path": [
+      "DESIGN SAFETY, EMC, & WIRELESS COMPLIANCE ASSESSMENT"
+    ],
+    "heading_path_slug": [
+      "design_safety_emc_wireless_compliance_assessment"
+    ],
+    "paragraph_context": "\u2610UKCA\t\u2610LNE",
+    "range_preview": "\u2610"
+  },
+  {
+    "index": 142,
+    "type": "checkbox",
+    "tag": "chk",
+    "title": "chk",
+    "checked": false,
+    "heading_path": [
+      "DESIGN SAFETY, EMC, & WIRELESS COMPLIANCE ASSESSMENT"
+    ],
+    "heading_path_slug": [
+      "design_safety_emc_wireless_compliance_assessment"
+    ],
+    "paragraph_context": "\u2610GS\t\u2610WEEE\u0007",
+    "range_preview": "\u2610"
+  },
+  {
+    "index": 143,
+    "type": "checkbox",
+    "tag": "chk",
+    "title": "chk",
+    "checked": false,
+    "heading_path": [
+      "DESIGN SAFETY, EMC, & WIRELESS COMPLIANCE ASSESSMENT"
+    ],
+    "heading_path_slug": [
+      "design_safety_emc_wireless_compliance_assessment"
+    ],
+    "paragraph_context": "\u2610GS\t\u2610WEEE\u0007",
+    "range_preview": "\u2610"
+  },
+  {
+    "index": 144,
+    "type": "checkbox",
+    "tag": "chk",
+    "title": "chk",
+    "checked": false,
+    "heading_path": [
+      "DESIGN SAFETY, EMC, & WIRELESS COMPLIANCE ASSESSMENT"
+    ],
+    "heading_path_slug": [
+      "design_safety_emc_wireless_compliance_assessment"
+    ],
+    "paragraph_context": "\u2610KC Mark",
+    "range_preview": "\u2610"
+  },
+  {
+    "index": 145,
+    "type": "checkbox",
+    "tag": "chk",
+    "title": "chk",
+    "checked": false,
+    "heading_path": [
+      "DESIGN SAFETY, EMC, & WIRELESS COMPLIANCE ASSESSMENT"
+    ],
+    "heading_path_slug": [
+      "design_safety_emc_wireless_compliance_assessment"
+    ],
+    "paragraph_context": "\u2610 EAC\u0007",
+    "range_preview": "\u2610"
+  },
+  {
+    "index": 146,
+    "type": "checkbox",
+    "tag": "chk",
+    "title": "chk",
+    "checked": false,
+    "heading_path": [
+      "DESIGN SAFETY, EMC, & WIRELESS COMPLIANCE ASSESSMENT"
+    ],
+    "heading_path_slug": [
+      "design_safety_emc_wireless_compliance_assessment"
+    ],
+    "paragraph_context": "\u2610Other: <Select \u201cOther\u201d if the mark/label is not listed above. Provide more information here.>",
+    "range_preview": "\u2610"
+  },
+  {
+    "index": 147,
+    "type": "checkbox",
+    "tag": "chk",
+    "title": "chk",
+    "checked": false,
+    "heading_path": [
+      "DESIGN SAFETY, EMC, & WIRELESS COMPLIANCE ASSESSMENT"
+    ],
+    "heading_path_slug": [
+      "design_safety_emc_wireless_compliance_assessment"
+    ],
+    "paragraph_context": "\u2610FCC Declaration\u0007",
+    "range_preview": "\u2610"
+  },
+  {
+    "index": 148,
+    "type": "checkbox",
+    "tag": "chk",
+    "title": "chk",
+    "checked": false,
+    "heading_path": [
+      "DESIGN SAFETY, EMC, & WIRELESS COMPLIANCE ASSESSMENT"
+    ],
+    "heading_path_slug": [
+      "design_safety_emc_wireless_compliance_assessment"
+    ],
+    "paragraph_context": "\u2610CE DoC (Self-Declared)",
+    "range_preview": "\u2610"
+  },
+  {
+    "index": 149,
+    "type": "checkbox",
+    "tag": "chk",
+    "title": "chk",
+    "checked": false,
+    "heading_path": [
+      "DESIGN SAFETY, EMC, & WIRELESS COMPLIANCE ASSESSMENT"
+    ],
+    "heading_path_slug": [
+      "design_safety_emc_wireless_compliance_assessment"
+    ],
+    "paragraph_context": "\u2610CE DoC (EU NB)",
+    "range_preview": "\u2610"
+  },
+  {
+    "index": 150,
+    "type": "checkbox",
+    "tag": "chk",
+    "title": "chk",
+    "checked": false,
+    "heading_path": [
+      "DESIGN SAFETY, EMC, & WIRELESS COMPLIANCE ASSESSMENT"
+    ],
+    "heading_path_slug": [
+      "design_safety_emc_wireless_compliance_assessment"
+    ],
+    "paragraph_context": "\u2610UKCA Declaration\u0007",
+    "range_preview": "\u2610"
+  },
+  {
+    "index": 151,
+    "type": "checkbox",
+    "tag": "chk",
+    "title": "chk",
+    "checked": false,
+    "heading_path": [
+      "DESIGN SAFETY, EMC, & WIRELESS COMPLIANCE ASSESSMENT"
+    ],
+    "heading_path_slug": [
+      "design_safety_emc_wireless_compliance_assessment"
+    ],
+    "paragraph_context": "\u2610Other: <Select \u201cOther\u201d if the document is not listed above. Provide more information here.>",
+    "range_preview": "\u2610"
+  },
+  {
+    "index": 152,
+    "type": "combobox",
+    "tag": "",
+    "title": "",
+    "checked": null,
+    "heading_path": [
+      "DESIGN SAFETY, EMC, & WIRELESS COMPLIANCE ASSESSMENT"
+    ],
+    "heading_path_slug": [
+      "design_safety_emc_wireless_compliance_assessment"
+    ],
+    "paragraph_context": "Testing Required: <Choose an item.>",
+    "range_preview": "<Choose an item.>"
+  },
+  {
+    "index": 153,
+    "type": "checkbox",
+    "tag": "chk",
+    "title": "chk",
+    "checked": false,
+    "heading_path": [
+      "DESIGN SAFETY, EMC, & WIRELESS COMPLIANCE ASSESSMENT"
+    ],
+    "heading_path_slug": [
+      "design_safety_emc_wireless_compliance_assessment"
+    ],
+    "paragraph_context": "Impacted Documents:\u000b\t\u2610No Update Required (justification within plan required)\t\u2610Paperwork update only",
+    "range_preview": "\u2610"
+  },
+  {
+    "index": 154,
+    "type": "checkbox",
+    "tag": "chk",
+    "title": "chk",
+    "checked": false,
+    "heading_path": [
+      "DESIGN SAFETY, EMC, & WIRELESS COMPLIANCE ASSESSMENT"
+    ],
+    "heading_path_slug": [
+      "design_safety_emc_wireless_compliance_assessment"
+    ],
+    "paragraph_context": "Impacted Documents:\u000b\t\u2610No Update Required (justification within plan required)\t\u2610Paperwork update only",
+    "range_preview": "\u2610"
+  },
+  {
+    "index": 155,
+    "type": "checkbox",
+    "tag": "chk",
+    "title": "chk",
+    "checked": false,
+    "heading_path": [
+      "DESIGN SAFETY, EMC, & WIRELESS COMPLIANCE ASSESSMENT"
+    ],
+    "heading_path_slug": [
+      "design_safety_emc_wireless_compliance_assessment"
+    ],
+    "paragraph_context": "\u2610Registration with Agency required (FCC, etc.)\t\u2610Revise Engineering Drawings/Documents (i.e., labels)",
+    "range_preview": "\u2610"
+  },
+  {
+    "index": 156,
+    "type": "checkbox",
+    "tag": "chk",
+    "title": "chk",
+    "checked": false,
+    "heading_path": [
+      "DESIGN SAFETY, EMC, & WIRELESS COMPLIANCE ASSESSMENT"
+    ],
+    "heading_path_slug": [
+      "design_safety_emc_wireless_compliance_assessment"
+    ],
+    "paragraph_context": "\u2610Registration with Agency required (FCC, etc.)\t\u2610Revise Engineering Drawings/Documents (i.e., labels)",
+    "range_preview": "\u2610"
+  },
+  {
+    "index": 157,
+    "type": "checkbox",
+    "tag": "chk",
+    "title": "chk",
+    "checked": false,
+    "heading_path": [
+      "DESIGN SAFETY, EMC, & WIRELESS COMPLIANCE ASSESSMENT"
+    ],
+    "heading_path_slug": [
+      "design_safety_emc_wireless_compliance_assessment"
+    ],
+    "paragraph_context": "\u2610Revise Regulatory Documents (i.e., declarations)\t\u2610Re-evaluate market requirements due to changes.",
+    "range_preview": "\u2610"
+  },
+  {
+    "index": 158,
+    "type": "checkbox",
+    "tag": "chk",
+    "title": "chk",
+    "checked": false,
+    "heading_path": [
+      "DESIGN SAFETY, EMC, & WIRELESS COMPLIANCE ASSESSMENT"
+    ],
+    "heading_path_slug": [
+      "design_safety_emc_wireless_compliance_assessment"
+    ],
+    "paragraph_context": "\u2610Revise Regulatory Documents (i.e., declarations)\t\u2610Re-evaluate market requirements due to changes.",
+    "range_preview": "\u2610"
+  },
+  {
+    "index": 159,
+    "type": "checkbox",
+    "tag": "chk",
+    "title": "chk",
+    "checked": false,
+    "heading_path": [
+      "DESIGN SAFETY, EMC, & WIRELESS COMPLIANCE ASSESSMENT"
+    ],
+    "heading_path_slug": [
+      "design_safety_emc_wireless_compliance_assessment"
+    ],
+    "paragraph_context": "\u2610Re-evaluate product requirements due to changes.\t\u2610Re-evaluate process requirements due to changes.",
+    "range_preview": "\u2610"
+  },
+  {
+    "index": 160,
+    "type": "checkbox",
+    "tag": "chk",
+    "title": "chk",
+    "checked": false,
+    "heading_path": [
+      "DESIGN SAFETY, EMC, & WIRELESS COMPLIANCE ASSESSMENT"
+    ],
+    "heading_path_slug": [
+      "design_safety_emc_wireless_compliance_assessment"
+    ],
+    "paragraph_context": "\u2610Re-evaluate product requirements due to changes.\t\u2610Re-evaluate process requirements due to changes.",
+    "range_preview": "\u2610"
+  },
+  {
+    "index": 161,
+    "type": "checkbox",
+    "tag": "chk",
+    "title": "chk",
+    "checked": false,
+    "heading_path": [
+      "DESIGN SAFETY, EMC, & WIRELESS COMPLIANCE ASSESSMENT"
+    ],
+    "heading_path_slug": [
+      "design_safety_emc_wireless_compliance_assessment"
+    ],
+    "paragraph_context": "\u2610Other: <If \u201cOther\u201d is selected, provide more information here.>\u0007",
+    "range_preview": "\u2610"
+  },
+  {
+    "index": 162,
+    "type": "checkbox",
+    "tag": "chk",
+    "title": "chk",
+    "checked": false,
+    "heading_path": [
+      "DESIGN SAFETY, EMC, & WIRELESS COMPLIANCE ASSESSMENT"
+    ],
+    "heading_path_slug": [
+      "design_safety_emc_wireless_compliance_assessment"
+    ],
+    "paragraph_context": "\u2610Regional Leads if registered (i.e., Saudi SASO, KC Mark, Australian RCM)\t\u2610RA at Implementation Manufacturing Location",
+    "range_preview": "\u2610"
+  },
+  {
+    "index": 163,
+    "type": "checkbox",
+    "tag": "chk",
+    "title": "chk",
+    "checked": false,
+    "heading_path": [
+      "DESIGN SAFETY, EMC, & WIRELESS COMPLIANCE ASSESSMENT"
+    ],
+    "heading_path_slug": [
+      "design_safety_emc_wireless_compliance_assessment"
+    ],
+    "paragraph_context": "\u2610Regional Leads if registered (i.e., Saudi SASO, KC Mark, Australian RCM)\t\u2610RA at Implementation Manufacturing Location",
+    "range_preview": "\u2610"
+  },
+  {
+    "index": 164,
+    "type": "checkbox",
+    "tag": "chk",
+    "title": "chk",
+    "checked": false,
+    "heading_path": [
+      "DESIGN SAFETY, EMC, & WIRELESS COMPLIANCE ASSESSMENT"
+    ],
+    "heading_path_slug": [
+      "design_safety_emc_wireless_compliance_assessment"
+    ],
+    "paragraph_context": "\u2610Authorities of Product Changes where registered\t\u2610Other: <If \u201cOther\u201d is selected, provide more information here.>\u0007",
+    "range_preview": "\u2610"
+  },
+  {
+    "index": 165,
+    "type": "checkbox",
+    "tag": "chk",
+    "title": "chk",
+    "checked": false,
+    "heading_path": [
+      "DESIGN SAFETY, EMC, & WIRELESS COMPLIANCE ASSESSMENT"
+    ],
+    "heading_path_slug": [
+      "design_safety_emc_wireless_compliance_assessment"
+    ],
+    "paragraph_context": "\u2610Authorities of Product Changes where registered\t\u2610Other: <If \u201cOther\u201d is selected, provide more information here.>\u0007",
+    "range_preview": "\u2610"
+  },
+  {
+    "index": 166,
+    "type": "checkbox",
+    "tag": "chk",
+    "title": "chk",
+    "checked": false,
+    "heading_path": [
+      "ENVIRONMENTAL ASSESSMENT"
+    ],
+    "heading_path_slug": [
+      "environmental_assessment"
+    ],
+    "paragraph_context": "\u2610  The change does not impact the end product environmental compliance. (i.e., change is associated with documentation updates)",
+    "range_preview": "\u2610"
+  },
+  {
+    "index": 167,
+    "type": "checkbox",
+    "tag": "chk",
+    "title": "chk",
+    "checked": false,
+    "heading_path": [
+      "ENVIRONMENTAL ASSESSMENT"
+    ],
+    "heading_path_slug": [
+      "environmental_assessment"
+    ],
+    "paragraph_context": "\u2610Change adds new or removes any components from the product (BOM update)",
+    "range_preview": "\u2610"
+  },
+  {
+    "index": 168,
+    "type": "checkbox",
+    "tag": "chk",
+    "title": "chk",
+    "checked": false,
+    "heading_path": [
+      "ENVIRONMENTAL ASSESSMENT"
+    ],
+    "heading_path_slug": [
+      "environmental_assessment"
+    ],
+    "paragraph_context": "\u2610The supplier of a part number is changing",
+    "range_preview": "\u2610"
+  },
+  {
+    "index": 169,
+    "type": "checkbox",
+    "tag": "chk",
+    "title": "chk",
+    "checked": false,
+    "heading_path": [
+      "ENVIRONMENTAL ASSESSMENT"
+    ],
+    "heading_path_slug": [
+      "environmental_assessment"
+    ],
+    "paragraph_context": "\u2610The manufacturing or internal part number is changing",
+    "range_preview": "\u2610"
+  },
+  {
+    "index": 170,
+    "type": "checkbox",
+    "tag": "chk",
+    "title": "chk",
+    "checked": false,
+    "heading_path": [
+      "ENVIRONMENTAL ASSESSMENT"
+    ],
+    "heading_path_slug": [
+      "environmental_assessment"
+    ],
+    "paragraph_context": "\u2610End product impacted currently has an outdated BOM in Greensoft or BOM is not uploaded into GreenSoft. Requested to add in scope of the current project.",
+    "range_preview": "\u2610"
+  },
+  {
+    "index": 171,
+    "type": "checkbox",
+    "tag": "chk",
+    "title": "chk",
+    "checked": false,
+    "heading_path": [
+      "ENVIRONMENTAL ASSESSMENT"
+    ],
+    "heading_path_slug": [
+      "environmental_assessment"
+    ],
+    "paragraph_context": "\u2610Other: <If \u201cOther\u201d is selected, provide more information here.>\u0007",
+    "range_preview": "\u2610"
+  },
+  {
+    "index": 172,
+    "type": "checkbox",
+    "tag": "chk",
+    "title": "chk",
+    "checked": false,
+    "heading_path": [
+      "ENVIRONMENTAL ASSESSMENT"
+    ],
+    "heading_path_slug": [
+      "environmental_assessment"
+    ],
+    "paragraph_context": "\u2610GreenSoft Item Submission\t\u2610GreenSoft BOM Upload Form\t\u2610GreenSoft Customer Collected Documents Form",
+    "range_preview": "\u2610"
+  },
+  {
+    "index": 173,
+    "type": "checkbox",
+    "tag": "chk",
+    "title": "chk",
+    "checked": false,
+    "heading_path": [
+      "ENVIRONMENTAL ASSESSMENT"
+    ],
+    "heading_path_slug": [
+      "environmental_assessment"
+    ],
+    "paragraph_context": "\u2610GreenSoft Item Submission\t\u2610GreenSoft BOM Upload Form\t\u2610GreenSoft Customer Collected Documents Form",
+    "range_preview": "\u2610"
+  },
+  {
+    "index": 174,
+    "type": "checkbox",
+    "tag": "chk",
+    "title": "chk",
+    "checked": false,
+    "heading_path": [
+      "ENVIRONMENTAL ASSESSMENT"
+    ],
+    "heading_path_slug": [
+      "environmental_assessment"
+    ],
+    "paragraph_context": "\u2610GreenSoft Item Submission\t\u2610GreenSoft BOM Upload Form\t\u2610GreenSoft Customer Collected Documents Form",
+    "range_preview": "\u2610"
+  },
+  {
+    "index": 175,
+    "type": "checkbox",
+    "tag": "chk",
+    "title": "chk",
+    "checked": false,
+    "heading_path": [
+      "ENVIRONMENTAL ASSESSMENT"
+    ],
+    "heading_path_slug": [
+      "environmental_assessment"
+    ],
+    "paragraph_context": "\u2610Other: <If \u201cOther\u201d is selected, provide more information here.>\u0007",
+    "range_preview": "\u2610"
+  },
+  {
+    "index": 176,
+    "type": "checkbox",
+    "tag": "chk",
+    "title": "chk",
+    "checked": false,
+    "heading_path": [
+      "ENVIRONMENTAL ASSESSMENT"
+    ],
+    "heading_path_slug": [
+      "environmental_assessment"
+    ],
+    "paragraph_context": "\u2610Prop65",
+    "range_preview": "\u2610"
+  },
+  {
+    "index": 177,
+    "type": "checkbox",
+    "tag": "chk",
+    "title": "chk",
+    "checked": false,
+    "heading_path": [
+      "ENVIRONMENTAL ASSESSMENT"
+    ],
+    "heading_path_slug": [
+      "environmental_assessment"
+    ],
+    "paragraph_context": "\u2610FIFRA Pesticide (UV Lamp)\u0007",
+    "range_preview": "\u2610"
+  },
+  {
+    "index": 178,
+    "type": "checkbox",
+    "tag": "chk",
+    "title": "chk",
+    "checked": false,
+    "heading_path": [
+      "ENVIRONMENTAL ASSESSMENT"
+    ],
+    "heading_path_slug": [
+      "environmental_assessment"
+    ],
+    "paragraph_context": "\u2610WEEE\u0007",
+    "range_preview": "\u2610"
+  },
+  {
+    "index": 179,
+    "type": "checkbox",
+    "tag": "chk",
+    "title": "chk",
+    "checked": false,
+    "heading_path": [
+      "ENVIRONMENTAL ASSESSMENT"
+    ],
+    "heading_path_slug": [
+      "environmental_assessment"
+    ],
+    "paragraph_context": "\u2610WEEE\t\u2610F-Gas",
+    "range_preview": "\u2610"
+  },
+  {
+    "index": 180,
+    "type": "checkbox",
+    "tag": "chk",
+    "title": "chk",
+    "checked": false,
+    "heading_path": [
+      "ENVIRONMENTAL ASSESSMENT"
+    ],
+    "heading_path_slug": [
+      "environmental_assessment"
+    ],
+    "paragraph_context": "\u2610WEEE\t\u2610F-Gas",
+    "range_preview": "\u2610"
+  },
+  {
+    "index": 181,
+    "type": "checkbox",
+    "tag": "chk",
+    "title": "chk",
+    "checked": false,
+    "heading_path": [
+      "ENVIRONMENTAL ASSESSMENT"
+    ],
+    "heading_path_slug": [
+      "environmental_assessment"
+    ],
+    "paragraph_context": "\u2610PFAS\u0007",
+    "range_preview": "\u2610"
+  },
+  {
+    "index": 182,
+    "type": "checkbox",
+    "tag": "chk",
+    "title": "chk",
+    "checked": false,
+    "heading_path": [
+      "ENVIRONMENTAL ASSESSMENT"
+    ],
+    "heading_path_slug": [
+      "environmental_assessment"
+    ],
+    "paragraph_context": "\u2610WEEE",
+    "range_preview": "\u2610"
+  },
+  {
+    "index": 183,
+    "type": "checkbox",
+    "tag": "chk",
+    "title": "chk",
+    "checked": false,
+    "heading_path": [
+      "ENVIRONMENTAL ASSESSMENT"
+    ],
+    "heading_path_slug": [
+      "environmental_assessment"
+    ],
+    "paragraph_context": "\u2610China RoHS (C-RoHS)\u0007",
+    "range_preview": "\u2610"
+  },
+  {
+    "index": 184,
+    "type": "checkbox",
+    "tag": "chk",
+    "title": "chk",
+    "checked": false,
+    "heading_path": [
+      "ENVIRONMENTAL ASSESSMENT"
+    ],
+    "heading_path_slug": [
+      "environmental_assessment"
+    ],
+    "paragraph_context": "\u2610Other: <Select \u201cOther\u201d if the mark/label is not listed above. Provide more information here.>",
+    "range_preview": "\u2610"
+  },
+  {
+    "index": 185,
+    "type": "checkbox",
+    "tag": "chk",
+    "title": "chk",
+    "checked": false,
+    "heading_path": [
+      "ENVIRONMENTAL ASSESSMENT"
+    ],
+    "heading_path_slug": [
+      "environmental_assessment"
+    ],
+    "paragraph_context": "\u2610Prop65 Declaration",
+    "range_preview": "\u2610"
+  },
+  {
+    "index": 186,
+    "type": "checkbox",
+    "tag": "chk",
+    "title": "chk",
+    "checked": false,
+    "heading_path": [
+      "ENVIRONMENTAL ASSESSMENT"
+    ],
+    "heading_path_slug": [
+      "environmental_assessment"
+    ],
+    "paragraph_context": "\u2610FIFRA Pesticide Product Reporting (UV Lamp)\u0007",
+    "range_preview": "\u2610"
+  },
+  {
+    "index": 187,
+    "type": "checkbox",
+    "tag": "chk",
+    "title": "chk",
+    "checked": false,
+    "heading_path": [
+      "ENVIRONMENTAL ASSESSMENT"
+    ],
+    "heading_path_slug": [
+      "environmental_assessment"
+    ],
+    "paragraph_context": "\u2610Montreal Protocol Declaration\u0007",
+    "range_preview": "\u2610"
+  },
+  {
+    "index": 188,
+    "type": "checkbox",
+    "tag": "chk",
+    "title": "chk",
+    "checked": false,
+    "heading_path": [
+      "ENVIRONMENTAL ASSESSMENT"
+    ],
+    "heading_path_slug": [
+      "environmental_assessment"
+    ],
+    "paragraph_context": "\u2610REACH Declaration",
+    "range_preview": "\u2610"
+  },
+  {
+    "index": 189,
+    "type": "checkbox",
+    "tag": "chk",
+    "title": "chk",
+    "checked": false,
+    "heading_path": [
+      "ENVIRONMENTAL ASSESSMENT"
+    ],
+    "heading_path_slug": [
+      "environmental_assessment"
+    ],
+    "paragraph_context": "\u2610RoHS Declaration",
+    "range_preview": "\u2610"
+  },
+  {
+    "index": 190,
+    "type": "checkbox",
+    "tag": "chk",
+    "title": "chk",
+    "checked": false,
+    "heading_path": [
+      "ENVIRONMENTAL ASSESSMENT"
+    ],
+    "heading_path_slug": [
+      "environmental_assessment"
+    ],
+    "paragraph_context": "\u2610F-Gas Declaration",
+    "range_preview": "\u2610"
+  },
+  {
+    "index": 191,
+    "type": "checkbox",
+    "tag": "chk",
+    "title": "chk",
+    "checked": false,
+    "heading_path": [
+      "ENVIRONMENTAL ASSESSMENT"
+    ],
+    "heading_path_slug": [
+      "environmental_assessment"
+    ],
+    "paragraph_context": "\u2610CE Declaration (Self-Declared)\u0007",
+    "range_preview": "\u2610"
+  },
+  {
+    "index": 192,
+    "type": "checkbox",
+    "tag": "chk",
+    "title": "chk",
+    "checked": false,
+    "heading_path": [
+      "ENVIRONMENTAL ASSESSMENT"
+    ],
+    "heading_path_slug": [
+      "environmental_assessment"
+    ],
+    "paragraph_context": "\u2610C-RoHS \u201cTic-Tac Table\u201d Declaration\u0007",
+    "range_preview": "\u2610"
+  },
+  {
+    "index": 193,
+    "type": "checkbox",
+    "tag": "chk",
+    "title": "chk",
+    "checked": false,
+    "heading_path": [
+      "ENVIRONMENTAL ASSESSMENT"
+    ],
+    "heading_path_slug": [
+      "environmental_assessment"
+    ],
+    "paragraph_context": "\u2610Other: <Select \u201cOther\u201d if the document is not listed above. Provide more information here, ex. Coneg, PFAS.>",
+    "range_preview": "\u2610"
+  },
+  {
+    "index": 194,
+    "type": "combobox",
+    "tag": "",
+    "title": "",
+    "checked": null,
+    "heading_path": [
+      "ENVIRONMENTAL ASSESSMENT"
+    ],
+    "heading_path_slug": [
+      "environmental_assessment"
+    ],
+    "paragraph_context": "Testing Required: <Choose an item.>",
+    "range_preview": "<Choose an item.>"
+  },
+  {
+    "index": 195,
+    "type": "checkbox",
+    "tag": "chk",
+    "title": "chk",
+    "checked": false,
+    "heading_path": [
+      "ENVIRONMENTAL ASSESSMENT"
+    ],
+    "heading_path_slug": [
+      "environmental_assessment"
+    ],
+    "paragraph_context": "\u2610No Update Required\t\u2610Upload GreenSoft Form(s)\t\u2610Revise Engineering Drawings/Documents (labels)",
+    "range_preview": "\u2610"
+  },
+  {
+    "index": 196,
+    "type": "checkbox",
+    "tag": "chk",
+    "title": "chk",
+    "checked": false,
+    "heading_path": [
+      "ENVIRONMENTAL ASSESSMENT"
+    ],
+    "heading_path_slug": [
+      "environmental_assessment"
+    ],
+    "paragraph_context": "\u2610No Update Required\t\u2610Upload GreenSoft Form(s)\t\u2610Revise Engineering Drawings/Documents (labels)",
+    "range_preview": "\u2610"
+  },
+  {
+    "index": 197,
+    "type": "checkbox",
+    "tag": "chk",
+    "title": "chk",
+    "checked": false,
+    "heading_path": [
+      "ENVIRONMENTAL ASSESSMENT"
+    ],
+    "heading_path_slug": [
+      "environmental_assessment"
+    ],
+    "paragraph_context": "\u2610No Update Required\t\u2610Upload GreenSoft Form(s)\t\u2610Revise Engineering Drawings/Documents (labels)",
+    "range_preview": "\u2610"
+  },
+  {
+    "index": 198,
+    "type": "checkbox",
+    "tag": "chk",
+    "title": "chk",
+    "checked": false,
+    "heading_path": [
+      "ENVIRONMENTAL ASSESSMENT"
+    ],
+    "heading_path_slug": [
+      "environmental_assessment"
+    ],
+    "paragraph_context": "\u2610Revise Regulatory Documents (i.e., declarations)",
+    "range_preview": "\u2610"
+  },
+  {
+    "index": 199,
+    "type": "checkbox",
+    "tag": "chk",
+    "title": "chk",
+    "checked": false,
+    "heading_path": [
+      "ENVIRONMENTAL ASSESSMENT"
+    ],
+    "heading_path_slug": [
+      "environmental_assessment"
+    ],
+    "paragraph_context": "\u2610Change impacts product, scope is defined as requiring a new project.",
+    "range_preview": "\u2610"
+  },
+  {
+    "index": 200,
+    "type": "checkbox",
+    "tag": "chk",
+    "title": "chk",
+    "checked": false,
+    "heading_path": [
+      "ENVIRONMENTAL ASSESSMENT"
+    ],
+    "heading_path_slug": [
+      "environmental_assessment"
+    ],
+    "paragraph_context": "\u2610Other: <If \u201cOther\u201d is selected, provide more information here.>\u0007",
+    "range_preview": "\u2610"
+  },
+  {
+    "index": 201,
+    "type": "checkbox",
+    "tag": "chk",
+    "title": "chk",
+    "checked": false,
+    "heading_path": [
+      "ENVIRONMENTAL ASSESSMENT"
+    ],
+    "heading_path_slug": [
+      "environmental_assessment"
+    ],
+    "paragraph_context": "\u2610EPA Lead if registered (FIFRA)\t\u2610GreenSoft User to load GreenSoft BOM changes (i.e., component or supplier change \u2013 site: GS Submission)",
+    "range_preview": "\u2610"
+  },
+  {
+    "index": 202,
+    "type": "checkbox",
+    "tag": "chk",
+    "title": "chk",
+    "checked": false,
+    "heading_path": [
+      "ENVIRONMENTAL ASSESSMENT"
+    ],
+    "heading_path_slug": [
+      "environmental_assessment"
+    ],
+    "paragraph_context": "\u2610EPA Lead if registered (FIFRA)\t\u2610GreenSoft User to load GreenSoft BOM changes (i.e., component or supplier change \u2013 site: GS Submission)",
+    "range_preview": "\u2610"
+  },
+  {
+    "index": 203,
+    "type": "checkbox",
+    "tag": "chk",
+    "title": "chk",
+    "checked": false,
+    "heading_path": [
+      "ENVIRONMENTAL ASSESSMENT"
+    ],
+    "heading_path_slug": [
+      "environmental_assessment"
+    ],
+    "paragraph_context": "\u2610Other: <If \u201cOther\u201d is selected, provide more information here.>\u0007",
+    "range_preview": "\u2610"
+  },
+  {
+    "index": 204,
+    "type": "checkbox",
+    "tag": "",
+    "title": "",
+    "checked": false,
+    "heading_path": [
+      "MEDICAL ASSESSMENT"
+    ],
+    "heading_path_slug": [
+      "medical_assessment"
+    ],
+    "paragraph_context": "PART A SAFETY, COMPATIBILITY, EFFECTIVENESS\u0007",
+    "range_preview": "P"
+  },
+  {
+    "index": 205,
+    "type": "checkbox",
+    "tag": "chk",
+    "title": "chk",
+    "checked": false,
+    "heading_path": [
+      "MEDICAL ASSESSMENT"
+    ],
+    "heading_path_slug": [
+      "medical_assessment"
+    ],
+    "paragraph_context": "\u2610Will the change affect the safety, compatibility, or effectiveness of the device?",
+    "range_preview": "\u2610"
+  },
+  {
+    "index": 206,
+    "type": "checkbox",
+    "tag": "chk",
+    "title": "chk",
+    "checked": false,
+    "heading_path": [
+      "MEDICAL ASSESSMENT"
+    ],
+    "heading_path_slug": [
+      "medical_assessment"
+    ],
+    "paragraph_context": "\u2610Will the technology, engineering design, or performance of the device or packaging change?",
+    "range_preview": "\u2610"
+  },
+  {
+    "index": 207,
+    "type": "checkbox",
+    "tag": "chk",
+    "title": "chk",
+    "checked": false,
+    "heading_path": [
+      "MEDICAL ASSESSMENT"
+    ],
+    "heading_path_slug": [
+      "medical_assessment"
+    ],
+    "paragraph_context": "\u2610Is the change introducing a new material, or alternate component, or is it a supplier change?\u0007",
+    "range_preview": "\u2610"
+  },
+  {
+    "index": 208,
+    "type": "checkbox",
+    "tag": "chk",
+    "title": "chk",
+    "checked": false,
+    "heading_path": [
+      "MEDICAL ASSESSMENT"
+    ],
+    "heading_path_slug": [
+      "medical_assessment"
+    ],
+    "paragraph_context": "\u2610Does the change include or impact the product\u2019s Intended use?",
+    "range_preview": "\u2610"
+  },
+  {
+    "index": 209,
+    "type": "checkbox",
+    "tag": "chk",
+    "title": "chk",
+    "checked": false,
+    "heading_path": [
+      "MEDICAL ASSESSMENT"
+    ],
+    "heading_path_slug": [
+      "medical_assessment"
+    ],
+    "paragraph_context": "\u2610Does the change introduce new risks of harm to humans, property, or the environment?",
+    "range_preview": "\u2610"
+  },
+  {
+    "index": 210,
+    "type": "checkbox",
+    "tag": "chk",
+    "title": "chk",
+    "checked": false,
+    "heading_path": [
+      "MEDICAL ASSESSMENT"
+    ],
+    "heading_path_slug": [
+      "medical_assessment"
+    ],
+    "paragraph_context": "\u2610Will the change affect the standards this product relies upon?",
+    "range_preview": "\u2610"
+  },
+  {
+    "index": 211,
+    "type": "checkbox",
+    "tag": "chk",
+    "title": "chk",
+    "checked": false,
+    "heading_path": [
+      "MEDICAL ASSESSMENT"
+    ],
+    "heading_path_slug": [
+      "medical_assessment"
+    ],
+    "paragraph_context": "\u2610Is there another registration classification that this product will align to? <Provide more information here.>\u0007",
+    "range_preview": "\u2610"
+  },
+  {
+    "index": 212,
+    "type": "checkbox",
+    "tag": "chk",
+    "title": "chk",
+    "checked": false,
+    "heading_path": [
+      "MEDICAL ASSESSMENT"
+    ],
+    "heading_path_slug": [
+      "medical_assessment"
+    ],
+    "paragraph_context": "\u2610Will the change affect product, packaging, electronic literature, or labelling?\u0007",
+    "range_preview": "\u2610"
+  },
+  {
+    "index": 213,
+    "type": "checkbox",
+    "tag": "chk",
+    "title": "chk",
+    "checked": false,
+    "heading_path": [
+      "MEDICAL ASSESSMENT"
+    ],
+    "heading_path_slug": [
+      "medical_assessment"
+    ],
+    "paragraph_context": "\u2610 IFU/User Manual\t\u2610Service Manual\t\u2610Translation(s)\t\u2610Technical Data Sheets",
+    "range_preview": "\u2610"
+  },
+  {
+    "index": 214,
+    "type": "checkbox",
+    "tag": "chk",
+    "title": "chk",
+    "checked": false,
+    "heading_path": [
+      "MEDICAL ASSESSMENT"
+    ],
+    "heading_path_slug": [
+      "medical_assessment"
+    ],
+    "paragraph_context": "\u2610 IFU/User Manual\t\u2610Service Manual\t\u2610Translation(s)\t\u2610Technical Data Sheets",
+    "range_preview": "\u2610"
+  },
+  {
+    "index": 215,
+    "type": "checkbox",
+    "tag": "chk",
+    "title": "chk",
+    "checked": false,
+    "heading_path": [
+      "MEDICAL ASSESSMENT"
+    ],
+    "heading_path_slug": [
+      "medical_assessment"
+    ],
+    "paragraph_context": "\u2610 IFU/User Manual\t\u2610Service Manual\t\u2610Translation(s)\t\u2610Technical Data Sheets",
+    "range_preview": "\u2610"
+  },
+  {
+    "index": 216,
+    "type": "checkbox",
+    "tag": "chk",
+    "title": "chk",
+    "checked": false,
+    "heading_path": [
+      "MEDICAL ASSESSMENT"
+    ],
+    "heading_path_slug": [
+      "medical_assessment"
+    ],
+    "paragraph_context": "\u2610 IFU/User Manual\t\u2610Service Manual\t\u2610Translation(s)\t\u2610Technical Data Sheets",
+    "range_preview": "\u2610"
+  },
+  {
+    "index": 217,
+    "type": "checkbox",
+    "tag": "chk",
+    "title": "chk",
+    "checked": false,
+    "heading_path": [
+      "MEDICAL ASSESSMENT"
+    ],
+    "heading_path_slug": [
+      "medical_assessment"
+    ],
+    "paragraph_context": "\u2610ESI/Quick Start Guide\t\u2610Marketing Material\t\u2610Other: <If \u201cOther\u201d is selected, provide more information here.>",
+    "range_preview": "\u2610"
+  },
+  {
+    "index": 218,
+    "type": "checkbox",
+    "tag": "chk",
+    "title": "chk",
+    "checked": false,
+    "heading_path": [
+      "MEDICAL ASSESSMENT"
+    ],
+    "heading_path_slug": [
+      "medical_assessment"
+    ],
+    "paragraph_context": "\u2610ESI/Quick Start Guide\t\u2610Marketing Material\t\u2610Other: <If \u201cOther\u201d is selected, provide more information here.>",
+    "range_preview": "\u2610"
+  },
+  {
+    "index": 219,
+    "type": "checkbox",
+    "tag": "chk",
+    "title": "chk",
+    "checked": false,
+    "heading_path": [
+      "MEDICAL ASSESSMENT"
+    ],
+    "heading_path_slug": [
+      "medical_assessment"
+    ],
+    "paragraph_context": "\u2610ESI/Quick Start Guide\t\u2610Marketing Material\t\u2610Other: <If \u201cOther\u201d is selected, provide more information here.>",
+    "range_preview": "\u2610"
+  },
+  {
+    "index": 220,
+    "type": "checkbox",
+    "tag": "chk",
+    "title": "chk",
+    "checked": false,
+    "heading_path": [
+      "MEDICAL ASSESSMENT"
+    ],
+    "heading_path_slug": [
+      "medical_assessment"
+    ],
+    "paragraph_context": "\u2610Change in label material\t\u2610Marking(s)\t\u2610Indication of Use\t\u2610e-IFU section",
+    "range_preview": "\u2610"
+  },
+  {
+    "index": 221,
+    "type": "checkbox",
+    "tag": "chk",
+    "title": "chk",
+    "checked": false,
+    "heading_path": [
+      "MEDICAL ASSESSMENT"
+    ],
+    "heading_path_slug": [
+      "medical_assessment"
+    ],
+    "paragraph_context": "\u2610Change in label material\t\u2610Marking(s)\t\u2610Indication of Use\t\u2610e-IFU section",
+    "range_preview": "\u2610"
+  },
+  {
+    "index": 222,
+    "type": "checkbox",
+    "tag": "chk",
+    "title": "chk",
+    "checked": false,
+    "heading_path": [
+      "MEDICAL ASSESSMENT"
+    ],
+    "heading_path_slug": [
+      "medical_assessment"
+    ],
+    "paragraph_context": "\u2610Change in label material\t\u2610Marking(s)\t\u2610Indication of Use\t\u2610e-IFU section",
+    "range_preview": "\u2610"
+  },
+  {
+    "index": 223,
+    "type": "checkbox",
+    "tag": "chk",
+    "title": "chk",
+    "checked": false,
+    "heading_path": [
+      "MEDICAL ASSESSMENT"
+    ],
+    "heading_path_slug": [
+      "medical_assessment"
+    ],
+    "paragraph_context": "\u2610Change in label material\t\u2610Marking(s)\t\u2610Indication of Use\t\u2610e-IFU section",
+    "range_preview": "\u2610"
+  },
+  {
+    "index": 224,
+    "type": "checkbox",
+    "tag": "chk",
+    "title": "chk",
+    "checked": false,
+    "heading_path": [
+      "MEDICAL ASSESSMENT"
+    ],
+    "heading_path_slug": [
+      "medical_assessment"
+    ],
+    "paragraph_context": "\u2610Other: <If \u201cOther\u201d is selected, provide more information here.>",
+    "range_preview": "\u2610"
+  },
+  {
+    "index": 225,
+    "type": "checkbox",
+    "tag": "chk",
+    "title": "chk",
+    "checked": false,
+    "heading_path": [
+      "MEDICAL ASSESSMENT"
+    ],
+    "heading_path_slug": [
+      "medical_assessment"
+    ],
+    "paragraph_context": "\u2610Intended Use\t\u2610Translation(s)\t\u2610Change in specs/ratings\t\u2610Change in the warnings/precautions",
+    "range_preview": "\u2610"
+  },
+  {
+    "index": 226,
+    "type": "checkbox",
+    "tag": "chk",
+    "title": "chk",
+    "checked": false,
+    "heading_path": [
+      "MEDICAL ASSESSMENT"
+    ],
+    "heading_path_slug": [
+      "medical_assessment"
+    ],
+    "paragraph_context": "\u2610Intended Use\t\u2610Translation(s)\t\u2610Change in specs/ratings\t\u2610Change in the warnings/precautions",
+    "range_preview": "\u2610"
+  },
+  {
+    "index": 227,
+    "type": "checkbox",
+    "tag": "chk",
+    "title": "chk",
+    "checked": false,
+    "heading_path": [
+      "MEDICAL ASSESSMENT"
+    ],
+    "heading_path_slug": [
+      "medical_assessment"
+    ],
+    "paragraph_context": "\u2610Intended Use\t\u2610Translation(s)\t\u2610Change in specs/ratings\t\u2610Change in the warnings/precautions",
+    "range_preview": "\u2610"
+  },
+  {
+    "index": 228,
+    "type": "checkbox",
+    "tag": "chk",
+    "title": "chk",
+    "checked": false,
+    "heading_path": [
+      "MEDICAL ASSESSMENT"
+    ],
+    "heading_path_slug": [
+      "medical_assessment"
+    ],
+    "paragraph_context": "\u2610Intended Use\t\u2610Translation(s)\t\u2610Change in specs/ratings\t\u2610Change in the warnings/precautions",
+    "range_preview": "\u2610"
+  },
+  {
+    "index": 229,
+    "type": "checkbox",
+    "tag": "chk",
+    "title": "chk",
+    "checked": false,
+    "heading_path": [
+      "MEDICAL ASSESSMENT"
+    ],
+    "heading_path_slug": [
+      "medical_assessment"
+    ],
+    "paragraph_context": "\u2610Other: <If \u201cOther\u201d is selected, provide more information here.>\u0007",
+    "range_preview": "\u2610"
+  },
+  {
+    "index": 230,
+    "type": "checkbox",
+    "tag": "chk",
+    "title": "chk",
+    "checked": false,
+    "heading_path": [
+      "MEDICAL ASSESSMENT"
+    ],
+    "heading_path_slug": [
+      "medical_assessment"
+    ],
+    "paragraph_context": "\u2610 Will the technology, engineering design, performance of the device, or packaging change?\u0007",
+    "range_preview": "\u2610"
+  },
+  {
+    "index": 231,
+    "type": "checkbox",
+    "tag": "chk",
+    "title": "chk",
+    "checked": false,
+    "heading_path": [
+      "MEDICAL ASSESSMENT"
+    ],
+    "heading_path_slug": [
+      "medical_assessment"
+    ],
+    "paragraph_context": "\u2610Change in control mechanism, operating principle or energy type?",
+    "range_preview": "\u2610"
+  },
+  {
+    "index": 232,
+    "type": "checkbox",
+    "tag": "chk",
+    "title": "chk",
+    "checked": false,
+    "heading_path": [
+      "MEDICAL ASSESSMENT"
+    ],
+    "heading_path_slug": [
+      "medical_assessment"
+    ],
+    "paragraph_context": "\u2610Does the change impact the Product Requirements?",
+    "range_preview": "\u2610"
+  },
+  {
+    "index": 233,
+    "type": "checkbox",
+    "tag": "chk",
+    "title": "chk",
+    "checked": false,
+    "heading_path": [
+      "MEDICAL ASSESSMENT"
+    ],
+    "heading_path_slug": [
+      "medical_assessment"
+    ],
+    "paragraph_context": "\u2610Does the change impact a component that is subjected to sterilization, cleaning, or disinfection?",
+    "range_preview": "\u2610"
+  },
+  {
+    "index": 234,
+    "type": "checkbox",
+    "tag": "chk",
+    "title": "chk",
+    "checked": false,
+    "heading_path": [
+      "MEDICAL ASSESSMENT"
+    ],
+    "heading_path_slug": [
+      "medical_assessment"
+    ],
+    "paragraph_context": "\u2610Does the change to the part require that sterilization validation, cleaning validation, or disinfection validation should be repeated?",
+    "range_preview": "\u2610"
+  },
+  {
+    "index": 235,
+    "type": "checkbox",
+    "tag": "chk",
+    "title": "chk",
+    "checked": false,
+    "heading_path": [
+      "MEDICAL ASSESSMENT"
+    ],
+    "heading_path_slug": [
+      "medical_assessment"
+    ],
+    "paragraph_context": "\u2610Does the change affect the performance or accuracy of the device?",
+    "range_preview": "\u2610"
+  },
+  {
+    "index": 236,
+    "type": "checkbox",
+    "tag": "chk",
+    "title": "chk",
+    "checked": false,
+    "heading_path": [
+      "MEDICAL ASSESSMENT"
+    ],
+    "heading_path_slug": [
+      "medical_assessment"
+    ],
+    "paragraph_context": "\u2610Does the change involve a component, software/firmware item or other part responsible for the product achieving its intended use?",
+    "range_preview": "\u2610"
+  },
+  {
+    "index": 237,
+    "type": "checkbox",
+    "tag": "chk",
+    "title": "chk",
+    "checked": false,
+    "heading_path": [
+      "MEDICAL ASSESSMENT"
+    ],
+    "heading_path_slug": [
+      "medical_assessment"
+    ],
+    "paragraph_context": "\u2610Change in packaging design?",
+    "range_preview": "\u2610"
+  },
+  {
+    "index": 238,
+    "type": "checkbox",
+    "tag": "chk",
+    "title": "chk",
+    "checked": false,
+    "heading_path": [
+      "MEDICAL ASSESSMENT"
+    ],
+    "heading_path_slug": [
+      "medical_assessment"
+    ],
+    "paragraph_context": "\u2610Change uses the same technology and classification as described in a previously cleared 510(k) or 510(k) exempt version?",
+    "range_preview": "\u2610"
+  },
+  {
+    "index": 239,
+    "type": "checkbox",
+    "tag": "chk",
+    "title": "chk",
+    "checked": false,
+    "heading_path": [
+      "MEDICAL ASSESSMENT"
+    ],
+    "heading_path_slug": [
+      "medical_assessment"
+    ],
+    "paragraph_context": "\u2610Does the change impact safety critical (i.e., 61010, EMC), critical to quality, critical to performance components? (See ENG016, CTT Business Unit Engineering Change Control Process procedure for definitions.)",
+    "range_preview": "\u2610"
+  },
+  {
+    "index": 240,
+    "type": "checkbox",
+    "tag": "chk",
+    "title": "chk",
+    "checked": false,
+    "heading_path": [
+      "MEDICAL ASSESSMENT"
+    ],
+    "heading_path_slug": [
+      "medical_assessment"
+    ],
+    "paragraph_context": "\u2610Does the change affect the intended use of the device?",
+    "range_preview": "\u2610"
+  },
+  {
+    "index": 241,
+    "type": "checkbox",
+    "tag": "chk",
+    "title": "chk",
+    "checked": false,
+    "heading_path": [
+      "MEDICAL ASSESSMENT"
+    ],
+    "heading_path_slug": [
+      "medical_assessment"
+    ],
+    "paragraph_context": "\u2610Risk-based assessment of the changed device identify any new risks or significantly modified existing risks?",
+    "range_preview": "\u2610"
+  },
+  {
+    "index": 242,
+    "type": "checkbox",
+    "tag": "chk",
+    "title": "chk",
+    "checked": false,
+    "heading_path": [
+      "MEDICAL ASSESSMENT"
+    ],
+    "heading_path_slug": [
+      "medical_assessment"
+    ],
+    "paragraph_context": "\u2610Is clinical data necessary to evaluate the safety or effectiveness for purposes of design validation?\u0007",
+    "range_preview": "\u2610"
+  },
+  {
+    "index": 243,
+    "type": "checkbox",
+    "tag": "chk",
+    "title": "chk",
+    "checked": false,
+    "heading_path": [
+      "MEDICAL ASSESSMENT"
+    ],
+    "heading_path_slug": [
+      "medical_assessment"
+    ],
+    "paragraph_context": "\u2610Is the change introducing a new material, alternate component, or is it a supplier change?\u0007",
+    "range_preview": "\u2610"
+  },
+  {
+    "index": 244,
+    "type": "checkbox",
+    "tag": "chk",
+    "title": "chk",
+    "checked": false,
+    "heading_path": [
+      "MEDICAL ASSESSMENT"
+    ],
+    "heading_path_slug": [
+      "medical_assessment"
+    ],
+    "paragraph_context": "\u2610Is this a change in material type, material formulation, chemical composition, or the material\u2019s processing?",
+    "range_preview": "\u2610"
+  },
+  {
+    "index": 245,
+    "type": "checkbox",
+    "tag": "chk",
+    "title": "chk",
+    "checked": false,
+    "heading_path": [
+      "MEDICAL ASSESSMENT"
+    ],
+    "heading_path_slug": [
+      "medical_assessment"
+    ],
+    "paragraph_context": "\u2610Will the changed material directly or indirectly contact body tissues or fluids (Including operators and service)?",
+    "range_preview": "\u2610"
+  },
+  {
+    "index": 246,
+    "type": "checkbox",
+    "tag": "chk",
+    "title": "chk",
+    "checked": false,
+    "heading_path": [
+      "MEDICAL ASSESSMENT"
+    ],
+    "heading_path_slug": [
+      "medical_assessment"
+    ],
+    "paragraph_context": "\u2610Does a risk assessment identify any new or increased biocompatibility concerns?",
+    "range_preview": "\u2610"
+  },
+  {
+    "index": 247,
+    "type": "checkbox",
+    "tag": "chk",
+    "title": "chk",
+    "checked": false,
+    "heading_path": [
+      "MEDICAL ASSESSMENT"
+    ],
+    "heading_path_slug": [
+      "medical_assessment"
+    ],
+    "paragraph_context": "\u2610Has the manufacturer used the same material in a similar legally marketed device?",
+    "range_preview": "\u2610"
+  },
+  {
+    "index": 248,
+    "type": "checkbox",
+    "tag": "chk",
+    "title": "chk",
+    "checked": false,
+    "heading_path": [
+      "MEDICAL ASSESSMENT"
+    ],
+    "heading_path_slug": [
+      "medical_assessment"
+    ],
+    "paragraph_context": "\u2610Could the change affect the device\u2019s performance specifications?",
+    "range_preview": "\u2610"
+  },
+  {
+    "index": 249,
+    "type": "checkbox",
+    "tag": "chk",
+    "title": "chk",
+    "checked": false,
+    "heading_path": [
+      "MEDICAL ASSESSMENT"
+    ],
+    "heading_path_slug": [
+      "medical_assessment"
+    ],
+    "paragraph_context": "\u2610Does the supplier change impact split inspection locations and files? (Common for PCBA or enclosed subassemblies)",
+    "range_preview": "\u2610"
+  },
+  {
+    "index": 250,
+    "type": "checkbox",
+    "tag": "chk",
+    "title": "chk",
+    "checked": false,
+    "heading_path": [
+      "MEDICAL ASSESSMENT"
+    ],
+    "heading_path_slug": [
+      "medical_assessment"
+    ],
+    "paragraph_context": "\u2610Does the supplier change affect critical components in compliance files?\u0007",
+    "range_preview": "\u2610"
+  },
+  {
+    "index": 251,
+    "type": "checkbox",
+    "tag": "chk",
+    "title": "chk",
+    "checked": false,
+    "heading_path": [
+      "MEDICAL ASSESSMENT"
+    ],
+    "heading_path_slug": [
+      "medical_assessment"
+    ],
+    "paragraph_context": "\u2610Is there a change to product software or firmware?\u0007",
+    "range_preview": "\u2610"
+  },
+  {
+    "index": 252,
+    "type": "checkbox",
+    "tag": "chk",
+    "title": "chk",
+    "checked": false,
+    "heading_path": [
+      "MEDICAL ASSESSMENT"
+    ],
+    "heading_path_slug": [
+      "medical_assessment"
+    ],
+    "paragraph_context": "\u2610Does the SW Change impact the SW documentation? (as applicable SW QAPs/SOPs for AVL / MAR sites)",
+    "range_preview": "\u2610"
+  },
+  {
+    "index": 253,
+    "type": "checkbox",
+    "tag": "chk",
+    "title": "chk",
+    "checked": false,
+    "heading_path": [
+      "MEDICAL ASSESSMENT"
+    ],
+    "heading_path_slug": [
+      "medical_assessment"
+    ],
+    "paragraph_context": "\u2610Does the SW Change include a security patch related to a known vulnerability?",
+    "range_preview": "\u2610"
+  },
+  {
+    "index": 254,
+    "type": "checkbox",
+    "tag": "chk",
+    "title": "chk",
+    "checked": false,
+    "heading_path": [
+      "MEDICAL ASSESSMENT"
+    ],
+    "heading_path_slug": [
+      "medical_assessment"
+    ],
+    "paragraph_context": "\u2610Is the SW Change made solely to return the system into specification of the most recently cleared device?",
+    "range_preview": "\u2610"
+  },
+  {
+    "index": 255,
+    "type": "checkbox",
+    "tag": "chk",
+    "title": "chk",
+    "checked": false,
+    "heading_path": [
+      "MEDICAL ASSESSMENT"
+    ],
+    "heading_path_slug": [
+      "medical_assessment"
+    ],
+    "paragraph_context": "\u2610Does the SW change introduce a new risk or modify an existing risk?",
+    "range_preview": "\u2610"
+  },
+  {
+    "index": 256,
+    "type": "checkbox",
+    "tag": "chk",
+    "title": "chk",
+    "checked": false,
+    "heading_path": [
+      "MEDICAL ASSESSMENT"
+    ],
+    "heading_path_slug": [
+      "medical_assessment"
+    ],
+    "paragraph_context": "\u2610Does the change create or necessitate a new risk control measure or a modification of an existing risk control measure for a hazardous situation that could result in significant harm?",
+    "range_preview": "\u2610"
+  },
+  {
+    "index": 257,
+    "type": "checkbox",
+    "tag": "chk",
+    "title": "chk",
+    "checked": false,
+    "heading_path": [
+      "MEDICAL ASSESSMENT"
+    ],
+    "heading_path_slug": [
+      "medical_assessment"
+    ],
+    "paragraph_context": "\u2610Could the change impact functionality or performance specifications that are directly associated with the intended use or safety the device?",
+    "range_preview": "\u2610"
+  },
+  {
+    "index": 258,
+    "type": "checkbox",
+    "tag": "chk",
+    "title": "chk",
+    "checked": false,
+    "heading_path": [
+      "MEDICAL ASSESSMENT"
+    ],
+    "heading_path_slug": [
+      "medical_assessment"
+    ],
+    "paragraph_context": "\u2610Are there additional software factors that may affect the decision to file? (e.g., Infrastructure, Architecture, Core algorithm, Re-engineering and refactoring etc.)",
+    "range_preview": "\u2610"
+  },
+  {
+    "index": 259,
+    "type": "checkbox",
+    "tag": "chk",
+    "title": "chk",
+    "checked": false,
+    "heading_path": [
+      "MEDICAL ASSESSMENT"
+    ],
+    "heading_path_slug": [
+      "medical_assessment"
+    ],
+    "paragraph_context": "\u2610USA: FDA 510(K) Exempt",
+    "range_preview": "\u2610"
+  },
+  {
+    "index": 260,
+    "type": "checkbox",
+    "tag": "chk",
+    "title": "chk",
+    "checked": false,
+    "heading_path": [
+      "MEDICAL ASSESSMENT"
+    ],
+    "heading_path_slug": [
+      "medical_assessment"
+    ],
+    "paragraph_context": "\u2610USA: FDA 510(K)",
+    "range_preview": "\u2610"
+  },
+  {
+    "index": 261,
+    "type": "checkbox",
+    "tag": "chk",
+    "title": "chk",
+    "checked": false,
+    "heading_path": [
+      "MEDICAL ASSESSMENT"
+    ],
+    "heading_path_slug": [
+      "medical_assessment"
+    ],
+    "paragraph_context": "\u2610Canada: MDSAP",
+    "range_preview": "\u2610"
+  },
+  {
+    "index": 262,
+    "type": "checkbox",
+    "tag": "chk",
+    "title": "chk",
+    "checked": false,
+    "heading_path": [
+      "MEDICAL ASSESSMENT"
+    ],
+    "heading_path_slug": [
+      "medical_assessment"
+    ],
+    "paragraph_context": "\u2610Mexico: COFEPRIS\u0007",
+    "range_preview": "\u2610"
+  },
+  {
+    "index": 263,
+    "type": "checkbox",
+    "tag": "chk",
+    "title": "chk",
+    "checked": false,
+    "heading_path": [
+      "MEDICAL ASSESSMENT"
+    ],
+    "heading_path_slug": [
+      "medical_assessment"
+    ],
+    "paragraph_context": "\u2610Argentina: ANMAT",
+    "range_preview": "\u2610"
+  },
+  {
+    "index": 264,
+    "type": "checkbox",
+    "tag": "chk",
+    "title": "chk",
+    "checked": false,
+    "heading_path": [
+      "MEDICAL ASSESSMENT"
+    ],
+    "heading_path_slug": [
+      "medical_assessment"
+    ],
+    "paragraph_context": "\u2610Brazil: ANVISA",
+    "range_preview": "\u2610"
+  },
+  {
+    "index": 265,
+    "type": "checkbox",
+    "tag": "chk",
+    "title": "chk",
+    "checked": false,
+    "heading_path": [
+      "MEDICAL ASSESSMENT"
+    ],
+    "heading_path_slug": [
+      "medical_assessment"
+    ],
+    "paragraph_context": "\u2610Brazil: INMETRO",
+    "range_preview": "\u2610"
+  },
+  {
+    "index": 266,
+    "type": "checkbox",
+    "tag": "chk",
+    "title": "chk",
+    "checked": false,
+    "heading_path": [
+      "MEDICAL ASSESSMENT"
+    ],
+    "heading_path_slug": [
+      "medical_assessment"
+    ],
+    "paragraph_context": "\u2610Columbia: INVIMA",
+    "range_preview": "\u2610"
+  },
+  {
+    "index": 267,
+    "type": "checkbox",
+    "tag": "chk",
+    "title": "chk",
+    "checked": false,
+    "heading_path": [
+      "MEDICAL ASSESSMENT"
+    ],
+    "heading_path_slug": [
+      "medical_assessment"
+    ],
+    "paragraph_context": "\u2610Costa Rica: MoH",
+    "range_preview": "\u2610"
+  },
+  {
+    "index": 268,
+    "type": "checkbox",
+    "tag": "chk",
+    "title": "chk",
+    "checked": false,
+    "heading_path": [
+      "MEDICAL ASSESSMENT"
+    ],
+    "heading_path_slug": [
+      "medical_assessment"
+    ],
+    "paragraph_context": "\u2610Ecuador: ARCSA",
+    "range_preview": "\u2610"
+  },
+  {
+    "index": 269,
+    "type": "checkbox",
+    "tag": "chk",
+    "title": "chk",
+    "checked": false,
+    "heading_path": [
+      "MEDICAL ASSESSMENT"
+    ],
+    "heading_path_slug": [
+      "medical_assessment"
+    ],
+    "paragraph_context": "\u2610El Salvador: DNM",
+    "range_preview": "\u2610"
+  },
+  {
+    "index": 270,
+    "type": "checkbox",
+    "tag": "chk",
+    "title": "chk",
+    "checked": false,
+    "heading_path": [
+      "MEDICAL ASSESSMENT"
+    ],
+    "heading_path_slug": [
+      "medical_assessment"
+    ],
+    "paragraph_context": "\u2610Guatemala: MSPAS",
+    "range_preview": "\u2610"
+  },
+  {
+    "index": 271,
+    "type": "checkbox",
+    "tag": "chk",
+    "title": "chk",
+    "checked": false,
+    "heading_path": [
+      "MEDICAL ASSESSMENT"
+    ],
+    "heading_path_slug": [
+      "medical_assessment"
+    ],
+    "paragraph_context": "\u2610Nicaragua: MINSA",
+    "range_preview": "\u2610"
+  },
+  {
+    "index": 272,
+    "type": "checkbox",
+    "tag": "chk",
+    "title": "chk",
+    "checked": false,
+    "heading_path": [
+      "MEDICAL ASSESSMENT"
+    ],
+    "heading_path_slug": [
+      "medical_assessment"
+    ],
+    "paragraph_context": "\u2610Panama: MINSA / MoH",
+    "range_preview": "\u2610"
+  },
+  {
+    "index": 273,
+    "type": "checkbox",
+    "tag": "chk",
+    "title": "chk",
+    "checked": false,
+    "heading_path": [
+      "MEDICAL ASSESSMENT"
+    ],
+    "heading_path_slug": [
+      "medical_assessment"
+    ],
+    "paragraph_context": "\u2610Peru: MINSA\u0007",
+    "range_preview": "\u2610"
+  },
+  {
+    "index": 274,
+    "type": "checkbox",
+    "tag": "chk",
+    "title": "chk",
+    "checked": false,
+    "heading_path": [
+      "MEDICAL ASSESSMENT"
+    ],
+    "heading_path_slug": [
+      "medical_assessment"
+    ],
+    "paragraph_context": "\u2610EU: CE (NB)",
+    "range_preview": "\u2610"
+  },
+  {
+    "index": 275,
+    "type": "checkbox",
+    "tag": "chk",
+    "title": "chk",
+    "checked": false,
+    "heading_path": [
+      "MEDICAL ASSESSMENT"
+    ],
+    "heading_path_slug": [
+      "medical_assessment"
+    ],
+    "paragraph_context": "\u2610UK: MHRA",
+    "range_preview": "\u2610"
+  },
+  {
+    "index": 276,
+    "type": "checkbox",
+    "tag": "chk",
+    "title": "chk",
+    "checked": false,
+    "heading_path": [
+      "MEDICAL ASSESSMENT"
+    ],
+    "heading_path_slug": [
+      "medical_assessment"
+    ],
+    "paragraph_context": "\u2610UK: UKCA (NB)",
+    "range_preview": "\u2610"
+  },
+  {
+    "index": 277,
+    "type": "checkbox",
+    "tag": "chk",
+    "title": "chk",
+    "checked": false,
+    "heading_path": [
+      "MEDICAL ASSESSMENT"
+    ],
+    "heading_path_slug": [
+      "medical_assessment"
+    ],
+    "paragraph_context": "\u2610UK: UKCA",
+    "range_preview": "\u2610"
+  },
+  {
+    "index": 278,
+    "type": "checkbox",
+    "tag": "chk",
+    "title": "chk",
+    "checked": false,
+    "heading_path": [
+      "MEDICAL ASSESSMENT"
+    ],
+    "heading_path_slug": [
+      "medical_assessment"
+    ],
+    "paragraph_context": "\u2610Iceland: IMA",
+    "range_preview": "\u2610"
+  },
+  {
+    "index": 279,
+    "type": "checkbox",
+    "tag": "chk",
+    "title": "chk",
+    "checked": false,
+    "heading_path": [
+      "MEDICAL ASSESSMENT"
+    ],
+    "heading_path_slug": [
+      "medical_assessment"
+    ],
+    "paragraph_context": "\u2610Israel: MoH",
+    "range_preview": "\u2610"
+  },
+  {
+    "index": 280,
+    "type": "checkbox",
+    "tag": "chk",
+    "title": "chk",
+    "checked": false,
+    "heading_path": [
+      "MEDICAL ASSESSMENT"
+    ],
+    "heading_path_slug": [
+      "medical_assessment"
+    ],
+    "paragraph_context": "\u2610Egypt: EDA",
+    "range_preview": "\u2610"
+  },
+  {
+    "index": 281,
+    "type": "checkbox",
+    "tag": "chk",
+    "title": "chk",
+    "checked": false,
+    "heading_path": [
+      "MEDICAL ASSESSMENT"
+    ],
+    "heading_path_slug": [
+      "medical_assessment"
+    ],
+    "paragraph_context": "\u2610Saudi Arabia: SFDA",
+    "range_preview": "\u2610"
+  },
+  {
+    "index": 282,
+    "type": "checkbox",
+    "tag": "chk",
+    "title": "chk",
+    "checked": false,
+    "heading_path": [
+      "MEDICAL ASSESSMENT"
+    ],
+    "heading_path_slug": [
+      "medical_assessment"
+    ],
+    "paragraph_context": "\u2610Turkey: TITCK",
+    "range_preview": "\u2610"
+  },
+  {
+    "index": 283,
+    "type": "checkbox",
+    "tag": "chk",
+    "title": "chk",
+    "checked": false,
+    "heading_path": [
+      "MEDICAL ASSESSMENT"
+    ],
+    "heading_path_slug": [
+      "medical_assessment"
+    ],
+    "paragraph_context": "\u2610Norway: NoMA",
+    "range_preview": "\u2610"
+  },
+  {
+    "index": 284,
+    "type": "checkbox",
+    "tag": "chk",
+    "title": "chk",
+    "checked": false,
+    "heading_path": [
+      "MEDICAL ASSESSMENT"
+    ],
+    "heading_path_slug": [
+      "medical_assessment"
+    ],
+    "paragraph_context": "\u2610Serbia: ALIMS",
+    "range_preview": "\u2610"
+  },
+  {
+    "index": 285,
+    "type": "checkbox",
+    "tag": "chk",
+    "title": "chk",
+    "checked": false,
+    "heading_path": [
+      "MEDICAL ASSESSMENT"
+    ],
+    "heading_path_slug": [
+      "medical_assessment"
+    ],
+    "paragraph_context": "\u2610Ukraine: SMDC",
+    "range_preview": "\u2610"
+  },
+  {
+    "index": 286,
+    "type": "checkbox",
+    "tag": "chk",
+    "title": "chk",
+    "checked": false,
+    "heading_path": [
+      "MEDICAL ASSESSMENT"
+    ],
+    "heading_path_slug": [
+      "medical_assessment"
+    ],
+    "paragraph_context": "\u2610Morocco: DMP\u0007",
+    "range_preview": "\u2610"
+  },
+  {
+    "index": 287,
+    "type": "checkbox",
+    "tag": "chk",
+    "title": "chk",
+    "checked": false,
+    "heading_path": [
+      "MEDICAL ASSESSMENT"
+    ],
+    "heading_path_slug": [
+      "medical_assessment"
+    ],
+    "paragraph_context": "\u2610China: NMPA",
+    "range_preview": "\u2610"
+  },
+  {
+    "index": 288,
+    "type": "checkbox",
+    "tag": "chk",
+    "title": "chk",
+    "checked": false,
+    "heading_path": [
+      "MEDICAL ASSESSMENT"
+    ],
+    "heading_path_slug": [
+      "medical_assessment"
+    ],
+    "paragraph_context": "\u2610Malaysia: MDA",
+    "range_preview": "\u2610"
+  },
+  {
+    "index": 289,
+    "type": "checkbox",
+    "tag": "chk",
+    "title": "chk",
+    "checked": false,
+    "heading_path": [
+      "MEDICAL ASSESSMENT"
+    ],
+    "heading_path_slug": [
+      "medical_assessment"
+    ],
+    "paragraph_context": "\u2610South Korea: MFDS",
+    "range_preview": "\u2610"
+  },
+  {
+    "index": 290,
+    "type": "checkbox",
+    "tag": "chk",
+    "title": "chk",
+    "checked": false,
+    "heading_path": [
+      "MEDICAL ASSESSMENT"
+    ],
+    "heading_path_slug": [
+      "medical_assessment"
+    ],
+    "paragraph_context": "\u2610Taiwan: TFDA",
+    "range_preview": "\u2610"
+  },
+  {
+    "index": 291,
+    "type": "checkbox",
+    "tag": "chk",
+    "title": "chk",
+    "checked": false,
+    "heading_path": [
+      "MEDICAL ASSESSMENT"
+    ],
+    "heading_path_slug": [
+      "medical_assessment"
+    ],
+    "paragraph_context": "\u2610India: CDSCO",
+    "range_preview": "\u2610"
+  },
+  {
+    "index": 292,
+    "type": "checkbox",
+    "tag": "chk",
+    "title": "chk",
+    "checked": false,
+    "heading_path": [
+      "MEDICAL ASSESSMENT"
+    ],
+    "heading_path_slug": [
+      "medical_assessment"
+    ],
+    "paragraph_context": "\u2610Singapore: HSA",
+    "range_preview": "\u2610"
+  },
+  {
+    "index": 293,
+    "type": "checkbox",
+    "tag": "chk",
+    "title": "chk",
+    "checked": false,
+    "heading_path": [
+      "MEDICAL ASSESSMENT"
+    ],
+    "heading_path_slug": [
+      "medical_assessment"
+    ],
+    "paragraph_context": "\u2610Japan: PMDA",
+    "range_preview": "\u2610"
+  },
+  {
+    "index": 294,
+    "type": "checkbox",
+    "tag": "chk",
+    "title": "chk",
+    "checked": false,
+    "heading_path": [
+      "MEDICAL ASSESSMENT"
+    ],
+    "heading_path_slug": [
+      "medical_assessment"
+    ],
+    "paragraph_context": "\u2610Australia: TGA",
+    "range_preview": "\u2610"
+  },
+  {
+    "index": 295,
+    "type": "checkbox",
+    "tag": "chk",
+    "title": "chk",
+    "checked": false,
+    "heading_path": [
+      "MEDICAL ASSESSMENT"
+    ],
+    "heading_path_slug": [
+      "medical_assessment"
+    ],
+    "paragraph_context": "\u2610Hong Kong: MCO",
+    "range_preview": "\u2610"
+  },
+  {
+    "index": 296,
+    "type": "checkbox",
+    "tag": "chk",
+    "title": "chk",
+    "checked": false,
+    "heading_path": [
+      "MEDICAL ASSESSMENT"
+    ],
+    "heading_path_slug": [
+      "medical_assessment"
+    ],
+    "paragraph_context": "\u2610Indonesia: MoH",
+    "range_preview": "\u2610"
+  },
+  {
+    "index": 297,
+    "type": "checkbox",
+    "tag": "chk",
+    "title": "chk",
+    "checked": false,
+    "heading_path": [
+      "MEDICAL ASSESSMENT"
+    ],
+    "heading_path_slug": [
+      "medical_assessment"
+    ],
+    "paragraph_context": "\u2610New Zealand: MEDSAFE\u0007",
+    "range_preview": "\u2610"
+  },
+  {
+    "index": 298,
+    "type": "checkbox",
+    "tag": "chk",
+    "title": "chk",
+    "checked": false,
+    "heading_path": [
+      "MEDICAL ASSESSMENT"
+    ],
+    "heading_path_slug": [
+      "medical_assessment"
+    ],
+    "paragraph_context": "\u2610Other: <Select \u201cOther\u201d if the approval/registration is not listed above. Provide more information here.>",
+    "range_preview": "\u2610"
+  },
+  {
+    "index": 299,
+    "type": "checkbox",
+    "tag": "chk",
+    "title": "chk",
+    "checked": false,
+    "heading_path": [
+      "MEDICAL ASSESSMENT"
+    ],
+    "heading_path_slug": [
+      "medical_assessment"
+    ],
+    "paragraph_context": "\u2610IEC 60601 Report(s), Report # <Insert Report Number>\t\u2610ILAC/IAAC Report, Report # <Insert Report Number>",
+    "range_preview": "\u2610"
+  },
+  {
+    "index": 300,
+    "type": "checkbox",
+    "tag": "chk",
+    "title": "chk",
+    "checked": false,
+    "heading_path": [
+      "MEDICAL ASSESSMENT"
+    ],
+    "heading_path_slug": [
+      "medical_assessment"
+    ],
+    "paragraph_context": "\u2610IEC 60601 Report(s), Report # <Insert Report Number>\t\u2610ILAC/IAAC Report, Report # <Insert Report Number>",
+    "range_preview": "\u2610"
+  },
+  {
+    "index": 301,
+    "type": "checkbox",
+    "tag": "chk",
+    "title": "chk",
+    "checked": false,
+    "heading_path": [
+      "MEDICAL ASSESSMENT"
+    ],
+    "heading_path_slug": [
+      "medical_assessment"
+    ],
+    "paragraph_context": "\u2610 IEC 61010 Report(s), Report # <Insert Report Number>\t\u2610CB Scheme Report, Report # <Insert Report Number>",
+    "range_preview": "\u2610"
+  },
+  {
+    "index": 302,
+    "type": "checkbox",
+    "tag": "chk",
+    "title": "chk",
+    "checked": false,
+    "heading_path": [
+      "MEDICAL ASSESSMENT"
+    ],
+    "heading_path_slug": [
+      "medical_assessment"
+    ],
+    "paragraph_context": "\u2610 IEC 61010 Report(s), Report # <Insert Report Number>\t\u2610CB Scheme Report, Report # <Insert Report Number>",
+    "range_preview": "\u2610"
+  },
+  {
+    "index": 303,
+    "type": "checkbox",
+    "tag": "chk",
+    "title": "chk",
+    "checked": false,
+    "heading_path": [
+      "MEDICAL ASSESSMENT"
+    ],
+    "heading_path_slug": [
+      "medical_assessment"
+    ],
+    "paragraph_context": "\u2610Other: <Select \u201cOther\u201d if the report is not listed above. Provide more information here>, Report # <Insert Report Number>\u0007",
+    "range_preview": "\u2610"
+  },
+  {
+    "index": 304,
+    "type": "checkbox",
+    "tag": "chk",
+    "title": "chk",
+    "checked": false,
+    "heading_path": [
+      "MEDICAL ASSESSMENT"
+    ],
+    "heading_path_slug": [
+      "medical_assessment"
+    ],
+    "paragraph_context": "\u2610UDI\t\u2610CE (EU NB)\t \u2610  Packaging/Shipping Labels\t\u2610  Product Label",
+    "range_preview": "\u2610"
+  },
+  {
+    "index": 305,
+    "type": "checkbox",
+    "tag": "chk",
+    "title": "chk",
+    "checked": false,
+    "heading_path": [
+      "MEDICAL ASSESSMENT"
+    ],
+    "heading_path_slug": [
+      "medical_assessment"
+    ],
+    "paragraph_context": "\u2610UDI\t\u2610CE (EU NB)\t \u2610  Packaging/Shipping Labels\t\u2610  Product Label",
+    "range_preview": "\u2610"
+  },
+  {
+    "index": 306,
+    "type": "checkbox",
+    "tag": "chk",
+    "title": "chk",
+    "checked": false,
+    "heading_path": [
+      "MEDICAL ASSESSMENT"
+    ],
+    "heading_path_slug": [
+      "medical_assessment"
+    ],
+    "paragraph_context": "\u2610UDI\t\u2610CE (EU NB)\t \u2610  Packaging/Shipping Labels\t\u2610  Product Label",
+    "range_preview": "\u2610"
+  },
+  {
+    "index": 307,
+    "type": "checkbox",
+    "tag": "chk",
+    "title": "chk",
+    "checked": false,
+    "heading_path": [
+      "MEDICAL ASSESSMENT"
+    ],
+    "heading_path_slug": [
+      "medical_assessment"
+    ],
+    "paragraph_context": "\u2610UDI\t\u2610CE (EU NB)\t \u2610  Packaging/Shipping Labels\t\u2610  Product Label",
+    "range_preview": "\u2610"
+  },
+  {
+    "index": 308,
+    "type": "checkbox",
+    "tag": "chk",
+    "title": "chk",
+    "checked": false,
+    "heading_path": [
+      "MEDICAL ASSESSMENT"
+    ],
+    "heading_path_slug": [
+      "medical_assessment"
+    ],
+    "paragraph_context": "\u2610  Other: <If \u201cOther\u201d is selected, provide more information here.>\u0007",
+    "range_preview": "\u2610"
+  },
+  {
+    "index": 309,
+    "type": "combobox",
+    "tag": "",
+    "title": "",
+    "checked": null,
+    "heading_path": [
+      "MEDICAL ASSESSMENT"
+    ],
+    "heading_path_slug": [
+      "medical_assessment"
+    ],
+    "paragraph_context": "Testing Required: <Choose an item.>",
+    "range_preview": "<Choose an item.>"
+  },
+  {
+    "index": 310,
+    "type": "combobox",
+    "tag": "",
+    "title": "",
+    "checked": null,
+    "heading_path": [
+      "MEDICAL ASSESSMENT"
+    ],
+    "heading_path_slug": [
+      "medical_assessment"
+    ],
+    "paragraph_context": "Registration Impact: <Choose an item.>",
+    "range_preview": "<Choose an item.>"
+  },
+  {
+    "index": 311,
+    "type": "checkbox",
+    "tag": "chk",
+    "title": "chk",
+    "checked": false,
+    "heading_path": [
+      "MEDICAL ASSESSMENT"
+    ],
+    "heading_path_slug": [
+      "medical_assessment"
+    ],
+    "paragraph_context": "\u2610Verify Intended Use consistency\t\u2610Verify changes documented in TF / DHF\t\u2610Verify changes are documented in DMR",
+    "range_preview": "\u2610"
+  },
+  {
+    "index": 312,
+    "type": "checkbox",
+    "tag": "chk",
+    "title": "chk",
+    "checked": false,
+    "heading_path": [
+      "MEDICAL ASSESSMENT"
+    ],
+    "heading_path_slug": [
+      "medical_assessment"
+    ],
+    "paragraph_context": "\u2610Verify Intended Use consistency\t\u2610Verify changes documented in TF / DHF\t\u2610Verify changes are documented in DMR",
+    "range_preview": "\u2610"
+  },
+  {
+    "index": 313,
+    "type": "checkbox",
+    "tag": "chk",
+    "title": "chk",
+    "checked": false,
+    "heading_path": [
+      "MEDICAL ASSESSMENT"
+    ],
+    "heading_path_slug": [
+      "medical_assessment"
+    ],
+    "paragraph_context": "\u2610Verify Intended Use consistency\t\u2610Verify changes documented in TF / DHF\t\u2610Verify changes are documented in DMR",
+    "range_preview": "\u2610"
+  },
+  {
+    "index": 314,
+    "type": "checkbox",
+    "tag": "chk",
+    "title": "chk",
+    "checked": false,
+    "heading_path": [
+      "MEDICAL ASSESSMENT"
+    ],
+    "heading_path_slug": [
+      "medical_assessment"
+    ],
+    "paragraph_context": "\u2610Submit to EU NB\t\u2610Submit and Update TF / DHF\t\u2610Verify 510k for change impact",
+    "range_preview": "\u2610"
+  },
+  {
+    "index": 315,
+    "type": "checkbox",
+    "tag": "chk",
+    "title": "chk",
+    "checked": false,
+    "heading_path": [
+      "MEDICAL ASSESSMENT"
+    ],
+    "heading_path_slug": [
+      "medical_assessment"
+    ],
+    "paragraph_context": "\u2610Submit to EU NB\t\u2610Submit and Update TF / DHF\t\u2610Verify 510k for change impact",
+    "range_preview": "\u2610"
+  },
+  {
+    "index": 316,
+    "type": "checkbox",
+    "tag": "chk",
+    "title": "chk",
+    "checked": false,
+    "heading_path": [
+      "MEDICAL ASSESSMENT"
+    ],
+    "heading_path_slug": [
+      "medical_assessment"
+    ],
+    "paragraph_context": "\u2610Submit to EU NB\t\u2610Submit and Update TF / DHF\t\u2610Verify 510k for change impact",
+    "range_preview": "\u2610"
+  },
+  {
+    "index": 317,
+    "type": "checkbox",
+    "tag": "chk",
+    "title": "chk",
+    "checked": false,
+    "heading_path": [
+      "MEDICAL ASSESSMENT"
+    ],
+    "heading_path_slug": [
+      "medical_assessment"
+    ],
+    "paragraph_context": "\u2610Other: <If \u201cOther\u201d is selected, provide more information here.>\u0007",
+    "range_preview": "\u2610"
+  },
+  {
+    "index": 318,
+    "type": "checkbox",
+    "tag": "chk",
+    "title": "chk",
+    "checked": false,
+    "heading_path": [
+      "MEDICAL ASSESSMENT"
+    ],
+    "heading_path_slug": [
+      "medical_assessment"
+    ],
+    "paragraph_context": "\u2610Regional RA Lead(s)\t\u2610FDA Correspondent(s)\t\u2610EU PRR(s)\t\u2610Notify RA at Implementation Manufacturing Location",
+    "range_preview": "\u2610"
+  },
+  {
+    "index": 319,
+    "type": "checkbox",
+    "tag": "chk",
+    "title": "chk",
+    "checked": false,
+    "heading_path": [
+      "MEDICAL ASSESSMENT"
+    ],
+    "heading_path_slug": [
+      "medical_assessment"
+    ],
+    "paragraph_context": "\u2610Regional RA Lead(s)\t\u2610FDA Correspondent(s)\t\u2610EU PRR(s)\t\u2610Notify RA at Implementation Manufacturing Location",
+    "range_preview": "\u2610"
+  },
+  {
+    "index": 320,
+    "type": "checkbox",
+    "tag": "chk",
+    "title": "chk",
+    "checked": false,
+    "heading_path": [
+      "MEDICAL ASSESSMENT"
+    ],
+    "heading_path_slug": [
+      "medical_assessment"
+    ],
+    "paragraph_context": "\u2610Regional RA Lead(s)\t\u2610FDA Correspondent(s)\t\u2610EU PRR(s)\t\u2610Notify RA at Implementation Manufacturing Location",
+    "range_preview": "\u2610"
+  },
+  {
+    "index": 321,
+    "type": "checkbox",
+    "tag": "chk",
+    "title": "chk",
+    "checked": false,
+    "heading_path": [
+      "MEDICAL ASSESSMENT"
+    ],
+    "heading_path_slug": [
+      "medical_assessment"
+    ],
+    "paragraph_context": "\u2610Regional RA Lead(s)\t\u2610FDA Correspondent(s)\t\u2610EU PRR(s)\t\u2610Notify RA at Implementation Manufacturing Location",
+    "range_preview": "\u2610"
+  },
+  {
+    "index": 322,
+    "type": "checkbox",
+    "tag": "chk",
+    "title": "chk",
+    "checked": false,
+    "heading_path": [
+      "MEDICAL ASSESSMENT"
+    ],
+    "heading_path_slug": [
+      "medical_assessment"
+    ],
+    "paragraph_context": "\u2610Notify Authorities of Product Changes where registered\t\u2610Other: <If \u201cOther\u201d is selected, provide more information here.>\u0007",
+    "range_preview": "\u2610"
+  },
+  {
+    "index": 323,
+    "type": "checkbox",
+    "tag": "chk",
+    "title": "chk",
+    "checked": false,
+    "heading_path": [
+      "MEDICAL ASSESSMENT"
+    ],
+    "heading_path_slug": [
+      "medical_assessment"
+    ],
+    "paragraph_context": "\u2610Notify Authorities of Product Changes where registered\t\u2610Other: <If \u201cOther\u201d is selected, provide more information here.>\u0007",
+    "range_preview": "\u2610"
+  },
+  {
+    "index": 324,
+    "type": "date",
+    "tag": "",
+    "title": "",
+    "checked": null,
+    "heading_path": [
+      "MEDICAL ASSESSMENT"
+    ],
+    "heading_path_slug": [
+      "medical_assessment"
+    ],
+    "paragraph_context": "<Click or tap to enter a date.>\u0007",
+    "range_preview": "<Click or tap to enter a date.>"
+  },
+  {
+    "index": 325,
+    "type": "date",
+    "tag": "",
+    "title": "",
+    "checked": null,
+    "heading_path": [
+      "MEDICAL ASSESSMENT"
+    ],
+    "heading_path_slug": [
+      "medical_assessment"
+    ],
+    "paragraph_context": "<Click or tap to enter a date.>\u0007",
+    "range_preview": "<Click or tap to enter a date.>"
+  },
+  {
+    "index": 326,
+    "type": "combobox",
+    "tag": "",
+    "title": "",
+    "checked": null,
+    "heading_path": [
+      "MEDICAL ASSESSMENT"
+    ],
+    "heading_path_slug": [
+      "medical_assessment"
+    ],
+    "paragraph_context": "(Medical Only) Did any Design verification and/or validation activities produce any unexpected issues of safety or effectiveness? <Choose an item.>",
+    "range_preview": "<Choose an item.>"
+  },
+  {
+    "index": 327,
+    "type": "checkbox",
+    "tag": "chk",
+    "title": "chk",
+    "checked": false,
+    "heading_path": [
+      "MEDICAL ASSESSMENT"
+    ],
+    "heading_path_slug": [
+      "medical_assessment"
+    ],
+    "paragraph_context": "\u2610All affected reports were verified for change accuracy (CCL, models covered, content, etc.) and all documentation is stored in the Technical File (TF) of the product.",
+    "range_preview": "\u2610"
+  },
+  {
+    "index": 328,
+    "type": "checkbox",
+    "tag": "chk",
+    "title": "chk",
+    "checked": false,
+    "heading_path": [
+      "MEDICAL ASSESSMENT"
+    ],
+    "heading_path_slug": [
+      "medical_assessment"
+    ],
+    "paragraph_context": "\u2610Not a Medical Device",
+    "range_preview": "\u2610"
+  },
+  {
+    "index": 329,
+    "type": "date",
+    "tag": "",
+    "title": "",
+    "checked": null,
+    "heading_path": [
+      "MEDICAL ASSESSMENT"
+    ],
+    "heading_path_slug": [
+      "medical_assessment"
+    ],
+    "paragraph_context": "<Click or tap to enter a date.>\u0007",
+    "range_preview": "<Click or tap to enter a date.>"
+  },
+  {
+    "index": 330,
+    "type": "date",
+    "tag": "",
+    "title": "",
+    "checked": null,
+    "heading_path": [
+      "MEDICAL ASSESSMENT"
+    ],
+    "heading_path_slug": [
+      "medical_assessment"
+    ],
+    "paragraph_context": "<Click or tap to enter a date.>\u0007",
+    "range_preview": "<Click or tap to enter a date.>"
+  }
+]

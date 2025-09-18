@@ -1,0 +1,331 @@
+index,type,tag,title,checked,heading_path,heading_path_slug,paragraph_context,range_preview
+1,checkbox,chk,chk,False,[],[],☐EPD	☐ECR	☐GEPC,☐
+2,checkbox,chk,chk,False,[],[],☐EPD	☐ECR	☐GEPC,☐
+3,checkbox,chk,chk,False,[],[],☐EPD	☐ECR	☐GEPC,☐
+4,checkbox,chk,chk,False,[],[],☐  <Insert Other>,☐
+5,dropdown,,,,[],[],Level: <Choose a Project Level.>,<Choose a Project Level.>
+6,combobox,,,,[],[],CAPA Associated: <Select one.>,<Select one.>
+7,combobox,,,,[],[],Design Owner:	<Choose an item.>	Other (if applicable): <Fill in if “Other” is chosen.> 	Name of OEM (if applicable): <Name of OEM>,<Choose an item.>
+8,checkbox,chk,chk,False,[],[],Manufacturing Site:	☐AVL ☐ MAR ☐ LSB ☐ OHA ☐ SNG ☐ Other	☐OEM ☐ CM (External),☐
+9,checkbox,chk,chk,False,[],[],Manufacturing Site:	☐AVL ☐ MAR ☐ LSB ☐ OHA ☐ SNG ☐ Other	☐OEM ☐ CM (External),☐
+10,checkbox,chk,chk,False,[],[],Manufacturing Site:	☐AVL ☐ MAR ☐ LSB ☐ OHA ☐ SNG ☐ Other	☐OEM ☐ CM (External),☐
+11,checkbox,chk,chk,False,[],[],Manufacturing Site:	☐AVL ☐ MAR ☐ LSB ☐ OHA ☐ SNG ☐ Other	☐OEM ☐ CM (External),☐
+12,checkbox,chk,chk,False,[],[],Manufacturing Site:	☐AVL ☐ MAR ☐ LSB ☐ OHA ☐ SNG ☐ Other	☐OEM ☐ CM (External),☐
+13,checkbox,chk,chk,False,[],[],Manufacturing Site:	☐AVL ☐ MAR ☐ LSB ☐ OHA ☐ SNG ☐ Other	☐OEM ☐ CM (External),☐
+14,checkbox,chk,chk,False,[],[],Manufacturing Site:	☐AVL ☐ MAR ☐ LSB ☐ OHA ☐ SNG ☐ Other	☐OEM ☐ CM (External),☐
+15,checkbox,chk,chk,False,[],[],Manufacturing Site:	☐AVL ☐ MAR ☐ LSB ☐ OHA ☐ SNG ☐ Other	☐OEM ☐ CM (External),☐
+16,combobox,,,,[],[],Design is Copy Exact: <Choose an item.>,<Choose an item.>
+17,checkbox,chk,chk,False,[],[],☐,☐
+18,checkbox,chk,chk,False,[],[],☐,☐
+19,checkbox,chk,chk,False,[],[],☐,☐
+20,checkbox,chk,chk,False,[],[],☐,☐
+21,checkbox,chk,chk,False,[],[],☐,☐
+22,checkbox,chk,chk,False,[],[],☐,☐
+23,checkbox,chk,chk,False,[],[],☐,☐
+24,checkbox,chk,chk,False,[],[],☐,☐
+25,checkbox,chk,chk,False,[],[],☐,☐
+26,checkbox,chk,chk,False,[],[],☐,☐
+27,checkbox,chk,chk,False,[],[],☐,☐
+28,checkbox,chk,chk,False,[],[],☐,☐
+29,checkbox,chk,chk,False,[],[],☐,☐
+30,checkbox,chk,chk,False,[],[],☐,☐
+31,checkbox,chk,chk,False,[],[],☐,☐
+32,checkbox,chk,chk,False,[],[],☐,☐
+33,checkbox,chk,chk,False,[],[],☐,☐
+34,checkbox,chk,chk,False,[],[],☐,☐
+35,checkbox,chk,chk,False,[],[],☐,☐
+36,checkbox,chk,chk,False,[],[],☐,☐
+37,checkbox,chk,chk,False,['RISK MANAGEMENT FILE'],['risk_management_file'],☐  The change does not impact the Risk Management File,☐
+38,checkbox,chk,chk,False,['RISK MANAGEMENT FILE'],['risk_management_file'],☐ The product family does not have a Risk Management File or does not have a Risk Management File aligned to the latest revisions in the QMS.,☐
+39,checkbox,chk,chk,False,['RISK MANAGEMENT FILE'],['risk_management_file'],"☐  The change introduces new usage conditions, or risk of harm as defined in the Risk Management Procedure (Patient, Samples, Operators, Environment, etc.).",☐
+40,checkbox,chk,chk,False,['RISK MANAGEMENT FILE'],['risk_management_file'],☐  The change affects the current risk probability or severity associated with existing hazards,☐
+41,checkbox,chk,chk,False,['RISK MANAGEMENT FILE'],['risk_management_file'],☐  The change will mean that the device will have different end users or be used in a different manner,☐
+42,checkbox,chk,chk,False,['RISK MANAGEMENT FILE'],['risk_management_file'],☐  The performance evaluation data for the original device is not sufficient to confirm conformity of the changed device with the required characteristics and performance,☐
+43,checkbox,chk,chk,False,['RISK MANAGEMENT FILE'],['risk_management_file'],"☐  The change involves the manufacturing process (i.e., technologies, product lines)",☐
+44,checkbox,chk,chk,False,['RISK MANAGEMENT FILE'],['risk_management_file'],"☐  The change impacts End of Line (EOL) testing procedures (e.g., TP902 – Test procedure for all Hi Pot and Hypatia Equipment Test Machines)",☐
+45,checkbox,chk,chk,False,['RISK MANAGEMENT FILE'],['risk_management_file'],☐  The change requires a process validation,☐
+46,checkbox,chk,chk,False,['RISK MANAGEMENT FILE'],['risk_management_file'],"☐  The change affects agreements and/or arrangements (e.g., verification, validation, organizational structure, production site, outsourcing, subcontracting) for ensuring continued compliance with the requirements",☐
+47,checkbox,chk,chk,False,['RISK MANAGEMENT FILE'],['risk_management_file'],☐  The change results from actions taken related to concerns arising from post-market surveillance including incidents/recalls/complaints (CAPA associated),☐
+48,checkbox,chk,chk,False,['RISK MANAGEMENT FILE'],['risk_management_file'],"☐  The change impacts Quality Control procedures, incoming acceptance criteria, or involves a change in supplier",☐
+49,checkbox,chk,chk,False,['RISK MANAGEMENT FILE'],['risk_management_file'],☐  (Medical) The change results from characteristics not previously considered in the clinical evaluation,☐
+50,checkbox,chk,chk,False,['RISK MANAGEMENT FILE'],['risk_management_file'],"☐  (Medical) The change is driven by the development of the state of the art (e.g., latest technology)",☐
+51,checkbox,chk,chk,False,['RISK MANAGEMENT FILE'],['risk_management_file'],"☐Other: <If “Other” is selected, provide more information here> ",☐
+52,combobox,,,,['RISK MANAGEMENT FILE'],['risk_management_file'],Next Steps: <Choose the project action item that would need to be completed based on the scope assessment.>,<Choose the project action item that would need to be completed based on the scope assessment.>
+53,checkbox,chk,chk,False,['RISK MANAGEMENT FILE'],['risk_management_file'],☐CAPA owner notified,☐
+54,checkbox,chk,chk,False,['PERFORMANCE COMPLIANCE ASSESSMENT'],['performance_compliance_assessment'],☐  The change does not impact the performance compliance of the product.,☐
+55,checkbox,chk,chk,False,['PERFORMANCE COMPLIANCE ASSESSMENT'],['performance_compliance_assessment'],"☐Changes affect degradable, moving or friction generating components (air filters, fans, hinges, etc.)",☐
+56,checkbox,chk,chk,False,['PERFORMANCE COMPLIANCE ASSESSMENT'],['performance_compliance_assessment'],"☐Changes affect the airflow into, throughout, and out of the unit (airflow vent, rearranging components, deck size, etc.)",☐
+57,checkbox,chk,chk,False,['PERFORMANCE COMPLIANCE ASSESSMENT'],['performance_compliance_assessment'],☐Product currently has outdated testing or missing testing to the latest requirements. Requested to add in scope of the current project.,☐
+58,checkbox,chk,chk,False,['PERFORMANCE COMPLIANCE ASSESSMENT'],['performance_compliance_assessment'],"☐Changes affect critical components in compliance files (Electrical, refrigeration, labels)",☐
+59,checkbox,chk,chk,False,['PERFORMANCE COMPLIANCE ASSESSMENT'],['performance_compliance_assessment'],"☐Changes affect the product performance, peak variation, temperature stability, door open recovery times",☐
+60,checkbox,chk,chk,False,['PERFORMANCE COMPLIANCE ASSESSMENT'],['performance_compliance_assessment'],"☐Changes will be made to the product power specifications, refrigeration system, or electrical systems",☐
+61,checkbox,chk,chk,False,['PERFORMANCE COMPLIANCE ASSESSMENT'],['performance_compliance_assessment'],"☐Changes to the internal cabinet size, construction, or configuration (inner doors, shelving, port holes)",☐
+62,checkbox,chk,chk,False,['PERFORMANCE COMPLIANCE ASSESSMENT'],['performance_compliance_assessment'],"☐Change to defrosts, setpoint ranges, or code versions",☐
+63,checkbox,chk,chk,False,['PERFORMANCE COMPLIANCE ASSESSMENT'],['performance_compliance_assessment'],☐Changes to the software affecting behavior or timing of behaviors,☐
+64,checkbox,chk,chk,False,['PERFORMANCE COMPLIANCE ASSESSMENT'],['performance_compliance_assessment'],☐Product currently has outdated testing or missing testing to the latest requirements. Requested to add in scope of the current project.,☐
+65,checkbox,chk,chk,False,['PERFORMANCE COMPLIANCE ASSESSMENT'],['performance_compliance_assessment'],☐ Changes affect the cooling capacity to cool down and maintain the temperature of the liquid,☐
+66,checkbox,chk,chk,False,['PERFORMANCE COMPLIANCE ASSESSMENT'],['performance_compliance_assessment'],"☐ Changes affect the functionality of the medium (refrigerant, water, etc.) to chill the system continuously",☐
+67,checkbox,chk,chk,False,['PERFORMANCE COMPLIANCE ASSESSMENT'],['performance_compliance_assessment'],☐ Changes may affect the power input specifications,☐
+68,checkbox,chk,chk,False,['PERFORMANCE COMPLIANCE ASSESSMENT'],['performance_compliance_assessment'],☐Product currently has outdated testing or missing testing to the latest requirements. Requested to add in scope of the current project.,☐
+69,checkbox,chk,chk,False,['PERFORMANCE COMPLIANCE ASSESSMENT'],['performance_compliance_assessment'],☐Changes affect critical components in compliance files,☐
+70,checkbox,chk,chk,False,['PERFORMANCE COMPLIANCE ASSESSMENT'],['performance_compliance_assessment'],☐Product currently has outdated testing or missing testing to the latest requirements. Requested to add in scope of the current project.,☐
+71,checkbox,chk,chk,False,['PERFORMANCE COMPLIANCE ASSESSMENT'],['performance_compliance_assessment'],☐Changes affect critical components in compliance files,☐
+72,checkbox,chk,chk,False,['PERFORMANCE COMPLIANCE ASSESSMENT'],['performance_compliance_assessment'],☐ Changes to the materials of construction or coatings (paint),☐
+73,checkbox,chk,chk,False,['PERFORMANCE COMPLIANCE ASSESSMENT'],['performance_compliance_assessment'],"☐ Changes impact air flow (blowers, power supp, filters, paper catch areas, filter screen)",☐
+74,checkbox,chk,chk,False,['PERFORMANCE COMPLIANCE ASSESSMENT'],['performance_compliance_assessment'],☐ Changes to the software,☐
+75,checkbox,chk,chk,False,['PERFORMANCE COMPLIANCE ASSESSMENT'],['performance_compliance_assessment'],☐ Changes impacting stability (change weight distribution or change to stands),☐
+76,checkbox,chk,chk,False,['PERFORMANCE COMPLIANCE ASSESSMENT'],['performance_compliance_assessment'],"☐ Changes impact cleanability (Sealing of openings that could harbor contamination, fasteners - Philip screws not allowed)",☐
+77,checkbox,chk,chk,False,['PERFORMANCE COMPLIANCE ASSESSMENT'],['performance_compliance_assessment'],"☐Changes impact the cabinet pressure decay test (seals, cabinet materials)",☐
+78,checkbox,chk,chk,False,['PERFORMANCE COMPLIANCE ASSESSMENT'],['performance_compliance_assessment'],"☐Changes impact labels or markings (add, remove, location change)",☐
+79,checkbox,chk,chk,False,['PERFORMANCE COMPLIANCE ASSESSMENT'],['performance_compliance_assessment'],☐Product currently has outdated testing or missing testing to the latest requirements. Requested to add in scope of the current project.,☐
+80,checkbox,chk,chk,False,['PERFORMANCE COMPLIANCE ASSESSMENT'],['performance_compliance_assessment'],☐ENERGY STAR*,☐
+81,checkbox,chk,chk,False,['PERFORMANCE COMPLIANCE ASSESSMENT'],['performance_compliance_assessment'],☐NSF49 BSC*,☐
+82,checkbox,chk,chk,False,['PERFORMANCE COMPLIANCE ASSESSMENT'],['performance_compliance_assessment'],☐NSF456 Vaccine*,☐
+83,checkbox,chk,chk,False,['PERFORMANCE COMPLIANCE ASSESSMENT'],['performance_compliance_assessment'],☐Clean Room Particulate 14644-14*,☐
+84,checkbox,chk,chk,False,['PERFORMANCE COMPLIANCE ASSESSMENT'],['performance_compliance_assessment'],☐Clean Room Particulate 14644-14*,☐
+85,checkbox,chk,chk,False,['PERFORMANCE COMPLIANCE ASSESSMENT'],['performance_compliance_assessment'],☐ErP Directive (Chillers only),☐
+86,checkbox,chk,chk,False,['PERFORMANCE COMPLIANCE ASSESSMENT'],['performance_compliance_assessment'],☐Clean Room Particulate 14644-14*,☐
+87,checkbox,chk,chk,False,['PERFORMANCE COMPLIANCE ASSESSMENT'],['performance_compliance_assessment'],☐South Korean Act on Environmental testing and Inspection,☐
+88,checkbox,chk,chk,False,['PERFORMANCE COMPLIANCE ASSESSMENT'],['performance_compliance_assessment'],☐Other (if applicable): <Select “Other” if the report is not listed above. Provide more information here.>,☐
+89,checkbox,chk,chk,False,['PERFORMANCE COMPLIANCE ASSESSMENT'],['performance_compliance_assessment'],"☐ENERGY STAR*	☐CE (Self-Declared)	☐Other (if applicable): <If “Other” is selected, provide more information here.> ",☐
+90,checkbox,chk,chk,False,['PERFORMANCE COMPLIANCE ASSESSMENT'],['performance_compliance_assessment'],"☐ENERGY STAR*	☐CE (Self-Declared)	☐Other (if applicable): <If “Other” is selected, provide more information here.> ",☐
+91,checkbox,chk,chk,False,['PERFORMANCE COMPLIANCE ASSESSMENT'],['performance_compliance_assessment'],"☐ENERGY STAR*	☐CE (Self-Declared)	☐Other (if applicable): <If “Other” is selected, provide more information here.> ",☐
+92,checkbox,chk,chk,False,['PERFORMANCE COMPLIANCE ASSESSMENT'],['performance_compliance_assessment'],"☐Marketing claims	☐CE DoC (Self-Declared)	☐Other (if applicable): <If “Other” is selected, provide more information here.> ",☐
+93,checkbox,chk,chk,False,['PERFORMANCE COMPLIANCE ASSESSMENT'],['performance_compliance_assessment'],"☐Marketing claims	☐CE DoC (Self-Declared)	☐Other (if applicable): <If “Other” is selected, provide more information here.> ",☐
+94,checkbox,chk,chk,False,['PERFORMANCE COMPLIANCE ASSESSMENT'],['performance_compliance_assessment'],"☐Marketing claims	☐CE DoC (Self-Declared)	☐Other (if applicable): <If “Other” is selected, provide more information here.> ",☐
+95,combobox,,,,['PERFORMANCE COMPLIANCE ASSESSMENT'],['performance_compliance_assessment'],Testing Required: <Choose an item.>,<Choose an item.>
+96,checkbox,chk,chk,False,['PERFORMANCE COMPLIANCE ASSESSMENT'],['performance_compliance_assessment'],☐Agency Report Revision	☐Revise Engineering Drawings/Documents	☐Revise Regulatory Documents (Cloud Drive),☐
+97,checkbox,chk,chk,False,['PERFORMANCE COMPLIANCE ASSESSMENT'],['performance_compliance_assessment'],☐Agency Report Revision	☐Revise Engineering Drawings/Documents	☐Revise Regulatory Documents (Cloud Drive),☐
+98,checkbox,chk,chk,False,['PERFORMANCE COMPLIANCE ASSESSMENT'],['performance_compliance_assessment'],☐Agency Report Revision	☐Revise Engineering Drawings/Documents	☐Revise Regulatory Documents (Cloud Drive),☐
+99,checkbox,chk,chk,False,['PERFORMANCE COMPLIANCE ASSESSMENT'],['performance_compliance_assessment'],☐Marketing claims are validated	☐ Marketing claims have not been validation,☐
+100,checkbox,chk,chk,False,['PERFORMANCE COMPLIANCE ASSESSMENT'],['performance_compliance_assessment'],☐Marketing claims are validated	☐ Marketing claims have not been validation,☐
+101,checkbox,chk,chk,False,['PERFORMANCE COMPLIANCE ASSESSMENT'],['performance_compliance_assessment'],"☐ Change impacts product, scope is defined as requiring a new project.",☐
+102,checkbox,chk,chk,False,['PERFORMANCE COMPLIANCE ASSESSMENT'],['performance_compliance_assessment'],"☐Other (if applicable): <If “Other” is selected, provide more information here.>",☐
+103,checkbox,chk,chk,False,['PERFORMANCE COMPLIANCE ASSESSMENT'],['performance_compliance_assessment'],"☐CB of changes (ENERGY STAR, required if not testing)	☐Energy Star Team Leads (ENERGY STAR)",☐
+104,checkbox,chk,chk,False,['PERFORMANCE COMPLIANCE ASSESSMENT'],['performance_compliance_assessment'],"☐CB of changes (ENERGY STAR, required if not testing)	☐Energy Star Team Leads (ENERGY STAR)",☐
+105,checkbox,chk,chk,False,['PERFORMANCE COMPLIANCE ASSESSMENT'],['performance_compliance_assessment'],☐RA at Implementation Manufacturing Location	☐South Korean RA Team for in-country Testing,☐
+106,checkbox,chk,chk,False,['PERFORMANCE COMPLIANCE ASSESSMENT'],['performance_compliance_assessment'],☐RA at Implementation Manufacturing Location	☐South Korean RA Team for in-country Testing,☐
+107,checkbox,chk,chk,False,['PERFORMANCE COMPLIANCE ASSESSMENT'],['performance_compliance_assessment'],"☐Authorities of Product Changes where registered	☐Other (if applicable): <If “Other” is selected, provide more information here.>",☐
+108,checkbox,chk,chk,False,['PERFORMANCE COMPLIANCE ASSESSMENT'],['performance_compliance_assessment'],"☐Authorities of Product Changes where registered	☐Other (if applicable): <If “Other” is selected, provide more information here.>",☐
+109,checkbox,chk,chk,False,"['DESIGN SAFETY, EMC, & WIRELESS COMPLIANCE ASSESSMENT']",['design_safety_emc_wireless_compliance_assessment'],"☐  The change does not impact the design safety, EMC, and/or wireless compliance. Like for like components (i.e., PCBA components) should still be evaluated to ensure the safety report has not been impacted.",☐
+110,checkbox,chk,chk,False,"['DESIGN SAFETY, EMC, & WIRELESS COMPLIANCE ASSESSMENT']",['design_safety_emc_wireless_compliance_assessment'],"☐Does the change affect specs, listings, warnings, or text on critical components in compliance files?",☐
+111,checkbox,chk,chk,False,"['DESIGN SAFETY, EMC, & WIRELESS COMPLIANCE ASSESSMENT']",['design_safety_emc_wireless_compliance_assessment'],☐Are the specs/ratings of the end product going to be changed? (power = re-evaluate markets),☐
+112,checkbox,chk,chk,False,"['DESIGN SAFETY, EMC, & WIRELESS COMPLIANCE ASSESSMENT']",['design_safety_emc_wireless_compliance_assessment'],"☐Are the specs/ratings of the product’s environment going to be changed? (Env. conditions, spacings, etc.)",☐
+113,checkbox,chk,chk,False,"['DESIGN SAFETY, EMC, & WIRELESS COMPLIANCE ASSESSMENT']",['design_safety_emc_wireless_compliance_assessment'],☐Are the product features / use being impacted?,☐
+114,checkbox,chk,chk,False,"['DESIGN SAFETY, EMC, & WIRELESS COMPLIANCE ASSESSMENT']",['design_safety_emc_wireless_compliance_assessment'],☐Are materials going to be changed (Keeping the same part number or not)?,☐
+115,checkbox,chk,chk,False,"['DESIGN SAFETY, EMC, & WIRELESS COMPLIANCE ASSESSMENT']",['design_safety_emc_wireless_compliance_assessment'],"☐Are labels, IFU, or customer facing information going to be changed?",☐
+116,checkbox,chk,chk,False,"['DESIGN SAFETY, EMC, & WIRELESS COMPLIANCE ASSESSMENT']",['design_safety_emc_wireless_compliance_assessment'],☐Will the manufacturing location or applicant of the file need to change?,☐
+117,checkbox,chk,chk,False,"['DESIGN SAFETY, EMC, & WIRELESS COMPLIANCE ASSESSMENT']",['design_safety_emc_wireless_compliance_assessment'],☐ (Supplier change) Does the change impact split inspection locations and files? (Common for PCBA or enclosed subassemblies),☐
+118,checkbox,chk,chk,False,"['DESIGN SAFETY, EMC, & WIRELESS COMPLIANCE ASSESSMENT']",['design_safety_emc_wireless_compliance_assessment'],☐Product currently has outdated testing or missing testing to the latest accepted requirements. Requested to add in scope of the current project.,☐
+119,checkbox,chk,chk,False,"['DESIGN SAFETY, EMC, & WIRELESS COMPLIANCE ASSESSMENT']",['design_safety_emc_wireless_compliance_assessment'],"☐Other (if applicable): <If “Other” is selected, provide more information here.> ",☐
+120,checkbox,chk,chk,False,"['DESIGN SAFETY, EMC, & WIRELESS COMPLIANCE ASSESSMENT']",['design_safety_emc_wireless_compliance_assessment'],"☐NRTL Listing, Report # <Insert Report Number>	☐EMC (EN report), Report # <Insert Report Number>",☐
+121,checkbox,chk,chk,False,"['DESIGN SAFETY, EMC, & WIRELESS COMPLIANCE ASSESSMENT']",['design_safety_emc_wireless_compliance_assessment'],"☐NRTL Listing, Report # <Insert Report Number>	☐EMC (EN report), Report # <Insert Report Number>",☐
+122,checkbox,chk,chk,False,"['DESIGN SAFETY, EMC, & WIRELESS COMPLIANCE ASSESSMENT']",['design_safety_emc_wireless_compliance_assessment'],"☐CB Safety, Report # <Insert Report Number>	☐FCC, Report # <Insert Report Number>",☐
+123,checkbox,chk,chk,False,"['DESIGN SAFETY, EMC, & WIRELESS COMPLIANCE ASSESSMENT']",['design_safety_emc_wireless_compliance_assessment'],"☐CB Safety, Report # <Insert Report Number>	☐FCC, Report # <Insert Report Number>",☐
+124,checkbox,chk,chk,False,"['DESIGN SAFETY, EMC, & WIRELESS COMPLIANCE ASSESSMENT']",['design_safety_emc_wireless_compliance_assessment'],"☐Informative Safety, Report # <Insert Report Number>	☐ICES, Report # <Insert Report Number>",☐
+125,checkbox,chk,chk,False,"['DESIGN SAFETY, EMC, & WIRELESS COMPLIANCE ASSESSMENT']",['design_safety_emc_wireless_compliance_assessment'],"☐Informative Safety, Report # <Insert Report Number>	☐ICES, Report # <Insert Report Number>",☐
+126,checkbox,chk,chk,False,"['DESIGN SAFETY, EMC, & WIRELESS COMPLIANCE ASSESSMENT']",['design_safety_emc_wireless_compliance_assessment'],"☐Wireless, Report # <Insert Report Number>",☐
+127,checkbox,chk,chk,False,"['DESIGN SAFETY, EMC, & WIRELESS COMPLIANCE ASSESSMENT']",['design_safety_emc_wireless_compliance_assessment'],"☐Other: <If “Other” is selected, provide more information here.>, Report # <Insert Report Number>",☐
+128,checkbox,chk,chk,False,"['DESIGN SAFETY, EMC, & WIRELESS COMPLIANCE ASSESSMENT']",['design_safety_emc_wireless_compliance_assessment'],☐UL	☐CSA,☐
+129,checkbox,chk,chk,False,"['DESIGN SAFETY, EMC, & WIRELESS COMPLIANCE ASSESSMENT']",['design_safety_emc_wireless_compliance_assessment'],☐UL	☐CSA,☐
+130,checkbox,chk,chk,False,"['DESIGN SAFETY, EMC, & WIRELESS COMPLIANCE ASSESSMENT']",['design_safety_emc_wireless_compliance_assessment'],☐ETL	☐TUV,☐
+131,checkbox,chk,chk,False,"['DESIGN SAFETY, EMC, & WIRELESS COMPLIANCE ASSESSMENT']",['design_safety_emc_wireless_compliance_assessment'],☐ETL	☐TUV,☐
+132,checkbox,chk,chk,False,"['DESIGN SAFETY, EMC, & WIRELESS COMPLIANCE ASSESSMENT']",['design_safety_emc_wireless_compliance_assessment'],☐FCC / ICES	☐NSF,☐
+133,checkbox,chk,chk,False,"['DESIGN SAFETY, EMC, & WIRELESS COMPLIANCE ASSESSMENT']",['design_safety_emc_wireless_compliance_assessment'],☐FCC / ICES	☐NSF,☐
+134,checkbox,chk,chk,False,"['DESIGN SAFETY, EMC, & WIRELESS COMPLIANCE ASSESSMENT']",['design_safety_emc_wireless_compliance_assessment'],☐IRAM-S,☐
+135,checkbox,chk,chk,False,"['DESIGN SAFETY, EMC, & WIRELESS COMPLIANCE ASSESSMENT']",['design_safety_emc_wireless_compliance_assessment'],☐INMETRO,☐
+136,checkbox,chk,chk,False,"['DESIGN SAFETY, EMC, & WIRELESS COMPLIANCE ASSESSMENT']",['design_safety_emc_wireless_compliance_assessment'],☐ANATEL,☐
+137,checkbox,chk,chk,False,"['DESIGN SAFETY, EMC, & WIRELESS COMPLIANCE ASSESSMENT']",['design_safety_emc_wireless_compliance_assessment'],☐ S Mark,☐
+138,checkbox,chk,chk,False,"['DESIGN SAFETY, EMC, & WIRELESS COMPLIANCE ASSESSMENT']",['design_safety_emc_wireless_compliance_assessment'],☐CE DoC (Self-Declared),☐
+139,checkbox,chk,chk,False,"['DESIGN SAFETY, EMC, & WIRELESS COMPLIANCE ASSESSMENT']",['design_safety_emc_wireless_compliance_assessment'],☐CE DoC (EU NB),☐
+140,checkbox,chk,chk,False,"['DESIGN SAFETY, EMC, & WIRELESS COMPLIANCE ASSESSMENT']",['design_safety_emc_wireless_compliance_assessment'],☐UKCA	☐LNE,☐
+141,checkbox,chk,chk,False,"['DESIGN SAFETY, EMC, & WIRELESS COMPLIANCE ASSESSMENT']",['design_safety_emc_wireless_compliance_assessment'],☐UKCA	☐LNE,☐
+142,checkbox,chk,chk,False,"['DESIGN SAFETY, EMC, & WIRELESS COMPLIANCE ASSESSMENT']",['design_safety_emc_wireless_compliance_assessment'],☐GS	☐WEEE,☐
+143,checkbox,chk,chk,False,"['DESIGN SAFETY, EMC, & WIRELESS COMPLIANCE ASSESSMENT']",['design_safety_emc_wireless_compliance_assessment'],☐GS	☐WEEE,☐
+144,checkbox,chk,chk,False,"['DESIGN SAFETY, EMC, & WIRELESS COMPLIANCE ASSESSMENT']",['design_safety_emc_wireless_compliance_assessment'],☐KC Mark,☐
+145,checkbox,chk,chk,False,"['DESIGN SAFETY, EMC, & WIRELESS COMPLIANCE ASSESSMENT']",['design_safety_emc_wireless_compliance_assessment'],☐ EAC,☐
+146,checkbox,chk,chk,False,"['DESIGN SAFETY, EMC, & WIRELESS COMPLIANCE ASSESSMENT']",['design_safety_emc_wireless_compliance_assessment'],☐Other: <Select “Other” if the mark/label is not listed above. Provide more information here.>,☐
+147,checkbox,chk,chk,False,"['DESIGN SAFETY, EMC, & WIRELESS COMPLIANCE ASSESSMENT']",['design_safety_emc_wireless_compliance_assessment'],☐FCC Declaration,☐
+148,checkbox,chk,chk,False,"['DESIGN SAFETY, EMC, & WIRELESS COMPLIANCE ASSESSMENT']",['design_safety_emc_wireless_compliance_assessment'],☐CE DoC (Self-Declared),☐
+149,checkbox,chk,chk,False,"['DESIGN SAFETY, EMC, & WIRELESS COMPLIANCE ASSESSMENT']",['design_safety_emc_wireless_compliance_assessment'],☐CE DoC (EU NB),☐
+150,checkbox,chk,chk,False,"['DESIGN SAFETY, EMC, & WIRELESS COMPLIANCE ASSESSMENT']",['design_safety_emc_wireless_compliance_assessment'],☐UKCA Declaration,☐
+151,checkbox,chk,chk,False,"['DESIGN SAFETY, EMC, & WIRELESS COMPLIANCE ASSESSMENT']",['design_safety_emc_wireless_compliance_assessment'],☐Other: <Select “Other” if the document is not listed above. Provide more information here.>,☐
+152,combobox,,,,"['DESIGN SAFETY, EMC, & WIRELESS COMPLIANCE ASSESSMENT']",['design_safety_emc_wireless_compliance_assessment'],Testing Required: <Choose an item.>,<Choose an item.>
+153,checkbox,chk,chk,False,"['DESIGN SAFETY, EMC, & WIRELESS COMPLIANCE ASSESSMENT']",['design_safety_emc_wireless_compliance_assessment'],Impacted Documents:	☐No Update Required (justification within plan required)	☐Paperwork update only,☐
+154,checkbox,chk,chk,False,"['DESIGN SAFETY, EMC, & WIRELESS COMPLIANCE ASSESSMENT']",['design_safety_emc_wireless_compliance_assessment'],Impacted Documents:	☐No Update Required (justification within plan required)	☐Paperwork update only,☐
+155,checkbox,chk,chk,False,"['DESIGN SAFETY, EMC, & WIRELESS COMPLIANCE ASSESSMENT']",['design_safety_emc_wireless_compliance_assessment'],"☐Registration with Agency required (FCC, etc.)	☐Revise Engineering Drawings/Documents (i.e., labels)",☐
+156,checkbox,chk,chk,False,"['DESIGN SAFETY, EMC, & WIRELESS COMPLIANCE ASSESSMENT']",['design_safety_emc_wireless_compliance_assessment'],"☐Registration with Agency required (FCC, etc.)	☐Revise Engineering Drawings/Documents (i.e., labels)",☐
+157,checkbox,chk,chk,False,"['DESIGN SAFETY, EMC, & WIRELESS COMPLIANCE ASSESSMENT']",['design_safety_emc_wireless_compliance_assessment'],"☐Revise Regulatory Documents (i.e., declarations)	☐Re-evaluate market requirements due to changes.",☐
+158,checkbox,chk,chk,False,"['DESIGN SAFETY, EMC, & WIRELESS COMPLIANCE ASSESSMENT']",['design_safety_emc_wireless_compliance_assessment'],"☐Revise Regulatory Documents (i.e., declarations)	☐Re-evaluate market requirements due to changes.",☐
+159,checkbox,chk,chk,False,"['DESIGN SAFETY, EMC, & WIRELESS COMPLIANCE ASSESSMENT']",['design_safety_emc_wireless_compliance_assessment'],☐Re-evaluate product requirements due to changes.	☐Re-evaluate process requirements due to changes.,☐
+160,checkbox,chk,chk,False,"['DESIGN SAFETY, EMC, & WIRELESS COMPLIANCE ASSESSMENT']",['design_safety_emc_wireless_compliance_assessment'],☐Re-evaluate product requirements due to changes.	☐Re-evaluate process requirements due to changes.,☐
+161,checkbox,chk,chk,False,"['DESIGN SAFETY, EMC, & WIRELESS COMPLIANCE ASSESSMENT']",['design_safety_emc_wireless_compliance_assessment'],"☐Other: <If “Other” is selected, provide more information here.>",☐
+162,checkbox,chk,chk,False,"['DESIGN SAFETY, EMC, & WIRELESS COMPLIANCE ASSESSMENT']",['design_safety_emc_wireless_compliance_assessment'],"☐Regional Leads if registered (i.e., Saudi SASO, KC Mark, Australian RCM)	☐RA at Implementation Manufacturing Location",☐
+163,checkbox,chk,chk,False,"['DESIGN SAFETY, EMC, & WIRELESS COMPLIANCE ASSESSMENT']",['design_safety_emc_wireless_compliance_assessment'],"☐Regional Leads if registered (i.e., Saudi SASO, KC Mark, Australian RCM)	☐RA at Implementation Manufacturing Location",☐
+164,checkbox,chk,chk,False,"['DESIGN SAFETY, EMC, & WIRELESS COMPLIANCE ASSESSMENT']",['design_safety_emc_wireless_compliance_assessment'],"☐Authorities of Product Changes where registered	☐Other: <If “Other” is selected, provide more information here.>",☐
+165,checkbox,chk,chk,False,"['DESIGN SAFETY, EMC, & WIRELESS COMPLIANCE ASSESSMENT']",['design_safety_emc_wireless_compliance_assessment'],"☐Authorities of Product Changes where registered	☐Other: <If “Other” is selected, provide more information here.>",☐
+166,checkbox,chk,chk,False,['ENVIRONMENTAL ASSESSMENT'],['environmental_assessment'],"☐  The change does not impact the end product environmental compliance. (i.e., change is associated with documentation updates)",☐
+167,checkbox,chk,chk,False,['ENVIRONMENTAL ASSESSMENT'],['environmental_assessment'],☐Change adds new or removes any components from the product (BOM update),☐
+168,checkbox,chk,chk,False,['ENVIRONMENTAL ASSESSMENT'],['environmental_assessment'],☐The supplier of a part number is changing,☐
+169,checkbox,chk,chk,False,['ENVIRONMENTAL ASSESSMENT'],['environmental_assessment'],☐The manufacturing or internal part number is changing,☐
+170,checkbox,chk,chk,False,['ENVIRONMENTAL ASSESSMENT'],['environmental_assessment'],☐End product impacted currently has an outdated BOM in Greensoft or BOM is not uploaded into GreenSoft. Requested to add in scope of the current project.,☐
+171,checkbox,chk,chk,False,['ENVIRONMENTAL ASSESSMENT'],['environmental_assessment'],"☐Other: <If “Other” is selected, provide more information here.>",☐
+172,checkbox,chk,chk,False,['ENVIRONMENTAL ASSESSMENT'],['environmental_assessment'],☐GreenSoft Item Submission	☐GreenSoft BOM Upload Form	☐GreenSoft Customer Collected Documents Form,☐
+173,checkbox,chk,chk,False,['ENVIRONMENTAL ASSESSMENT'],['environmental_assessment'],☐GreenSoft Item Submission	☐GreenSoft BOM Upload Form	☐GreenSoft Customer Collected Documents Form,☐
+174,checkbox,chk,chk,False,['ENVIRONMENTAL ASSESSMENT'],['environmental_assessment'],☐GreenSoft Item Submission	☐GreenSoft BOM Upload Form	☐GreenSoft Customer Collected Documents Form,☐
+175,checkbox,chk,chk,False,['ENVIRONMENTAL ASSESSMENT'],['environmental_assessment'],"☐Other: <If “Other” is selected, provide more information here.>",☐
+176,checkbox,chk,chk,False,['ENVIRONMENTAL ASSESSMENT'],['environmental_assessment'],☐Prop65,☐
+177,checkbox,chk,chk,False,['ENVIRONMENTAL ASSESSMENT'],['environmental_assessment'],☐FIFRA Pesticide (UV Lamp),☐
+178,checkbox,chk,chk,False,['ENVIRONMENTAL ASSESSMENT'],['environmental_assessment'],☐WEEE,☐
+179,checkbox,chk,chk,False,['ENVIRONMENTAL ASSESSMENT'],['environmental_assessment'],☐WEEE	☐F-Gas,☐
+180,checkbox,chk,chk,False,['ENVIRONMENTAL ASSESSMENT'],['environmental_assessment'],☐WEEE	☐F-Gas,☐
+181,checkbox,chk,chk,False,['ENVIRONMENTAL ASSESSMENT'],['environmental_assessment'],☐PFAS,☐
+182,checkbox,chk,chk,False,['ENVIRONMENTAL ASSESSMENT'],['environmental_assessment'],☐WEEE,☐
+183,checkbox,chk,chk,False,['ENVIRONMENTAL ASSESSMENT'],['environmental_assessment'],☐China RoHS (C-RoHS),☐
+184,checkbox,chk,chk,False,['ENVIRONMENTAL ASSESSMENT'],['environmental_assessment'],☐Other: <Select “Other” if the mark/label is not listed above. Provide more information here.>,☐
+185,checkbox,chk,chk,False,['ENVIRONMENTAL ASSESSMENT'],['environmental_assessment'],☐Prop65 Declaration,☐
+186,checkbox,chk,chk,False,['ENVIRONMENTAL ASSESSMENT'],['environmental_assessment'],☐FIFRA Pesticide Product Reporting (UV Lamp),☐
+187,checkbox,chk,chk,False,['ENVIRONMENTAL ASSESSMENT'],['environmental_assessment'],☐Montreal Protocol Declaration,☐
+188,checkbox,chk,chk,False,['ENVIRONMENTAL ASSESSMENT'],['environmental_assessment'],☐REACH Declaration,☐
+189,checkbox,chk,chk,False,['ENVIRONMENTAL ASSESSMENT'],['environmental_assessment'],☐RoHS Declaration,☐
+190,checkbox,chk,chk,False,['ENVIRONMENTAL ASSESSMENT'],['environmental_assessment'],☐F-Gas Declaration,☐
+191,checkbox,chk,chk,False,['ENVIRONMENTAL ASSESSMENT'],['environmental_assessment'],☐CE Declaration (Self-Declared),☐
+192,checkbox,chk,chk,False,['ENVIRONMENTAL ASSESSMENT'],['environmental_assessment'],☐C-RoHS “Tic-Tac Table” Declaration,☐
+193,checkbox,chk,chk,False,['ENVIRONMENTAL ASSESSMENT'],['environmental_assessment'],"☐Other: <Select “Other” if the document is not listed above. Provide more information here, ex. Coneg, PFAS.>",☐
+194,combobox,,,,['ENVIRONMENTAL ASSESSMENT'],['environmental_assessment'],Testing Required: <Choose an item.>,<Choose an item.>
+195,checkbox,chk,chk,False,['ENVIRONMENTAL ASSESSMENT'],['environmental_assessment'],☐No Update Required	☐Upload GreenSoft Form(s)	☐Revise Engineering Drawings/Documents (labels),☐
+196,checkbox,chk,chk,False,['ENVIRONMENTAL ASSESSMENT'],['environmental_assessment'],☐No Update Required	☐Upload GreenSoft Form(s)	☐Revise Engineering Drawings/Documents (labels),☐
+197,checkbox,chk,chk,False,['ENVIRONMENTAL ASSESSMENT'],['environmental_assessment'],☐No Update Required	☐Upload GreenSoft Form(s)	☐Revise Engineering Drawings/Documents (labels),☐
+198,checkbox,chk,chk,False,['ENVIRONMENTAL ASSESSMENT'],['environmental_assessment'],"☐Revise Regulatory Documents (i.e., declarations)",☐
+199,checkbox,chk,chk,False,['ENVIRONMENTAL ASSESSMENT'],['environmental_assessment'],"☐Change impacts product, scope is defined as requiring a new project.",☐
+200,checkbox,chk,chk,False,['ENVIRONMENTAL ASSESSMENT'],['environmental_assessment'],"☐Other: <If “Other” is selected, provide more information here.>",☐
+201,checkbox,chk,chk,False,['ENVIRONMENTAL ASSESSMENT'],['environmental_assessment'],"☐EPA Lead if registered (FIFRA)	☐GreenSoft User to load GreenSoft BOM changes (i.e., component or supplier change – site: GS Submission)",☐
+202,checkbox,chk,chk,False,['ENVIRONMENTAL ASSESSMENT'],['environmental_assessment'],"☐EPA Lead if registered (FIFRA)	☐GreenSoft User to load GreenSoft BOM changes (i.e., component or supplier change – site: GS Submission)",☐
+203,checkbox,chk,chk,False,['ENVIRONMENTAL ASSESSMENT'],['environmental_assessment'],"☐Other: <If “Other” is selected, provide more information here.>",☐
+204,checkbox,,,False,['MEDICAL ASSESSMENT'],['medical_assessment'],"PART A SAFETY, COMPATIBILITY, EFFECTIVENESS",P
+205,checkbox,chk,chk,False,['MEDICAL ASSESSMENT'],['medical_assessment'],"☐Will the change affect the safety, compatibility, or effectiveness of the device?",☐
+206,checkbox,chk,chk,False,['MEDICAL ASSESSMENT'],['medical_assessment'],"☐Will the technology, engineering design, or performance of the device or packaging change?",☐
+207,checkbox,chk,chk,False,['MEDICAL ASSESSMENT'],['medical_assessment'],"☐Is the change introducing a new material, or alternate component, or is it a supplier change?",☐
+208,checkbox,chk,chk,False,['MEDICAL ASSESSMENT'],['medical_assessment'],☐Does the change include or impact the product’s Intended use?,☐
+209,checkbox,chk,chk,False,['MEDICAL ASSESSMENT'],['medical_assessment'],"☐Does the change introduce new risks of harm to humans, property, or the environment?",☐
+210,checkbox,chk,chk,False,['MEDICAL ASSESSMENT'],['medical_assessment'],☐Will the change affect the standards this product relies upon?,☐
+211,checkbox,chk,chk,False,['MEDICAL ASSESSMENT'],['medical_assessment'],☐Is there another registration classification that this product will align to? <Provide more information here.>,☐
+212,checkbox,chk,chk,False,['MEDICAL ASSESSMENT'],['medical_assessment'],"☐Will the change affect product, packaging, electronic literature, or labelling?",☐
+213,checkbox,chk,chk,False,['MEDICAL ASSESSMENT'],['medical_assessment'],☐ IFU/User Manual	☐Service Manual	☐Translation(s)	☐Technical Data Sheets,☐
+214,checkbox,chk,chk,False,['MEDICAL ASSESSMENT'],['medical_assessment'],☐ IFU/User Manual	☐Service Manual	☐Translation(s)	☐Technical Data Sheets,☐
+215,checkbox,chk,chk,False,['MEDICAL ASSESSMENT'],['medical_assessment'],☐ IFU/User Manual	☐Service Manual	☐Translation(s)	☐Technical Data Sheets,☐
+216,checkbox,chk,chk,False,['MEDICAL ASSESSMENT'],['medical_assessment'],☐ IFU/User Manual	☐Service Manual	☐Translation(s)	☐Technical Data Sheets,☐
+217,checkbox,chk,chk,False,['MEDICAL ASSESSMENT'],['medical_assessment'],"☐ESI/Quick Start Guide	☐Marketing Material	☐Other: <If “Other” is selected, provide more information here.>",☐
+218,checkbox,chk,chk,False,['MEDICAL ASSESSMENT'],['medical_assessment'],"☐ESI/Quick Start Guide	☐Marketing Material	☐Other: <If “Other” is selected, provide more information here.>",☐
+219,checkbox,chk,chk,False,['MEDICAL ASSESSMENT'],['medical_assessment'],"☐ESI/Quick Start Guide	☐Marketing Material	☐Other: <If “Other” is selected, provide more information here.>",☐
+220,checkbox,chk,chk,False,['MEDICAL ASSESSMENT'],['medical_assessment'],☐Change in label material	☐Marking(s)	☐Indication of Use	☐e-IFU section,☐
+221,checkbox,chk,chk,False,['MEDICAL ASSESSMENT'],['medical_assessment'],☐Change in label material	☐Marking(s)	☐Indication of Use	☐e-IFU section,☐
+222,checkbox,chk,chk,False,['MEDICAL ASSESSMENT'],['medical_assessment'],☐Change in label material	☐Marking(s)	☐Indication of Use	☐e-IFU section,☐
+223,checkbox,chk,chk,False,['MEDICAL ASSESSMENT'],['medical_assessment'],☐Change in label material	☐Marking(s)	☐Indication of Use	☐e-IFU section,☐
+224,checkbox,chk,chk,False,['MEDICAL ASSESSMENT'],['medical_assessment'],"☐Other: <If “Other” is selected, provide more information here.>",☐
+225,checkbox,chk,chk,False,['MEDICAL ASSESSMENT'],['medical_assessment'],☐Intended Use	☐Translation(s)	☐Change in specs/ratings	☐Change in the warnings/precautions,☐
+226,checkbox,chk,chk,False,['MEDICAL ASSESSMENT'],['medical_assessment'],☐Intended Use	☐Translation(s)	☐Change in specs/ratings	☐Change in the warnings/precautions,☐
+227,checkbox,chk,chk,False,['MEDICAL ASSESSMENT'],['medical_assessment'],☐Intended Use	☐Translation(s)	☐Change in specs/ratings	☐Change in the warnings/precautions,☐
+228,checkbox,chk,chk,False,['MEDICAL ASSESSMENT'],['medical_assessment'],☐Intended Use	☐Translation(s)	☐Change in specs/ratings	☐Change in the warnings/precautions,☐
+229,checkbox,chk,chk,False,['MEDICAL ASSESSMENT'],['medical_assessment'],"☐Other: <If “Other” is selected, provide more information here.>",☐
+230,checkbox,chk,chk,False,['MEDICAL ASSESSMENT'],['medical_assessment'],"☐ Will the technology, engineering design, performance of the device, or packaging change?",☐
+231,checkbox,chk,chk,False,['MEDICAL ASSESSMENT'],['medical_assessment'],"☐Change in control mechanism, operating principle or energy type?",☐
+232,checkbox,chk,chk,False,['MEDICAL ASSESSMENT'],['medical_assessment'],☐Does the change impact the Product Requirements?,☐
+233,checkbox,chk,chk,False,['MEDICAL ASSESSMENT'],['medical_assessment'],"☐Does the change impact a component that is subjected to sterilization, cleaning, or disinfection?",☐
+234,checkbox,chk,chk,False,['MEDICAL ASSESSMENT'],['medical_assessment'],"☐Does the change to the part require that sterilization validation, cleaning validation, or disinfection validation should be repeated?",☐
+235,checkbox,chk,chk,False,['MEDICAL ASSESSMENT'],['medical_assessment'],☐Does the change affect the performance or accuracy of the device?,☐
+236,checkbox,chk,chk,False,['MEDICAL ASSESSMENT'],['medical_assessment'],"☐Does the change involve a component, software/firmware item or other part responsible for the product achieving its intended use?",☐
+237,checkbox,chk,chk,False,['MEDICAL ASSESSMENT'],['medical_assessment'],☐Change in packaging design?,☐
+238,checkbox,chk,chk,False,['MEDICAL ASSESSMENT'],['medical_assessment'],☐Change uses the same technology and classification as described in a previously cleared 510(k) or 510(k) exempt version?,☐
+239,checkbox,chk,chk,False,['MEDICAL ASSESSMENT'],['medical_assessment'],"☐Does the change impact safety critical (i.e., 61010, EMC), critical to quality, critical to performance components? (See ENG016, CTT Business Unit Engineering Change Control Process procedure for definitions.)",☐
+240,checkbox,chk,chk,False,['MEDICAL ASSESSMENT'],['medical_assessment'],☐Does the change affect the intended use of the device?,☐
+241,checkbox,chk,chk,False,['MEDICAL ASSESSMENT'],['medical_assessment'],☐Risk-based assessment of the changed device identify any new risks or significantly modified existing risks?,☐
+242,checkbox,chk,chk,False,['MEDICAL ASSESSMENT'],['medical_assessment'],☐Is clinical data necessary to evaluate the safety or effectiveness for purposes of design validation?,☐
+243,checkbox,chk,chk,False,['MEDICAL ASSESSMENT'],['medical_assessment'],"☐Is the change introducing a new material, alternate component, or is it a supplier change?",☐
+244,checkbox,chk,chk,False,['MEDICAL ASSESSMENT'],['medical_assessment'],"☐Is this a change in material type, material formulation, chemical composition, or the material’s processing?",☐
+245,checkbox,chk,chk,False,['MEDICAL ASSESSMENT'],['medical_assessment'],☐Will the changed material directly or indirectly contact body tissues or fluids (Including operators and service)?,☐
+246,checkbox,chk,chk,False,['MEDICAL ASSESSMENT'],['medical_assessment'],☐Does a risk assessment identify any new or increased biocompatibility concerns?,☐
+247,checkbox,chk,chk,False,['MEDICAL ASSESSMENT'],['medical_assessment'],☐Has the manufacturer used the same material in a similar legally marketed device?,☐
+248,checkbox,chk,chk,False,['MEDICAL ASSESSMENT'],['medical_assessment'],☐Could the change affect the device’s performance specifications?,☐
+249,checkbox,chk,chk,False,['MEDICAL ASSESSMENT'],['medical_assessment'],☐Does the supplier change impact split inspection locations and files? (Common for PCBA or enclosed subassemblies),☐
+250,checkbox,chk,chk,False,['MEDICAL ASSESSMENT'],['medical_assessment'],☐Does the supplier change affect critical components in compliance files?,☐
+251,checkbox,chk,chk,False,['MEDICAL ASSESSMENT'],['medical_assessment'],☐Is there a change to product software or firmware?,☐
+252,checkbox,chk,chk,False,['MEDICAL ASSESSMENT'],['medical_assessment'],☐Does the SW Change impact the SW documentation? (as applicable SW QAPs/SOPs for AVL / MAR sites),☐
+253,checkbox,chk,chk,False,['MEDICAL ASSESSMENT'],['medical_assessment'],☐Does the SW Change include a security patch related to a known vulnerability?,☐
+254,checkbox,chk,chk,False,['MEDICAL ASSESSMENT'],['medical_assessment'],☐Is the SW Change made solely to return the system into specification of the most recently cleared device?,☐
+255,checkbox,chk,chk,False,['MEDICAL ASSESSMENT'],['medical_assessment'],☐Does the SW change introduce a new risk or modify an existing risk?,☐
+256,checkbox,chk,chk,False,['MEDICAL ASSESSMENT'],['medical_assessment'],☐Does the change create or necessitate a new risk control measure or a modification of an existing risk control measure for a hazardous situation that could result in significant harm?,☐
+257,checkbox,chk,chk,False,['MEDICAL ASSESSMENT'],['medical_assessment'],☐Could the change impact functionality or performance specifications that are directly associated with the intended use or safety the device?,☐
+258,checkbox,chk,chk,False,['MEDICAL ASSESSMENT'],['medical_assessment'],"☐Are there additional software factors that may affect the decision to file? (e.g., Infrastructure, Architecture, Core algorithm, Re-engineering and refactoring etc.)",☐
+259,checkbox,chk,chk,False,['MEDICAL ASSESSMENT'],['medical_assessment'],☐USA: FDA 510(K) Exempt,☐
+260,checkbox,chk,chk,False,['MEDICAL ASSESSMENT'],['medical_assessment'],☐USA: FDA 510(K),☐
+261,checkbox,chk,chk,False,['MEDICAL ASSESSMENT'],['medical_assessment'],☐Canada: MDSAP,☐
+262,checkbox,chk,chk,False,['MEDICAL ASSESSMENT'],['medical_assessment'],☐Mexico: COFEPRIS,☐
+263,checkbox,chk,chk,False,['MEDICAL ASSESSMENT'],['medical_assessment'],☐Argentina: ANMAT,☐
+264,checkbox,chk,chk,False,['MEDICAL ASSESSMENT'],['medical_assessment'],☐Brazil: ANVISA,☐
+265,checkbox,chk,chk,False,['MEDICAL ASSESSMENT'],['medical_assessment'],☐Brazil: INMETRO,☐
+266,checkbox,chk,chk,False,['MEDICAL ASSESSMENT'],['medical_assessment'],☐Columbia: INVIMA,☐
+267,checkbox,chk,chk,False,['MEDICAL ASSESSMENT'],['medical_assessment'],☐Costa Rica: MoH,☐
+268,checkbox,chk,chk,False,['MEDICAL ASSESSMENT'],['medical_assessment'],☐Ecuador: ARCSA,☐
+269,checkbox,chk,chk,False,['MEDICAL ASSESSMENT'],['medical_assessment'],☐El Salvador: DNM,☐
+270,checkbox,chk,chk,False,['MEDICAL ASSESSMENT'],['medical_assessment'],☐Guatemala: MSPAS,☐
+271,checkbox,chk,chk,False,['MEDICAL ASSESSMENT'],['medical_assessment'],☐Nicaragua: MINSA,☐
+272,checkbox,chk,chk,False,['MEDICAL ASSESSMENT'],['medical_assessment'],☐Panama: MINSA / MoH,☐
+273,checkbox,chk,chk,False,['MEDICAL ASSESSMENT'],['medical_assessment'],☐Peru: MINSA,☐
+274,checkbox,chk,chk,False,['MEDICAL ASSESSMENT'],['medical_assessment'],☐EU: CE (NB),☐
+275,checkbox,chk,chk,False,['MEDICAL ASSESSMENT'],['medical_assessment'],☐UK: MHRA,☐
+276,checkbox,chk,chk,False,['MEDICAL ASSESSMENT'],['medical_assessment'],☐UK: UKCA (NB),☐
+277,checkbox,chk,chk,False,['MEDICAL ASSESSMENT'],['medical_assessment'],☐UK: UKCA,☐
+278,checkbox,chk,chk,False,['MEDICAL ASSESSMENT'],['medical_assessment'],☐Iceland: IMA,☐
+279,checkbox,chk,chk,False,['MEDICAL ASSESSMENT'],['medical_assessment'],☐Israel: MoH,☐
+280,checkbox,chk,chk,False,['MEDICAL ASSESSMENT'],['medical_assessment'],☐Egypt: EDA,☐
+281,checkbox,chk,chk,False,['MEDICAL ASSESSMENT'],['medical_assessment'],☐Saudi Arabia: SFDA,☐
+282,checkbox,chk,chk,False,['MEDICAL ASSESSMENT'],['medical_assessment'],☐Turkey: TITCK,☐
+283,checkbox,chk,chk,False,['MEDICAL ASSESSMENT'],['medical_assessment'],☐Norway: NoMA,☐
+284,checkbox,chk,chk,False,['MEDICAL ASSESSMENT'],['medical_assessment'],☐Serbia: ALIMS,☐
+285,checkbox,chk,chk,False,['MEDICAL ASSESSMENT'],['medical_assessment'],☐Ukraine: SMDC,☐
+286,checkbox,chk,chk,False,['MEDICAL ASSESSMENT'],['medical_assessment'],☐Morocco: DMP,☐
+287,checkbox,chk,chk,False,['MEDICAL ASSESSMENT'],['medical_assessment'],☐China: NMPA,☐
+288,checkbox,chk,chk,False,['MEDICAL ASSESSMENT'],['medical_assessment'],☐Malaysia: MDA,☐
+289,checkbox,chk,chk,False,['MEDICAL ASSESSMENT'],['medical_assessment'],☐South Korea: MFDS,☐
+290,checkbox,chk,chk,False,['MEDICAL ASSESSMENT'],['medical_assessment'],☐Taiwan: TFDA,☐
+291,checkbox,chk,chk,False,['MEDICAL ASSESSMENT'],['medical_assessment'],☐India: CDSCO,☐
+292,checkbox,chk,chk,False,['MEDICAL ASSESSMENT'],['medical_assessment'],☐Singapore: HSA,☐
+293,checkbox,chk,chk,False,['MEDICAL ASSESSMENT'],['medical_assessment'],☐Japan: PMDA,☐
+294,checkbox,chk,chk,False,['MEDICAL ASSESSMENT'],['medical_assessment'],☐Australia: TGA,☐
+295,checkbox,chk,chk,False,['MEDICAL ASSESSMENT'],['medical_assessment'],☐Hong Kong: MCO,☐
+296,checkbox,chk,chk,False,['MEDICAL ASSESSMENT'],['medical_assessment'],☐Indonesia: MoH,☐
+297,checkbox,chk,chk,False,['MEDICAL ASSESSMENT'],['medical_assessment'],☐New Zealand: MEDSAFE,☐
+298,checkbox,chk,chk,False,['MEDICAL ASSESSMENT'],['medical_assessment'],☐Other: <Select “Other” if the approval/registration is not listed above. Provide more information here.>,☐
+299,checkbox,chk,chk,False,['MEDICAL ASSESSMENT'],['medical_assessment'],"☐IEC 60601 Report(s), Report # <Insert Report Number>	☐ILAC/IAAC Report, Report # <Insert Report Number>",☐
+300,checkbox,chk,chk,False,['MEDICAL ASSESSMENT'],['medical_assessment'],"☐IEC 60601 Report(s), Report # <Insert Report Number>	☐ILAC/IAAC Report, Report # <Insert Report Number>",☐
+301,checkbox,chk,chk,False,['MEDICAL ASSESSMENT'],['medical_assessment'],"☐ IEC 61010 Report(s), Report # <Insert Report Number>	☐CB Scheme Report, Report # <Insert Report Number>",☐
+302,checkbox,chk,chk,False,['MEDICAL ASSESSMENT'],['medical_assessment'],"☐ IEC 61010 Report(s), Report # <Insert Report Number>	☐CB Scheme Report, Report # <Insert Report Number>",☐
+303,checkbox,chk,chk,False,['MEDICAL ASSESSMENT'],['medical_assessment'],"☐Other: <Select “Other” if the report is not listed above. Provide more information here>, Report # <Insert Report Number>",☐
+304,checkbox,chk,chk,False,['MEDICAL ASSESSMENT'],['medical_assessment'],☐UDI	☐CE (EU NB)	 ☐  Packaging/Shipping Labels	☐  Product Label,☐
+305,checkbox,chk,chk,False,['MEDICAL ASSESSMENT'],['medical_assessment'],☐UDI	☐CE (EU NB)	 ☐  Packaging/Shipping Labels	☐  Product Label,☐
+306,checkbox,chk,chk,False,['MEDICAL ASSESSMENT'],['medical_assessment'],☐UDI	☐CE (EU NB)	 ☐  Packaging/Shipping Labels	☐  Product Label,☐
+307,checkbox,chk,chk,False,['MEDICAL ASSESSMENT'],['medical_assessment'],☐UDI	☐CE (EU NB)	 ☐  Packaging/Shipping Labels	☐  Product Label,☐
+308,checkbox,chk,chk,False,['MEDICAL ASSESSMENT'],['medical_assessment'],"☐  Other: <If “Other” is selected, provide more information here.>",☐
+309,combobox,,,,['MEDICAL ASSESSMENT'],['medical_assessment'],Testing Required: <Choose an item.>,<Choose an item.>
+310,combobox,,,,['MEDICAL ASSESSMENT'],['medical_assessment'],Registration Impact: <Choose an item.>,<Choose an item.>
+311,checkbox,chk,chk,False,['MEDICAL ASSESSMENT'],['medical_assessment'],☐Verify Intended Use consistency	☐Verify changes documented in TF / DHF	☐Verify changes are documented in DMR,☐
+312,checkbox,chk,chk,False,['MEDICAL ASSESSMENT'],['medical_assessment'],☐Verify Intended Use consistency	☐Verify changes documented in TF / DHF	☐Verify changes are documented in DMR,☐
+313,checkbox,chk,chk,False,['MEDICAL ASSESSMENT'],['medical_assessment'],☐Verify Intended Use consistency	☐Verify changes documented in TF / DHF	☐Verify changes are documented in DMR,☐
+314,checkbox,chk,chk,False,['MEDICAL ASSESSMENT'],['medical_assessment'],☐Submit to EU NB	☐Submit and Update TF / DHF	☐Verify 510k for change impact,☐
+315,checkbox,chk,chk,False,['MEDICAL ASSESSMENT'],['medical_assessment'],☐Submit to EU NB	☐Submit and Update TF / DHF	☐Verify 510k for change impact,☐
+316,checkbox,chk,chk,False,['MEDICAL ASSESSMENT'],['medical_assessment'],☐Submit to EU NB	☐Submit and Update TF / DHF	☐Verify 510k for change impact,☐
+317,checkbox,chk,chk,False,['MEDICAL ASSESSMENT'],['medical_assessment'],"☐Other: <If “Other” is selected, provide more information here.>",☐
+318,checkbox,chk,chk,False,['MEDICAL ASSESSMENT'],['medical_assessment'],☐Regional RA Lead(s)	☐FDA Correspondent(s)	☐EU PRR(s)	☐Notify RA at Implementation Manufacturing Location,☐
+319,checkbox,chk,chk,False,['MEDICAL ASSESSMENT'],['medical_assessment'],☐Regional RA Lead(s)	☐FDA Correspondent(s)	☐EU PRR(s)	☐Notify RA at Implementation Manufacturing Location,☐
+320,checkbox,chk,chk,False,['MEDICAL ASSESSMENT'],['medical_assessment'],☐Regional RA Lead(s)	☐FDA Correspondent(s)	☐EU PRR(s)	☐Notify RA at Implementation Manufacturing Location,☐
+321,checkbox,chk,chk,False,['MEDICAL ASSESSMENT'],['medical_assessment'],☐Regional RA Lead(s)	☐FDA Correspondent(s)	☐EU PRR(s)	☐Notify RA at Implementation Manufacturing Location,☐
+322,checkbox,chk,chk,False,['MEDICAL ASSESSMENT'],['medical_assessment'],"☐Notify Authorities of Product Changes where registered	☐Other: <If “Other” is selected, provide more information here.>",☐
+323,checkbox,chk,chk,False,['MEDICAL ASSESSMENT'],['medical_assessment'],"☐Notify Authorities of Product Changes where registered	☐Other: <If “Other” is selected, provide more information here.>",☐
+324,date,,,,['MEDICAL ASSESSMENT'],['medical_assessment'],<Click or tap to enter a date.>,<Click or tap to enter a date.>
+325,date,,,,['MEDICAL ASSESSMENT'],['medical_assessment'],<Click or tap to enter a date.>,<Click or tap to enter a date.>
+326,combobox,,,,['MEDICAL ASSESSMENT'],['medical_assessment'],(Medical Only) Did any Design verification and/or validation activities produce any unexpected issues of safety or effectiveness? <Choose an item.>,<Choose an item.>
+327,checkbox,chk,chk,False,['MEDICAL ASSESSMENT'],['medical_assessment'],"☐All affected reports were verified for change accuracy (CCL, models covered, content, etc.) and all documentation is stored in the Technical File (TF) of the product.",☐
+328,checkbox,chk,chk,False,['MEDICAL ASSESSMENT'],['medical_assessment'],☐Not a Medical Device,☐
+329,date,,,,['MEDICAL ASSESSMENT'],['medical_assessment'],<Click or tap to enter a date.>,<Click or tap to enter a date.>
+330,date,,,,['MEDICAL ASSESSMENT'],['medical_assessment'],<Click or tap to enter a date.>,<Click or tap to enter a date.>
